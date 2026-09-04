@@ -372,7 +372,12 @@ npm run preview</code></pre>
 
   <section id="daten">
     <h2><span class="n">04</span>Daten &amp; Persistenz</h2>
-    <p>Der gesamte persistente Zustand liegt im <code>localStorage</code>. Alle Keys entstehen in <code>storage.ts</code>.</p>
+    <p>
+      Der gesamte Zustand liegt im Browser. Alle Keys entstehen in <code>storage.ts</code>,
+      und dieselbe Datei wählt auch den Speicher: <code>localStorage</code> lokal und im Container,
+      <code>sessionStorage</code> in öffentlichen Builds mit <code>VITE_EPHEMERAL_STORAGE=true</code>
+      — dort ist nach dem Schließen des Tabs nichts mehr da.
+    </p>
     <div class="tablewrap">
       <table>
         <thead>
@@ -499,8 +504,9 @@ Blocker: … <span class="c">(sonst "Keine")</span></code></pre>
     <h3>Container</h3>
 <pre><code>docker compose up --build   <span class="c"># nginx serviert dist/</span></code></pre>
 
-    <div class="note">
-      <p><b>Zu bedenken:</b> Auf GitHub Pages ist alles öffentlich — auch <code>aktionstage.json</code> und die Bilder in <code>mood-scales/</code>. Nutzerdaten sind davon nicht betroffen; Notizen und Stimmungen verlassen den Browser nie.</p>
+    <div class="note amber">
+      <p><b>Öffentliche Builds speichern nur für die Sitzung.</b> Der Pages-Workflow baut mit <code>VITE_EPHEMERAL_STORAGE=true</code>; dann liegt der gesamte Zustand in <code>sessionStorage</code> statt <code>localStorage</code> und ist mit dem Schließen des Tabs weg. Lokale Builds und der Container behalten <code>localStorage</code>.</p>
+      <p>Unabhängig davon gilt: Auf GitHub Pages ist der ausgelieferte Inhalt öffentlich — auch <code>aktionstage.json</code> und die Bilder in <code>mood-scales/</code>. Notizen und Stimmungen verlassen den Browser aber nie.</p>
     </div>
   </section>
 

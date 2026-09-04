@@ -29,7 +29,9 @@ src/
 
 ## 2. State Persistence & LocalStorage Contracts
 
-All persistent application state lives in `localStorage`:
+All persistent application state lives in web storage. `storage.ts` exports the single `store` used by every
+reader and writer: `localStorage` for local dev and the container build, `sessionStorage` when the app is built
+with `VITE_EPHEMERAL_STORAGE=true` (the public GitHub Pages deployment), where state dies with the tab.
 
 | Key | Type | Description | Fallback / Default |
 |-----|------|-------------|--------------------|

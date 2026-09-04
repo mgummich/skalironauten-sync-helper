@@ -1,12 +1,19 @@
-// localStorage contracts (see design handoff):
+// Storage contracts (see design handoff):
 //   notes:{YYYY-MM-DD} -> { gestern, heute, blocker }
 //   mood:{YYYY-MM-DD}  -> { value 1-9, imageId, savedAt }
 //   ui                 -> { lastRoute, calendarMonth, filters }
 import type { Filters } from './dataLoader';
 
+// Every persisted value in the app goes through this one backing store.
+// Public deployments (GitHub Pages) build with VITE_EPHEMERAL_STORAGE=true, so
+// notes and moods live only as long as the browser tab. Local dev and the
+// container build keep localStorage, where they survive a restart.
+export const store: Storage =
+  import.meta.env.VITE_EPHEMERAL_STORAGE === 'true' ? sessionStorage : localStorage;
+
 function read<T>(key: string, fallback: T): T {
   try {
-    const raw = localStorage.getItem(key);
+    const raw = store.getItem(key);
     return raw ? { ...fallback, ...JSON.parse(raw) } : fallback;
   } catch {
     return fallback;
@@ -15,9 +22,9 @@ function read<T>(key: string, fallback: T): T {
 
 function write(key: string, value: unknown): void {
   try {
-    localStorage.setItem(key, JSON.stringify(value));
+    store.setItem(key, JSON.stringify(value));
   } catch (e) {
-    console.error(`localStorage write failed for ${key}`, e);
+    console.error(`storage write failed for ${key}`, e);
   }
 }
 
@@ -30,7 +37,7 @@ export const EMPTY_NOTES: Notes = { gestern: '', heute: '', blocker: '' };
 
 export const getNotes = (iso: string): Notes => read(`notes:${iso}`, EMPTY_NOTES);
 export const saveNotes = (iso: string, notes: Notes): void => write(`notes:${iso}`, notes);
-export const hasSavedNotes = (iso: string): boolean => localStorage.getItem(`notes:${iso}`) !== null;
+export const hasSavedNotes = (iso: string): boolean => store.getItem(`notes:${iso}`) !== null;
 
 export interface Mood {
   value: number;

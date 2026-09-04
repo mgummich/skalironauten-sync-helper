@@ -25,6 +25,9 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run build
+        env:
+          # Public site: notes and moods are kept in sessionStorage only.
+          VITE_EPHEMERAL_STORAGE: 'true'
       - name: Add documentation under /docs
         run: cp -r docs dist/docs
       - name: Disable Jekyll processing

@@ -1,3 +1,5 @@
+import { store } from '../data/storage';
+
 interface DevToolbarProps {
   currentDateStr: string;
   onSelectDate: (dateStr: string) => void;
@@ -16,7 +18,7 @@ export const DevToolbar = ({ currentDateStr, onSelectDate }: DevToolbarProps) =>
     <button
       type="button"
       onClick={() => {
-        localStorage.clear();
+        store.clear();
         window.location.reload();
       }}
       className="rounded border border-gray-300 bg-white px-2 py-0.5 hover:bg-gray-100"

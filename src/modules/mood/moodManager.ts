@@ -1,10 +1,11 @@
 import { MOOD_SCALES, MOOD_SCALE_IMAGES } from './moodManifest';
+import { store } from '../data/storage';
 
 const RECENT_KEY = 'moodRecent'; // last 5 image ids, newest last
 
 function readRecent(): string[] {
   try {
-    const parsed = JSON.parse(localStorage.getItem(RECENT_KEY) || '[]');
+    const parsed = JSON.parse(store.getItem(RECENT_KEY) || '[]');
     return Array.isArray(parsed) ? parsed : [];
   } catch {
     return [];
@@ -17,23 +18,23 @@ export function drawMoodImage(): string {
   const pool = MOOD_SCALE_IMAGES.filter((id) => !recent.includes(id));
   const candidates = pool.length ? pool : MOOD_SCALE_IMAGES;
   const id = candidates[Math.floor(Math.random() * candidates.length)];
-  localStorage.setItem(RECENT_KEY, JSON.stringify([...recent, id].slice(-5)));
+  store.setItem(RECENT_KEY, JSON.stringify([...recent, id].slice(-5)));
   return id;
 }
 
 /** Pending (drawn but unsaved) image for a date, so card thumbnail and dialog show the same picture. */
 export function getPendingDraw(iso: string): string {
   const key = `moodDraw:${iso}`;
-  let id = localStorage.getItem(key);
+  let id = store.getItem(key);
   if (!id || !MOOD_SCALES[id]) {
     id = drawMoodImage();
-    localStorage.setItem(key, id);
+    store.setItem(key, id);
   }
   return id;
 }
 
 export function clearPendingDraw(iso: string): void {
-  localStorage.removeItem(`moodDraw:${iso}`);
+  store.removeItem(`moodDraw:${iso}`);
 }
 
 export function getMoodImageUrl(id: string): string {
