@@ -1,81 +1,59 @@
 import rawData from '../../../aktionstage.json';
 import { ActionDay } from './types';
+import { addDays } from './dateUtils';
+import { normalizeRegion } from './normalizeRegion';
 
-const rawActionDays = rawData as ActionDay[];
+const rawActionDays = (rawData as ActionDay[]).map((item) => ({ ...item, region: normalizeRegion(item.region) }));
 
-// O(1) Lookup Maps
 const monthDayIndex = new Map<string, ActionDay[]>();
 
-// Initialize indices once on module load
 rawActionDays.forEach((item) => {
   const key = `${item.month}-${item.day}`;
   const existing = monthDayIndex.get(key);
-  if (existing) {
-    existing.push(item);
-  } else {
-    monthDayIndex.set(key, [item]);
-  }
+  if (existing) existing.push(item);
+  else monthDayIndex.set(key, [item]);
 });
 
-/**
- * Get all action days for a given month (1-12) and day (1-31)
- */
-export function getActionDays(month: number, day: number): ActionDay[] {
-  const key = `${month}-${day}`;
-  return monthDayIndex.get(key) || [];
+export interface Filters {
+  q: string;
+  category: string; // '' = all
+  region: string; // '' = all
 }
 
-/**
- * Get all action days for a given Date object
- */
+export const EMPTY_FILTERS: Filters = { q: '', category: '', region: '' };
+
 export function getActionDaysForDate(date: Date): ActionDay[] {
-  return getActionDays(date.getMonth() + 1, date.getDate());
+  return monthDayIndex.get(`${date.getMonth() + 1}-${date.getDate()}`) || [];
 }
 
-/**
- * Get total action days count
- */
-export function getTotalActionDaysCount(): number {
-  return rawActionDays.length;
-}
-
-/**
- * Get all unique categories
- */
-export function getAllCategories(): string[] {
-  const set = new Set<string>();
-  rawActionDays.forEach(item => {
-    if (item.category) set.add(item.category);
+export function entriesForDate(date: Date, filters: Filters = EMPTY_FILTERS): ActionDay[] {
+  const q = filters.q.trim().toLowerCase();
+  return getActionDaysForDate(date).filter((item) => {
+    if (filters.category && item.category !== filters.category) return false;
+    if (filters.region && item.region !== filters.region) return false;
+    if (q && !item.name.toLowerCase().includes(q) && !item.beschreibung.toLowerCase().includes(q)) return false;
+    return true;
   });
-  return Array.from(set).sort();
 }
 
-/**
- * Get all unique regions
- */
-export function getAllRegions(): string[] {
-  const set = new Set<string>();
-  rawActionDays.forEach(item => {
-    if (item.region) set.add(item.region);
-  });
-  return Array.from(set).sort();
+/** Next date (after `date`) that has at least one entry, within a year. */
+export function nextDateWithEntries(date: Date): Date | null {
+  for (let i = 1; i <= 366; i++) {
+    const d = addDays(date, i);
+    if (getActionDaysForDate(d).length > 0) return d;
+  }
+  return null;
 }
 
-/**
- * Search action days by keyword, category, or region
- */
-export function searchActionDays(query: string, categoryFilter?: string, regionFilter?: string): ActionDay[] {
-  const q = query.toLowerCase().trim();
-  return rawActionDays.filter(item => {
-    if (categoryFilter && item.category !== categoryFilter) return false;
-    if (regionFilter && item.region !== regionFilter) return false;
-    if (!q) return true;
-    return (
-      item.name.toLowerCase().includes(q) ||
-      item.beschreibung.toLowerCase().includes(q) ||
-      item.category.toLowerCase().includes(q) ||
-      item.region.toLowerCase().includes(q) ||
-      item.charakter.toLowerCase().includes(q)
-    );
-  });
+export const CATEGORIES: string[] = [...new Set(rawActionDays.map((i) => i.category))].sort();
+export const REGIONS: string[] = [...new Set(rawActionDays.map((i) => i.region))].sort((a, b) => a.localeCompare(b, 'de'));
+
+const SHORT_CATEGORY: Record<string, string> = {
+  'Kultur & Gesellschaft': 'Kultur',
+  'Fun & Kuriose Tage': 'Kurioses',
+  'Tiere & Natur': 'Natur'
+};
+
+export function shortCategory(category: string): string {
+  return SHORT_CATEGORY[category] ?? category;
 }

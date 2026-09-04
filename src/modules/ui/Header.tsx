@@ -1,51 +1,70 @@
-import { Sun, Calendar, Sparkles } from 'lucide-react';
+import { Sun, CalendarDays, Sparkles } from 'lucide-react';
+import { cx, FOCUS, FOCUS_ON_RED } from './cls';
 
 export type Tab = 'daily' | 'calendar';
 
 const TABS: { id: Tab; label: string; Icon: typeof Sun }[] = [
-  { id: 'daily', label: 'Daily Standup', Icon: Sun },
-  { id: 'calendar', label: '365-Tage Kalender', Icon: Calendar }
+  { id: 'daily', label: 'Heute', Icon: Sun },
+  { id: 'calendar', label: 'Kalender', Icon: CalendarDays }
 ];
 
-interface HeaderProps {
+interface NavProps {
   activeTab: Tab;
   onTabChange: (tab: Tab) => void;
 }
 
-export const Header = ({ activeTab, onTabChange }: HeaderProps) => {
-  return (
-    <header className="border-b border-slate-800 bg-slate-950/80 backdrop-blur-xl sticky top-0 z-30">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
-        {/* Brand */}
-        <div className="flex items-center gap-3">
-          <div className="w-10 h-10 rounded-xl bg-gradient-to-tr from-indigo-600 via-indigo-500 to-amber-400 p-0.5 shadow-lg shadow-indigo-500/20">
-            <div className="w-full h-full bg-slate-950 rounded-[10px] flex items-center justify-center">
-              <Sparkles className="w-5 h-5 text-indigo-400" />
-            </div>
-          </div>
-          <div>
-            <h1 className="text-base font-bold text-slate-100 leading-none">Skalironauten Sync Helper</h1>
-            <p className="text-[11px] text-slate-400">Daily Standup & Aktionstage Assistant</p>
-          </div>
+export const Header = ({ activeTab, onTabChange }: NavProps) => (
+  <header className="bg-red-600 text-white">
+    <div className="mx-auto flex h-14 max-w-[1120px] items-center justify-between px-4 lg:h-16 lg:px-8">
+      <div className="flex items-center gap-3">
+        <div className="flex h-8 w-8 items-center justify-center rounded-md bg-white text-red-600 lg:h-9 lg:w-9">
+          <Sparkles className="h-[18px] w-[18px] lg:h-5 lg:w-5" aria-hidden />
         </div>
-
-        {/* Navigation Tabs */}
-        <nav className="flex items-center gap-1 bg-slate-900/90 p-1 rounded-xl border border-slate-800">
-          {TABS.map(({ id, label, Icon }) => (
-            <button
-              key={id}
-              onClick={() => onTabChange(id)}
-              className={`flex items-center gap-2 px-3.5 py-1.5 rounded-lg text-xs font-semibold transition-all ${
-                activeTab === id
-                  ? 'bg-indigo-600 text-white shadow-md shadow-indigo-600/30'
-                  : 'text-slate-400 hover:text-slate-200 hover:bg-slate-800'
-              }`}
-            >
-              <Icon className="w-3.5 h-3.5" /> {label}
-            </button>
-          ))}
-        </nav>
+        <h1 className="text-base font-semibold tracking-tight lg:text-lg">Skalironauten Sync Helper</h1>
       </div>
-    </header>
-  );
-};
+
+      <nav aria-label="Hauptnavigation" className="hidden rounded-md border border-white/30 bg-white/15 p-1 lg:flex">
+        {TABS.map(({ id, label }) => (
+          <button
+            key={id}
+            type="button"
+            aria-current={activeTab === id ? 'page' : undefined}
+            onClick={() => onTabChange(id)}
+            className={cx(
+              'h-9 min-w-24 rounded px-4 text-base font-semibold transition-colors motion-reduce:transition-none',
+              activeTab === id ? 'bg-white text-gray-900' : 'text-white hover:bg-white/10',
+              FOCUS_ON_RED
+            )}
+          >
+            {label}
+          </button>
+        ))}
+      </nav>
+    </div>
+  </header>
+);
+
+export const BottomTabs = ({ activeTab, onTabChange }: NavProps) => (
+  <nav
+    aria-label="Hauptnavigation"
+    className="fixed inset-x-0 bottom-0 z-10 flex h-16 border-t border-gray-200 bg-white pb-[env(safe-area-inset-bottom)] lg:hidden"
+  >
+    {TABS.map(({ id, label, Icon }) => (
+      <button
+        key={id}
+        type="button"
+        aria-current={activeTab === id ? 'page' : undefined}
+        onClick={() => onTabChange(id)}
+        className={cx(
+          'flex flex-1 flex-col items-center justify-center gap-0.5 text-sm',
+          activeTab === id ? 'font-semibold text-red-700' : 'text-gray-600',
+          FOCUS,
+          'focus-visible:ring-inset'
+        )}
+      >
+        <Icon className="h-[22px] w-[22px]" aria-hidden />
+        {label}
+      </button>
+    ))}
+  </nav>
+);

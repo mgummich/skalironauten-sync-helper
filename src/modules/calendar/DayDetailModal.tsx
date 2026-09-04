@@ -1,125 +1,84 @@
-import { getActionDaysForDate } from '../data/dataLoader';
-import {
-  isWorkday,
-  isFirstWorkdayOfWeek,
-  isFirstWorkdayOfMonth,
-  formatDateGerman,
-  getGermanWeekday
-} from '../data/dateUtils';
-import { X, Calendar, Tag, MapPin, ExternalLink, Briefcase, Sparkles } from 'lucide-react';
+import { X, ChevronRight, ArrowRight } from 'lucide-react';
+import { Sheet, useSheetClose } from '../ui/Sheet';
+import { getActionDaysForDate, shortCategory } from '../data/dataLoader';
+import { isWorkday, isFirstWorkdayOfWeek, isFirstWorkdayOfMonth, formatDateNoWeekday, getGermanWeekday } from '../data/dateUtils';
+import { cx, BTN_GHOST, BTN_RED, FOCUS } from '../ui/cls';
 
-interface DayDetailModalProps {
+interface Props {
   date: Date;
   onClose: () => void;
-  onSelectDateForStandup: (date: Date) => void;
+  onShowInStandup: (date: Date, entryIndex: number) => void;
 }
 
-export const DayDetailModal = ({
-  date,
-  onClose,
-  onSelectDateForStandup
-}: DayDetailModalProps) => {
-  const dateFormatted = formatDateGerman(date);
-  const weekdayName = getGermanWeekday(date);
-  const actionDays = getActionDaysForDate(date);
-  const workday = isWorkday(date);
-  const firstWorkdayWeek = isFirstWorkdayOfWeek(date);
-  const firstWorkdayMonth = isFirstWorkdayOfMonth(date);
+const PILL = 'inline-flex h-7 items-center rounded-full px-2.5 text-sm font-medium';
+
+export const DayDetailModal = (props: Props) => (
+  <Sheet label={`Details für ${formatDateNoWeekday(props.date)}`} onClose={props.onClose}>
+    <Body {...props} />
+  </Sheet>
+);
+
+const Body = ({ date, onShowInStandup }: Props) => {
+  const close = useSheetClose();
+  const entries = getActionDaysForDate(date);
+  const go = (i: number) => {
+    onShowInStandup(date, i);
+    close();
+  };
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-950/80 backdrop-blur-md animate-fadeIn">
-      <div className="relative w-full max-w-xl glass-panel rounded-2xl border border-slate-700 shadow-2xl overflow-hidden flex flex-col max-h-[85vh]">
-        {/* Header */}
-        <div className="flex items-center justify-between p-5 border-b border-slate-800 bg-slate-900/60">
-          <div>
-            <div className="flex items-center gap-2">
-              <h3 className="text-lg font-bold text-slate-100">{dateFormatted}</h3>
-              <span className="text-xs font-semibold text-indigo-400 bg-indigo-500/10 px-2 py-0.5 rounded border border-indigo-500/20">
-                {weekdayName}
-              </span>
-            </div>
-            <div className="flex items-center gap-2 pt-1">
-              {workday ? (
-                <span className="text-[11px] text-emerald-400 font-medium flex items-center gap-1">
-                  <Briefcase className="w-3 h-3" /> Arbeitstag
-                </span>
-              ) : (
-                <span className="text-[11px] text-slate-400 font-medium">Wochenende / Feiertag</span>
-              )}
-              {firstWorkdayWeek && (
-                <span className="text-[11px] text-amber-400 font-medium flex items-center gap-1">
-                  <Sparkles className="w-3 h-3" /> 1. Arbeitstag der Woche
-                </span>
-              )}
-            </div>
+    <div>
+      <div className="flex items-start justify-between gap-3">
+        <div>
+          <p className="text-sm text-gray-600">{getGermanWeekday(date)}</p>
+          <h2 className="text-[22px] font-semibold tabular-nums">{formatDateNoWeekday(date)}</h2>
+          <div className="mt-2 flex flex-wrap gap-2">
+            {isWorkday(date) ? (
+              <span className={cx(PILL, 'bg-emerald-100 text-emerald-700')}>Arbeitstag</span>
+            ) : (
+              <span className={cx(PILL, 'bg-gray-200 text-gray-700')}>Wochenende / Feiertag</span>
+            )}
+            {isFirstWorkdayOfWeek(date) && <span className={cx(PILL, 'bg-amber-100 text-amber-800')}>1. Arbeitstag der Woche</span>}
+            {isFirstWorkdayOfMonth(date) && <span className={cx(PILL, 'bg-amber-100 text-amber-800')}>1. Arbeitstag des Monats</span>}
           </div>
-
-          <button
-            onClick={onClose}
-            className="p-2 text-slate-400 hover:text-slate-200 hover:bg-slate-800 rounded-lg transition-colors"
-          >
-            <X className="w-5 h-5" />
-          </button>
         </div>
-
-        {/* Content list */}
-        <div className="p-5 overflow-y-auto space-y-4 flex-1">
-          <div className="flex items-center justify-between">
-            <span className="text-xs font-semibold uppercase tracking-wider text-slate-400">
-              Aktionstage ({actionDays.length})
-            </span>
-            <button
-              onClick={() => {
-                onSelectDateForStandup(date);
-                onClose();
-              }}
-              className="text-xs bg-indigo-600 hover:bg-indigo-500 text-white font-medium px-3 py-1.5 rounded-lg transition-colors"
-            >
-              Im Standup anzeigen
-            </button>
-          </div>
-
-          {actionDays.length === 0 ? (
-            <div className="text-center py-8 text-slate-500 text-sm">
-              Keine eingetragenen Aktionstage für dieses Datum.
-            </div>
-          ) : (
-            <div className="space-y-3">
-              {actionDays.map((item, idx) => (
-                <div key={idx} className="bg-slate-900/80 p-4 rounded-xl border border-slate-800 space-y-2">
-                  <div className="flex items-start justify-between gap-2">
-                    <h4 className="font-semibold text-slate-100 text-sm">{item.name}</h4>
-                    {item.charakter && (
-                      <span className="text-[10px] bg-slate-800 text-slate-300 px-2 py-0.5 rounded border border-slate-700 shrink-0">
-                        {item.charakter}
-                      </span>
-                    )}
-                  </div>
-                  <p className="text-xs text-slate-300 leading-relaxed">{item.beschreibung}</p>
-                  <div className="flex flex-wrap items-center gap-3 text-[11px] text-slate-400 pt-1 border-t border-slate-800/80">
-                    <span className="flex items-center gap-1">
-                      <Tag className="w-3 h-3 text-indigo-400" /> {item.category}
-                    </span>
-                    <span className="flex items-center gap-1">
-                      <MapPin className="w-3 h-3 text-rose-400" /> {item.region}
-                    </span>
-                    {item.quelle && (
-                      <a
-                        href={item.quelle}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="ml-auto text-indigo-400 hover:underline flex items-center gap-1"
-                      >
-                        Wiki <ExternalLink className="w-3 h-3" />
-                      </a>
-                    )}
-                  </div>
-                </div>
-              ))}
-            </div>
-          )}
-        </div>
+        <button type="button" aria-label="Schließen" onClick={close} className={cx('h-11 w-11 -mr-2 -mt-1', BTN_GHOST)}>
+          <X className="h-5 w-5" aria-hidden />
+        </button>
       </div>
+
+      <p className="mt-5 text-sm font-medium uppercase tracking-[0.06em] text-gray-600">
+        {entries.length === 0 ? 'Kein Aktionstag' : `${entries.length} Aktionstag${entries.length > 1 ? 'e' : ''}`}
+      </p>
+      {entries.length > 0 && (
+        <ul className="mt-2 space-y-1">
+          {entries.map((e, i) => (
+            <li key={e.name}>
+              <button
+                type="button"
+                onClick={() => go(i)}
+                className={cx(
+                  'flex min-h-14 w-full items-center justify-between gap-3 rounded-md px-3 py-2 text-left transition-colors motion-reduce:transition-none',
+                  i === 0 ? 'border border-gray-300 bg-gray-100' : 'border border-transparent hover:bg-gray-100',
+                  FOCUS
+                )}
+              >
+                <span className="min-w-0">
+                  <span className="block text-base font-semibold">{e.name}</span>
+                  <span className="block text-sm text-gray-600">
+                    {shortCategory(e.category)} · {e.region}
+                  </span>
+                </span>
+                <ChevronRight className="h-5 w-5 shrink-0 text-gray-600" aria-hidden />
+              </button>
+            </li>
+          ))}
+        </ul>
+      )}
+
+      <button type="button" onClick={() => go(0)} className={cx('mt-5 h-12 w-full', BTN_RED)}>
+        Im Standup anzeigen <ArrowRight className="h-5 w-5" aria-hidden />
+      </button>
     </div>
   );
 };

@@ -1,75 +1,45 @@
 import { MOOD_SCALES, MOOD_SCALE_IMAGES } from './moodManifest';
-import { MoodRating } from './moodTypes';
 
-const USED_MOOD_SCALES_KEY = 'used_mood_scales';
-const MOOD_HISTORY_KEY = 'mood_history';
+const RECENT_KEY = 'moodRecent'; // last 5 image ids, newest last
 
-function readArray<T>(key: string): T[] {
+function readRecent(): string[] {
   try {
-    const parsed = JSON.parse(localStorage.getItem(key) || '[]');
+    const parsed = JSON.parse(localStorage.getItem(RECENT_KEY) || '[]');
     return Array.isArray(parsed) ? parsed : [];
-  } catch (e) {
-    console.error(`Error reading ${key} from localStorage:`, e);
+  } catch {
     return [];
   }
 }
 
-function writeArray(key: string, value: unknown[]): void {
-  try {
-    localStorage.setItem(key, JSON.stringify(value));
-  } catch (e) {
-    console.error(`Error saving ${key} to localStorage:`, e);
+/** Random image id, avoiding the last 5 drawn. */
+export function drawMoodImage(): string {
+  const recent = readRecent();
+  const pool = MOOD_SCALE_IMAGES.filter((id) => !recent.includes(id));
+  const candidates = pool.length ? pool : MOOD_SCALE_IMAGES;
+  const id = candidates[Math.floor(Math.random() * candidates.length)];
+  localStorage.setItem(RECENT_KEY, JSON.stringify([...recent, id].slice(-5)));
+  return id;
+}
+
+/** Pending (drawn but unsaved) image for a date, so card thumbnail and dialog show the same picture. */
+export function getPendingDraw(iso: string): string {
+  const key = `moodDraw:${iso}`;
+  let id = localStorage.getItem(key);
+  if (!id || !MOOD_SCALES[id]) {
+    id = drawMoodImage();
+    localStorage.setItem(key, id);
   }
+  return id;
 }
 
-export function getUsedMoodScales(): string[] {
-  return readArray<string>(USED_MOOD_SCALES_KEY);
+export function clearPendingDraw(iso: string): void {
+  localStorage.removeItem(`moodDraw:${iso}`);
 }
 
-/**
- * Select next non-repeating mood scale image filename.
- * If all images in the pool have been used, auto-reset used_mood_scales and pick anew.
- */
-export function getNextMoodScaleFilename(): { filename: string; wasReset: boolean } {
-  let used = getUsedMoodScales();
-  let pool = MOOD_SCALE_IMAGES.filter((img) => !used.includes(img));
-  const wasReset = pool.length === 0;
-  if (wasReset) {
-    used = [];
-    pool = MOOD_SCALE_IMAGES;
-  }
-
-  const filename = pool[Math.floor(Math.random() * pool.length)];
-  writeArray(USED_MOOD_SCALES_KEY, [...used, filename]);
-  return { filename, wasReset };
+export function getMoodImageUrl(id: string): string {
+  return MOOD_SCALES[id] ?? '';
 }
 
-export function getMoodScaleUrl(filename: string): string {
-  return MOOD_SCALES[filename] ?? '';
-}
-
-/**
- * Save user mood rating (1-9) for a date, replacing any existing rating for that date.
- */
-export function saveMoodRating(dateStr: string, rating: number, scaleImage: string): MoodRating {
-  const entry: MoodRating = { dateStr, rating, scaleImage, timestamp: Date.now() };
-  const history = readArray<MoodRating>(MOOD_HISTORY_KEY).filter((item) => item.dateStr !== dateStr);
-  writeArray(MOOD_HISTORY_KEY, [...history, entry]);
-  return entry;
-}
-
-export function getMoodRatingForDate(dateStr: string): MoodRating | null {
-  return readArray<MoodRating>(MOOD_HISTORY_KEY).find((item) => item.dateStr === dateStr) || null;
-}
-
-export function resetMoodPool(): void {
-  writeArray(USED_MOOD_SCALES_KEY, []);
-}
-
-export function clearMoodHistory(): void {
-  try {
-    localStorage.removeItem(MOOD_HISTORY_KEY);
-  } catch (e) {
-    console.error('Error clearing mood history:', e);
-  }
+export function isVideo(id: string): boolean {
+  return id.endsWith('.mp4');
 }

@@ -1,174 +1,217 @@
 import { useState } from 'react';
+import { Search, ChevronLeft, ChevronRight, ChevronDown } from 'lucide-react';
 import { MonthGrid } from './MonthGrid';
 import { DayDetailModal } from './DayDetailModal';
-import { getAllCategories, getAllRegions, searchActionDays, getTotalActionDaysCount } from '../data/dataLoader';
-import { Calendar as CalendarIcon, Search, Filter, Database, CheckCircle, Sparkles } from 'lucide-react';
+import { RegionPicker } from './RegionPicker';
+import { CATEGORIES, shortCategory, Filters } from '../data/dataLoader';
+import { getGermanMonth } from '../data/dateUtils';
+import { getUi, patchUi } from '../data/storage';
+import { cx, BTN_OUTLINE, INPUT, FOCUS } from '../ui/cls';
 
-interface CalendarViewProps {
-  onSelectDateForStandup: (date: Date) => void;
+interface Props {
+  onShowInStandup: (date: Date, entryIndex: number) => void;
 }
 
-export const CalendarView = ({ onSelectDateForStandup }: CalendarViewProps) => {
-  const [year, setYear] = useState<number>(2026);
-  const [searchQuery, setSearchQuery] = useState<string>('');
-  const [selectedCategory, setSelectedCategory] = useState<string>('');
-  const [selectedRegion, setSelectedRegion] = useState<string>('');
-  const [inspectDate, setInspectDate] = useState<Date | null>(null);
+const YEARS = [2026, 2027];
+const MONTHS = YEARS.flatMap((y) => Array.from({ length: 12 }, (_, m) => `${y}-${String(m + 1).padStart(2, '0')}`));
 
-  const categories = getAllCategories();
-  const regions = getAllRegions();
-  const searchResults = searchQuery || selectedCategory || selectedRegion
-    ? searchActionDays(searchQuery, selectedCategory || undefined, selectedRegion || undefined)
-    : null;
+const thisMonth = () => {
+  const now = new Date();
+  return `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}`;
+};
+
+export const CalendarView = ({ onShowInStandup }: Props) => {
+  const [filters, setFiltersState] = useState<Filters>(() => getUi().filters);
+  const [month, setMonthState] = useState(() => {
+    const saved = getUi().calendarMonth;
+    return MONTHS.includes(saved) ? saved : MONTHS.includes(thisMonth()) ? thisMonth() : MONTHS[0];
+  });
+  const [year, setYear] = useState(() => Number(month.slice(0, 4)));
+  const [inspect, setInspect] = useState<Date | null>(null);
+  const [regionOpen, setRegionOpen] = useState(false);
+
+  const setFilters = (patch: Partial<Filters>) => {
+    const next = { ...filters, ...patch };
+    setFiltersState(next);
+    patchUi({ filters: next });
+  };
+  const setMonth = (m: string) => {
+    setMonthState(m);
+    patchUi({ calendarMonth: m });
+  };
+  const monthIdx = MONTHS.indexOf(month);
+  const [mY, mM] = month.split('-').map(Number);
+  const jumpToday = () => {
+    const t = thisMonth();
+    if (MONTHS.includes(t)) {
+      setMonth(t);
+      setYear(Number(t.slice(0, 4)));
+    }
+  };
+
+  const categoryChip = (value: string, label: string) => (
+    <button
+      key={value}
+      type="button"
+      aria-pressed={filters.category === value}
+      onClick={() => setFilters({ category: value })}
+      className={cx(
+        'h-9 shrink-0 rounded-full px-3.5 text-sm font-medium transition-colors motion-reduce:transition-none',
+        filters.category === value ? 'bg-red-600 text-white' : 'border border-gray-300 bg-white text-gray-700 hover:bg-gray-100',
+        FOCUS
+      )}
+    >
+      {label}
+    </button>
+  );
+
+  const search = (width: string) => (
+    <div className={cx('relative', width)}>
+      <Search className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-gray-600" aria-hidden />
+      <input
+        type="search"
+        aria-label="Aktionstag suchen"
+        value={filters.q}
+        onChange={(e) => setFilters({ q: e.target.value })}
+        placeholder="Aktionstag suchen …"
+        className={cx(INPUT, 'pl-9')}
+      />
+    </div>
+  );
+
+  const regionButton = (
+    <button type="button" onClick={() => setRegionOpen(true)} className={cx('h-11 px-3 text-base', BTN_OUTLINE)}>
+      Region:&nbsp;<span className="font-semibold">{filters.region || 'Alle'}</span>
+      <ChevronDown className="ml-1 h-4 w-4" aria-hidden />
+    </button>
+  );
+
+  const gridProps = { filters, selectedDate: inspect, onSelectDay: setInspect };
 
   return (
-    <div className="space-y-6">
-      {/* Header & Controls */}
-      <div className="glass-panel p-6 rounded-2xl space-y-4 border border-slate-800">
-        <div className="flex flex-wrap items-center justify-between gap-4 border-b border-slate-800 pb-4">
-          <div>
-            <h2 className="text-xl font-bold text-slate-100 flex items-center gap-2">
-              <CalendarIcon className="w-5 h-5 text-indigo-400" />
-              365-Tage Kalender & Aktionstage Inspector
-            </h2>
-            <p className="text-sm text-slate-400">
-              Übersicht aller {getTotalActionDaysCount()} Gedenk- und Aktionstage für das Jahr {year}
-            </p>
+    <div>
+      {/* Mobile */}
+      <div className="lg:hidden">
+        <h2 className="text-xl font-semibold">Kalender</h2>
+        <div className="mt-3 space-y-3">
+          {search('w-full')}
+          <div className="-mx-4 flex gap-2 overflow-x-auto px-4 [scrollbar-width:none]">
+            {categoryChip('', 'Alle')}
+            {CATEGORIES.map((c) => categoryChip(c, shortCategory(c)))}
           </div>
-
-          {/* Year Switcher */}
-          <div className="flex items-center gap-2 bg-slate-900 p-1 rounded-xl border border-slate-800">
-            <button
-              onClick={() => setYear(2026)}
-              className={`px-4 py-1.5 rounded-lg text-xs font-bold transition-all ${
-                year === 2026
-                  ? 'bg-indigo-600 text-white shadow-sm'
-                  : 'text-slate-400 hover:text-slate-200'
-              }`}
-            >
-              Jahr 2026
-            </button>
-            <button
-              onClick={() => setYear(2027)}
-              className={`px-4 py-1.5 rounded-lg text-xs font-bold transition-all ${
-                year === 2027
-                  ? 'bg-indigo-600 text-white shadow-sm'
-                  : 'text-slate-400 hover:text-slate-200'
-              }`}
-            >
-              Jahr 2027
-            </button>
-          </div>
+          {regionButton}
         </div>
 
-        {/* Search & Filter Bar */}
-        <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
+        <div className="mt-4 flex items-center justify-between">
+          <button type="button" aria-label="Vormonat" disabled={monthIdx === 0} onClick={() => setMonth(MONTHS[monthIdx - 1])} className={cx('h-11 w-11', BTN_OUTLINE)}>
+            <ChevronLeft className="h-5 w-5" aria-hidden />
+          </button>
           <div className="relative">
-            <Search className="w-4 h-4 text-slate-500 absolute left-3 top-3" />
-            <input
-              type="text"
-              value={searchQuery}
-              onChange={(e) => setSearchQuery(e.target.value)}
-              placeholder="Aktionstag suchen..."
-              className="w-full bg-slate-900 border border-slate-800 rounded-xl pl-9 pr-3 py-2 text-xs text-slate-200 placeholder-slate-500 focus:outline-none focus:border-indigo-500"
-            />
-          </div>
-
-          <div className="relative">
-            <Filter className="w-4 h-4 text-slate-500 absolute left-3 top-3" />
+            <span className="inline-flex h-11 items-center gap-1 px-3 text-lg font-semibold" aria-hidden>
+              {getGermanMonth(mM - 1)} {mY} <ChevronDown className="h-5 w-5" />
+            </span>
             <select
-              value={selectedCategory}
-              onChange={(e) => setSelectedCategory(e.target.value)}
-              className="w-full bg-slate-900 border border-slate-800 rounded-xl pl-9 pr-3 py-2 text-xs text-slate-200 focus:outline-none focus:border-indigo-500 appearance-none"
+              aria-label="Monat und Jahr wählen"
+              value={month}
+              onChange={(e) => setMonth(e.target.value)}
+              className={cx('absolute inset-0 h-full w-full cursor-pointer opacity-0', FOCUS)}
             >
-              <option value="">Alle Kategorien ({categories.length})</option>
-              {categories.map((cat, idx) => (
-                <option key={idx} value={cat}>
-                  {cat}
-                </option>
-              ))}
-            </select>
-          </div>
-
-          <div className="relative">
-            <select
-              value={selectedRegion}
-              onChange={(e) => setSelectedRegion(e.target.value)}
-              className="w-full bg-slate-900 border border-slate-800 rounded-xl px-3 py-2 text-xs text-slate-200 focus:outline-none focus:border-indigo-500 appearance-none"
-            >
-              <option value="">Alle Regionen ({regions.length})</option>
-              {regions.map((reg, idx) => (
-                <option key={idx} value={reg}>
-                  {reg}
-                </option>
-              ))}
-            </select>
-          </div>
-        </div>
-      </div>
-
-      {/* Search Results Drawer if searching */}
-      {searchResults && (
-        <div className="glass-panel p-5 rounded-2xl space-y-3 border border-indigo-500/30">
-          <h3 className="text-sm font-semibold text-indigo-300 flex items-center justify-between">
-            <span>Suchergebnisse ({searchResults.length} Treffer)</span>
-            <button
-              onClick={() => {
-                setSearchQuery('');
-                setSelectedCategory('');
-                setSelectedRegion('');
-              }}
-              className="text-xs text-slate-400 hover:text-slate-200 underline"
-            >
-              Filter zurücksetzen
-            </button>
-          </h3>
-
-          {searchResults.length === 0 ? (
-            <p className="text-xs text-slate-500 py-4 text-center">Keine Aktionstage zu deinen Filtern gefunden.</p>
-          ) : (
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-3 max-h-60 overflow-y-auto pr-1">
-              {searchResults.slice(0, 30).map((item, idx) => {
-                const targetDate = new Date(year, item.month - 1, item.day);
+              {MONTHS.map((m) => {
+                const [y, mm] = m.split('-').map(Number);
                 return (
-                  <div
-                    key={idx}
-                    onClick={() => setInspectDate(targetDate)}
-                    className="p-3 bg-slate-900/80 hover:bg-slate-800 rounded-xl border border-slate-800 cursor-pointer transition-colors space-y-1"
-                  >
-                    <div className="flex items-center justify-between text-xs">
-                      <span className="font-bold text-slate-100">{item.name}</span>
-                      <span className="text-indigo-400 font-mono">{item.day_str}</span>
-                    </div>
-                    <p className="text-[11px] text-slate-400 line-clamp-1">{item.beschreibung}</p>
-                  </div>
+                  <option key={m} value={m}>
+                    {getGermanMonth(mm - 1)} {y}
+                  </option>
                 );
               })}
-            </div>
-          )}
+            </select>
+          </div>
+          <button type="button" aria-label="Nächster Monat" disabled={monthIdx === MONTHS.length - 1} onClick={() => setMonth(MONTHS[monthIdx + 1])} className={cx('h-11 w-11', BTN_OUTLINE)}>
+            <ChevronRight className="h-5 w-5" aria-hidden />
+          </button>
         </div>
-      )}
 
-      {/* 12-Month Grid View */}
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        {[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11].map((monthIdx) => (
-          <MonthGrid
-            key={monthIdx}
-            year={year}
-            monthIndex={monthIdx}
-            onSelectDay={(date) => setInspectDate(date)}
-          />
-        ))}
+        <div className="mt-3">
+          <MonthGrid year={mY} monthIndex={mM - 1} size="mobile" {...gridProps} />
+        </div>
+        <Legend compact />
+        <button type="button" onClick={jumpToday} className={cx('mt-4 h-11 w-full font-semibold', BTN_OUTLINE)}>
+          Zu heute springen
+        </button>
       </div>
 
-      {/* Day Inspector Modal */}
-      {inspectDate && (
-        <DayDetailModal
-          date={inspectDate}
-          onClose={() => setInspectDate(null)}
-          onSelectDateForStandup={onSelectDateForStandup}
-        />
-      )}
+      {/* Desktop */}
+      <div className="hidden lg:block">
+        <div className="flex flex-wrap items-center gap-3">
+          <div role="group" aria-label="Jahr" className="flex rounded-md bg-gray-200 p-1">
+            {YEARS.map((y) => (
+              <button
+                key={y}
+                type="button"
+                aria-pressed={year === y}
+                onClick={() => setYear(y)}
+                className={cx('h-9 rounded px-4 text-base font-semibold tabular-nums', year === y ? 'bg-white shadow-sm' : 'text-gray-700 hover:bg-gray-100', FOCUS)}
+              >
+                {y}
+              </button>
+            ))}
+          </div>
+          {search('w-80')}
+          <label className="relative">
+            <span className="sr-only">Kategorie</span>
+            <select
+              value={filters.category}
+              onChange={(e) => setFilters({ category: e.target.value })}
+              className={cx(INPUT, 'w-auto appearance-none pr-9')}
+            >
+              <option value="">Kategorie: Alle</option>
+              {CATEGORIES.map((c) => (
+                <option key={c} value={c}>
+                  {c}
+                </option>
+              ))}
+            </select>
+            <ChevronDown className="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-gray-600" aria-hidden />
+          </label>
+          {regionButton}
+          <div className="flex-1" />
+          <button type="button" onClick={jumpToday} className={cx('h-11 px-4 font-semibold', BTN_OUTLINE)}>
+            Heute
+          </button>
+        </div>
+
+        <div className="mt-6 grid grid-cols-4 gap-x-5 gap-y-6">
+          {Array.from({ length: 12 }, (_, m) => (
+            <MonthGrid key={`${year}-${m}`} year={year} monthIndex={m} size="desktop" showTitle {...gridProps} />
+          ))}
+        </div>
+        <Legend />
+      </div>
+
+      {inspect && <DayDetailModal date={inspect} onClose={() => setInspect(null)} onShowInStandup={onShowInStandup} />}
+      {regionOpen && <RegionPicker value={filters.region} onChange={(region) => setFilters({ region })} onClose={() => setRegionOpen(false)} />}
     </div>
   );
 };
+
+const Legend = ({ compact }: { compact?: boolean }) => (
+  <ul className="mt-4 flex flex-wrap gap-x-4 gap-y-1 text-sm text-gray-600" aria-label="Legende">
+    {!compact && (
+      <li className="flex items-center gap-1.5">
+        <span className="h-3.5 w-3.5 rounded border border-gray-200 bg-white" aria-hidden /> Arbeitstag
+      </li>
+    )}
+    <li className="flex items-center gap-1.5">
+      <span className="h-3.5 w-3.5 rounded bg-gray-200" aria-hidden /> Wochenende / Feiertag
+    </li>
+    <li className="flex items-center gap-1.5">
+      <span className="h-1.5 w-1.5 rounded-full bg-amber-600" aria-hidden /> 1. Arbeitstag der Woche
+    </li>
+    {!compact && (
+      <li className="flex items-center gap-1.5">
+        <span className="h-3.5 w-3.5 rounded border-2 border-gray-900" aria-hidden /> Heute
+      </li>
+    )}
+    <li>Zahl = Aktionstage{compact ? '' : ' am Tag'}</li>
+  </ul>
+);
