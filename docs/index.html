@@ -11,21 +11,23 @@
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
   :root {
-    --page: #f3f4f6;
+    --page: #f1f5f9;
     --surface: #ffffff;
-    --border: #d1d5db;
-    --hairline: #e5e7eb;
-    --ink: #111827;
-    --ink-2: #374151;
-    --ink-3: #4b5563;
+    --border: #cbd5e1;
+    --hairline: #e2e8f0;
+    --ink: #0f172a;
+    --ink-2: #334155;
+    --ink-3: #475569;
     --red: #dc2626;
     --red-dark: #b91c1c;
     --amber-bg: #fef3c7;
     --amber-ink: #92400e;
     --emerald-bg: #d1fae5;
     --emerald-ink: #047857;
-    --chip-bg: #e5e7eb;
+    --chip-bg: #e2e8f0;
     --header-h: 56px;
+    --card-shadow: 0 2px 8px rgba(0,0,0,.08);
+    --card-shadow-raised: 0 2px 8px rgba(0,0,0,.12);
   }
   * { box-sizing: border-box; }
   html { scroll-behavior: smooth; scroll-padding-top: calc(var(--header-h) + 16px); }
@@ -44,25 +46,25 @@
   header.top {
     position: sticky; top: 0; z-index: 20;
     height: var(--header-h);
-    background: var(--red); color: #fff;
+    background: var(--surface); color: var(--ink);
+    border-bottom: 1px solid var(--hairline);
     display: flex; align-items: center; gap: 12px;
     padding: 0 16px;
   }
   .mark {
     width: 32px; height: 32px; border-radius: 6px;
-    background: #fff; color: var(--red);
+    background: var(--red); color: #fff;
     display: grid; place-items: center; flex: none;
   }
   .brand { font-size: 16px; font-weight: 600; letter-spacing: -0.01em; }
-  .brand span { font-weight: 400; opacity: .85; }
-  header.top nav { margin-left: auto; display: none; gap: 4px;
-    background: rgba(255,255,255,.15); border: 1px solid rgba(255,255,255,.3);
-    border-radius: 6px; padding: 4px; }
+  .brand span { font-weight: 400; color: var(--ink-3); }
+  header.top nav { margin-left: auto; display: none; gap: 4px; align-self: stretch; }
   header.top nav a {
-    color: #fff; text-decoration: none; font-size: 14px; font-weight: 500;
-    padding: 4px 10px; border-radius: 4px;
+    display: flex; align-items: center;
+    color: var(--ink-3); text-decoration: none; font-size: 14px; font-weight: 500;
+    padding: 0 12px; border-bottom: 3px solid transparent;
   }
-  header.top nav a:hover { background: rgba(255,255,255,.15); }
+  header.top nav a:hover { color: var(--ink); border-bottom-color: var(--hairline); }
 
   /* ---------- layout ---------- */
   .wrap { max-width: 1120px; margin: 0 auto; padding: 24px 16px 64px; }
@@ -80,9 +82,8 @@
 
   /* ---------- hero ---------- */
   .hero {
-    background: var(--surface); border: 1px solid var(--border);
-    border-top: 4px solid var(--red); border-radius: 8px;
-    box-shadow: 0 1px 3px rgba(0,0,0,.08);
+    background: var(--surface); border: none; border-radius: 8px;
+    box-shadow: var(--card-shadow-raised);
     padding: 20px; margin-bottom: 24px;
   }
   .eyebrow { font-size: 14px; font-weight: 600; text-transform: uppercase;
@@ -110,12 +111,12 @@
   li { margin-bottom: 4px; }
   li::marker { color: var(--ink-3); }
 
-  .card { background: var(--surface); border: 1px solid var(--border);
-    border-radius: 8px; padding: 16px 20px; }
+  .card { background: var(--surface); border: none; border-radius: 8px;
+    box-shadow: var(--card-shadow); padding: 16px 20px; }
   .grid { display: grid; gap: 16px; grid-template-columns: 1fr; }
 
-  .mod { background: var(--surface); border: 1px solid var(--border);
-    border-radius: 8px; padding: 16px; }
+  .mod { background: var(--surface); border: none; border-radius: 8px;
+    box-shadow: var(--card-shadow); padding: 16px; }
   .mod h3 { margin: 0 0 4px; font-size: 16px; display: flex; align-items: center; gap: 8px; }
   .mod h3 code { font-size: 14px; color: var(--red-dark); background: none; padding: 0; }
   .mod p { font-size: 14px; margin: 0 0 8px; }
@@ -123,31 +124,34 @@
 
   code { background: var(--chip-bg); border-radius: 4px; padding: 1px 5px;
     font-size: .9em; color: var(--ink); }
-  pre { background: #111827; color: #e5e7eb; border-radius: 6px;
+  kbd { background: var(--surface); border: 1px solid var(--border);
+    border-bottom-width: 2px; border-radius: 4px; padding: 1px 6px;
+    font-family: 'JetBrains Mono', ui-monospace, monospace; font-size: .85em; color: var(--ink); }
+  pre { background: #0f172a; color: #e2e8f0; border-radius: 6px;
     padding: 16px; overflow-x: auto; font-size: 14px; line-height: 1.6; margin: 0 0 12px; }
   pre code { background: none; padding: 0; color: inherit; font-size: inherit; }
-  pre .c { color: #9ca3af; }
+  pre .c { color: #94a3b8; }
   pre .k { color: #fca5a5; }
 
-  .tablewrap { overflow-x: auto; border: 1px solid var(--border);
-    border-radius: 8px; background: var(--surface); }
+  .tablewrap { overflow-x: auto; border: none; border-radius: 8px;
+    background: var(--surface); box-shadow: var(--card-shadow); }
   table { border-collapse: collapse; width: 100%; font-size: 14px; min-width: 640px; }
   th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--hairline);
     vertical-align: top; color: var(--ink-2); }
-  th { font-weight: 600; color: var(--ink); background: #f9fafb; white-space: nowrap; }
+  th { font-weight: 600; color: var(--ink); background: var(--page); white-space: nowrap; }
   tr:last-child td { border-bottom: 0; }
   td code { white-space: nowrap; }
 
   .swatches { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; }
-  .sw { border: 1px solid var(--border); border-radius: 6px; overflow: hidden; background: var(--surface); }
+  .sw { border-radius: 6px; overflow: hidden; background: var(--surface); box-shadow: var(--card-shadow); }
   .sw .fill { height: 44px; }
   .sw .meta { padding: 6px 8px; font-size: 14px; }
   .sw .meta b { display: block; font-weight: 600; color: var(--ink); }
   .sw .meta span { color: var(--ink-3); font-size: 13px; }
 
-  .note { border-left: 4px solid var(--red); background: var(--surface);
-    border: 1px solid var(--border); border-left: 4px solid var(--red);
-    border-radius: 6px; padding: 12px 16px; margin: 0 0 12px; }
+  .note { background: var(--surface); border-left: 4px solid var(--red);
+    border-radius: 6px; box-shadow: var(--card-shadow);
+    padding: 12px 16px; margin: 0 0 12px; }
   .note.amber { border-left-color: #f59e0b; }
   .note p:last-child { margin-bottom: 0; }
   .note b { color: var(--ink); }
@@ -164,7 +168,7 @@
 
   .flow { display: flex; flex-direction: column; gap: 8px; }
   .flow .row { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
-  .box { background: var(--surface); border: 1px solid var(--border);
+  .box { background: var(--surface); border: 1px solid var(--hairline);
     border-radius: 6px; padding: 8px 12px; font-size: 14px; font-weight: 500; }
   .box.red { border-color: var(--red); color: var(--red-dark); }
   .arrow { color: var(--ink-3); font-size: 14px; }
@@ -203,6 +207,7 @@
   <div class="brand">Sync Helper <span>· Doku</span></div>
   <nav>
     <a href="#ueberblick">Überblick</a>
+    <a href="#bedienung">Bedienung</a>
     <a href="#architektur">Architektur</a>
     <a href="#daten">Daten</a>
     <a href="#design">Design</a>
@@ -226,7 +231,8 @@
       <span class="chip">React 19 + Vite 6</span>
       <span class="chip">Tailwind v4</span>
       <span class="chip">930 Aktionstage</span>
-      <span class="chip amber">localStorage only</span>
+      <span class="chip">273 Mood-Bilder</span>
+      <span class="chip amber">Nur im Browser</span>
     </div>
   </div>
 
@@ -243,16 +249,96 @@
       <li><b>Kopieren</b> — fertig formatierter Standup-Text in der Zwischenablage.</li>
     </ol>
     <p>
-      Dazu kommt ein <b>Kalender</b> über 2026/2027: welcher Tag ist Arbeitstag, welcher der erste
-      Arbeitstag der Woche, und wie viele Aktionstage liegen darauf.
+      Dazu kommen zwei weitere Tabs: der <b>Kalender</b> über 2026/2027 — welcher Tag ist Arbeitstag,
+      welcher der erste Arbeitstag der Woche, wie viele Aktionstage liegen darauf — und die
+      <b>Moods</b>-Galerie mit allen Stimmungsbildern, inklusive eigener Uploads.
     </p>
     <div class="note">
       <p><b>Bewusst nicht enthalten:</b> Accounts, Server, Team-Ansicht, Synchronisierung zwischen Geräten. Alle Daten bleiben im Browser des Nutzers.</p>
     </div>
   </section>
 
+  <section id="bedienung">
+    <h2><span class="n">02</span>Bedienung</h2>
+    <p>
+      Diese Seite ist der schnellste Weg hinein: Sie beschreibt jeden Tab so, wie man ihn
+      im Standup benutzt. Ein Konto braucht es nicht — die App aufrufen genügt.
+    </p>
+
+    <div class="note">
+      <p><b>Der übliche Ablauf am Morgen:</b> App öffnen › Aktionstag lesen › <i>Mood Check starten</i> ›
+      Zahl wählen › <i>Stimmung speichern</i> › drei Zeilen tippen › <i>Standup-Text kopieren</i> ›
+      in den Team-Chat einfügen. Zusammen unter einer Minute.</p>
+    </div>
+
+    <h3>Tab „Heute“</h3>
+    <ol class="steps">
+      <li><b>Datum wählen</b> — die Pfeile links und rechts springen einen Tag vor oder zurück,
+        <i>Zu heute</i> kommt zurück zum aktuellen Tag. Die Badges darunter sagen, ob der Tag ein
+        Arbeitstag ist und ob er der erste Arbeitstag der Woche oder des Monats ist.</li>
+      <li><b>Aktionstag lesen</b> — die große Karte zeigt den Gedenktag des Tages mit Kategorie,
+        Region, Beschreibung und Wikipedia-Link. Hat ein Tag mehrere, blättert der Stepper
+        (<code>1 / 3</code>) durch sie; auf dem Desktop stehen alle rechts als Liste. Der jeweils
+        <b>aktive</b> Eintrag landet später im Standup-Text.</li>
+      <li><b>Mood Check machen</b> — <i>Mood Check starten</i> öffnet ein zufälliges 3×3-Meme-Raster.
+        Feld 1–9 antippen, dann <i>Stimmung N speichern</i>. Das Antippen allein speichert nichts,
+        und der Dialog öffnet sich nie von selbst. Passt das Bild nicht,
+        führt <i>Anderes Bild wählen</i> in die Galerie. Gespeichertes lässt sich über
+        <i>Ändern</i> jederzeit überschreiben.</li>
+      <li><b>Notizen tippen</b> — drei Felder: Gestern, Heute, Blocker. Sie werden pro Tag
+        automatisch gespeichert; „gespeichert“ neben der Überschrift bestätigt es. Blocker leer
+        lassen heißt „Keine“.</li>
+      <li><b>Kopieren</b> — <i>Standup-Text kopieren</i> legt Datum, aktiven Aktionstag und die drei
+        Zeilen als reinen Text in die Zwischenablage. Der Button wird zwei Sekunden grün.</li>
+    </ol>
+
+    <h3>Tab „Kalender“</h3>
+    <ul>
+      <li>Mobil ein Monat pro Bildschirm, auf dem Desktop alle zwölf Monate eines Jahres nebeneinander;
+        oben rechts lässt sich zwischen 2026 und 2027 umschalten.</li>
+      <li>Jede Zelle zeigt die Zahl der Aktionstage an diesem Tag und einen <b>bernsteinfarbenen Punkt</b>,
+        wenn es der erste Arbeitstag der Woche ist. Wochenenden und bundesweite Feiertage sind grau,
+        heute hat einen dunklen Rahmen.</li>
+      <li><b>Filter</b> — Suche nach Namen, Kategorie-Chips und ein Regions-Picker mit Type-ahead
+        (227 Regionen). Die Filter wirken auch auf die Zähler in den Zellen.</li>
+      <li>Ein Tag antippen öffnet seine Liste; <i>Im Standup anzeigen</i> springt mit genau diesem
+        Eintrag zurück in die Heute-Ansicht.</li>
+    </ul>
+
+    <h3>Tab „Moods“</h3>
+    <ul>
+      <li>Alle Stimmungsbilder alphabetisch, gefiltert nach <i>Alle</i>, <i>Ungenutzt</i>, <i>Genutzt</i>
+        und <i>Eigene</i> — jeweils mit Anzahl.</li>
+      <li>Ein Bild antippen zeigt es groß, mit allen Tagen, an denen es schon einmal gewählt wurde.
+        War es das bereits, weist ein bernsteinfarbener Hinweis darauf hin — verboten ist es nicht.
+        <i>Für heute wählen</i> setzt es als Bild des heutigen Mood Checks und öffnet diesen direkt.</li>
+      <li><b>Hochladen</b> fügt ein eigenes Bild hinzu: Datei wählen, Titel bzw. Frage eintragen,
+        optional eine Quelle. Empfohlen sind 3×3-Raster, 1000–2400&nbsp;px breit. Das Bild bleibt auf
+        diesem Gerät und wird nirgendwohin übertragen.</li>
+    </ul>
+
+    <h3>Tastatur und Barrierefreiheit</h3>
+    <ul>
+      <li><kbd>Tab</kbd> läuft durch alle Bedienelemente, jedes zeigt einen sichtbaren Fokusring.</li>
+      <li>In der 1–9-Auswahl bewegen die <b>Pfeiltasten</b> die Auswahl, <kbd>Esc</kbd> schließt jeden
+        Dialog, und der Fokus kehrt danach zum auslösenden Button zurück.</li>
+      <li>Wer Systemanimationen reduziert hat, bekommt die Oberfläche ohne Übergänge.</li>
+    </ul>
+
+    <div class="note amber">
+      <p><b>Wo liegen meine Daten?</b> Ausschließlich im Browser dieses Geräts — es gibt keinen Server
+      und keine Synchronisierung. Auf der öffentlichen Pages-Version verschwindet alles mit dem
+      Schließen des Tabs; lokal und im Container bleibt es erhalten. Ein anderer Browser oder ein
+      anderes Gerät sieht deshalb nichts von den eigenen Notizen.</p>
+    </div>
+  </section>
+
   <section id="schnellstart">
-    <h2><span class="n">02</span>Schnellstart</h2>
+    <h2><span class="n">03</span>Schnellstart</h2>
+    <p>
+      Ab hier geht es um die Entwicklung. Vorausgesetzt wird <b>Node 22</b> — dieselbe Version,
+      mit der CI und die Pages-Bereitstellung bauen.
+    </p>
 <pre><code><span class="c"># Abhängigkeiten installieren</span>
 npm install
 
@@ -269,10 +355,21 @@ npm run preview</code></pre>
       <code>Dockerfile</code> und serviert <code>dist/</code> über nginx
       (<code>nginx.conf</code> mit SPA-Fallback).
     </p>
+    <p>
+      <code>npm test</code> führt die Vitest-Suite aus. Getestet ist die reine Logik in
+      <code>src/modules/data/</code>: die Feiertags- und Arbeitstagsregeln in
+      <code>dateUtils.ts</code> und die Regionsnormalisierung in <code>normalizeRegion.ts</code>.
+      Komponententests gibt es bewusst keine.
+    </p>
+    <p>
+      Im Dev-Build sitzt oben eine schmale <b>DEV</b>-Leiste: Sie springt auf ein beliebiges Datum
+      und leert den lokalen Speicher — praktisch, um den ersten Arbeitstag der Woche oder einen
+      leeren Zustand nachzustellen.
+    </p>
   </section>
 
   <section id="architektur">
-    <h2><span class="n">03</span>Architektur</h2>
+    <h2><span class="n">04</span>Architektur</h2>
     <p>
       Der Code ist in fünf isolierte Subsysteme unter <code>src/modules/</code> geschnitten.
       Abhängigkeiten laufen nur in eine Richtung: <code>ui</code> → <code>daily</code>/<code>calendar</code> →
@@ -293,10 +390,13 @@ npm run preview</code></pre>
 
       <div class="mod">
         <h3><code>mood/</code> Stimmungsbilder</h3>
-        <p>Bilder aus <code>mood-scales/</code>.</p>
+        <p>Mitgelieferte Bilder aus <code>mood-scales/</code> plus eigene Uploads.</p>
         <ul>
           <li><code>moodManifest.ts</code> — findet die Assets per <code>import.meta.glob</code>; Vite hasht sie in den Build.</li>
-          <li><code>moodManager.ts</code> — zieht pro Dialog-Öffnung ein Bild und vermeidet die letzten fünf; hält den Zug pro Tag fest, damit Karten-Thumbnail und Dialog übereinstimmen.</li>
+          <li><code>moodLibrary.ts</code> — führt mitgelieferte und hochgeladene Bilder zu einer Liste zusammen und leitet die Nutzung aus den <code>mood:*</code>-Einträgen ab, statt sie doppelt zu speichern.</li>
+          <li><code>moodBlobs.ts</code> — winziger IndexedDB-Wrapper; nur die Blobs der Uploads liegen dort, die Metadaten im normalen Store.</li>
+          <li><code>moodManager.ts</code> — zieht ein Bild pro Dialog-Öffnung, bevorzugt ungenutzte und meidet die letzten fünf; hält den Zug pro Tag fest, damit Karten-Thumbnail und Dialog übereinstimmen.</li>
+          <li><code>MoodsView.tsx</code>, <code>MoodDetailSheet.tsx</code>, <code>MoodUploadSheet.tsx</code> — Galerie, Detailansicht mit Nutzungen, Upload.</li>
         </ul>
       </div>
 
@@ -323,11 +423,13 @@ npm run preview</code></pre>
 
       <div class="mod">
         <h3><code>ui/</code> Shell</h3>
-        <p>Layout im Bahn-Look.</p>
+        <p>Layout im Bahn-Look (v4).</p>
         <ul>
-          <li><code>AppShell.tsx</code> — Routing-State zwischen Heute und Kalender.</li>
-          <li><code>Header.tsx</code> — roter Header, Desktop-Segment-Nav, mobile Bottom-Tabs.</li>
+          <li><code>AppShell.tsx</code> — Routing-State zwischen Heute, Kalender und Moods.</li>
+          <li><code>Header.tsx</code> — weiße App-Leiste mit rotem Markenzeichen, Desktop-Tabs mit roter Unterkante, mobile Bottom-Tabs mit roter Oberkante.</li>
+          <li><code>cls.ts</code> — die geteilten Klassenbausteine: Pill-Buttons, gefüllte Felder, Karten, Fokusring.</li>
           <li><code>Sheet.tsx</code> — natives <code>&lt;dialog&gt;</code>: Bottom-Sheet mobil, zentrierter Dialog auf dem Desktop.</li>
+          <li><code>Lightbox.tsx</code> — Vollbild-Ansicht eines Mood-Bildes.</li>
           <li><code>DevToolbar.tsx</code> — nur in Dev-Builds.</li>
         </ul>
       </div>
@@ -337,7 +439,7 @@ npm run preview</code></pre>
         <p>Bleiben im Projekt-Root.</p>
         <ul>
           <li><code>aktionstage.json</code> — 930 Einträge: Name, Datumsregel, Kategorie (4), Region (227), Beschreibung, Wikipedia-URL.</li>
-          <li><code>mood-scales/</code> — Meme-Raster, 1000–2400px, beliebige Seitenverhältnisse. Dateiname = stabile Identität im localStorage.</li>
+          <li><code>mood-scales/</code> — 273 Meme-Raster als WebP, bis 1200px breit. Der Dateiname ist die stabile Identität im Speicher.</li>
         </ul>
       </div>
     </div>
@@ -362,6 +464,12 @@ npm run preview</code></pre>
           <span class="box red">MoodCheckModal</span>
         </div>
         <div class="row">
+          <span class="box">Upload</span><span class="arrow">›</span>
+          <span class="box">IndexedDB (Blob)</span><span class="arrow">+</span>
+          <span class="box">storage (Metadaten)</span><span class="arrow">›</span>
+          <span class="box red">moodLibrary</span>
+        </div>
+        <div class="row">
           <span class="box red">DailyView</span><span class="arrow">›</span>
           <span class="box">storage.ts</span><span class="arrow">›</span>
           <span class="box">localStorage</span>
@@ -371,12 +479,16 @@ npm run preview</code></pre>
   </section>
 
   <section id="daten">
-    <h2><span class="n">04</span>Daten &amp; Persistenz</h2>
+    <h2><span class="n">05</span>Daten &amp; Persistenz</h2>
     <p>
       Der gesamte Zustand liegt im Browser. Alle Keys entstehen in <code>storage.ts</code>,
       und dieselbe Datei wählt auch den Speicher: <code>localStorage</code> lokal und im Container,
       <code>sessionStorage</code> in öffentlichen Builds mit <code>VITE_EPHEMERAL_STORAGE=true</code>
       — dort ist nach dem Schließen des Tabs nichts mehr da.
+    </p>
+    <p>
+      Wie oft ein Mood-Bild verwendet wurde, wird <b>nie gespeichert</b>, sondern beim Rendern aus den
+      vorhandenen <code>mood:*</code>-Einträgen abgeleitet. So kann kein zweiter Zähler auseinanderlaufen.
     </p>
     <div class="tablewrap">
       <table>
@@ -409,9 +521,21 @@ npm run preview</code></pre>
             <td><code>[]</code></td>
           </tr>
           <tr>
+            <td><code>moodPick:{YYYY-MM-DD}</code></td>
+            <td><code>string</code></td>
+            <td>In der Galerie für diesen Tag gewähltes Bild; hat Vorrang vor der Zufallsziehung.</td>
+            <td>—</td>
+          </tr>
+          <tr>
+            <td><code>moodImages</code></td>
+            <td><code>{ id, title, sourceUrl?, width, height, addedAt }[]</code></td>
+            <td>Metadaten der selbst hochgeladenen Bilder. Die Bilddaten selbst liegen als Blob in IndexedDB (<code>sync-helper/moodBlobs</code>), verknüpft über die <code>id</code>.</td>
+            <td><code>[]</code></td>
+          </tr>
+          <tr>
             <td><code>ui</code></td>
             <td><code>{ lastRoute, calendarMonth, filters }</code></td>
-            <td>Letzter Tab, angezeigter Kalendermonat, aktive Filter (<code>q</code>, <code>category</code>, <code>region</code>).</td>
+            <td>Letzter Tab (Heute, Kalender oder Moods), angezeigter Kalendermonat, aktive Filter (<code>q</code>, <code>category</code>, <code>region</code>).</td>
             <td>Defaults</td>
           </tr>
         </tbody>
@@ -435,23 +559,44 @@ Blocker: … <span class="c">(sonst "Keine")</span></code></pre>
   </section>
 
   <section id="design">
-    <h2><span class="n">05</span>Design-System</h2>
+    <h2><span class="n">06</span>Design-System</h2>
     <p>
-      Bahn-inspirierte Signaletik, bewusst nicht „App-Store“: roter Header, flache weiße Flächen
-      auf hellem Grau, Haarlinien, enge Radien, tabellarische Ziffern, eine rote CTA pro Screen.
-      Keine Verläufe, keine Illustrationen, keine Emoji als Icons.
+      Bahn-inspirierte Signaletik, bewusst nicht „App-Store“: flache weiße Flächen auf kühlem Grau,
+      Haarlinien, enge Radien, tabellarische Ziffern. Keine Verläufe, keine Illustrationen,
+      keine Emoji als Icons.
     </p>
+    <p>
+      <b>Die Farbkomposition (v4)</b> ist die eigentliche Regel: rund 60&nbsp;% der Fläche ist
+      <code>slate-100</code>, etwa 30&nbsp;% Weiß (App-Leiste, Karten, Bottom-Bar), der Text
+      <code>slate-900</code> — und <b>unter 3&nbsp;% Rot</b>. Rot erscheint pro Screen höchstens
+      viermal: Markenzeichen, eine gefüllte Aktion, die aktive Tab-Markierung, rote Outline-Buttons
+      und Links. Die App-Leiste ist weiß mit einer <code>slate-200</code>-Haarlinie — nie ein roter Header.
+    </p>
+    <div class="grid three">
+      <div class="card">
+        <h3 style="margin-top:0">Buttons</h3>
+        <p style="font-size:14px">Alles Pillen. Primär: gefülltes <code>red-600</code>. Sekundär: weiß mit 1,5&nbsp;px <code>red-700</code>-Rand. Tertiär: <code>slate-400</code>-Rand. Icon-Buttons sind 44&nbsp;px-Kreise.</p>
+      </div>
+      <div class="card">
+        <h3 style="margin-top:0">Felder</h3>
+        <p style="font-size:14px">Gefüllt in <code>slate-100</code>, oben abgerundet, mit einer einzigen 2&nbsp;px starken Unterkante (<code>slate-500</code>), die im Fokus auf <code>red-600</code> wechselt.</p>
+      </div>
+      <div class="card">
+        <h3 style="margin-top:0">Karten</h3>
+        <p style="font-size:14px">Randlos weiß mit <code>0 2px 8px rgba(0,0,0,.08)</code>; was noch auf den Nutzer wartet, bekommt <code>.12</code>. Listen trennen Haarlinien statt Kästen.</p>
+      </div>
+    </div>
 
     <h3>Farben</h3>
     <div class="swatches">
-      <div class="sw"><div class="fill" style="background:#f3f4f6"></div><div class="meta"><b>gray-100</b><span>#f3f4f6 · Seite</span></div></div>
+      <div class="sw"><div class="fill" style="background:#f1f5f9"></div><div class="meta"><b>slate-100</b><span>#f1f5f9 · Seite</span></div></div>
       <div class="sw"><div class="fill" style="background:#ffffff;border-bottom:1px solid var(--hairline)"></div><div class="meta"><b>white</b><span>#ffffff · Flächen</span></div></div>
-      <div class="sw"><div class="fill" style="background:#d1d5db"></div><div class="meta"><b>gray-300</b><span>#d1d5db · Rahmen</span></div></div>
-      <div class="sw"><div class="fill" style="background:#111827"></div><div class="meta"><b>gray-900</b><span>#111827 · Text 17,7:1</span></div></div>
-      <div class="sw"><div class="fill" style="background:#4b5563"></div><div class="meta"><b>gray-600</b><span>#4b5563 · hellster Text</span></div></div>
-      <div class="sw"><div class="fill" style="background:#dc2626"></div><div class="meta"><b>red-600</b><span>#dc2626 · Header, CTA</span></div></div>
-      <div class="sw"><div class="fill" style="background:#b91c1c"></div><div class="meta"><b>red-700</b><span>#b91c1c · Links, aktiv</span></div></div>
-      <div class="sw"><div class="fill" style="background:#f59e0b"></div><div class="meta"><b>amber-500</b><span>#f59e0b · offen</span></div></div>
+      <div class="sw"><div class="fill" style="background:#cbd5e1"></div><div class="meta"><b>slate-300</b><span>#cbd5e1 · Rahmen</span></div></div>
+      <div class="sw"><div class="fill" style="background:#0f172a"></div><div class="meta"><b>slate-900</b><span>#0f172a · Text 17,7:1</span></div></div>
+      <div class="sw"><div class="fill" style="background:#475569"></div><div class="meta"><b>slate-600</b><span>#475569 · hellster Text</span></div></div>
+      <div class="sw"><div class="fill" style="background:#dc2626"></div><div class="meta"><b>red-600</b><span>#dc2626 · Marke, CTA</span></div></div>
+      <div class="sw"><div class="fill" style="background:#b91c1c"></div><div class="meta"><b>red-700</b><span>#b91c1c · Links, aktiver Tab</span></div></div>
+      <div class="sw"><div class="fill" style="background:#fef3c7"></div><div class="meta"><b>amber-100</b><span>#fef3c7 · offen, mit amber-800</span></div></div>
       <div class="sw"><div class="fill" style="background:#047857"></div><div class="meta"><b>emerald-700</b><span>#047857 · Erfolg</span></div></div>
     </div>
 
@@ -463,7 +608,7 @@ Blocker: … <span class="c">(sonst "Keine")</span></code></pre>
       </div>
       <div class="card">
         <h3 style="margin-top:0">Raster</h3>
-        <p style="font-size:14px">4px-Basis: 8 / 12 / 16 / 24 / 32. Seitenrand 16 mobil, 32 Desktop. Radien: Karten 8, Buttons 6, Chips voll. Schatten nur auf der Hero-Karte.</p>
+        <p style="font-size:14px">4px-Basis: 8 / 12 / 16 / 24 / 32. Seitenrand 16 mobil, 32 Desktop. Radien: Karten 8, Buttons und Chips voll, Felder oben 4.</p>
       </div>
       <div class="card">
         <h3 style="margin-top:0">Bewegung</h3>
@@ -476,13 +621,15 @@ Blocker: … <span class="c">(sonst "Keine")</span></code></pre>
     </div>
 
     <p>
-      Die vollständige Vorlage liegt als statische Artboards im Repository:
-      <code>design_handoff_sync_helper/</code> — v2 (Bahn-Look) ist verbindlich, v1 (dunkel) nur Referenz.
+      Die vollständige Vorlage liegt als statische Artboards im Repository unter
+      <code>design_handoff_sync_helper/</code>. Verbindlich ist <b>v4 (Bahn-Komposition)</b>;
+      v3, v2 und das dunkle v1 sind nur noch Referenz. Der Handoff-Text daneben beschreibt
+      jeden Screen inklusive Zuständen und Texten.
     </p>
   </section>
 
   <section id="deployment">
-    <h2><span class="n">06</span>Deployment</h2>
+    <h2><span class="n">07</span>Deployment</h2>
     <p>
       Die App ist ein rein statisches Bundle — kein Server, keine API, keine Umgebungsvariablen.
       Sie läuft überall, wo sich Dateien ausliefern lassen.
@@ -512,9 +659,9 @@ Blocker: … <span class="c">(sonst "Keine")</span></code></pre>
 
   <footer>
     <p>
-      Skalironauten Sync Helper · Technische Details in
-      <code>ARCHITECTURE.md</code> und
-      <code>design_handoff_sync_helper/README.md</code>.
+      Skalironauten Sync Helper · Einstieg und Befehle in <code>README.md</code>,
+      Modulgrenzen und Speicherverträge in <code>ARCHITECTURE.md</code>,
+      die Design-Vorlage in <code>design_handoff_sync_helper/</code>.
     </p>
   </footer>
 
@@ -524,11 +671,12 @@ Blocker: … <span class="c">(sonst "Keine")</span></code></pre>
   <div class="side">
     <h4>Inhalt</h4>
     <a href="#ueberblick">01 · Überblick</a>
-    <a href="#schnellstart">02 · Schnellstart</a>
-    <a href="#architektur">03 · Architektur</a>
-    <a href="#daten">04 · Daten &amp; Persistenz</a>
-    <a href="#design">05 · Design-System</a>
-    <a href="#deployment">06 · Deployment</a>
+    <a href="#bedienung">02 · Bedienung</a>
+    <a href="#schnellstart">03 · Schnellstart</a>
+    <a href="#architektur">04 · Architektur</a>
+    <a href="#daten">05 · Daten &amp; Persistenz</a>
+    <a href="#design">06 · Design-System</a>
+    <a href="#deployment">07 · Deployment</a>
   </div>
 </aside>
 </div>
