@@ -16,4 +16,5 @@ jobs:
           cache: npm
       - run: npm ci
       # `npm run build` runs tsc first, so this covers type checking too.
+      - run: npm test
       - run: npm run build

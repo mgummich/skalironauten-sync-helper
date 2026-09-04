@@ -111,12 +111,3 @@ export function isFirstWorkdayOfMonth(date: Date): boolean {
   }
   return true;
 }
-
-if (import.meta.env.DEV) {
-  // Self-check against the handoff's 2026 holiday list.
-  const expect = ['2026-01-01', '2026-04-03', '2026-04-06', '2026-05-01', '2026-05-14', '2026-05-25', '2026-10-03', '2026-12-25', '2026-12-26'];
-  const got = [...holidaysForYear(2026)].sort();
-  console.assert(JSON.stringify(got) === JSON.stringify(expect), 'holiday mismatch', got);
-  console.assert(isFirstWorkdayOfWeek(parseISODate('2026-04-07')), 'Tue after Ostermontag should be first workday');
-  console.assert(!isFirstWorkdayOfWeek(parseISODate('2026-04-08')), 'Wed after Ostermontag not first');
-}
