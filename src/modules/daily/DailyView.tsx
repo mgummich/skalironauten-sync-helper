@@ -17,16 +17,16 @@ import { getPendingDraw, getMoodImageUrl, drawMoodImage } from '../mood/moodMana
 import { AktionstagCard } from './AktionstagCard';
 import { MoodCheckModal } from './MoodCheckModal';
 import type { DailyTarget } from '../ui/AppShell';
-import { cx, BTN_OUTLINE, BTN_RED, INPUT, FOCUS } from '../ui/cls';
+import { cx, BADGE_AMBER, BTN_PRIMARY, BTN_SECONDARY, BTN_TERTIARY, CARD, CARD_RAISED, INPUT, PILL, FOCUS } from '../ui/cls';
 
 interface Props {
   target: DailyTarget;
   onDateChange: (date: Date) => void;
+  /** Changes when the Moods gallery handed over an image; reopens the Mood Check. */
+  openMoodRequest: number;
 }
 
-const PILL = 'inline-flex h-7 items-center rounded-full px-2.5 text-sm font-medium';
-
-export const DailyView = ({ target, onDateChange }: Props) => {
+export const DailyView = ({ target, onDateChange, openMoodRequest }: Props) => {
   const { date } = target;
   const iso = formatDateToISO(date);
   const entries = getActionDaysForDate(date);
@@ -49,6 +49,10 @@ export const DailyView = ({ target, onDateChange }: Props) => {
     setNotesSaved(hasSavedNotes(iso));
     setMoodOpen(null);
   }, [iso, target]); // eslint-disable-line react-hooks/exhaustive-deps
+
+  useEffect(() => {
+    if (openMoodRequest > 0) setMoodOpen(getPendingDraw(iso));
+  }, [openMoodRequest]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const updateNotes = (patch: Partial<Notes>) => {
     const next = { ...notes, ...patch };
@@ -80,13 +84,13 @@ export const DailyView = ({ target, onDateChange }: Props) => {
   return (
     <div className="space-y-4 lg:space-y-6">
       {/* Date row */}
-      <section aria-label="Datum" className="flex flex-col items-center gap-3">
-        <div className="flex w-full items-center justify-between gap-3">
-          <button type="button" aria-label="Vortag" onClick={() => onDateChange(addDays(date, -1))} className={cx('h-11 w-11', BTN_OUTLINE)}>
+      <section aria-label="Datum" className="flex flex-col items-center gap-2.5">
+        <div className="flex w-full items-center justify-between gap-2">
+          <button type="button" aria-label="Vortag" onClick={() => onDateChange(addDays(date, -1))} className={cx('h-11 w-11 shrink-0', BTN_TERTIARY)}>
             <ChevronLeft className="h-5 w-5" aria-hidden />
           </button>
           <div className="text-center">
-            <p className="text-sm text-gray-600 lg:hidden">
+            <p className="text-sm text-slate-600 lg:hidden">
               {getGermanWeekday(date)}
               {isToday(date) && ' · Heute'}
             </p>
@@ -95,7 +99,7 @@ export const DailyView = ({ target, onDateChange }: Props) => {
               {formatDateNoWeekday(date)}
             </h2>
           </div>
-          <button type="button" aria-label="Nächster Tag" onClick={() => onDateChange(addDays(date, 1))} className={cx('h-11 w-11', BTN_OUTLINE)}>
+          <button type="button" aria-label="Nächster Tag" onClick={() => onDateChange(addDays(date, 1))} className={cx('h-11 w-11 shrink-0', BTN_TERTIARY)}>
             <ChevronRight className="h-5 w-5" aria-hidden />
           </button>
         </div>
@@ -103,12 +107,12 @@ export const DailyView = ({ target, onDateChange }: Props) => {
           {workday ? (
             <span className={cx(PILL, 'bg-emerald-100 text-emerald-700')}>Arbeitstag</span>
           ) : (
-            <span className={cx(PILL, 'bg-gray-200 text-gray-700')}>Wochenende / Feiertag</span>
+            <span className={cx(PILL, 'bg-slate-200 text-slate-700')}>Wochenende / Feiertag</span>
           )}
           {firstOfWeek && <span className={cx(PILL, 'bg-amber-100 text-amber-800')}>1. Arbeitstag der Woche</span>}
           {firstOfMonth && <span className={cx(PILL, 'bg-amber-100 text-amber-800')}>1. Arbeitstag des Monats</span>}
           {!isToday(date) && (
-            <button type="button" onClick={() => onDateChange(new Date())} className={cx(PILL, 'border border-gray-300 bg-white text-gray-700 hover:bg-gray-100', FOCUS)}>
+            <button type="button" onClick={() => onDateChange(new Date())} className={cx(PILL, 'border border-slate-300 text-slate-700 hover:bg-slate-200', FOCUS)}>
               Zu heute
             </button>
           )}
@@ -119,10 +123,7 @@ export const DailyView = ({ target, onDateChange }: Props) => {
 
       <div className="space-y-4 lg:grid lg:grid-cols-[5fr_7fr] lg:gap-6 lg:space-y-0">
         {/* Mood card */}
-        <section
-          aria-label="Mood Check"
-          className={cx('rounded-lg border bg-white p-4', !mood && firstOfWeek ? 'border-amber-500' : 'border-gray-300')}
-        >
+        <section aria-label="Mood Check" className={cx('p-4', mood ? CARD : CARD_RAISED)}>
           {mood ? (
             <div className="flex items-center gap-3">
               <Thumb id={thumbId} size="h-14 w-14" />
@@ -130,28 +131,28 @@ export const DailyView = ({ target, onDateChange }: Props) => {
                 <p className="text-lg font-semibold">
                   Stimmung <span className="text-red-700">{mood.value}</span> von 9
                 </p>
-                <p className="text-sm text-gray-600">
+                <p className="text-sm text-slate-600">
                   Mood Check gespeichert · {new Date(mood.savedAt).toLocaleTimeString('de-DE', { hour: '2-digit', minute: '2-digit' })}
                 </p>
               </div>
-              <button type="button" onClick={openMood} className={cx('h-11 px-4 font-semibold', BTN_OUTLINE)}>
+              <button type="button" onClick={openMood} className={cx('h-11 shrink-0 px-4 text-base', BTN_TERTIARY)}>
                 Ändern
               </button>
             </div>
           ) : (
             <>
-              <div className="flex items-center gap-3">
-                <Thumb id={thumbId} size={firstOfWeek ? 'h-16 w-16' : 'h-22 w-22'} />
+              <div className="flex items-center gap-3.5">
+                <Thumb id={thumbId} size={firstOfWeek ? 'h-16 w-16' : 'h-[88px] w-[88px]'} />
                 <div className="min-w-0">
                   <p className="text-lg font-semibold">Mood Check</p>
                   {firstOfWeek ? (
-                    <p className="text-sm font-medium text-amber-800">Erster Arbeitstag der Woche – noch offen</p>
+                    <span className={cx('mt-1', BADGE_AMBER)}>Erster Arbeitstag der Woche · offen</span>
                   ) : (
-                    <p className="text-sm text-gray-600">Noch keine Stimmung für heute. Ein Bild, eine Zahl von 1 bis 9.</p>
+                    <p className="text-sm text-slate-600">Noch keine Stimmung für heute. Ein Bild, eine Zahl von 1 bis 9.</p>
                   )}
                 </div>
               </div>
-              <button type="button" onClick={openMood} className={cx('mt-3 h-12 w-full', BTN_RED)}>
+              <button type="button" onClick={openMood} className={cx('mt-3.5 h-12 w-full text-base', BTN_PRIMARY)}>
                 Mood Check starten
               </button>
             </>
@@ -159,10 +160,11 @@ export const DailyView = ({ target, onDateChange }: Props) => {
         </section>
 
         {/* Notes */}
-        <section aria-label="Standup-Notizen" className="lg:rounded-lg lg:border lg:border-gray-300 lg:bg-white lg:p-5">
-          <div className="flex items-baseline justify-between">
+        {/* No card on mobile: the notes sit directly on the page background. */}
+        <section aria-label="Standup-Notizen" className="lg:rounded-lg lg:bg-white lg:p-5 lg:shadow-[0_2px_8px_rgba(0,0,0,.08)]">
+          <div className="flex items-baseline justify-between px-1 lg:px-0">
             <h3 className="text-base font-semibold">Standup-Notizen</h3>
-            <span className="text-sm text-gray-600">{notesSaved ? 'gespeichert' : 'wird pro Tag gespeichert'}</span>
+            <span className="text-sm text-slate-600">{notesSaved ? 'gespeichert' : 'wird pro Tag gespeichert'}</span>
           </div>
           <div className="mt-3 space-y-3 lg:grid lg:grid-cols-3 lg:gap-3 lg:space-y-0">
             {(
@@ -173,14 +175,14 @@ export const DailyView = ({ target, onDateChange }: Props) => {
               ] as const
             ).map(([key, label, placeholder]) => (
               <label key={key} className="block">
-                <span className="mb-1 block text-sm font-medium text-gray-700">{label}</span>
+                <span className="mb-1 block text-sm font-semibold">{label}</span>
                 <input
                   type="text"
                   value={notes[key]}
                   placeholder={placeholder}
                   onChange={(e) => updateNotes({ [key]: e.target.value })}
                   onBlur={() => saveNotes(iso, notes)}
-                  className={INPUT}
+                  className={cx(INPUT, 'lg:bg-white')}
                 />
               </label>
             ))}
@@ -190,15 +192,14 @@ export const DailyView = ({ target, onDateChange }: Props) => {
               type="button"
               onClick={copyStandup}
               className={cx(
-                'inline-flex h-12 w-full items-center justify-center gap-2 rounded-md font-semibold text-white transition-colors duration-200 motion-reduce:transition-none lg:h-11 lg:w-auto lg:px-5',
-                copied ? 'bg-emerald-700' : 'bg-gray-900 hover:bg-gray-800',
-                FOCUS
+                'h-12 w-full text-base duration-200 lg:h-11 lg:w-auto lg:px-5',
+                copied ? 'inline-flex items-center justify-center gap-2 rounded-full bg-emerald-700 font-semibold text-white ' + FOCUS : BTN_SECONDARY
               )}
             >
               {copied ? <Check className="h-5 w-5" aria-hidden /> : <Copy className="h-5 w-5" aria-hidden />}
               {copied ? 'Kopiert' : 'Standup-Text kopieren'}
             </button>
-            <p className="mt-2 text-center text-sm text-gray-600 lg:mt-0 lg:text-left" aria-live="polite">
+            <p className="mt-2 text-center text-sm text-slate-600 lg:mt-0 lg:text-left" aria-live="polite">
               {copied ? (
                 'Datum, Aktionstag und Notizen sind in der Zwischenablage.'
               ) : (
@@ -215,6 +216,7 @@ export const DailyView = ({ target, onDateChange }: Props) => {
           iso={iso}
           imageId={moodOpen}
           initialValue={mood?.value}
+          onImageChange={setMoodOpen}
           onSaved={() => setMood(getMood(iso))}
           onClose={() => setMoodOpen(null)}
         />
@@ -223,9 +225,6 @@ export const DailyView = ({ target, onDateChange }: Props) => {
   );
 };
 
-const Thumb = ({ id, size }: { id: string; size: string }) => {
-  const url = getMoodImageUrl(id);
-  const cls = cx(size, 'shrink-0 rounded border border-gray-300 object-cover bg-gray-100');
-  return <img src={url} alt="" className={cls} />;
-};
-
+const Thumb = ({ id, size }: { id: string; size: string }) => (
+  <img src={getMoodImageUrl(id)} alt="" className={cx(size, 'shrink-0 rounded border border-slate-300 bg-slate-100 object-cover')} />
+);

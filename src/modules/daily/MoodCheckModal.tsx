@@ -1,16 +1,20 @@
 import { useState, KeyboardEvent } from 'react';
 import { X, ZoomIn, Image as ImageIcon, Check } from 'lucide-react';
 import { Sheet, useSheetClose } from '../ui/Sheet';
-import { getMoodImageUrl, clearPendingDraw } from '../mood/moodManager';
+import { Lightbox } from '../ui/Lightbox';
+import { MoodsView } from '../mood/MoodsView';
+import { getMoodImage, getMoodImageUrl, getMoodUsage } from '../mood/moodLibrary';
+import { clearPendingDraw, getMoodPick, setMoodPick } from '../mood/moodManager';
 import { saveMood } from '../data/storage';
 import { formatDateLong } from '../data/dateUtils';
-import { cx, BTN_GHOST, BTN_RED, FOCUS } from '../ui/cls';
+import { cx, BTN_DISABLED, BTN_ICON, BTN_PRIMARY, BTN_SECONDARY, BTN_TERTIARY, FOCUS } from '../ui/cls';
 
 interface Props {
   date: Date;
   iso: string;
   imageId: string;
   initialValue?: number;
+  onImageChange: (imageId: string) => void;
   onSaved: () => void;
   onClose: () => void;
 }
@@ -23,13 +27,18 @@ export const MoodCheckModal = (props: Props) => (
   </Sheet>
 );
 
-const MoodCheckBody = ({ date, iso, imageId, initialValue, onSaved }: Props) => {
+const MoodCheckBody = ({ date, iso, imageId, initialValue, onImageChange, onSaved }: Props) => {
   const close = useSheetClose();
   const [selected, setSelected] = useState<number | null>(initialValue ?? null);
   const [saved, setSaved] = useState<number | null>(null);
   const [loaded, setLoaded] = useState(false);
   const [lightbox, setLightbox] = useState(false);
+  const [picker, setPicker] = useState(false);
+  const picked = getMoodPick(iso) === imageId;
   const url = getMoodImageUrl(imageId);
+  const image = getMoodImage(imageId);
+  const usage = getMoodUsage().get(imageId) ?? [];
+  const lastUse = usage[0] && `${usage[0].iso.slice(8, 10)}.${usage[0].iso.slice(5, 7)}.`;
 
   const save = () => {
     if (selected === null) return;
@@ -37,6 +46,13 @@ const MoodCheckBody = ({ date, iso, imageId, initialValue, onSaved }: Props) => 
     clearPendingDraw(iso);
     setSaved(selected);
     onSaved();
+  };
+
+  const pick = (id: string) => {
+    setMoodPick(iso, id);
+    onImageChange(id);
+    setLoaded(false);
+    setPicker(false);
   };
 
   const onKey = (e: KeyboardEvent<HTMLDivElement>) => {
@@ -53,46 +69,57 @@ const MoodCheckBody = ({ date, iso, imageId, initialValue, onSaved }: Props) => 
       <div className="flex items-start justify-between gap-3">
         <div>
           <h2 className="text-xl font-semibold lg:text-[22px]">Mood Check</h2>
-          <p className="text-sm text-gray-600">{formatDateLong(date)}</p>
+          <p className="text-sm text-slate-600">{formatDateLong(date)}</p>
         </div>
-        <button type="button" aria-label="Schließen" onClick={close} className={cx('h-11 w-11 -mr-2 -mt-1', BTN_GHOST)}>
+        <button type="button" aria-label="Schließen" onClick={close} className={cx('-mr-2 -mt-1 h-11 w-11 shrink-0', BTN_ICON)}>
           <X className="h-5 w-5" aria-hidden />
         </button>
       </div>
 
-      <div className="relative mt-4 aspect-[4/3] overflow-hidden rounded-md border border-gray-200 bg-gray-100 lg:aspect-[16/10]">
+      <div className="relative mt-4 aspect-[4/3] overflow-hidden rounded-md border border-slate-200 bg-slate-100 lg:aspect-[16/10]">
         {!loaded && (
-          <div className="absolute inset-0 flex flex-col items-center justify-center gap-2 text-gray-600">
+          <div className="absolute inset-0 flex flex-col items-center justify-center gap-2 text-slate-600">
             <ImageIcon className="h-7 w-7" aria-hidden />
             <span className="text-sm">Bild wird geladen …</span>
           </div>
         )}
         <img
+          key={imageId}
           src={url}
           alt="Mood-Skala, Raster aus 9 Feldern"
           onLoad={() => setLoaded(true)}
           className={cx('h-full w-full object-contain', !loaded && 'invisible')}
         />
+        {loaded && image && (
+          <span className="absolute bottom-2 left-2 inline-flex h-7 max-w-[60%] items-center truncate rounded border border-slate-300 bg-white/90 px-2.5 text-sm text-slate-700">
+            {image.title}
+          </span>
+        )}
         <button
           type="button"
           aria-label="Bild vergrößern"
           disabled={!loaded}
           onClick={() => setLightbox(true)}
-          className={cx('absolute bottom-2 right-2 h-11 w-11 border border-gray-300 bg-white/90', BTN_GHOST)}
+          className={cx('absolute bottom-2 right-2 h-11 w-11 border border-slate-300 bg-white/90 text-slate-700 hover:bg-white', BTN_ICON)}
         >
           <ZoomIn className="h-5 w-5" aria-hidden />
         </button>
       </div>
 
-      <p id="mood-label" className="mt-4 text-sm font-medium text-gray-700">
+      <div className="mt-4 flex items-center justify-between gap-2">
+        <span className="min-w-0 truncate text-sm text-slate-600">
+          {picked ? 'Selbst gewählt' : 'Zufallsvorschlag'}
+          {usage.length ? ` · ${usage.length}× genutzt (${lastUse})` : ' · noch ungenutzt'}
+        </span>
+        <button type="button" onClick={() => setPicker(true)} className={cx('h-9 shrink-0 px-3.5 text-sm', BTN_SECONDARY)}>
+          Anderes Bild wählen
+        </button>
+      </div>
+
+      <p id="mood-label" className="mt-4 text-sm font-medium text-slate-700">
         Welches Feld bist du heute? (1–9)
       </p>
-      <div
-        role="radiogroup"
-        aria-labelledby="mood-label"
-        onKeyDown={onKey}
-        className="mt-2 grid grid-cols-3 gap-2 lg:grid-cols-9"
-      >
+      <div role="radiogroup" aria-labelledby="mood-label" onKeyDown={onKey} className="mt-2 grid grid-cols-3 gap-2 lg:grid-cols-9">
         {VALUES.map((v) => {
           const on = selected === v;
           return (
@@ -106,7 +133,7 @@ const MoodCheckBody = ({ date, iso, imageId, initialValue, onSaved }: Props) => 
               onClick={() => setSelected(v)}
               className={cx(
                 'h-12 rounded-md border text-lg transition-colors duration-150 motion-reduce:transition-none',
-                on ? 'border-red-700 bg-red-600 font-bold text-white' : 'border-gray-300 bg-gray-100 font-semibold hover:bg-gray-200',
+                on ? 'border-red-700 bg-red-600 font-bold text-white' : 'border-slate-300 bg-slate-100 font-semibold hover:bg-slate-200',
                 FOCUS
               )}
             >
@@ -121,11 +148,7 @@ const MoodCheckBody = ({ date, iso, imageId, initialValue, onSaved }: Props) => 
           <span className="inline-flex items-center gap-2 font-semibold text-emerald-700">
             <Check className="h-5 w-5" aria-hidden /> Gespeichert: {saved} von 9
           </span>
-          <button
-            type="button"
-            onClick={close}
-            className={cx('h-11 rounded-md border border-gray-300 bg-gray-100 px-4 font-semibold hover:bg-gray-200', FOCUS)}
-          >
+          <button type="button" onClick={close} className={cx('h-11 px-4 text-base', BTN_TERTIARY)}>
             Schließen
           </button>
         </div>
@@ -135,33 +158,17 @@ const MoodCheckBody = ({ date, iso, imageId, initialValue, onSaved }: Props) => 
         type="button"
         disabled={selected === null || selected === saved}
         onClick={save}
-        className={cx(
-          'mt-4 h-12 w-full',
-          selected === null || selected === saved
-            ? `inline-flex items-center justify-center rounded-md bg-gray-200 font-semibold text-gray-600 ${FOCUS}`
-            : BTN_RED
-        )}
+        className={cx('mt-4 h-12 w-full text-base', selected === null || selected === saved ? BTN_DISABLED : BTN_PRIMARY)}
       >
         {selected === null ? 'Stimmung speichern' : `Stimmung ${selected} speichern`}
       </button>
 
-      {lightbox && (
-        <Sheet label="Bild in Originalgröße" variant="lightbox" onClose={() => setLightbox(false)}>
-          <Lightbox url={url} />
+      {lightbox && <Lightbox url={url} onClose={() => setLightbox(false)} />}
+      {picker && (
+        <Sheet label="Mood-Bild wählen" onClose={() => setPicker(false)}>
+          <MoodsView pickMode onChooseForToday={pick} />
         </Sheet>
       )}
-    </div>
-  );
-};
-
-const Lightbox = ({ url }: { url: string }) => {
-  const close = useSheetClose();
-  return (
-    <div className="flex h-full w-full items-center justify-center p-4" onClick={close}>
-      <img src={url} alt="Mood-Skala in Originalgröße" className="max-h-full max-w-full object-contain" />
-      <button type="button" aria-label="Schließen" onClick={close} className={cx('absolute right-4 top-4 h-11 w-11 bg-white', BTN_GHOST)}>
-        <X className="h-5 w-5" aria-hidden />
-      </button>
     </div>
   );
 };

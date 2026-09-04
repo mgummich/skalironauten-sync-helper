@@ -26,7 +26,7 @@ export const MonthGrid = ({ year, monthIndex, filters, selectedDate, size, showT
   return (
     <div>
       {showTitle && <h3 className="mb-2 text-base font-semibold">{getGermanMonth(monthIndex)}</h3>}
-      <div className="grid grid-cols-7 gap-1 text-center text-sm text-gray-600" aria-hidden>
+      <div className="grid grid-cols-7 gap-1 text-center text-sm text-slate-600" aria-hidden>
         {WEEKDAYS.map((w) => (
           <div key={w}>{w}</div>
         ))}
@@ -50,9 +50,9 @@ export const MonthGrid = ({ year, monthIndex, filters, selectedDate, size, showT
                 selected
                   ? 'border border-red-600 bg-red-600 text-white'
                   : isWorkday(d)
-                    ? 'border border-gray-200 bg-white text-gray-900 hover:bg-gray-50'
-                    : 'border border-gray-100 bg-gray-100 text-gray-600 hover:bg-gray-200',
-                today && !selected && 'border-2 border-gray-900',
+                    ? 'border border-slate-200 bg-white text-slate-900 hover:bg-slate-50'
+                    : 'border border-slate-100 bg-slate-100 text-slate-600 hover:bg-slate-200',
+                today && !selected && 'border-2 border-slate-900',
                 today ? 'font-bold' : 'font-medium',
                 FOCUS
               )}
@@ -62,7 +62,7 @@ export const MonthGrid = ({ year, monthIndex, filters, selectedDate, size, showT
                 {isFirstWorkdayOfWeek(d) && (
                   <span className={cx('h-1.5 w-1.5 rounded-full', selected ? 'bg-white' : 'bg-amber-600')} aria-hidden />
                 )}
-                {count > 0 && <span className={cx('text-sm', selected ? 'text-white' : 'text-gray-600')}>{count}</span>}
+                {count > 0 && <span className={cx('text-sm', selected ? 'text-white' : 'text-slate-600')}>{count}</span>}
               </span>
             </button>
           );

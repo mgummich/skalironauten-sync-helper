@@ -49,7 +49,7 @@ export const Sheet = ({ label, onClose, children, variant = 'sheet' }: SheetProp
       }}
       onClick={(e) => e.target === e.currentTarget && close()}
       className={cx(
-        'fixed m-0 p-0 max-w-none max-h-none bg-transparent text-gray-900 motion-reduce:animate-none',
+        'fixed m-0 p-0 max-w-none max-h-none bg-transparent text-slate-900 motion-reduce:animate-none',
         variant === 'sheet' &&
           'inset-x-0 bottom-0 top-auto w-full open:animate-sheet-in lg:inset-0 lg:top-0 lg:m-auto lg:w-[640px] lg:h-fit lg:open:animate-dialog-in',
         variant === 'lightbox' && 'inset-0 w-full h-full open:animate-fade-in'
@@ -57,8 +57,8 @@ export const Sheet = ({ label, onClose, children, variant = 'sheet' }: SheetProp
     >
       <CloseCtx.Provider value={close}>
         {variant === 'sheet' ? (
-          <div className="bg-white rounded-t-xl p-4 pb-6 max-h-[90dvh] overflow-y-auto lg:rounded-lg lg:p-6 lg:shadow-[0_24px_60px_rgba(0,0,0,0.3)]">
-            <div className="mx-auto mb-3 h-1 w-10 rounded-full bg-gray-300 lg:hidden" aria-hidden />
+          <div className="bg-white rounded-t-xl p-4 pb-6 max-h-[90dvh] overflow-y-auto lg:rounded-lg lg:p-6 shadow-[0_-12px_40px_rgba(0,0,0,.25)] lg:shadow-[0_24px_60px_rgba(0,0,0,0.3)]">
+            <div className="mx-auto mb-3 h-1 w-10 rounded-full bg-slate-300 lg:hidden" aria-hidden />
             {children}
           </div>
         ) : (

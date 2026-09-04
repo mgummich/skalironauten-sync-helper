@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { Search, X, Check } from 'lucide-react';
 import { Sheet, useSheetClose } from '../ui/Sheet';
 import { REGIONS } from '../data/dataLoader';
-import { cx, BTN_GHOST, INPUT, FOCUS } from '../ui/cls';
+import { cx, BTN_ICON, INPUT, FOCUS } from '../ui/cls';
 
 interface Props {
   value: string;
@@ -29,12 +29,12 @@ const Body = ({ value, onChange }: Props) => {
     <div>
       <div className="flex items-center justify-between">
         <h2 className="text-xl font-semibold lg:text-[22px]">Region</h2>
-        <button type="button" aria-label="Schließen" onClick={close} className={cx('h-11 w-11 -mr-2', BTN_GHOST)}>
+        <button type="button" aria-label="Schließen" onClick={close} className={cx('h-11 w-11 -mr-2', BTN_ICON)}>
           <X className="h-5 w-5" aria-hidden />
         </button>
       </div>
       <div className="relative mt-3">
-        <Search className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-gray-600" aria-hidden />
+        <Search className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-slate-600" aria-hidden />
         <input
           type="search"
           role="combobox"
@@ -56,7 +56,7 @@ const Body = ({ value, onChange }: Props) => {
               type="button"
               onClick={() => pick(r)}
               className={cx(
-                'flex min-h-11 w-full items-center justify-between rounded-md px-3 text-left text-base hover:bg-gray-100',
+                'flex min-h-11 w-full items-center justify-between border-b border-slate-200 px-3 text-left text-base hover:bg-slate-100',
                 r === value && 'font-semibold',
                 FOCUS
               )}
@@ -66,7 +66,7 @@ const Body = ({ value, onChange }: Props) => {
             </button>
           </li>
         ))}
-        {options.length === 1 && <li className="px-3 py-2 text-sm text-gray-600">Keine Region gefunden.</li>}
+        {options.length === 1 && <li className="px-3 py-2 text-sm text-slate-600">Keine Region gefunden.</li>}
       </ul>
     </div>
   );

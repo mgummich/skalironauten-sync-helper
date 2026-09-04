@@ -1,6 +1,10 @@
 // Storage contracts (see design handoff):
 //   notes:{YYYY-MM-DD} -> { gestern, heute, blocker }
 //   mood:{YYYY-MM-DD}  -> { value 1-9, imageId, savedAt }
+//   moodPick:{YYYY-MM-DD} -> image id chosen from the gallery for that day
+//   moodImages         -> metadata of the uploaded images (blobs live in IndexedDB)
+//   moodPick:{YYYY-MM-DD} -> image id chosen from the gallery for that day
+//   moodImages         -> metadata of the uploaded images (blobs live in IndexedDB)
 //   ui                 -> { lastRoute, calendarMonth, filters }
 import type { Filters } from './dataLoader';
 
@@ -48,8 +52,20 @@ export interface Mood {
 export const getMood = (iso: string): Mood | null => read<Mood | null>(`mood:${iso}`, null);
 export const saveMood = (iso: string, mood: Mood): void => write(`mood:${iso}`, mood);
 
+/** Every saved mood, in no particular order — the source for image usage counts. */
+export function readMoodEntries(): { iso: string; mood: Mood }[] {
+  const entries: { iso: string; mood: Mood }[] = [];
+  for (let i = 0; i < store.length; i++) {
+    const key = store.key(i);
+    if (!key?.startsWith('mood:')) continue;
+    const mood = read<Mood | null>(key, null);
+    if (mood?.imageId) entries.push({ iso: key.slice('mood:'.length), mood });
+  }
+  return entries;
+}
+
 export interface UiState {
-  lastRoute: 'daily' | 'calendar';
+  lastRoute: 'daily' | 'calendar' | 'moods';
   calendarMonth: string; // YYYY-MM
   filters: Filters;
 }

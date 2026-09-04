@@ -6,7 +6,7 @@ import { RegionPicker } from './RegionPicker';
 import { CATEGORIES, shortCategory, Filters } from '../data/dataLoader';
 import { getGermanMonth } from '../data/dateUtils';
 import { getUi, patchUi } from '../data/storage';
-import { cx, BTN_OUTLINE, INPUT, FOCUS } from '../ui/cls';
+import { cx, BTN_TERTIARY, INPUT, FOCUS } from '../ui/cls';
 
 interface Props {
   onShowInStandup: (date: Date, entryIndex: number) => void;
@@ -56,8 +56,10 @@ export const CalendarView = ({ onShowInStandup }: Props) => {
       aria-pressed={filters.category === value}
       onClick={() => setFilters({ category: value })}
       className={cx(
-        'h-9 shrink-0 rounded-full px-3.5 text-sm font-medium transition-colors motion-reduce:transition-none',
-        filters.category === value ? 'bg-red-600 text-white' : 'border border-gray-300 bg-white text-gray-700 hover:bg-gray-100',
+        'h-9 shrink-0 rounded-full px-3.5 text-sm transition-colors motion-reduce:transition-none',
+        filters.category === value
+          ? 'border border-red-600 bg-red-600 font-semibold text-white'
+          : 'border border-slate-400 font-medium text-slate-900 hover:bg-slate-100',
         FOCUS
       )}
     >
@@ -67,20 +69,20 @@ export const CalendarView = ({ onShowInStandup }: Props) => {
 
   const search = (width: string) => (
     <div className={cx('relative', width)}>
-      <Search className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-gray-600" aria-hidden />
+      <Search className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-slate-600" aria-hidden />
       <input
         type="search"
         aria-label="Aktionstag suchen"
         value={filters.q}
         onChange={(e) => setFilters({ q: e.target.value })}
         placeholder="Aktionstag suchen …"
-        className={cx(INPUT, 'pl-9')}
+        className={cx(INPUT, 'pl-9 lg:bg-white')}
       />
     </div>
   );
 
   const regionButton = (
-    <button type="button" onClick={() => setRegionOpen(true)} className={cx('h-11 px-3 text-base', BTN_OUTLINE)}>
+    <button type="button" onClick={() => setRegionOpen(true)} className={cx('h-11 w-full px-4 text-base lg:w-auto', BTN_TERTIARY)}>
       Region:&nbsp;<span className="font-semibold">{filters.region || 'Alle'}</span>
       <ChevronDown className="ml-1 h-4 w-4" aria-hidden />
     </button>
@@ -103,7 +105,7 @@ export const CalendarView = ({ onShowInStandup }: Props) => {
         </div>
 
         <div className="mt-4 flex items-center justify-between">
-          <button type="button" aria-label="Vormonat" disabled={monthIdx === 0} onClick={() => setMonth(MONTHS[monthIdx - 1])} className={cx('h-11 w-11', BTN_OUTLINE)}>
+          <button type="button" aria-label="Vormonat" disabled={monthIdx === 0} onClick={() => setMonth(MONTHS[monthIdx - 1])} className={cx('h-11 w-11', BTN_TERTIARY)}>
             <ChevronLeft className="h-5 w-5" aria-hidden />
           </button>
           <div className="relative">
@@ -126,7 +128,7 @@ export const CalendarView = ({ onShowInStandup }: Props) => {
               })}
             </select>
           </div>
-          <button type="button" aria-label="Nächster Monat" disabled={monthIdx === MONTHS.length - 1} onClick={() => setMonth(MONTHS[monthIdx + 1])} className={cx('h-11 w-11', BTN_OUTLINE)}>
+          <button type="button" aria-label="Nächster Monat" disabled={monthIdx === MONTHS.length - 1} onClick={() => setMonth(MONTHS[monthIdx + 1])} className={cx('h-11 w-11', BTN_TERTIARY)}>
             <ChevronRight className="h-5 w-5" aria-hidden />
           </button>
         </div>
@@ -135,7 +137,7 @@ export const CalendarView = ({ onShowInStandup }: Props) => {
           <MonthGrid year={mY} monthIndex={mM - 1} size="mobile" {...gridProps} />
         </div>
         <Legend compact />
-        <button type="button" onClick={jumpToday} className={cx('mt-4 h-11 w-full font-semibold', BTN_OUTLINE)}>
+        <button type="button" onClick={jumpToday} className={cx('mt-4 h-11 w-full font-semibold', BTN_TERTIARY)}>
           Zu heute springen
         </button>
       </div>
@@ -143,14 +145,14 @@ export const CalendarView = ({ onShowInStandup }: Props) => {
       {/* Desktop */}
       <div className="hidden lg:block">
         <div className="flex flex-wrap items-center gap-3">
-          <div role="group" aria-label="Jahr" className="flex rounded-md bg-gray-200 p-1">
+          <div role="group" aria-label="Jahr" className="flex rounded-md bg-slate-200 p-1">
             {YEARS.map((y) => (
               <button
                 key={y}
                 type="button"
                 aria-pressed={year === y}
                 onClick={() => setYear(y)}
-                className={cx('h-9 rounded px-4 text-base font-semibold tabular-nums', year === y ? 'bg-white shadow-sm' : 'text-gray-700 hover:bg-gray-100', FOCUS)}
+                className={cx('h-9 rounded px-4 text-base font-semibold tabular-nums', year === y ? 'bg-white shadow-sm' : 'text-slate-700', FOCUS)}
               >
                 {y}
               </button>
@@ -162,7 +164,7 @@ export const CalendarView = ({ onShowInStandup }: Props) => {
             <select
               value={filters.category}
               onChange={(e) => setFilters({ category: e.target.value })}
-              className={cx(INPUT, 'w-auto appearance-none pr-9')}
+              className={cx(INPUT, 'w-auto appearance-none bg-white pr-9')}
             >
               <option value="">Kategorie: Alle</option>
               {CATEGORIES.map((c) => (
@@ -171,11 +173,11 @@ export const CalendarView = ({ onShowInStandup }: Props) => {
                 </option>
               ))}
             </select>
-            <ChevronDown className="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-gray-600" aria-hidden />
+            <ChevronDown className="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-slate-600" aria-hidden />
           </label>
           {regionButton}
           <div className="flex-1" />
-          <button type="button" onClick={jumpToday} className={cx('h-11 px-4 font-semibold', BTN_OUTLINE)}>
+          <button type="button" onClick={jumpToday} className={cx('h-11 px-4 font-semibold', BTN_TERTIARY)}>
             Heute
           </button>
         </div>
@@ -195,21 +197,21 @@ export const CalendarView = ({ onShowInStandup }: Props) => {
 };
 
 const Legend = ({ compact }: { compact?: boolean }) => (
-  <ul className="mt-4 flex flex-wrap gap-x-4 gap-y-1 text-sm text-gray-600" aria-label="Legende">
+  <ul className="mt-4 flex flex-wrap gap-x-4 gap-y-1 text-sm text-slate-600" aria-label="Legende">
     {!compact && (
       <li className="flex items-center gap-1.5">
-        <span className="h-3.5 w-3.5 rounded border border-gray-200 bg-white" aria-hidden /> Arbeitstag
+        <span className="h-3.5 w-3.5 rounded border border-slate-200 bg-white" aria-hidden /> Arbeitstag
       </li>
     )}
     <li className="flex items-center gap-1.5">
-      <span className="h-3.5 w-3.5 rounded bg-gray-200" aria-hidden /> Wochenende / Feiertag
+      <span className="h-3.5 w-3.5 rounded bg-slate-200" aria-hidden /> Wochenende / Feiertag
     </li>
     <li className="flex items-center gap-1.5">
       <span className="h-1.5 w-1.5 rounded-full bg-amber-600" aria-hidden /> 1. Arbeitstag der Woche
     </li>
     {!compact && (
       <li className="flex items-center gap-1.5">
-        <span className="h-3.5 w-3.5 rounded border-2 border-gray-900" aria-hidden /> Heute
+        <span className="h-3.5 w-3.5 rounded border-2 border-slate-900" aria-hidden /> Heute
       </li>
     )}
     <li>Zahl = Aktionstage{compact ? '' : ' am Tag'}</li>

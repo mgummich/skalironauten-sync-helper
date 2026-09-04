@@ -22,7 +22,7 @@
 }
 
 dialog::backdrop {
-  background: rgb(17 24 39 / 0.55);
+  background: rgb(15 23 42 / 0.55);
   animation: fade-in 200ms ease-out;
 }
 
