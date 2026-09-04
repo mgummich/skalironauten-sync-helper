@@ -1,15 +1,15 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
+import { getActionDaysForDate } from '../data/dataLoader';
 import {
-  getActionDaysForDate,
   isWorkday,
   isFirstWorkdayOfWeek,
   isFirstWorkdayOfMonth,
-  getAdjacentDays,
+  addDays,
   formatDateGerman,
   formatDateToISO,
   getGermanWeekday
-} from '../data';
-import { getMoodRatingForDate, getNextMoodScaleFilename } from '../mood';
+} from '../data/dateUtils';
+import { getMoodRatingForDate, getNextMoodScaleFilename } from '../mood/moodManager';
 import { ActionDayCarousel } from './ActionDayCarousel';
 import { MoodCheckModal } from './MoodCheckModal';
 import {
@@ -30,7 +30,7 @@ interface DailyViewProps {
   onDateChange: (newDate: Date) => void;
 }
 
-export const DailyView: React.FC<DailyViewProps> = ({ currentDate, onDateChange }) => {
+export const DailyView = ({ currentDate, onDateChange }: DailyViewProps) => {
   const dateStr = formatDateToISO(currentDate);
   const dateFormatted = formatDateGerman(currentDate);
   const weekdayName = getGermanWeekday(currentDate);
@@ -40,7 +40,8 @@ export const DailyView: React.FC<DailyViewProps> = ({ currentDate, onDateChange 
   const firstWorkdayWeek = isFirstWorkdayOfWeek(currentDate);
   const firstWorkdayMonth = isFirstWorkdayOfMonth(currentDate);
 
-  const adjacent = getAdjacentDays(currentDate);
+  const yesterday = addDays(currentDate, -1);
+  const tomorrow = addDays(currentDate, 1);
 
   // Mood state for date
   const [moodRating, setMoodRating] = useState(getMoodRatingForDate(dateStr));
@@ -53,15 +54,18 @@ export const DailyView: React.FC<DailyViewProps> = ({ currentDate, onDateChange 
   const [blockers, setBlockers] = useState<string>('');
   const [copied, setCopied] = useState<boolean>(false);
 
+  // Guards against drawing twice for the same date (React StrictMode re-runs effects in dev).
+  const drawnForDate = useRef<string | null>(null);
+
   // Update mood rating when date changes
   useEffect(() => {
     const existing = getMoodRatingForDate(dateStr);
     setMoodRating(existing);
 
     // Auto-trigger 1st-workday mood check if not rated yet
-    if (firstWorkdayWeek && !existing) {
-      const drawn = getNextMoodScaleFilename();
-      setCurrentScaleFile(drawn.filename);
+    if (firstWorkdayWeek && !existing && drawnForDate.current !== dateStr) {
+      drawnForDate.current = dateStr;
+      setCurrentScaleFile(getNextMoodScaleFilename().filename);
       setShowMoodModal(true);
     }
   }, [dateStr, firstWorkdayWeek]);
@@ -102,10 +106,10 @@ ${blockers || '- Keine Blocker'}`;
       <div className="glass-panel p-4 rounded-2xl flex flex-wrap items-center justify-between gap-4 border border-slate-800">
         <div className="flex items-center gap-2">
           <button
-            onClick={() => onDateChange(adjacent.yesterday)}
+            onClick={() => onDateChange(yesterday)}
             className="px-3 py-1.5 bg-slate-900 hover:bg-slate-800 text-slate-300 hover:text-white text-xs font-medium rounded-lg border border-slate-800 transition-colors flex items-center gap-1"
           >
-            <ChevronLeft className="w-3.5 h-3.5" /> Gestern ({formatDateGerman(adjacent.yesterday).slice(0, 5)})
+            <ChevronLeft className="w-3.5 h-3.5" /> Gestern ({formatDateGerman(yesterday).slice(0, 5)})
           </button>
 
           <button
@@ -116,10 +120,10 @@ ${blockers || '- Keine Blocker'}`;
           </button>
 
           <button
-            onClick={() => onDateChange(adjacent.tomorrow)}
+            onClick={() => onDateChange(tomorrow)}
             className="px-3 py-1.5 bg-slate-900 hover:bg-slate-800 text-slate-300 hover:text-white text-xs font-medium rounded-lg border border-slate-800 transition-colors flex items-center gap-1"
           >
-            Morgen ({formatDateGerman(adjacent.tomorrow).slice(0, 5)}) <ChevronRight className="w-3.5 h-3.5" />
+            Morgen ({formatDateGerman(tomorrow).slice(0, 5)}) <ChevronRight className="w-3.5 h-3.5" />
           </button>
         </div>
 

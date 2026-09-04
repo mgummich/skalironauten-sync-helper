@@ -1,10 +1,5 @@
-import React from 'react';
-import {
-  getActionDaysForDate,
-  isWorkday,
-  isFirstWorkdayOfWeek,
-  GERMAN_MONTHS
-} from '../data';
+import { getActionDaysForDate } from '../data/dataLoader';
+import { isWorkday, isFirstWorkdayOfWeek, getGermanMonth } from '../data/dateUtils';
 
 interface MonthGridProps {
   year: number;
@@ -13,13 +8,13 @@ interface MonthGridProps {
   onSelectDay: (date: Date) => void;
 }
 
-export const MonthGrid: React.FC<MonthGridProps> = ({
+export const MonthGrid = ({
   year,
   monthIndex,
   selectedDate,
   onSelectDay
-}) => {
-  const monthName = GERMAN_MONTHS[monthIndex];
+}: MonthGridProps) => {
+  const monthName = getGermanMonth(monthIndex);
 
   // Calculate days in month and starting day offset (0 = Mon, 6 = Sun in German calendar)
   const firstDayOfMonth = new Date(year, monthIndex, 1);

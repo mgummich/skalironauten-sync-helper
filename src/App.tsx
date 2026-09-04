@@ -1,8 +1,5 @@
-import React from 'react';
-import { AppShell } from './modules/ui';
+import { AppShell } from './modules/ui/AppShell';
 
-export function App() {
+export default function App() {
   return <AppShell />;
 }
-
-export default App;

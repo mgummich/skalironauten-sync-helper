@@ -1,20 +1,14 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { MonthGrid } from './MonthGrid';
 import { DayDetailModal } from './DayDetailModal';
-import {
-  getAllCategories,
-  getAllRegions,
-  searchActionDays,
-  getTotalActionDaysCount,
-  GERMAN_MONTHS
-} from '../data';
+import { getAllCategories, getAllRegions, searchActionDays, getTotalActionDaysCount } from '../data/dataLoader';
 import { Calendar as CalendarIcon, Search, Filter, Database, CheckCircle, Sparkles } from 'lucide-react';
 
 interface CalendarViewProps {
   onSelectDateForStandup: (date: Date) => void;
 }
 
-export const CalendarView: React.FC<CalendarViewProps> = ({ onSelectDateForStandup }) => {
+export const CalendarView = ({ onSelectDateForStandup }: CalendarViewProps) => {
   const [year, setYear] = useState<number>(2026);
   const [searchQuery, setSearchQuery] = useState<string>('');
   const [selectedCategory, setSelectedCategory] = useState<string>('');
@@ -38,7 +32,7 @@ export const CalendarView: React.FC<CalendarViewProps> = ({ onSelectDateForStand
               365-Tage Kalender & Aktionstage Inspector
             </h2>
             <p className="text-sm text-slate-400">
-              Übersicht aller 930 Gedenk- und Aktionstage für das Jahr {year}
+              Übersicht aller {getTotalActionDaysCount()} Gedenk- und Aktionstage für das Jahr {year}
             </p>
           </div>
 

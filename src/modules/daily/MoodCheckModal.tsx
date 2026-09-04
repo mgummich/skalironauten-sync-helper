@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { getMoodScaleUrl, saveMoodRating } from '../mood';
+import { useState } from 'react';
+import { getMoodScaleUrl, saveMoodRating } from '../mood/moodManager';
 import { Smile, Sparkles, X, Check, Eye } from 'lucide-react';
 
 interface MoodCheckModalProps {
@@ -9,12 +9,12 @@ interface MoodCheckModalProps {
   onDismiss?: () => void;
 }
 
-export const MoodCheckModal: React.FC<MoodCheckModalProps> = ({
+export const MoodCheckModal = ({
   dateStr,
   scaleFilename,
   onComplete,
   onDismiss
-}) => {
+}: MoodCheckModalProps) => {
   const [selectedRating, setSelectedRating] = useState<number | null>(null);
   const [isZoomed, setIsZoomed] = useState<boolean>(false);
   const isVideo = scaleFilename.endsWith('.mp4');

@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   app:
     build:
@@ -7,7 +5,7 @@ services:
       dockerfile: Dockerfile
     container_name: skalironauten-sync-helper
     ports:
-      - "3000:80"
+      - "3001:80"
     restart: unless-stopped
     healthcheck:
       test: ["CMD", "wget", "--spider", "-q", "http://localhost:80"]

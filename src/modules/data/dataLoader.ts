@@ -79,7 +79,3 @@ export function searchActionDays(query: string, categoryFilter?: string, regionF
     );
   });
 }
-
-export function getAllActionDays(): ActionDay[] {
-  return rawActionDays;
-}

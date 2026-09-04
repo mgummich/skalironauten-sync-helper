@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
-import { ActionDay } from '../data';
+import { useState, useEffect } from 'react';
+import { ActionDay } from '../data/types';
 import { ChevronLeft, ChevronRight, ExternalLink, Calendar, Tag, MapPin, Sparkles, BookOpen } from 'lucide-react';
 
 interface ActionDayCarouselProps {
@@ -7,7 +7,7 @@ interface ActionDayCarouselProps {
   dateFormatted: string;
 }
 
-export const ActionDayCarousel: React.FC<ActionDayCarouselProps> = ({ actionDays, dateFormatted }) => {
+export const ActionDayCarousel = ({ actionDays, dateFormatted }: ActionDayCarouselProps) => {
   const [currentIndex, setCurrentIndex] = useState<number>(0);
 
   // Reset index when actionDays array changes

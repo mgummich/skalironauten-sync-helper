@@ -1,12 +1,11 @@
-import React from 'react';
+import { getActionDaysForDate } from '../data/dataLoader';
 import {
-  getActionDaysForDate,
   isWorkday,
   isFirstWorkdayOfWeek,
   isFirstWorkdayOfMonth,
   formatDateGerman,
   getGermanWeekday
-} from '../data';
+} from '../data/dateUtils';
 import { X, Calendar, Tag, MapPin, ExternalLink, Briefcase, Sparkles } from 'lucide-react';
 
 interface DayDetailModalProps {
@@ -15,11 +14,11 @@ interface DayDetailModalProps {
   onSelectDateForStandup: (date: Date) => void;
 }
 
-export const DayDetailModal: React.FC<DayDetailModalProps> = ({
+export const DayDetailModal = ({
   date,
   onClose,
   onSelectDateForStandup
-}) => {
+}: DayDetailModalProps) => {
   const dateFormatted = formatDateGerman(date);
   const weekdayName = getGermanWeekday(date);
   const actionDays = getActionDaysForDate(date);
