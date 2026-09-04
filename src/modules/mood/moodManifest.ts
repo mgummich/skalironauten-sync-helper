@@ -1,6 +1,6 @@
 // filename -> served URL. Vite serves these in dev and hashes/copies them on build.
 // Filenames (not URLs) are the stable identity persisted in the store.
-const modules = import.meta.glob('/mood-scales/*.{jpg,jpeg,webp,mp4}', {
+const modules = import.meta.glob('/mood-scales/*.webp', {
   eager: true,
   import: 'default',
   query: '?url'

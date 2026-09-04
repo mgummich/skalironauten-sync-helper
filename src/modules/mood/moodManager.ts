@@ -40,7 +40,3 @@ export function clearPendingDraw(iso: string): void {
 export function getMoodImageUrl(id: string): string {
   return MOOD_SCALES[id] ?? '';
 }
-
-export function isVideo(id: string): boolean {
-  return id.endsWith('.mp4');
-}

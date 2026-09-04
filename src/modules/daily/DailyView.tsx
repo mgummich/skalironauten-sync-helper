@@ -13,7 +13,7 @@ import {
   getGermanWeekday
 } from '../data/dateUtils';
 import { getNotes, saveNotes, hasSavedNotes, getMood, Notes } from '../data/storage';
-import { getPendingDraw, getMoodImageUrl, isVideo, drawMoodImage } from '../mood/moodManager';
+import { getPendingDraw, getMoodImageUrl, drawMoodImage } from '../mood/moodManager';
 import { AktionstagCard } from './AktionstagCard';
 import { MoodCheckModal } from './MoodCheckModal';
 import type { DailyTarget } from '../ui/AppShell';
@@ -226,6 +226,6 @@ export const DailyView = ({ target, onDateChange }: Props) => {
 const Thumb = ({ id, size }: { id: string; size: string }) => {
   const url = getMoodImageUrl(id);
   const cls = cx(size, 'shrink-0 rounded border border-gray-300 object-cover bg-gray-100');
-  return isVideo(id) ? <video src={url} muted playsInline className={cls} /> : <img src={url} alt="" className={cls} />;
+  return <img src={url} alt="" className={cls} />;
 };
 

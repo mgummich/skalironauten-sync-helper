@@ -48,8 +48,13 @@ public site dies with the browser tab. Key layout is documented in
 ## Data
 
 - `aktionstage.json` — the action days, imported directly by `src/modules/data/dataLoader.ts`.
-- `mood-scales/` — mood scale images and clips, picked up by `import.meta.glob` in
+- `mood-scales/` — mood scale images, picked up by `import.meta.glob` in
   `src/modules/mood/moodManifest.ts`. The filename is the stable id that gets persisted.
+  All WebP, capped at 1200px wide. Add new ones in the same format:
+
+  ```bash
+  magick input.jpg -resize '1200>' -strip -quality 78 mood-scales/name.webp
+  ```
 
 ## Deployment
 

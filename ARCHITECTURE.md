@@ -20,7 +20,7 @@ src/
 
 ### Module Responsibilities & Folder Boundaries
 - **`data/`**: Pure logic and data layer. Reads `aktionstage.json` (930 items) without mutating source data. Builds a memory index keyed by month/day, normalizes scraped region names (`normalizeRegion.ts`). Workday = Mon–Fri minus bundesweite Feiertage (computed via Easter, `dateUtils.ts`); 1st workday of ISO week / of month derived from that. `storage.ts` owns all localStorage keys.
-- **`mood/`**: Handles the images in `mood-scales/`. Draws a random image per dialog open, avoiding the last 5 (`moodRecent`); keeps a per-day pending draw so the card thumbnail matches the dialog.
+- **`mood/`**: Handles the WebP images in `mood-scales/`. Draws a random image per dialog open, avoiding the last 5 (`moodRecent`); keeps a per-day pending draw so the card thumbnail matches the dialog.
 - **`daily/`**: Core standup view. Date row with badges, Aktionstag hero card with stepper (desktop: list of all entries), Mood card (never auto-opens the dialog), three single-line standup notes and the copy button (plain-text format from the handoff).
 - **`calendar/`**: Mobile: one month per screen with month/year jump; desktop: 12 months for 2026/2027. Search, category chips, searchable region picker; counts per cell respect the filters. Day detail sheet hands a date + entry index to the daily view.
 - **`ui/`**: Shell layout in the Bahn-Look design (see `design_handoff_sync_helper/README.md`): red header with desktop segmented nav, mobile bottom tabs, `Sheet` (native `<dialog>`: bottom sheet on mobile, centered dialog on desktop), Dev Toolbar (dev builds only).

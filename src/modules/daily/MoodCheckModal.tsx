@@ -1,7 +1,7 @@
 import { useState, KeyboardEvent } from 'react';
 import { X, ZoomIn, Image as ImageIcon, Check } from 'lucide-react';
 import { Sheet, useSheetClose } from '../ui/Sheet';
-import { getMoodImageUrl, isVideo, clearPendingDraw } from '../mood/moodManager';
+import { getMoodImageUrl, clearPendingDraw } from '../mood/moodManager';
 import { saveMood } from '../data/storage';
 import { formatDateLong } from '../data/dateUtils';
 import { cx, BTN_GHOST, BTN_RED, FOCUS } from '../ui/cls';
@@ -30,7 +30,6 @@ const MoodCheckBody = ({ date, iso, imageId, initialValue, onSaved }: Props) => 
   const [loaded, setLoaded] = useState(false);
   const [lightbox, setLightbox] = useState(false);
   const url = getMoodImageUrl(imageId);
-  const video = isVideo(imageId);
 
   const save = () => {
     if (selected === null) return;
@@ -68,23 +67,12 @@ const MoodCheckBody = ({ date, iso, imageId, initialValue, onSaved }: Props) => 
             <span className="text-sm">Bild wird geladen …</span>
           </div>
         )}
-        {video ? (
-          <video
-            src={url}
-            controls
-            muted
-            playsInline
-            onLoadedData={() => setLoaded(true)}
-            className="h-full w-full object-contain"
-          />
-        ) : (
-          <img
-            src={url}
-            alt="Mood-Skala, Raster aus 9 Feldern"
-            onLoad={() => setLoaded(true)}
-            className={cx('h-full w-full object-contain', !loaded && 'invisible')}
-          />
-        )}
+        <img
+          src={url}
+          alt="Mood-Skala, Raster aus 9 Feldern"
+          onLoad={() => setLoaded(true)}
+          className={cx('h-full w-full object-contain', !loaded && 'invisible')}
+        />
         <button
           type="button"
           aria-label="Bild vergrößern"
@@ -159,22 +147,18 @@ const MoodCheckBody = ({ date, iso, imageId, initialValue, onSaved }: Props) => 
 
       {lightbox && (
         <Sheet label="Bild in Originalgröße" variant="lightbox" onClose={() => setLightbox(false)}>
-          <Lightbox url={url} video={video} />
+          <Lightbox url={url} />
         </Sheet>
       )}
     </div>
   );
 };
 
-const Lightbox = ({ url, video }: { url: string; video: boolean }) => {
+const Lightbox = ({ url }: { url: string }) => {
   const close = useSheetClose();
   return (
     <div className="flex h-full w-full items-center justify-center p-4" onClick={close}>
-      {video ? (
-        <video src={url} controls muted playsInline className="max-h-full max-w-full" />
-      ) : (
-        <img src={url} alt="Mood-Skala in Originalgröße" className="max-h-full max-w-full object-contain" />
-      )}
+      <img src={url} alt="Mood-Skala in Originalgröße" className="max-h-full max-w-full object-contain" />
       <button type="button" aria-label="Schließen" onClick={close} className={cx('absolute right-4 top-4 h-11 w-11 bg-white', BTN_GHOST)}>
         <X className="h-5 w-5" aria-hidden />
       </button>
