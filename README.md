@@ -10,9 +10,10 @@ browser's own storage. No accounts, no server, no sync between devices, and no
 third-party requests: the font is self-hosted and production builds ship a strict
 Content-Security-Policy.
 
-- **Live:** https://\<user\>.github.io/skalironauten-sync-helper/
-- **Docs:** `/docs` on the deployed site — a German handbook covering how to use
-  the app, the architecture, the storage contracts and the design system.
+- **Live:** https://mgummich.github.io/skalironauten-sync-helper/
+- **Docs:** https://mgummich.github.io/skalironauten-sync-helper/docs/ — a German
+  handbook covering how to use the app, the architecture, the storage contracts
+  and the design system.
 
 ---
 
