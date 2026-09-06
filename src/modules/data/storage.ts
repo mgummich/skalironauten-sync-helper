@@ -1,19 +1,24 @@
 // Storage contracts (see design handoff):
-//   notes:{YYYY-MM-DD} -> { gestern, heute, blocker }
 //   mood:{YYYY-MM-DD}  -> { value 1-9, imageId, savedAt }
 //   moodPick:{YYYY-MM-DD} -> image id chosen from the gallery for that day
+//   moodDraw:{YYYY-MM-DD} -> image id drawn at random for that day
 //   moodImages         -> metadata of the uploaded images (blobs live in IndexedDB)
-//   moodPick:{YYYY-MM-DD} -> image id chosen from the gallery for that day
-//   moodImages         -> metadata of the uploaded images (blobs live in IndexedDB)
+//   moodRecent         -> the last 5 drawn image ids, newest last
 //   ui                 -> { lastRoute, calendarMonth, filters }
 import type { Filters } from './dataLoader';
 
 // Every persisted value in the app goes through this one backing store.
 // Public deployments (GitHub Pages) build with VITE_EPHEMERAL_STORAGE=true, so
-// notes and moods live only as long as the browser tab. Local dev and the
-// container build keep localStorage, where they survive a restart.
+// notes and moods live only as long as the browser tab. Local dev keeps
+// localStorage, where they survive a restart.
 export const store: Storage =
   import.meta.env.VITE_EPHEMERAL_STORAGE === 'true' ? sessionStorage : localStorage;
+
+// Standup-Notizen were removed from the product; drop any leftover entries.
+for (let i = store.length - 1; i >= 0; i--) {
+  const key = store.key(i);
+  if (key?.startsWith('notes:')) store.removeItem(key);
+}
 
 function read<T>(key: string, fallback: T): T {
   try {
@@ -24,6 +29,16 @@ function read<T>(key: string, fallback: T): T {
   }
 }
 
+/** A stored JSON array, or [] when missing or malformed. */
+export function readList<T>(key: string): T[] {
+  try {
+    const parsed = JSON.parse(store.getItem(key) || '[]');
+    return Array.isArray(parsed) ? parsed : [];
+  } catch {
+    return [];
+  }
+}
+
 function write(key: string, value: unknown): void {
   try {
     store.setItem(key, JSON.stringify(value));
@@ -31,17 +46,6 @@ function write(key: string, value: unknown): void {
     console.error(`storage write failed for ${key}`, e);
   }
 }
-
-export interface Notes {
-  gestern: string;
-  heute: string;
-  blocker: string;
-}
-export const EMPTY_NOTES: Notes = { gestern: '', heute: '', blocker: '' };
-
-export const getNotes = (iso: string): Notes => read(`notes:${iso}`, EMPTY_NOTES);
-export const saveNotes = (iso: string, notes: Notes): void => write(`notes:${iso}`, notes);
-export const hasSavedNotes = (iso: string): boolean => store.getItem(`notes:${iso}`) !== null;
 
 export interface Mood {
   value: number;

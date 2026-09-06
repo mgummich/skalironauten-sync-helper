@@ -2,11 +2,13 @@
 
 Daily-standup companion for a small German dev team. It does one job, in under a
 minute at 09:00: read today's **Aktionstag** (German commemorative day), do the
-**Mood Check** (a 3×3 meme grid and a number from 1 to 9), type three lines, copy
-the formatted standup text.
+**Mood Check** (a 3×3 meme grid and a number from 1 to 9), drop the image into
+the team chat.
 
-React + Vite + Tailwind, **no backend** — everything lives in the browser's own
-storage. No accounts, no server, no sync between devices.
+React 19 + Vite 8 + Tailwind v4, **no backend** — everything lives in the
+browser's own storage. No accounts, no server, no sync between devices, and no
+third-party requests: the font is self-hosted and production builds ship a strict
+Content-Security-Policy.
 
 - **Live:** https://\<user\>.github.io/skalironauten-sync-helper/
 - **Docs:** `/docs` on the deployed site — a German handbook covering how to use
@@ -27,22 +29,14 @@ The morning routine, top to bottom:
    when you have navigated away from today.
 2. **Aktionstag card** — name, category, region, description and a Wikipedia link.
    Days with several entries get a stepper (`1 / 3`); on desktop all of them are
-   listed on the right. The **active** entry is the one that ends up in the copied
-   text.
+   listed on the right.
 3. **Mood card** — `Mood Check starten` opens a random meme grid. Tap a field 1–9,
    then `Stimmung N speichern`. **Tapping a number never saves**, and the dialog
-   never opens on its own. `Anderes Bild wählen` swaps in a different image;
-   `Ändern` re-opens a saved check.
-4. **Standup-Notizen** — Gestern / Heute / Blocker, saved per day as you type.
-5. **`Standup-Text kopieren`** — puts this in the clipboard:
-
-   ```
-   Standup – Montag, 7. September 2026
-   Aktionstag: Tag der Salami (Essen & Trinken, USA)
-   Gestern: …
-   Heute: …
-   Blocker: Keine
-   ```
+   never opens on its own. `Zufällig wählen` draws a different image; `Ändern`
+   re-opens a saved check.
+4. **`Herunterladen` / `Bild kopieren`** — the image goes into the Teams chat:
+   copy puts it on the clipboard as PNG (falling back to a download where the
+   clipboard API is unavailable), download saves the original file.
 
 ### Kalender
 
@@ -69,13 +63,13 @@ it. Reduced-motion settings switch every transition off.
 
 > **Where does my data live?** Only in this browser, on this device. The public
 > GitHub Pages build keeps it in `sessionStorage`, so it is gone when the tab
-> closes; local and container builds keep `localStorage`, so it survives a restart.
+> closes; a local build keeps `localStorage`, so it survives a restart.
 
 ---
 
 ## Development
 
-Requires **Node 22** — the version CI and the Pages deployment build with.
+Requires **Node 24** — the version CI and the Pages deployment build with.
 
 ```bash
 npm install
@@ -101,20 +95,12 @@ and the scraped-region cleanup in `normalizeRegion.ts`. There are no component t
 src/modules/
 ├── data/      # aktionstage.json index, holiday/workday rules, storage contracts
 ├── mood/      # image library (built-in + uploads), draw logic, gallery, upload
-├── daily/     # the Heute view: Aktionstag card, mood card, notes, copy
+├── daily/     # the Heute view: Aktionstag card, mood card, Mood Check dialog
 ├── calendar/  # month grids, filters, region picker, day detail
 └── ui/        # app shell, header/tabs, Sheet dialog, shared class tokens
 ```
 
 `ARCHITECTURE.md` has the module boundaries and the full storage key table.
-
-### Docker
-
-```bash
-docker compose up --build   # http://localhost:8080
-```
-
-Builds the app and serves `dist/` with nginx (`Dockerfile`, `nginx.conf`).
 
 ---
 
@@ -139,14 +125,22 @@ Builds the app and serves `dist/` with nginx (`Dockerfile`, `nginx.conf`).
 ## Storage
 
 `src/modules/data/storage.ts` is the single backing store for everything persisted.
-Local dev and the container build use `localStorage`; the public GitHub Pages build
-sets `VITE_EPHEMERAL_STORAGE=true` and uses `sessionStorage` instead. Image usage
+Local dev uses `localStorage`; the public GitHub Pages build sets
+`VITE_EPHEMERAL_STORAGE=true` and uses `sessionStorage` instead. Image usage
 counts are never stored — they are derived from the saved `mood:*` entries, so a
-second counter cannot drift. Key layout is in `ARCHITECTURE.md`.
+second counter cannot drift. Leftover `notes:*` keys from the removed
+Standup-Notizen are deleted once at startup. Key layout is in `ARCHITECTURE.md`.
 
 ## Deployment
 
 Pushing to `main` runs `.github/workflows/pages.yml`: it builds with ephemeral
 storage, copies `docs/` into the output, and publishes to GitHub Pages. Enable Pages
 with source "GitHub Actions" in the repository settings once, then it is automatic.
-`.github/workflows/ci.yml` runs the tests and the build on every pull request.
+`.github/workflows/ci.yml` runs the tests and the build on every pull request, and
+Dependabot keeps npm packages and pinned GitHub Actions current with one grouped
+weekly PR.
+
+Production builds inject a `Content-Security-Policy` meta tag
+(`default-src 'self'`, images additionally from `blob:` for uploads) via a small
+plugin in `vite.config.ts`; the dev server skips it because HMR needs inline
+scripts.

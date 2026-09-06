@@ -3,7 +3,7 @@
 // saved `mood:{date}` entries — it is never stored twice.
 import { MOOD_SCALES, MOOD_SCALE_IMAGES } from './moodManifest';
 import { allBlobKeys, allBlobs, deleteBlob, putBlob } from './moodBlobs';
-import { store, readMoodEntries } from '../data/storage';
+import { store, readList, readMoodEntries } from '../data/storage';
 
 export interface MoodImage {
   id: string;
@@ -22,16 +22,12 @@ export interface MoodUsage {
 
 const CUSTOM_KEY = 'moodImages';
 
-const readCustom = (): MoodImage[] => {
-  try {
-    const parsed = JSON.parse(store.getItem(CUSTOM_KEY) || '[]');
-    return Array.isArray(parsed) ? parsed : [];
-  } catch {
-    return [];
-  }
-};
+const readCustom = () => readList<MoodImage>(CUSTOM_KEY);
 
-const writeCustom = (images: MoodImage[]): void => store.setItem(CUSTOM_KEY, JSON.stringify(images));
+const writeCustom = (images: MoodImage[]): void => {
+  store.setItem(CUSTOM_KEY, JSON.stringify(images));
+  sorted = null;
+};
 
 // id -> object URL for uploaded images, filled once by initMoodLibrary().
 const customUrls = new Map<string, string>();
@@ -61,12 +57,24 @@ export async function initMoodLibrary(): Promise<void> {
   if (usable.length !== custom.length) writeCustom(usable);
 }
 
+// Built once and reused: the list only changes when an image is added or dropped,
+// and both paths go through writeCustom().
+let sorted: MoodImage[] | null = null;
+let byId: Map<string, MoodImage> | null = null;
+
 /** All images, alphabetically by title — the order the gallery shows. */
 export function getMoodImages(): MoodImage[] {
-  return [...BUILT_INS, ...readCustom()].sort((a, b) => a.title.localeCompare(b.title, 'de'));
+  if (!sorted) {
+    sorted = [...BUILT_INS, ...readCustom()].sort((a, b) => a.title.localeCompare(b.title, 'de'));
+    byId = new Map(sorted.map((i) => [i.id, i]));
+  }
+  return sorted;
 }
 
-export const getMoodImage = (id: string): MoodImage | undefined => getMoodImages().find((i) => i.id === id);
+export const getMoodImage = (id: string): MoodImage | undefined => {
+  getMoodImages();
+  return byId!.get(id);
+};
 
 export function getMoodImageUrl(id: string): string {
   return MOOD_SCALES[id] ?? customUrls.get(id) ?? '';

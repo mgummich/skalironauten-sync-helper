@@ -1,5 +1,13 @@
 @import "tailwindcss";
 
+/* Self-hosted (OFL): no third-party request, and the CSP can stay at 'self'. */
+@font-face {
+  font-family: 'Source Sans 3';
+  font-weight: 400 700;
+  font-display: swap;
+  src: url(/fonts/source-sans-3.woff2) format('woff2');
+}
+
 @theme {
   --font-sans: 'Source Sans 3', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
 
