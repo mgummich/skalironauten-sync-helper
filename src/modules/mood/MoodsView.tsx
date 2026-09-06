@@ -10,8 +10,6 @@ type Filter = 'all' | 'unused' | 'used' | 'own';
 interface Props {
   /** Chooses the image for today's Mood Check and opens it. */
   onChooseForToday: (imageId: string) => void;
-  /** Picker mode (inside the Mood Check): a tap chooses the image, no detail sheet. */
-  pickMode?: boolean;
 }
 
 const FILTERS: { id: Filter; label: string; match: (i: MoodImage, used: number) => boolean }[] = [
@@ -31,7 +29,7 @@ const usageLabel = (usage: MoodUsage[] | undefined) =>
       ? `1× · ${shortDate(usage[0].iso)}`
       : `${usage.length}× · zuletzt ${shortDate(usage[0].iso)}`;
 
-export const MoodsView = ({ onChooseForToday, pickMode }: Props) => {
+export const MoodsView = ({ onChooseForToday }: Props) => {
   const [q, setQ] = useState('');
   const [filter, setFilter] = useState<Filter>('all');
   const [detail, setDetail] = useState<MoodImage | null>(null);
@@ -56,10 +54,10 @@ export const MoodsView = ({ onChooseForToday, pickMode }: Props) => {
 
   return (
     <div className="space-y-4 lg:space-y-6">
-      {!pickMode && <h2 className="text-xl font-semibold lg:sr-only">Moods</h2>}
+      <h2 className="text-xl font-semibold lg:sr-only">Moods</h2>
 
-      <div className={cx('space-y-3', !pickMode && 'lg:flex lg:items-center lg:gap-3 lg:space-y-0')}>
-        <div className={cx('relative', !pickMode && 'lg:w-80 lg:shrink-0')}>
+      <div className={'space-y-3 lg:flex lg:items-center lg:gap-3 lg:space-y-0'}>
+        <div className={'relative lg:w-80 lg:shrink-0'}>
           <Search className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-slate-600" aria-hidden />
           <input
             type="search"
@@ -67,11 +65,11 @@ export const MoodsView = ({ onChooseForToday, pickMode }: Props) => {
             value={q}
             onChange={(e) => setQ(e.target.value)}
             placeholder="Mood-Bild suchen …"
-            className={cx(INPUT, 'pl-9', !pickMode && 'lg:bg-white')}
+            className={cx(INPUT, 'pl-9 lg:bg-white')}
           />
         </div>
 
-        <div className={cx('flex gap-2 overflow-x-auto [scrollbar-width:none]', !pickMode && '-mx-4 px-4 lg:mx-0 lg:px-0')}>
+        <div className={'flex gap-2 overflow-x-auto [scrollbar-width:none] -mx-4 px-4 lg:mx-0 lg:px-0'}>
           {FILTERS.map(({ id, label }) => (
             <button
               key={id}
@@ -91,39 +89,33 @@ export const MoodsView = ({ onChooseForToday, pickMode }: Props) => {
           ))}
         </div>
 
-        {!pickMode && (
-          <>
-            <div className="hidden flex-1 lg:block" />
-            <button type="button" onClick={() => setUpload(true)} className={cx('h-10 px-3.5 text-sm lg:hidden', BTN_SECONDARY)}>
-              <Upload className="h-4 w-4" aria-hidden /> Hochladen
-            </button>
-            <button type="button" onClick={() => setUpload(true)} className={cx('hidden h-11 px-[18px] lg:inline-flex', BTN_PRIMARY)}>
-              <Upload className="h-5 w-5" aria-hidden /> Hochladen
-            </button>
-          </>
-        )}
+        <div className="hidden flex-1 lg:block" />
+        <button type="button" onClick={() => setUpload(true)} className={cx('h-10 px-3.5 text-sm lg:hidden', BTN_SECONDARY)}>
+          <Upload className="h-4 w-4" aria-hidden /> Hochladen
+        </button>
+        <button type="button" onClick={() => setUpload(true)} className={cx('hidden h-11 px-[18px] lg:inline-flex', BTN_PRIMARY)}>
+          <Upload className="h-5 w-5" aria-hidden /> Hochladen
+        </button>
       </div>
 
       <div className="flex items-center justify-between text-sm text-slate-600">
         <span>
           {shown.length} {shown.length === 1 ? 'Bild' : 'Bilder'} · A–Z
         </span>
-        <span className="hidden lg:inline">
-          {pickMode ? 'Klick wählt das Bild für heute' : 'Klick öffnet Großansicht mit Nutzungen'}
-        </span>
+        <span className="hidden lg:inline">Klick öffnet Großansicht mit Nutzungen</span>
       </div>
 
       {shown.length === 0 ? (
         <p className="text-base text-slate-700">Kein Bild gefunden.</p>
       ) : (
-        <ul className={cx('grid grid-cols-2 gap-3', pickMode ? 'lg:grid-cols-3' : 'lg:grid-cols-4 lg:gap-5')}>
+        <ul className={'grid grid-cols-2 gap-3 lg:grid-cols-4 lg:gap-5'}>
           {shown.map((image) => {
             const label = usageLabel(usage.get(image.id));
             return (
               <li key={image.id}>
                 <button
                   type="button"
-                  onClick={() => (pickMode ? onChooseForToday(image.id) : setDetail(image))}
+                  onClick={() => setDetail(image)}
                   className={cx('flex w-full flex-col overflow-hidden text-left', CARD, FOCUS)}
                 >
                   <img

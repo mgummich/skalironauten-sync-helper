@@ -41,6 +41,8 @@ export const Sheet = ({ label, onClose, children, variant = 'sheet' }: SheetProp
         e.preventDefault();
         close();
       }}
+      // Escape is handled here as well as via onCancel: some embedded browsers do not
+      // deliver the native dialog events (see close() above).
       onKeyDown={(e) => {
         if (e.key === 'Escape') {
           e.stopPropagation();

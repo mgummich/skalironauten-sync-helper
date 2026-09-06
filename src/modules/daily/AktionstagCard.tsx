@@ -1,6 +1,5 @@
 import { ChevronLeft, ChevronRight, ExternalLink } from 'lucide-react';
-import { ActionDay } from '../data/types';
-import { shortCategory, nextDateWithEntries, getActionDaysForDate } from '../data/dataLoader';
+import { ActionDay, shortCategory, nextDateWithEntries, getActionDaysForDate } from '../data/dataLoader';
 import { formatDateNoWeekday, getGermanWeekday } from '../data/dateUtils';
 import { cx, BTN_ICON, BTN_TERTIARY, CARD_RAISED, PILL, FOCUS } from '../ui/cls';
 

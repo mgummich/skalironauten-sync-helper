@@ -1,6 +1,6 @@
 # Architecture — Skalironauten Sync Helper
 
-Daily standup web app: React 19 + Vite 6 + Tailwind v4 + lucide-react. No backend,
+Daily standup web app: React 19 + Vite 8 + Tailwind v4 + lucide-react. No backend,
 no API, no environment variables at runtime — the build is a static bundle and all
 state lives in the browser.
 
@@ -21,7 +21,7 @@ src/
 └── modules/
     ├── data/        # aktionstage index, holiday/workday rules, storage contracts
     ├── mood/        # image library (built-in + uploads), draw logic, gallery, upload
-    ├── daily/       # Heute view: Aktionstag card, mood card, notes, copy
+    ├── daily/       # Heute view: Aktionstag card, mood card, Mood Check dialog
     ├── calendar/    # month grids, filters, region picker, day detail
     └── ui/          # app shell, header/tabs, Sheet dialog, shared class tokens
 ```
@@ -50,18 +50,19 @@ the only place storage keys are created.
 - `moodManager.ts` — draws an image per dialog open, preferring never-used ones and
   always avoiding the last five (`moodRecent`); keeps the draw for the day so the
   card thumbnail and the dialog show the same picture. A gallery pick
-  (`moodPick:{date}`) overrides the draw.
+  (`moodPick:{date}`) overrides the draw; `rerollDraw()` (the dialog's
+  `Zufällig wählen`) clears the pick and replaces the day's draw.
 - `MoodsView.tsx` / `MoodDetailSheet.tsx` / `MoodUploadSheet.tsx` — the gallery, the
   detail sheet with the usage list and re-use warning, and the upload form.
-  `MoodsView` doubles as the picker inside the Mood Check via its `pickMode` prop.
 
 ### `daily/` — the primary view
 
 Date row with badges, the Aktionstag hero card with its stepper (desktop: all
-entries of the day as a list), the mood card (**never** auto-opens the dialog),
-three single-line notes and the copy button producing the plain-text format from
-the handoff. `MoodCheckModal` holds one image per open — changing the number never
-changes the picture, and selecting a number never saves.
+entries of the day as a list) and the mood card (**never** auto-opens the dialog).
+`MoodCheckModal` shows one image at a time — changing the number never changes the
+picture, and selecting a number never saves. `Zufällig wählen` re-rolls the
+suggestion; `Herunterladen` and `Bild kopieren` hand the image to the Teams chat
+(clipboard PNG, with a download fallback).
 
 ### `calendar/` — dates at a glance
 
@@ -85,13 +86,13 @@ inputs, cards, focus ring) as string constants so Tailwind picks them up.
 ## 2. State persistence
 
 `storage.ts` exports the single `store` every reader and writer uses:
-`localStorage` for local dev and the container build, `sessionStorage` when built
+`localStorage` for local dev, `sessionStorage` when built
 with `VITE_EPHEMERAL_STORAGE=true` (the public GitHub Pages deployment), where
-state dies with the tab.
+state dies with the tab. On startup it deletes any leftover `notes:*` keys —
+the Standup-Notizen were removed from the product.
 
 | Key | Type | Description | Default |
 |-----|------|-------------|---------|
-| `notes:{YYYY-MM-DD}` | `{ gestern, heute, blocker }` | Standup notes per day; debounced while typing, flushed on blur. | — |
 | `mood:{YYYY-MM-DD}` | `{ value 1-9, imageId, savedAt }` | Saved Mood Check for that day. | — |
 | `moodDraw:{YYYY-MM-DD}` | `string` | Image drawn for a pending (unsaved) check, so thumbnail and dialog match. Cleared on save. | drawn on demand |
 | `moodPick:{YYYY-MM-DD}` | `string` | Image chosen from the gallery for that day; overrides the draw. Cleared on save. | — |
@@ -124,5 +125,11 @@ state dies with the tab.
   `dist/assets` on build, while the filename remains the persisted identity.
 - Uploaded images never enter the repository: blob in IndexedDB, metadata in the
   store, both per device.
+- `Source Sans 3` is self-hosted from `public/fonts/` (OFL license alongside), so
+  the app makes no third-party requests.
 - `vite.config.ts` sets `base: './'` so the build works both under
-  `user.github.io/repo/` and on a custom domain.
+  `user.github.io/repo/` and on a custom domain, and injects a
+  `Content-Security-Policy` meta tag into production builds
+  (`default-src 'self'`; `img-src` additionally `blob:` for the object URLs of
+  uploaded images). The dev server skips the CSP — HMR and Fast Refresh need
+  inline scripts.

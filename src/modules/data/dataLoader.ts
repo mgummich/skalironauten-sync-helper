@@ -1,7 +1,16 @@
 import rawData from '../../../aktionstage.json';
-import { ActionDay } from './types';
 import { addDays } from './dateUtils';
 import { normalizeRegion } from './normalizeRegion';
+
+export interface ActionDay {
+  name: string;
+  category: string;
+  region: string;
+  month: number; // 1-12
+  day: number; // 1-31
+  beschreibung: string;
+  quelle: string;
+}
 
 const rawActionDays = (rawData as ActionDay[]).map((item) => ({ ...item, region: normalizeRegion(item.region) }));
 
@@ -20,13 +29,11 @@ export interface Filters {
   region: string; // '' = all
 }
 
-export const EMPTY_FILTERS: Filters = { q: '', category: '', region: '' };
-
 export function getActionDaysForDate(date: Date): ActionDay[] {
   return monthDayIndex.get(`${date.getMonth() + 1}-${date.getDate()}`) || [];
 }
 
-export function entriesForDate(date: Date, filters: Filters = EMPTY_FILTERS): ActionDay[] {
+export function entriesForDate(date: Date, filters: Filters): ActionDay[] {
   const q = filters.q.trim().toLowerCase();
   return getActionDaysForDate(date).filter((item) => {
     if (filters.category && item.category !== filters.category) return false;

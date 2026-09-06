@@ -5,11 +5,15 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta name="theme-color" content="#dc2626" />
 <title>Skalironauten Sync Helper — Dokumentation</title>
-<meta name="description" content="Technische Dokumentation des Skalironauten Sync Helper: Architektur, Datenmodell, localStorage-Verträge, Design-Tokens und Deployment." />
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<meta name="description" content="Technische Dokumentation des Skalironauten Sync Helper: Architektur, Datenmodell, Storage-Verträge, Design-Tokens und Deployment." />
+<link rel="icon" href="../favicon.svg" type="image/svg+xml" />
 <style>
+  @font-face {
+    font-family: 'Source Sans 3';
+    font-weight: 400 700;
+    font-display: swap;
+    src: url(../fonts/source-sans-3.woff2) format('woff2');
+  }
   :root {
     --page: #f1f5f9;
     --surface: #ffffff;
@@ -40,7 +44,7 @@
     line-height: 1.5;
     -webkit-font-smoothing: antialiased;
   }
-  code, pre, .num { font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace; }
+  code, pre, .num { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
 
   /* ---------- header ---------- */
   header.top {
@@ -63,6 +67,7 @@
     display: flex; align-items: center;
     color: var(--ink-3); text-decoration: none; font-size: 14px; font-weight: 500;
     padding: 0 12px; border-bottom: 3px solid transparent;
+    transition: color 150ms, border-color 150ms;
   }
   header.top nav a:hover { color: var(--ink); border-bottom-color: var(--hairline); }
 
@@ -77,12 +82,13 @@
   aside h4 { font-size: 14px; font-weight: 600; text-transform: uppercase;
     letter-spacing: .06em; color: var(--ink-3); margin: 0 0 8px; }
   aside a { display: block; font-size: 14px; color: var(--ink-3);
-    text-decoration: none; padding: 4px 0; }
+    text-decoration: none; padding: 4px 0; transition: color 150ms; }
   aside a:hover { color: var(--red-dark); }
 
   /* ---------- hero ---------- */
   .hero {
-    background: var(--surface); border: none; border-radius: 8px;
+    background: var(--surface); border: none; border-top: 4px solid var(--red);
+    border-radius: 8px;
     box-shadow: var(--card-shadow-raised);
     padding: 20px; margin-bottom: 24px;
   }
@@ -126,8 +132,8 @@
     font-size: .9em; color: var(--ink); }
   kbd { background: var(--surface); border: 1px solid var(--border);
     border-bottom-width: 2px; border-radius: 4px; padding: 1px 6px;
-    font-family: 'JetBrains Mono', ui-monospace, monospace; font-size: .85em; color: var(--ink); }
-  pre { background: #0f172a; color: #e2e8f0; border-radius: 6px;
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .85em; color: var(--ink); }
+  pre { background: #0f172a; color: #e2e8f0; border-radius: 8px;
     padding: 16px; overflow-x: auto; font-size: 14px; line-height: 1.6; margin: 0 0 12px; }
   pre code { background: none; padding: 0; color: inherit; font-size: inherit; }
   pre .c { color: #94a3b8; }
@@ -223,12 +229,12 @@
     <p class="eyebrow">Skalironauten Sync Helper</p>
     <h1>Das Daily Standup in unter einer Minute.</h1>
     <p>
-      Aktionstag lesen, Mood Check machen, drei Zeilen tippen, Standup-Text kopieren.
-      Lokal im Browser, ohne Account, ohne Backend — React 19, Vite 6, Tailwind v4.
+      Aktionstag lesen, Mood Check machen, Bild in den Team-Chat kopieren.
+      Lokal im Browser, ohne Account, ohne Backend — React 19, Vite 8, Tailwind v4.
     </p>
     <div class="chips">
       <span class="chip emerald">Kein Backend</span>
-      <span class="chip">React 19 + Vite 6</span>
+      <span class="chip">React 19 + Vite 8</span>
       <span class="chip">Tailwind v4</span>
       <span class="chip">930 Aktionstage</span>
       <span class="chip">273 Mood-Bilder</span>
@@ -245,8 +251,7 @@
     <ol class="steps">
       <li><b>Aktionstag</b> — der kuriose Gedenktag des Tages aus einer Liste mit 930 Einträgen, mit Kategorie, Region, Beschreibung und Wikipedia-Link.</li>
       <li><b>Mood Check</b> — ein zufälliges Meme-Raster (3×3), eine Zahl von 1 bis 9. Öffnet sich nie von allein.</li>
-      <li><b>Notizen</b> — drei einzeilige Felder: Gestern, Heute, Blocker.</li>
-      <li><b>Kopieren</b> — fertig formatierter Standup-Text in der Zwischenablage.</li>
+      <li><b>Teilen</b> — <i>Bild kopieren</i> oder <i>Herunterladen</i> bringt das Mood-Bild in den Team-Chat.</li>
     </ol>
     <p>
       Dazu kommen zwei weitere Tabs: der <b>Kalender</b> über 2026/2027 — welcher Tag ist Arbeitstag,
@@ -267,7 +272,7 @@
 
     <div class="note">
       <p><b>Der übliche Ablauf am Morgen:</b> App öffnen › Aktionstag lesen › <i>Mood Check starten</i> ›
-      Zahl wählen › <i>Stimmung speichern</i> › drei Zeilen tippen › <i>Standup-Text kopieren</i> ›
+      Zahl wählen › <i>Stimmung speichern</i> › <i>Bild kopieren</i> ›
       in den Team-Chat einfügen. Zusammen unter einer Minute.</p>
     </div>
 
@@ -278,18 +283,15 @@
         Arbeitstag ist und ob er der erste Arbeitstag der Woche oder des Monats ist.</li>
       <li><b>Aktionstag lesen</b> — die große Karte zeigt den Gedenktag des Tages mit Kategorie,
         Region, Beschreibung und Wikipedia-Link. Hat ein Tag mehrere, blättert der Stepper
-        (<code>1 / 3</code>) durch sie; auf dem Desktop stehen alle rechts als Liste. Der jeweils
-        <b>aktive</b> Eintrag landet später im Standup-Text.</li>
+        (<code>1 / 3</code>) durch sie; auf dem Desktop stehen alle rechts als Liste.</li>
       <li><b>Mood Check machen</b> — <i>Mood Check starten</i> öffnet ein zufälliges 3×3-Meme-Raster.
         Feld 1–9 antippen, dann <i>Stimmung N speichern</i>. Das Antippen allein speichert nichts,
         und der Dialog öffnet sich nie von selbst. Passt das Bild nicht,
-        führt <i>Anderes Bild wählen</i> in die Galerie. Gespeichertes lässt sich über
-        <i>Ändern</i> jederzeit überschreiben.</li>
-      <li><b>Notizen tippen</b> — drei Felder: Gestern, Heute, Blocker. Sie werden pro Tag
-        automatisch gespeichert; „gespeichert“ neben der Überschrift bestätigt es. Blocker leer
-        lassen heißt „Keine“.</li>
-      <li><b>Kopieren</b> — <i>Standup-Text kopieren</i> legt Datum, aktiven Aktionstag und die drei
-        Zeilen als reinen Text in die Zwischenablage. Der Button wird zwei Sekunden grün.</li>
+        zieht <i>Zufällig wählen</i> ein neues; ein bestimmtes Bild wählt man im Moods-Tab.
+        Gespeichertes lässt sich über <i>Ändern</i> jederzeit überschreiben.</li>
+      <li><b>Teilen</b> — <i>Bild kopieren</i> legt das Bild als PNG in die Zwischenablage
+        (wo der Browser das nicht kann, wird stattdessen heruntergeladen);
+        <i>Herunterladen</i> speichert die Originaldatei. Der Button bestätigt zwei Sekunden lang.</li>
     </ol>
 
     <h3>Tab „Kalender“</h3>
@@ -328,15 +330,15 @@
     <div class="note amber">
       <p><b>Wo liegen meine Daten?</b> Ausschließlich im Browser dieses Geräts — es gibt keinen Server
       und keine Synchronisierung. Auf der öffentlichen Pages-Version verschwindet alles mit dem
-      Schließen des Tabs; lokal und im Container bleibt es erhalten. Ein anderer Browser oder ein
-      anderes Gerät sieht deshalb nichts von den eigenen Notizen.</p>
+      Schließen des Tabs; lokal bleibt es erhalten. Ein anderer Browser oder ein
+      anderes Gerät sieht deshalb nichts von den eigenen Stimmungen.</p>
     </div>
   </section>
 
   <section id="schnellstart">
     <h2><span class="n">03</span>Schnellstart</h2>
     <p>
-      Ab hier geht es um die Entwicklung. Vorausgesetzt wird <b>Node 22</b> — dieselbe Version,
+      Ab hier geht es um die Entwicklung. Vorausgesetzt wird <b>Node 24</b> — dieselbe Version,
       mit der CI und die Pages-Bereitstellung bauen.
     </p>
 <pre><code><span class="c"># Abhängigkeiten installieren</span>
@@ -350,11 +352,6 @@ npm run build
 
 <span class="c"># Build lokal prüfen</span>
 npm run preview</code></pre>
-    <p>
-      Alternativ per Container: <code>docker compose up</code> baut das Image aus dem
-      <code>Dockerfile</code> und serviert <code>dist/</code> über nginx
-      (<code>nginx.conf</code> mit SPA-Fallback).
-    </p>
     <p>
       <code>npm test</code> führt die Vitest-Suite aus. Getestet ist die reine Logik in
       <code>src/modules/data/</code>: die Feiertags- und Arbeitstagsregeln in
@@ -372,8 +369,8 @@ npm run preview</code></pre>
     <h2><span class="n">04</span>Architektur</h2>
     <p>
       Der Code ist in fünf isolierte Subsysteme unter <code>src/modules/</code> geschnitten.
-      Abhängigkeiten laufen nur in eine Richtung: <code>ui</code> → <code>daily</code>/<code>calendar</code> →
-      <code>mood</code>/<code>data</code>. Die Datenschicht kennt keine Komponenten.
+      Abhängigkeiten laufen nur in eine Richtung: <code>ui</code> → <code>daily</code>/<code>calendar</code>/<code>mood</code> →
+      <code>data</code>. Die Datenschicht kennt keine Komponenten.
     </p>
 
     <div class="grid two">
@@ -384,7 +381,7 @@ npm run preview</code></pre>
           <li><code>dataLoader.ts</code> — importiert <code>aktionstage.json</code> und baut den Index nach Monat/Tag, ohne die Quelldaten zu verändern.</li>
           <li><code>dateUtils.ts</code> — Arbeitstag = Mo–Fr minus bundesweite Feiertage (Ostern wird berechnet), erster Arbeitstag der Woche / des Monats.</li>
           <li><code>normalizeRegion.ts</code> — normalisiert die gescrapten Regionsnamen (227 Werte).</li>
-          <li><code>storage.ts</code> — einziger Ort, an dem localStorage-Keys entstehen.</li>
+          <li><code>storage.ts</code> — einziger Ort, an dem Storage-Keys entstehen; räumt beim Start die Keys der entfernten Standup-Notizen ab.</li>
         </ul>
       </div>
 
@@ -404,9 +401,9 @@ npm run preview</code></pre>
         <h3><code>daily/</code> Heute-Ansicht</h3>
         <p>Die primäre Ansicht.</p>
         <ul>
-          <li><code>DailyView.tsx</code> — Datumszeile mit Badges, Notizen, Copy-Button.</li>
+          <li><code>DailyView.tsx</code> — Datumszeile mit Badges, Aktionstag- und Mood-Karte.</li>
           <li><code>AktionstagCard.tsx</code> — Hero-Karte mit Stepper; Desktop zeigt alle Einträge des Tages als Liste.</li>
-          <li><code>MoodCheckModal.tsx</code> — Bild, 1–9-Auswahl, Speichern. Auswahl allein speichert nie.</li>
+          <li><code>MoodCheckModal.tsx</code> — Bild, 1–9-Auswahl, Zufällig wählen, Herunterladen, Bild kopieren, Speichern. Auswahl allein speichert nie.</li>
         </ul>
       </div>
 
@@ -482,13 +479,14 @@ npm run preview</code></pre>
     <h2><span class="n">05</span>Daten &amp; Persistenz</h2>
     <p>
       Der gesamte Zustand liegt im Browser. Alle Keys entstehen in <code>storage.ts</code>,
-      und dieselbe Datei wählt auch den Speicher: <code>localStorage</code> lokal und im Container,
+      und dieselbe Datei wählt auch den Speicher: <code>localStorage</code> lokal,
       <code>sessionStorage</code> in öffentlichen Builds mit <code>VITE_EPHEMERAL_STORAGE=true</code>
       — dort ist nach dem Schließen des Tabs nichts mehr da.
     </p>
     <p>
       Wie oft ein Mood-Bild verwendet wurde, wird <b>nie gespeichert</b>, sondern beim Rendern aus den
       vorhandenen <code>mood:*</code>-Einträgen abgeleitet. So kann kein zweiter Zähler auseinanderlaufen.
+      Keys der früheren Standup-Notizen (<code>notes:*</code>) werden beim Start gelöscht.
     </p>
     <div class="tablewrap">
       <table>
@@ -496,12 +494,6 @@ npm run preview</code></pre>
           <tr><th>Key</th><th>Typ</th><th>Beschreibung</th><th>Fallback</th></tr>
         </thead>
         <tbody>
-          <tr>
-            <td><code>notes:{YYYY-MM-DD}</code></td>
-            <td><code>{ gestern, heute, blocker }</code></td>
-            <td>Standup-Notizen pro Tag, entprellt beim Tippen und beim Verlassen des Feldes.</td>
-            <td>—</td>
-          </tr>
           <tr>
             <td><code>mood:{YYYY-MM-DD}</code></td>
             <td><code>{ value, imageId, savedAt }</code></td>
@@ -549,13 +541,6 @@ npm run preview</code></pre>
       <li><b>Erster Arbeitstag der Woche</b> = Arbeitstag, bei dem alle früheren Tage Mo…(d−1) derselben ISO-Woche Wochenende oder Feiertag sind.</li>
     </ul>
 
-    <h3>Format des Standup-Texts</h3>
-<pre><code>Standup – Montag, 7. September 2026
-Aktionstag: Tag der Salami (Essen &amp; Trinken, USA)
-Gestern: …
-Heute: …
-Blocker: … <span class="c">(sonst "Keine")</span></code></pre>
-    <p>Enthalten ist nur der <i>aktive</i> Aktionstag; gibt es keinen, entfällt die Zeile.</p>
   </section>
 
   <section id="design">
@@ -648,12 +633,21 @@ Blocker: … <span class="c">(sonst "Keine")</span></code></pre>
       eigenen Domain funktioniert.
     </p>
 
-    <h3>Container</h3>
-<pre><code>docker compose up --build   <span class="c"># nginx serviert dist/</span></code></pre>
+    <h3>Sicherheit &amp; Privatsphäre</h3>
+    <ul>
+      <li><b>Keine Drittanfragen:</b> die Schrift (Source Sans 3, OFL) liegt selbst gehostet unter
+        <code>public/fonts/</code> — die App lädt nichts von fremden Servern.</li>
+      <li><b>Content-Security-Policy:</b> Produktions-Builds bekommen per Vite-Plugin ein
+        CSP-Meta-Tag (<code>default-src 'self'</code>; <code>img-src</code> zusätzlich
+        <code>blob:</code> für hochgeladene Bilder). Der Dev-Server lässt es weg, weil HMR
+        Inline-Skripte braucht.</li>
+      <li><b>Dependabot</b> hält npm-Pakete und die auf Commit-Hashes gepinnten GitHub Actions
+        wöchentlich aktuell — npm gebündelt in einem Sammel-PR.</li>
+    </ul>
 
     <div class="note amber">
-      <p><b>Öffentliche Builds speichern nur für die Sitzung.</b> Der Pages-Workflow baut mit <code>VITE_EPHEMERAL_STORAGE=true</code>; dann liegt der gesamte Zustand in <code>sessionStorage</code> statt <code>localStorage</code> und ist mit dem Schließen des Tabs weg. Lokale Builds und der Container behalten <code>localStorage</code>.</p>
-      <p>Unabhängig davon gilt: Auf GitHub Pages ist der ausgelieferte Inhalt öffentlich — auch <code>aktionstage.json</code> und die Bilder in <code>mood-scales/</code>. Notizen und Stimmungen verlassen den Browser aber nie.</p>
+      <p><b>Öffentliche Builds speichern nur für die Sitzung.</b> Der Pages-Workflow baut mit <code>VITE_EPHEMERAL_STORAGE=true</code>; dann liegt der gesamte Zustand in <code>sessionStorage</code> statt <code>localStorage</code> und ist mit dem Schließen des Tabs weg. Lokale Builds behalten <code>localStorage</code>.</p>
+      <p>Unabhängig davon gilt: Auf GitHub Pages ist der ausgelieferte Inhalt öffentlich — auch <code>aktionstage.json</code> und die Bilder in <code>mood-scales/</code>. Stimmungen verlassen den Browser aber nie.</p>
     </div>
   </section>
 

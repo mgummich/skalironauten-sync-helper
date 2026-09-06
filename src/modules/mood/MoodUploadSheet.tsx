@@ -61,7 +61,9 @@ const Body = ({ onAdded }: Props) => {
     }
   };
 
-  const ready = Boolean(picked && title.trim()) && !busy;
+  // Rendered as an <a href> later: only http(s), never javascript: or data:.
+  const sourceOk = !sourceUrl.trim() || /^https?:\/\/\S+$/i.test(sourceUrl.trim());
+  const ready = Boolean(picked && title.trim()) && sourceOk && !busy;
 
   return (
     <div className="space-y-4">
@@ -117,7 +119,15 @@ const Body = ({ onAdded }: Props) => {
         <span className="mb-1 block text-sm font-semibold">
           Quelle / Link <span className="font-normal text-slate-600">(optional)</span>
         </span>
-        <input type="url" value={sourceUrl} onChange={(e) => setSourceUrl(e.target.value)} placeholder="https://…" className={INPUT} />
+        <input
+          type="url"
+          value={sourceUrl}
+          onChange={(e) => setSourceUrl(e.target.value)}
+          placeholder="https://…"
+          aria-invalid={!sourceOk}
+          className={cx(INPUT, !sourceOk && 'border-b-red-600')}
+        />
+        {!sourceOk && <span className="mt-1 block text-sm text-red-700">Bitte einen Link mit http:// oder https:// angeben.</span>}
       </label>
 
       <p className="text-sm leading-snug text-slate-600">

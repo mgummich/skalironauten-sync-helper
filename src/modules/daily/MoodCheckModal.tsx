@@ -1,10 +1,9 @@
-import { useState, KeyboardEvent } from 'react';
-import { X, ZoomIn, Image as ImageIcon, Check } from 'lucide-react';
+import { useState, useRef, KeyboardEvent } from 'react';
+import { X, ZoomIn, Image as ImageIcon, Check, Dices, Download, Copy } from 'lucide-react';
 import { Sheet, useSheetClose } from '../ui/Sheet';
 import { Lightbox } from '../ui/Lightbox';
-import { MoodsView } from '../mood/MoodsView';
 import { getMoodImage, getMoodImageUrl, getMoodUsage } from '../mood/moodLibrary';
-import { clearPendingDraw, getMoodPick, setMoodPick } from '../mood/moodManager';
+import { clearPendingDraw, getMoodPick, rerollDraw } from '../mood/moodManager';
 import { saveMood } from '../data/storage';
 import { formatDateLong } from '../data/dateUtils';
 import { cx, BTN_DISABLED, BTN_ICON, BTN_PRIMARY, BTN_SECONDARY, BTN_TERTIARY, FOCUS } from '../ui/cls';
@@ -21,6 +20,25 @@ interface Props {
 
 const VALUES = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 
+const EXT: Record<string, string> = {
+  'image/webp': 'webp',
+  'image/png': 'png',
+  'image/jpeg': 'jpg',
+  'image/gif': 'gif'
+};
+
+async function toPng(blob: Blob): Promise<Blob> {
+  if (blob.type === 'image/png') return blob;
+  const bitmap = await createImageBitmap(blob);
+  const canvas = document.createElement('canvas');
+  canvas.width = bitmap.width;
+  canvas.height = bitmap.height;
+  canvas.getContext('2d')!.drawImage(bitmap, 0, 0);
+  return new Promise((resolve, reject) =>
+    canvas.toBlob((b) => (b ? resolve(b) : reject(new Error('PNG-Konvertierung fehlgeschlagen'))), 'image/png')
+  );
+}
+
 export const MoodCheckModal = (props: Props) => (
   <Sheet label="Mood Check" onClose={props.onClose}>
     <MoodCheckBody {...props} />
@@ -33,7 +51,8 @@ const MoodCheckBody = ({ date, iso, imageId, initialValue, onImageChange, onSave
   const [saved, setSaved] = useState<number | null>(null);
   const [loaded, setLoaded] = useState(false);
   const [lightbox, setLightbox] = useState(false);
-  const [picker, setPicker] = useState(false);
+  const [done, setDone] = useState<'download' | 'copy' | 'copyFallback' | null>(null);
+  const doneTimer = useRef<number | undefined>(undefined);
   const picked = getMoodPick(iso) === imageId;
   const url = getMoodImageUrl(imageId);
   const image = getMoodImage(imageId);
@@ -48,11 +67,43 @@ const MoodCheckBody = ({ date, iso, imageId, initialValue, onImageChange, onSave
     onSaved();
   };
 
-  const pick = (id: string) => {
-    setMoodPick(iso, id);
-    onImageChange(id);
+  const reroll = () => {
+    const id = rerollDraw(iso);
     setLoaded(false);
-    setPicker(false);
+    onImageChange(id); // selection stays — only the image changes
+  };
+
+  const flash = (state: 'download' | 'copy' | 'copyFallback') => {
+    setDone(state);
+    window.clearTimeout(doneTimer.current);
+    doneTimer.current = window.setTimeout(() => setDone(null), 2000);
+  };
+
+  const fetchBlob = async () => (await fetch(url)).blob();
+
+  const download = async () => {
+    const blob = await fetchBlob();
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = `mood-${imageId}.${EXT[blob.type] ?? 'png'}`;
+    a.click();
+    URL.revokeObjectURL(a.href);
+  };
+
+  const copyImage = async () => {
+    if (!navigator.clipboard?.write || typeof ClipboardItem === 'undefined') {
+      await download();
+      flash('copyFallback');
+      return;
+    }
+    try {
+      // Safari needs the ClipboardItem created synchronously in the gesture, with a Promise<Blob>.
+      await navigator.clipboard.write([new ClipboardItem({ 'image/png': fetchBlob().then(toPng) })]);
+      flash('copy');
+    } catch {
+      await download();
+      flash('copyFallback');
+    }
   };
 
   const onKey = (e: KeyboardEvent<HTMLDivElement>) => {
@@ -88,7 +139,7 @@ const MoodCheckBody = ({ date, iso, imageId, initialValue, onImageChange, onSave
           src={url}
           alt="Mood-Skala, Raster aus 9 Feldern"
           onLoad={() => setLoaded(true)}
-          className={cx('h-full w-full object-contain', !loaded && 'invisible')}
+          className={cx('h-full w-full object-contain transition-opacity duration-150 motion-reduce:transition-none', !loaded && 'opacity-0')}
         />
         {loaded && image && (
           <span className="absolute bottom-2 left-2 inline-flex h-7 max-w-[60%] items-center truncate rounded border border-slate-300 bg-white/90 px-2.5 text-sm text-slate-700">
@@ -106,14 +157,53 @@ const MoodCheckBody = ({ date, iso, imageId, initialValue, onImageChange, onSave
         </button>
       </div>
 
-      <div className="mt-4 flex items-center justify-between gap-2">
-        <span className="min-w-0 truncate text-sm text-slate-600">
-          {picked ? 'Selbst gewählt' : 'Zufallsvorschlag'}
-          {usage.length ? ` · ${usage.length}× genutzt (${lastUse})` : ' · noch ungenutzt'}
-        </span>
-        <button type="button" onClick={() => setPicker(true)} className={cx('h-9 shrink-0 px-3.5 text-sm', BTN_SECONDARY)}>
-          Anderes Bild wählen
-        </button>
+      <div className="mt-4 space-y-2">
+        <div className="flex items-center justify-between gap-2">
+          <span className="min-w-0 truncate text-sm text-slate-600" aria-live="polite">
+            {!loaded ? (
+              'Zufallsvorschlag wird geladen …'
+            ) : (
+              <>
+                {picked ? 'Selbst gewählt' : 'Zufallsvorschlag'}
+                {usage.length ? ` · ${usage.length}× genutzt (${lastUse})` : ' · noch ungenutzt'}
+              </>
+            )}
+          </span>
+          <button type="button" onClick={reroll} className={cx('h-10 shrink-0 px-3.5 text-sm lg:hidden', BTN_SECONDARY)}>
+            <Dices className="h-[18px] w-[18px]" aria-hidden /> Zufällig wählen
+          </button>
+        </div>
+        <div className="flex gap-2 lg:flex-wrap">
+          <button
+            type="button"
+            disabled={!loaded}
+            onClick={() => download().then(() => flash('download'))}
+            className={cx('h-10 flex-1 text-sm duration-200 lg:flex-none lg:px-4', BTN_TERTIARY, done === 'download' && 'text-emerald-700')}
+          >
+            {done === 'download' ? <Check className="h-[18px] w-[18px]" aria-hidden /> : <Download className="h-[18px] w-[18px]" aria-hidden />}
+            {done === 'download' ? 'Heruntergeladen' : 'Herunterladen'}
+          </button>
+          <button
+            type="button"
+            disabled={!loaded}
+            onClick={copyImage}
+            className={cx(
+              'h-10 flex-1 text-sm duration-200 lg:flex-none lg:px-4',
+              BTN_TERTIARY,
+              (done === 'copy' || done === 'copyFallback') && 'text-emerald-700'
+            )}
+          >
+            {done === 'copy' || done === 'copyFallback' ? (
+              <Check className="h-[18px] w-[18px]" aria-hidden />
+            ) : (
+              <Copy className="h-[18px] w-[18px]" aria-hidden />
+            )}
+            {done === 'copy' ? 'Kopiert' : done === 'copyFallback' ? 'Heruntergeladen' : 'Bild kopieren'}
+          </button>
+          <button type="button" onClick={reroll} className={cx('h-10 px-3.5 text-sm max-lg:hidden', BTN_SECONDARY)}>
+            <Dices className="h-[18px] w-[18px]" aria-hidden /> Zufällig wählen
+          </button>
+        </div>
       </div>
 
       <p id="mood-label" className="mt-4 text-sm font-medium text-slate-700">
@@ -164,11 +254,6 @@ const MoodCheckBody = ({ date, iso, imageId, initialValue, onImageChange, onSave
       </button>
 
       {lightbox && <Lightbox url={url} onClose={() => setLightbox(false)} />}
-      {picker && (
-        <Sheet label="Mood-Bild wählen" onClose={() => setPicker(false)}>
-          <MoodsView pickMode onChooseForToday={pick} />
-        </Sheet>
-      )}
     </div>
   );
 };

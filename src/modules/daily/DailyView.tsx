@@ -1,5 +1,5 @@
-import { useState, useEffect, useRef } from 'react';
-import { ChevronLeft, ChevronRight, Copy, Check } from 'lucide-react';
+import { useState, useEffect } from 'react';
+import { ChevronLeft, ChevronRight } from 'lucide-react';
 import { getActionDaysForDate } from '../data/dataLoader';
 import {
   isWorkday,
@@ -8,16 +8,16 @@ import {
   isToday,
   addDays,
   formatDateToISO,
-  formatDateLong,
   formatDateNoWeekday,
   getGermanWeekday
 } from '../data/dateUtils';
-import { getNotes, saveNotes, hasSavedNotes, getMood, Notes } from '../data/storage';
-import { getPendingDraw, getMoodImageUrl, drawMoodImage } from '../mood/moodManager';
+import { getMood } from '../data/storage';
+import { getPendingDraw, drawMoodImage } from '../mood/moodManager';
+import { getMoodImageUrl } from '../mood/moodLibrary';
 import { AktionstagCard } from './AktionstagCard';
 import { MoodCheckModal } from './MoodCheckModal';
 import type { DailyTarget } from '../ui/AppShell';
-import { cx, BADGE_AMBER, BTN_PRIMARY, BTN_SECONDARY, BTN_TERTIARY, CARD, CARD_RAISED, INPUT, PILL, FOCUS } from '../ui/cls';
+import { cx, BADGE_AMBER, BTN_PRIMARY, BTN_TERTIARY, CARD, CARD_RAISED, PILL, FOCUS } from '../ui/cls';
 
 interface Props {
   target: DailyTarget;
@@ -37,46 +37,16 @@ export const DailyView = ({ target, onDateChange, openMoodRequest }: Props) => {
   const [entryIndex, setEntryIndex] = useState(target.entryIndex);
   const [mood, setMood] = useState(() => getMood(iso));
   const [moodOpen, setMoodOpen] = useState<string | null>(null); // image id while open
-  const [notes, setNotes] = useState<Notes>(() => getNotes(iso));
-  const [notesSaved, setNotesSaved] = useState(() => hasSavedNotes(iso));
-  const [copied, setCopied] = useState(false);
-  const saveTimer = useRef<number | undefined>(undefined);
 
   useEffect(() => {
     setEntryIndex(Math.min(target.entryIndex, Math.max(0, entries.length - 1)));
     setMood(getMood(iso));
-    setNotes(getNotes(iso));
-    setNotesSaved(hasSavedNotes(iso));
     setMoodOpen(null);
   }, [iso, target]); // eslint-disable-line react-hooks/exhaustive-deps
 
   useEffect(() => {
     if (openMoodRequest > 0) setMoodOpen(getPendingDraw(iso));
   }, [openMoodRequest]); // eslint-disable-line react-hooks/exhaustive-deps
-
-  const updateNotes = (patch: Partial<Notes>) => {
-    const next = { ...notes, ...patch };
-    setNotes(next);
-    window.clearTimeout(saveTimer.current);
-    saveTimer.current = window.setTimeout(() => {
-      saveNotes(iso, next);
-      setNotesSaved(true);
-    }, 300);
-  };
-
-  const copyStandup = async () => {
-    const entry = entries[entryIndex];
-    const lines = [
-      `Standup – ${formatDateLong(date)}`,
-      entry && `Aktionstag: ${entry.name} (${entry.category}, ${entry.region})`,
-      `Gestern: ${notes.gestern.trim() || '…'}`,
-      `Heute: ${notes.heute.trim() || '…'}`,
-      `Blocker: ${notes.blocker.trim() || 'Keine'}`
-    ].filter(Boolean);
-    await navigator.clipboard.writeText(lines.join('\n'));
-    setCopied(true);
-    window.setTimeout(() => setCopied(false), 2000);
-  };
 
   const openMood = () => setMoodOpen(mood ? drawMoodImage() : getPendingDraw(iso));
   const thumbId = mood?.imageId ?? getPendingDraw(iso);
@@ -121,9 +91,8 @@ export const DailyView = ({ target, onDateChange, openMoodRequest }: Props) => {
 
       <AktionstagCard date={date} entries={entries} index={entryIndex} onIndexChange={setEntryIndex} onNavigateDate={onDateChange} />
 
-      <div className="space-y-4 lg:grid lg:grid-cols-[5fr_7fr] lg:gap-6 lg:space-y-0">
-        {/* Mood card */}
-        <section aria-label="Mood Check" className={cx('p-4', mood ? CARD : CARD_RAISED)}>
+      {/* Mood card */}
+      <section aria-label="Mood Check" className={cx('p-4 lg:mx-auto lg:max-w-[560px]', mood ? CARD : CARD_RAISED)}>
           {mood ? (
             <div className="flex items-center gap-3">
               <Thumb id={thumbId} size="h-14 w-14" />
@@ -157,58 +126,7 @@ export const DailyView = ({ target, onDateChange, openMoodRequest }: Props) => {
               </button>
             </>
           )}
-        </section>
-
-        {/* Notes */}
-        {/* No card on mobile: the notes sit directly on the page background. */}
-        <section aria-label="Standup-Notizen" className="lg:rounded-lg lg:bg-white lg:p-5 lg:shadow-[0_2px_8px_rgba(0,0,0,.08)]">
-          <div className="flex items-baseline justify-between px-1 lg:px-0">
-            <h3 className="text-base font-semibold">Standup-Notizen</h3>
-            <span className="text-sm text-slate-600">{notesSaved ? 'gespeichert' : 'wird pro Tag gespeichert'}</span>
-          </div>
-          <div className="mt-3 space-y-3 lg:grid lg:grid-cols-3 lg:gap-3 lg:space-y-0">
-            {(
-              [
-                ['gestern', 'Gestern', 'Was war gestern?'],
-                ['heute', 'Heute', 'Was steht heute an?'],
-                ['blocker', 'Blocker', 'Keine']
-              ] as const
-            ).map(([key, label, placeholder]) => (
-              <label key={key} className="block">
-                <span className="mb-1 block text-sm font-semibold">{label}</span>
-                <input
-                  type="text"
-                  value={notes[key]}
-                  placeholder={placeholder}
-                  onChange={(e) => updateNotes({ [key]: e.target.value })}
-                  onBlur={() => saveNotes(iso, notes)}
-                  className={cx(INPUT, 'lg:bg-white')}
-                />
-              </label>
-            ))}
-          </div>
-          <div className="mt-4 lg:flex lg:items-center lg:gap-4">
-            <button
-              type="button"
-              onClick={copyStandup}
-              className={cx(
-                'h-12 w-full text-base duration-200 lg:h-11 lg:w-auto lg:px-5',
-                copied ? 'inline-flex items-center justify-center gap-2 rounded-full bg-emerald-700 font-semibold text-white ' + FOCUS : BTN_SECONDARY
-              )}
-            >
-              {copied ? <Check className="h-5 w-5" aria-hidden /> : <Copy className="h-5 w-5" aria-hidden />}
-              {copied ? 'Kopiert' : 'Standup-Text kopieren'}
-            </button>
-            <p className="mt-2 text-center text-sm text-slate-600 lg:mt-0 lg:text-left" aria-live="polite">
-              {copied ? (
-                'Datum, Aktionstag und Notizen sind in der Zwischenablage.'
-              ) : (
-                <span className="hidden lg:inline">Datum · Aktionstag · Gestern / Heute / Blocker</span>
-              )}
-            </p>
-          </div>
-        </section>
-      </div>
+      </section>
 
       {moodOpen && (
         <MoodCheckModal
