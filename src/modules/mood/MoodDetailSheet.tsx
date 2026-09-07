@@ -29,6 +29,7 @@ const Body = ({ image, usage, onChoose }: Props) => {
       <div className="flex items-start justify-between gap-2">
         <div>
           <h2 className="text-xl font-semibold lg:text-[22px]">{image.title}</h2>
+          {image.category && <p className="text-sm text-slate-600">{image.category}</p>}
           {image.sourceUrl && (
             <a
               href={image.sourceUrl}

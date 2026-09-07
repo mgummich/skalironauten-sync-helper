@@ -389,7 +389,7 @@ npm run preview</code></pre>
         <h3><code>mood/</code> Stimmungsbilder</h3>
         <p>Mitgelieferte Bilder aus <code>mood-scales/</code> plus eigene Uploads.</p>
         <ul>
-          <li><code>moodManifest.ts</code> — findet die Assets per <code>import.meta.glob</code>; Vite hasht sie in den Build.</li>
+          <li><code>moodManifest.ts</code> — findet die Assets per <code>import.meta.glob</code> und verknüpft sie mit den Metadaten aus <code>mood-scales.json</code> (Titel, Kategorie, Maße); Vite hasht die Bilder in den Build.</li>
           <li><code>moodLibrary.ts</code> — führt mitgelieferte und hochgeladene Bilder zu einer Liste zusammen und leitet die Nutzung aus den <code>mood:*</code>-Einträgen ab, statt sie doppelt zu speichern.</li>
           <li><code>moodBlobs.ts</code> — winziger IndexedDB-Wrapper; nur die Blobs der Uploads liegen dort, die Metadaten im normalen Store.</li>
           <li><code>moodManager.ts</code> — zieht ein Bild pro Dialog-Öffnung, bevorzugt ungenutzte und meidet die letzten fünf; hält den Zug pro Tag fest, damit Karten-Thumbnail und Dialog übereinstimmen.</li>
@@ -436,7 +436,7 @@ npm run preview</code></pre>
         <p>Bleiben im Projekt-Root.</p>
         <ul>
           <li><code>aktionstage.json</code> — 930 Einträge: Name, Datumsregel, Kategorie (4), Region (227), Beschreibung, Wikipedia-URL.</li>
-          <li><code>mood-scales/</code> — 273 Meme-Raster als WebP, bis 1200px breit. Der Dateiname ist die stabile Identität im Speicher.</li>
+          <li><code>mood-scales/</code> — 273 Meme-Raster als WebP (<code>mood-001.webp</code> … <code>mood-273.webp</code>), bis 1200px breit. <code>mood-scales.json</code> beschreibt jedes Bild: <code>id</code>, <code>file</code>, <code>title</code>, <code>category</code>, Abmessungen und den früheren Dateinamen für die Migration. Die <code>id</code> ist die stabile Identität im Speicher.</li>
         </ul>
       </div>
     </div>
