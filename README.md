@@ -109,12 +109,16 @@ src/modules/
 
 - `aktionstage.json` — 930 action days, imported directly by
   `src/modules/data/dataLoader.ts`.
-- `mood-scales/` — 273 mood scale images, picked up by `import.meta.glob` in
-  `src/modules/mood/moodManifest.ts`. The filename is the stable id that gets
-  persisted. All WebP, capped at 1200px wide. Add new ones in the same format:
+- `mood-scales/` — 273 mood scale images named `mood-001.webp` … `mood-273.webp`,
+  described by `mood-scales.json`: one entry per image with `id`, `file`, `title`,
+  `category` (Tiere, Cartoon & Animation, Film & Serie, Promis & Musik,
+  Meme-Klassiker, Sport, Sonstiges), `width`, `height` and `originalFile` (the
+  pre-rename filename, used once to migrate stored ids). The `id` is the stable
+  identity that gets persisted. All WebP, capped at 1200px wide. To add one,
+  convert it, name it the next free `mood-NNN.webp`, and append a JSON entry:
 
   ```bash
-  magick input.jpg -resize '1200>' -strip -quality 78 mood-scales/name.webp
+  magick input.jpg -resize '1200>' -strip -quality 78 mood-scales/mood-274.webp
   ```
 
 - Uploaded images are **not** part of the repository: the blob goes into IndexedDB

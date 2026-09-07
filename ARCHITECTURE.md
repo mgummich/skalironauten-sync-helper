@@ -37,14 +37,17 @@ the only place storage keys are created.
 
 ### `mood/` — images and their history
 
-- `moodManifest.ts` — discovers `mood-scales/*.webp` with `import.meta.glob`; Vite
-  serves them in dev and copies them hashed into `dist/assets`. The **filename** is
-  the stable identity that gets persisted.
-- `moodLibrary.ts` — merges built-in images (titled `Mood-Skala 001…`) with uploaded
-  ones into a single alphabetical list, and derives usage from the saved `mood:*`
-  entries. `initMoodLibrary()` runs once before the first render: it turns the
-  uploaded blobs into object URLs and drops orphans, so `getMoodImageUrl(id)` can
-  stay synchronous everywhere else.
+- `moodManifest.ts` — pairs `mood-scales/*.webp` (discovered with
+  `import.meta.glob`; Vite serves them in dev and copies them hashed into
+  `dist/assets`) with `mood-scales.json`, which carries title, category,
+  dimensions and the pre-rename `originalFile` per image. The json **id**
+  (= filename without extension) is the stable identity that gets persisted.
+- `moodLibrary.ts` — merges the built-in images with uploaded ones into a single
+  alphabetical list, and derives usage from the saved `mood:*` entries.
+  `initMoodLibrary()` runs once before the first render: it rewrites stored ids
+  that still use the pre-rename filenames (via `originalFile`), turns the
+  uploaded blobs into object URLs and drops orphans, so `getMoodImageUrl(id)`
+  can stay synchronous everywhere else.
 - `moodBlobs.ts` — a ~30-line IndexedDB wrapper (`sync-helper` / `moodBlobs`).
   Uploaded images are far too large for `localStorage`; only their blobs go here.
 - `moodManager.ts` — draws an image per dialog open, preferring never-used ones and

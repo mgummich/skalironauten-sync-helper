@@ -1,13 +1,14 @@
 // The mood library: the images shipped with the app plus the ones the team uploaded
 // on this device. Usage (how often an image was picked, and when) is derived from the
 // saved `mood:{date}` entries — it is never stored twice.
-import { MOOD_SCALES, MOOD_SCALE_IMAGES } from './moodManifest';
+import { MOOD_SCALES, MOOD_SCALE_ENTRIES, LEGACY_MOOD_IDS } from './moodManifest';
 import { allBlobKeys, allBlobs, deleteBlob, putBlob } from './moodBlobs';
 import { store, readList, readMoodEntries } from '../data/storage';
 
 export interface MoodImage {
   id: string;
   title: string;
+  category?: string;
   sourceUrl?: string;
   builtIn: boolean;
   width?: number;
@@ -32,15 +33,44 @@ const writeCustom = (images: MoodImage[]): void => {
 // id -> object URL for uploaded images, filled once by initMoodLibrary().
 const customUrls = new Map<string, string>();
 
-const BUILT_INS: MoodImage[] = [...MOOD_SCALE_IMAGES]
-  .sort()
-  .map((id, i) => ({ id, title: `Mood-Skala ${String(i + 1).padStart(3, '0')}`, builtIn: true }));
+const BUILT_INS: MoodImage[] = MOOD_SCALE_ENTRIES.map((e) => ({
+  id: e.id,
+  title: e.title,
+  category: e.category,
+  width: e.width,
+  height: e.height,
+  builtIn: true
+}));
+
+// The built-in files were renamed from scraped names to mood-NNN.webp; stored ids
+// still using the old filenames are rewritten once here.
+function migrateLegacyIds(): void {
+  const fix = (id: string | null) => (id && LEGACY_MOOD_IDS[id]) || null;
+  for (let i = store.length - 1; i >= 0; i--) {
+    const key = store.key(i)!;
+    if (key.startsWith('moodPick:') || key.startsWith('moodDraw:')) {
+      const next = fix(store.getItem(key));
+      if (next) store.setItem(key, next);
+    } else if (key.startsWith('mood:')) {
+      try {
+        const mood = JSON.parse(store.getItem(key) || '');
+        const next = fix(mood?.imageId);
+        if (next) store.setItem(key, JSON.stringify({ ...mood, imageId: next }));
+      } catch {
+        /* malformed entry: leave it alone */
+      }
+    }
+  }
+  const recent = readList<string>('moodRecent').map((id) => LEGACY_MOOD_IDS[id] ?? id);
+  if (recent.length) store.setItem('moodRecent', JSON.stringify(recent));
+}
 
 /**
  * Reads the uploaded blobs into object URLs and drops orphans (blobs whose metadata is
  * gone, e.g. after the session-only build cleared it). Call once before rendering.
  */
 export async function initMoodLibrary(): Promise<void> {
+  migrateLegacyIds();
   const custom = readCustom();
   try {
     const [keys, blobs] = await Promise.all([allBlobKeys(), allBlobs()]);
