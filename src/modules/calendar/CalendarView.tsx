@@ -92,7 +92,6 @@ export const CalendarView = ({ onShowInStandup }: Props) => {
 
   return (
     <div>
-      {/* Mobile */}
       <div className="lg:hidden">
         <h2 className="text-xl font-semibold">Kalender</h2>
         <div className="mt-3 space-y-3">
@@ -142,7 +141,6 @@ export const CalendarView = ({ onShowInStandup }: Props) => {
         </button>
       </div>
 
-      {/* Desktop */}
       <div className="hidden lg:block">
         <div className="flex flex-wrap items-center gap-3">
           <div role="group" aria-label="Jahr" className="flex rounded-md bg-slate-200 p-1">

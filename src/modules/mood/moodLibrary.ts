@@ -1,6 +1,3 @@
-// The mood library: the images shipped with the app plus the ones the team uploaded
-// on this device. Usage (how often an image was picked, and when) is derived from the
-// saved `mood:{date}` entries — it is never stored twice.
 import { MOOD_SCALES, MOOD_SCALE_ENTRIES, LEGACY_MOOD_IDS } from './moodManifest';
 import { allBlobKeys, allBlobs, deleteBlob, putBlob } from './moodBlobs';
 import { store, readList, readMoodEntries } from '../data/storage';
@@ -33,17 +30,15 @@ const writeCustom = (images: MoodImage[]): void => {
 // id -> object URL for uploaded images, filled once by initMoodLibrary().
 const customUrls = new Map<string, string>();
 
-const BUILT_INS: MoodImage[] = MOOD_SCALE_ENTRIES.map((e) => ({
-  id: e.id,
-  title: e.title,
-  category: e.category,
-  width: e.width,
-  height: e.height,
+const BUILT_INS: MoodImage[] = MOOD_SCALE_ENTRIES.map(({ id, title, category, width, height }) => ({
+  id,
+  title,
+  category,
+  width,
+  height,
   builtIn: true
 }));
 
-// The built-in files were renamed from scraped names to mood-NNN.webp; stored ids
-// still using the old filenames are rewritten once here.
 function migrateLegacyIds(): void {
   const fix = (id: string | null) => (id && LEGACY_MOOD_IDS[id]) || null;
   for (let i = store.length - 1; i >= 0; i--) {
@@ -82,17 +77,14 @@ export async function initMoodLibrary(): Promise<void> {
   } catch (e) {
     console.error('mood image store unavailable', e);
   }
-  // Metadata without a blob is useless too.
   const usable = custom.filter((c) => customUrls.has(c.id));
   if (usable.length !== custom.length) writeCustom(usable);
 }
 
-// Built once and reused: the list only changes when an image is added or dropped,
-// and both paths go through writeCustom().
+// writeCustom() invalidates the cached library.
 let sorted: MoodImage[] | null = null;
 let byId: Map<string, MoodImage> | null = null;
 
-/** All images, alphabetically by title — the order the gallery shows. */
 export function getMoodImages(): MoodImage[] {
   if (!sorted) {
     sorted = [...BUILT_INS, ...readCustom()].sort((a, b) => a.title.localeCompare(b.title, 'de'));
@@ -112,7 +104,7 @@ export function getMoodImageUrl(id: string): string {
 
 export const isKnownMoodImage = (id: string): boolean => getMoodImageUrl(id) !== '';
 
-/** image id -> the days it was saved on, newest first. */
+/** Usage is derived from saved moods, newest first. */
 export function getMoodUsage(): Map<string, MoodUsage[]> {
   const usage = new Map<string, MoodUsage[]>();
   for (const { iso, mood } of readMoodEntries()) {

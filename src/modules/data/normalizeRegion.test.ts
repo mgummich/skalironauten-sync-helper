@@ -59,7 +59,6 @@ describe('normalizeRegion', () => {
 });
 
 describe('normalizeRegion known limitations', () => {
-  // Pinned so a future fix shows up as a failing test rather than going unnoticed.
   it('cuts only the folded overlap when the alt text is reordered', () => {
     // Ideal output would be "Südkorea"; "Korea Sud" only overlaps on "Sud".
     expect(normalizeRegion(raw('Korea Sud~Südkorea'))).toBe('Korea, Südkorea');

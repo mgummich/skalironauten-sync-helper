@@ -5,7 +5,6 @@ interface DevToolbarProps {
   onSelectDate: (dateStr: string) => void;
 }
 
-/** Dev-only: jump to any date, wipe local state. */
 export const DevToolbar = ({ currentDateStr, onSelectDate }: DevToolbarProps) => (
   <div className="flex items-center gap-3 border-b border-slate-300 bg-slate-200 px-4 py-1 text-sm text-slate-700">
     <span className="font-semibold">DEV</span>

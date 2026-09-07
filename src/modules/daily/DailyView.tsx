@@ -53,7 +53,6 @@ export const DailyView = ({ target, onDateChange, openMoodRequest }: Props) => {
 
   return (
     <div className="space-y-4 lg:space-y-6">
-      {/* Date row */}
       <section aria-label="Datum" className="flex flex-col items-center gap-2.5">
         <div className="flex w-full items-center justify-between gap-2">
           <button type="button" aria-label="Vortag" onClick={() => onDateChange(addDays(date, -1))} className={cx('h-11 w-11 shrink-0', BTN_TERTIARY)}>
@@ -91,7 +90,6 @@ export const DailyView = ({ target, onDateChange, openMoodRequest }: Props) => {
 
       <AktionstagCard date={date} entries={entries} index={entryIndex} onIndexChange={setEntryIndex} onNavigateDate={onDateChange} />
 
-      {/* Mood card */}
       <section aria-label="Mood Check" className={cx('p-4 lg:mx-auto lg:max-w-[560px]', mood ? CARD : CARD_RAISED)}>
           {mood ? (
             <div className="flex items-center gap-3">

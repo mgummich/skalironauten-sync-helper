@@ -43,7 +43,6 @@ export function rerollDraw(iso: string): string {
 
 export const getMoodPick = (iso: string): string | null => store.getItem(`moodPick:${iso}`);
 
-/** Picking from the gallery overrides the random suggestion for that day. */
 export function setMoodPick(iso: string, imageId: string): void {
   store.setItem(`moodPick:${iso}`, imageId);
 }

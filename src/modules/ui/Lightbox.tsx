@@ -2,7 +2,6 @@ import { X } from 'lucide-react';
 import { Sheet, useSheetClose } from './Sheet';
 import { cx, BTN_ICON } from './cls';
 
-/** Full-size view of a mood image; any click closes it. */
 export const Lightbox = ({ url, onClose }: { url: string; onClose: () => void }) => (
   <Sheet label="Bild in Originalgröße" variant="lightbox" onClose={onClose}>
     <Body url={url} />

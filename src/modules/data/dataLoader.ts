@@ -12,7 +12,7 @@ export interface ActionDay {
   quelle: string;
 }
 
-const rawActionDays = (rawData as ActionDay[]).map((item) => ({ ...item, region: normalizeRegion(item.region) }));
+const rawActionDays = rawData.map((item) => ({ ...item, region: normalizeRegion(item.region) }));
 
 const monthDayIndex = new Map<string, ActionDay[]>();
 

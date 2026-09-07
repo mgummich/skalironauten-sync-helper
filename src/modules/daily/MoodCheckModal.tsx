@@ -70,7 +70,7 @@ const MoodCheckBody = ({ date, iso, imageId, initialValue, onImageChange, onSave
   const reroll = () => {
     const id = rerollDraw(iso);
     setLoaded(false);
-    onImageChange(id); // selection stays — only the image changes
+    onImageChange(id);
   };
 
   const flash = (state: 'download' | 'copy' | 'copyFallback') => {
@@ -112,7 +112,7 @@ const MoodCheckBody = ({ date, iso, imageId, initialValue, onImageChange, onSave
     e.preventDefault();
     const next = Math.min(9, Math.max(1, (selected ?? 1) + step));
     setSelected(next);
-    (e.currentTarget.querySelector(`[data-value="${next}"]`) as HTMLElement | null)?.focus();
+    e.currentTarget.querySelector<HTMLButtonElement>(`[data-value="${next}"]`)?.focus();
   };
 
   return (

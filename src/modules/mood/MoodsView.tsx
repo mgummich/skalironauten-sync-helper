@@ -8,7 +8,6 @@ import { cx, BADGE_AMBER, BTN_PRIMARY, BTN_SECONDARY, CARD, FOCUS, INPUT } from 
 type Filter = 'all' | 'unused' | 'used' | 'own';
 
 interface Props {
-  /** Chooses the image for today's Mood Check and opens it. */
   onChooseForToday: (imageId: string) => void;
 }
 
@@ -21,7 +20,6 @@ const FILTERS: { id: Filter; label: string; match: (i: MoodImage, used: number) 
 
 const shortDate = (iso: string) => `${iso.slice(8, 10)}.${iso.slice(5, 7)}.`;
 
-/** How often the image was used and when it was last picked; null while it is unused. */
 const usageLabel = (usage: MoodUsage[] | undefined) =>
   !usage?.length
     ? null
@@ -44,7 +42,7 @@ export const MoodsView = ({ onChooseForToday }: Props) => {
 
   const counts = Object.fromEntries(
     FILTERS.map((f) => [f.id, images.filter((i) => f.match(i, usage.get(i.id)?.length ?? 0)).length])
-  ) as Record<Filter, number>;
+  );
 
   const active = FILTERS.find((f) => f.id === filter)!;
   const needle = q.trim().toLowerCase();
@@ -56,8 +54,8 @@ export const MoodsView = ({ onChooseForToday }: Props) => {
     <div className="space-y-4 lg:space-y-6">
       <h2 className="text-xl font-semibold lg:sr-only">Moods</h2>
 
-      <div className={'space-y-3 lg:flex lg:items-center lg:gap-3 lg:space-y-0'}>
-        <div className={'relative lg:w-80 lg:shrink-0'}>
+      <div className="space-y-3 lg:flex lg:items-center lg:gap-3 lg:space-y-0">
+        <div className="relative lg:w-80 lg:shrink-0">
           <Search className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-slate-600" aria-hidden />
           <input
             type="search"
@@ -69,7 +67,7 @@ export const MoodsView = ({ onChooseForToday }: Props) => {
           />
         </div>
 
-        <div className={'flex gap-2 overflow-x-auto [scrollbar-width:none] -mx-4 px-4 lg:mx-0 lg:px-0'}>
+        <div className="flex gap-2 overflow-x-auto [scrollbar-width:none] -mx-4 px-4 lg:mx-0 lg:px-0">
           {FILTERS.map(({ id, label }) => (
             <button
               key={id}
@@ -108,7 +106,7 @@ export const MoodsView = ({ onChooseForToday }: Props) => {
       {shown.length === 0 ? (
         <p className="text-base text-slate-700">Kein Bild gefunden.</p>
       ) : (
-        <ul className={'grid grid-cols-2 gap-3 lg:grid-cols-4 lg:gap-5'}>
+        <ul className="grid grid-cols-2 gap-3 lg:grid-cols-4 lg:gap-5">
           {shown.map((image) => {
             const label = usageLabel(usage.get(image.id));
             return (

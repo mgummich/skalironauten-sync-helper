@@ -7,10 +7,8 @@ import {
   isHoliday,
   isSameDay,
   isWorkday,
-  parseISODate
+  parseISODate as iso
 } from './dateUtils';
-
-const iso = (s: string) => parseISODate(s);
 
 describe('formatDateToISO / parseISODate', () => {
   it('pads month and day', () => {
