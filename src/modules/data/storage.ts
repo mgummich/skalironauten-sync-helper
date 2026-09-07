@@ -8,9 +8,8 @@
 import type { Filters } from './dataLoader';
 
 // Every persisted value in the app goes through this one backing store.
-// Public deployments (GitHub Pages) build with VITE_EPHEMERAL_STORAGE=true, so
-// notes and moods live only as long as the browser tab. Local dev keeps
-// localStorage, where they survive a restart.
+// Builds with VITE_EPHEMERAL_STORAGE=true keep data only as long as the
+// browser tab; everywhere else localStorage persists across restarts.
 export const store: Storage =
   import.meta.env.VITE_EPHEMERAL_STORAGE === 'true' ? sessionStorage : localStorage;
 
