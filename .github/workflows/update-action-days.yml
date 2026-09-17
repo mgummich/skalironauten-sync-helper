@@ -11,6 +11,7 @@ on:
       - 'scripts/import-welcher-tag-ist-heute.mjs'
       - 'scripts/export-welcher-tag-md.mjs'
       - 'scripts/compare-kuriose-feiertage.mjs'
+      - 'scripts/update-aktionstage-from-review.mjs'
       - '.github/workflows/update-action-days.yml'
 
 permissions:
@@ -34,18 +35,20 @@ jobs:
         run: node scripts/export-welcher-tag-md.mjs
       - name: Compare with kuriose-feiertage.de
         run: node scripts/compare-kuriose-feiertage.mjs
+      - name: Update aktionstage.json
+        run: node scripts/update-aktionstage-from-review.mjs
       - name: Test and build
         run: |
           npm test
           npm run build
-      - name: Commit review markdown
+      - name: Commit generated files
         run: |
-          if [ -z "$(git status --porcelain -- aktionstage_welcher_tag_pruefung.md aktionstage_kuriose_feiertage_abgleich.md aktionstage_gesamt_pruefung.md)" ]; then
-            echo 'No review markdown changes.'
+          if [ -z "$(git status --porcelain -- aktionstage.json aktionstage_welcher_tag_pruefung.md aktionstage_kuriose_feiertage_abgleich.md aktionstage_gesamt_pruefung.md)" ]; then
+            echo 'No generated changes.'
             exit 0
           fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add aktionstage_welcher_tag_pruefung.md aktionstage_kuriose_feiertage_abgleich.md aktionstage_gesamt_pruefung.md
-          git commit -m 'docs: refresh action-day review markdown [skip ci]'
+          git add aktionstage.json aktionstage_welcher_tag_pruefung.md aktionstage_kuriose_feiertage_abgleich.md aktionstage_gesamt_pruefung.md
+          git commit -m 'data: refresh action days from reviewed sources [skip ci]'
           git push
