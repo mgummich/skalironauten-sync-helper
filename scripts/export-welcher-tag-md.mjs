@@ -1,6 +1,10 @@
 import { writeFile } from 'node:fs/promises';
 
-const INDEX = 'https://welcher-tag-ist-heute.org/aktionstage/';
+const INDEXES = [
+  { url: 'https://welcher-tag-ist-heute.org/aktionstage/', section: 'Aktionstage' },
+  { url: 'https://welcher-tag-ist-heute.org/feiertage/', section: 'Feiertage/Thementage' },
+  { url: 'https://welcher-tag-ist-heute.org/gedenktage/', section: 'Gedenktage' },
+];
 const YEAR = Number(process.env.TARGET_YEAR || new Date().getUTCFullYear());
 const OUT = new URL('../aktionstage_welcher_tag_pruefung.md', import.meta.url);
 const wait = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
@@ -40,20 +44,22 @@ function text(html) {
     .replace(/\s+/g, ' ').trim();
 }
 
-function links(html) {
-  const out = new Map();
+function links(html, index) {
+  const out = [];
+  const basePath = new URL(index.url).pathname;
   for (const match of html.matchAll(/<a\b[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi)) {
-    if (!/\/aktionstage\//i.test(match[1])) continue;
     try {
-      const url = new URL(ent(match[1]), INDEX);
+      const url = new URL(ent(match[1]), index.url);
       url.hash = '';
       url.search = '';
-      if (url.hostname !== 'welcher-tag-ist-heute.org' || /\/aktionstage\/$/i.test(url.pathname)) continue;
+      if (url.hostname !== 'welcher-tag-ist-heute.org') continue;
+      if (!url.pathname.startsWith(basePath) || url.pathname === basePath) continue;
       const name = text(match[2]);
-      if (name && name.toLocaleLowerCase('de-DE') !== 'aktionstage') out.set(url.href.toLowerCase(), { url: url.href, name });
+      if (!name || name.length > 180) continue;
+      out.push({ url: url.href, name, section: index.section });
     } catch {}
   }
-  return [...out.values()];
+  return out;
 }
 
 function date(html) {
@@ -61,7 +67,7 @@ function date(html) {
   for (const match of plain.matchAll(/\bam\s+(\d{1,2})\.(\d{1,2})\.(\d{4})\b/g)) {
     if (+match[3] === YEAR) return { day: +match[1], month: +match[2] };
   }
-  const match = plain.match(/findet\s+(?:jedes\s+jahr|jährlich)\s+am\s+(\d{1,2})\.?\s*(Januar|Februar|März|Maerz|April|Mai|Juni|Juli|August|September|Oktober|November|Dezember)/i);
+  const match = plain.match(/(?:findet\s+(?:jedes\s+jahr|jährlich)\s+am|jährlich\s+am)\s+(\d{1,2})\.?\s*(Januar|Februar|März|Maerz|April|Mai|Juni|Juli|August|September|Oktober|November|Dezember)/i);
   if (!match) return null;
   const months = { januar:1, februar:2, märz:3, maerz:3, april:4, mai:5, juni:6, juli:7, august:8, september:9, oktober:10, november:11, dezember:12 };
   return { day: +match[1], month: months[match[2].toLocaleLowerCase('de-DE')] };
@@ -85,8 +91,27 @@ async function pool(items, fn) {
 const months = [null, 'Januar', 'Februar', 'März', 'April', 'Mai', 'Juni', 'Juli', 'August', 'September', 'Oktober', 'November', 'Dezember'];
 
 async function main() {
-  const discovered = links(await get(INDEX));
-  if (discovered.length < 500) throw new Error(`Only ${discovered.length} action links discovered`);
+  const byUrl = new Map();
+  const indexStats = [];
+
+  for (const index of INDEXES) {
+    const found = links(await get(index.url), index);
+    indexStats.push({ ...index, count: found.length });
+    for (const entry of found) {
+      const key = entry.url.toLowerCase();
+      const existing = byUrl.get(key);
+      if (existing) {
+        existing.sections = [...new Set([...existing.sections, entry.section])];
+        if (entry.name.length > existing.name.length) existing.name = entry.name;
+      } else {
+        byUrl.set(key, { url: entry.url, name: entry.name, sections: [entry.section] });
+      }
+    }
+  }
+
+  const discovered = [...byUrl.values()];
+  if (discovered.length < 800) throw new Error(`Only ${discovered.length} unique day links discovered`);
+
   const details = await pool(discovered, async (entry, index) => {
     try {
       const html = await get(entry.url);
@@ -102,12 +127,16 @@ async function main() {
   details.sort((a, b) => (a.month ?? 99) - (b.month ?? 99) || (a.day ?? 99) - (b.day ?? 99) || a.name.localeCompare(b.name, 'de'));
 
   const lines = [
-    '# Aktionstage von welcher-tag-ist-heute.org',
+    '# Besondere Tage von welcher-tag-ist-heute.org',
     '',
-    '> Prüffassung: Name, Datum und Detail-URL direkt aus dem Crawl. Noch keine Quellenrecherche und keine Übernahme in `aktionstage.json`.',
+    '> Prüffassung aus den Bereichen Aktionstage, Feiertage/Thementage und Gedenktage. Noch keine externe Quellenrecherche und keine Übernahme in `aktionstage.json`.',
     '',
-    `- Gefundene eindeutige Detailseiten: **${details.length}**`,
+    `- Eindeutige Detailseiten nach Deduplizierung: **${details.length}**`,
     `- Zieljahr für variable Datumsangaben: **${YEAR}**`,
+    '',
+    '## Erfasste Website-Bereiche',
+    '',
+    ...indexStats.map((x) => `- ${x.section}: ${x.count} gefundene Links – ${x.url}`),
     '',
   ];
 
@@ -119,12 +148,14 @@ async function main() {
       lines.push(`## ${month ? months[month] : 'Datum nicht aufgelöst'}`, '');
     }
     const label = entry.day && entry.month ? `${String(entry.day).padStart(2, '0')}.${String(entry.month).padStart(2, '0')}.` : 'Datum offen';
-    lines.push(`- **${label} – ${entry.name}**  `, `  ${entry.url}`);
+    lines.push(`- **${label} – ${entry.name}**  `, `  ${entry.url}  `, `  _Website-Bereich: ${entry.sections.join(', ')}_`);
   }
 
-  lines.push('', '## Prüfhinweise', '', '- Diese Datei ist nur zur Sichtprüfung gedacht.', '- `welcher-tag-ist-heute.org` ist hier lediglich die Entdeckungsquelle.', '- Primär-/offizielle Quellen werden erst nach Freigabe dieser Liste ergänzt.');
+  const apple = details.find((x) => /tag der apfeltasche/i.test(x.name));
+  lines.push('', '## Prüfhinweise', '', '- Diese Datei ist nur zur Sichtprüfung gedacht.', '- `welcher-tag-ist-heute.org` ist hier lediglich die Entdeckungsquelle.', '- Primär-/offizielle Quellen werden erst nach Freigabe dieser Liste ergänzt.', `- Kontrollwert „Tag der Apfeltasche“: **${apple ? `${String(apple.day).padStart(2, '0')}.${String(apple.month).padStart(2, '0')}. – ${apple.url}` : 'NICHT GEFUNDEN'}**`);
   await writeFile(OUT, `${lines.join('\n')}\n`);
-  console.log(`Wrote ${details.length} entries to ${OUT.pathname}`);
+  console.log(`Wrote ${details.length} unique entries to ${OUT.pathname}`);
+  console.log(`Tag der Apfeltasche: ${apple ? `${apple.day}.${apple.month}. ${apple.url}` : 'NOT FOUND'}`);
 }
 
 main().catch((error) => { console.error(error); process.exitCode = 1; });
