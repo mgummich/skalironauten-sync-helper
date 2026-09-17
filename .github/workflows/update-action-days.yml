@@ -9,6 +9,7 @@ on:
       - aktionstage-welcher-tag-ist-heute
     paths:
       - 'scripts/import-welcher-tag-ist-heute.mjs'
+      - 'scripts/export-welcher-tag-md.mjs'
       - '.github/workflows/update-action-days.yml'
 
 permissions:
@@ -25,23 +26,23 @@ jobs:
           node-version: 22
       - name: Install dependencies
         run: npm ci
-      - name: Import and verify action days
+      - name: Export review markdown
         env:
-          IMPORT_CONCURRENCY: '4'
-          IMPORT_DELAY_MS: '150'
-        run: npm run import:aktionstage
+          IMPORT_CONCURRENCY: '6'
+          IMPORT_DELAY_MS: '120'
+        run: node scripts/export-welcher-tag-md.mjs
       - name: Test and build
         run: |
           npm test
           npm run build
-      - name: Commit generated data
+      - name: Commit review markdown
         run: |
-          if git diff --quiet -- aktionstage_welcher_tag.json aktionstage_welcher_tag_report.json; then
-            echo 'No generated changes.'
+          if git diff --quiet -- aktionstage_welcher_tag_pruefung.md; then
+            echo 'No review markdown changes.'
             exit 0
           fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add aktionstage_welcher_tag.json aktionstage_welcher_tag_report.json
-          git commit -m 'data: refresh researched action days [skip ci]'
+          git add aktionstage_welcher_tag_pruefung.md
+          git commit -m 'docs: refresh action-day review markdown [skip ci]'
           git push
