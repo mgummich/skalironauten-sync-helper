@@ -1,0 +1,6675 @@
+# Gemeinsame Prüfliste besonderer Tage
+
+> Zusammengeführt aus welcher-tag-ist-heute.org und kuriose-feiertage.de. Sichere Treffer und wahrscheinliche Namensvarianten wurden zu einem Eintrag zusammengeführt. Noch keine Übernahme in `aktionstage.json` und noch keine Recherche nach Primär-/offiziellen Quellen.
+
+- Einträge mit Datum nach Zusammenführung: **2977**
+- Zusammengeführte sichere Treffer: **564**
+- Zusammengeführte wahrscheinliche Namensvarianten: **52**
+- Nur welcher-tag-ist-heute: **999**
+- Nur kuriose-feiertage.de bzw. dort nicht automatisch zugeordnet: **1362**
+- Ohne aufgelöstes Datum aus welcher-tag-ist-heute: **4**
+
+## Januar
+
+- **01.01. – Bloody-Mary-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/bloody-mary-tag/ — „Bloody-Mary-Tag – National Bloody Mary Day in den USA“
+- **01.01. – Bonza-Bottler-Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/bonza-bottler-day/ — „Bonza-Bottler-Day in den USA – 1. Januar 2026“
+- **01.01. – Katertag zu Neujahr** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-hangover-day/ — „Katertag zu Neujahr – Hangover Day in den USA“
+- **01.01. – Neujahrstradition des First-Footing in Schottland** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/neujahrstradition-des-first-footing-in-schottland/ — „Neujahrstradition des First-Footing in Schottland – 1. Januar“
+- **01.01. – Pizza dagen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/pizza-dagen-in-schweden/ — „Pizza dagen – Pizza-Tag in Schweden zu Neujahr“
+- **01.01. – Tag der Befreiung** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/kuba-tag-der-befreiung
+- **01.01. – Tag der Republik** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/taiwan-tag-der-republik
+- **01.01. – Tag der Republik** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tschechien-slowakei-tag-der-republik
+- **01.01. – Tag des Buchstabens Z** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-buchstaben-z-der-amerikanische-z-day/ — „Tag des Buchstabens Z – der US-amerikanische Z-Day“
+- **01.01. – Tag des Glücksschweins** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-gluecksschweins/ — „Tag des Glücksschweins in Deutschland – 1. Januar“
+- **01.01. – Unabhängigkeitstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/haiti-unabhaengigkeitstag
+- **01.01. – Unabhängigkeitstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/samoa-unabhaengigkeitstag
+- **01.01. – Unabhängigkeitstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/sudan-unabhaengigkeitstag
+- **01.01. – Verschenk-einen-Apfel-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/verschenk-einen-apfel-tag/ — „Verschenk-einen-Apfel-Tag – Apple Gifting Day in den USA“
+- **01.01. – Weltfriedenstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltfriedenstag
+- **02.01. – Berchtoldstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/berchtoldstag
+- **02.01. – Katzen-Neujahr** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/katzen-neujahr-happy-mew-year-for-cats-day/ — „Katzen-Neujahr – der US-amerikanische Happy Mew Year for Cats Day“
+- **02.01. – Motivations-und-Inspirations-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/motivations-und-inspirations-tag
+- **02.01. – Science-Fiction-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/science-fiction-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-science-fiction-day-usa/ — „Science-Fiction-Tag am 2. Januar – National Science Fiction Day in den USA“
+- **02.01. – Tag der Introvertierten** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-introvertierten/ — „Tag der Introvertierten – World Introvert Day 2026“
+- **02.01. – Tag der Windbeutel** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-windbeutel-usa/ — „Tag der Windbeutel – National Cream Puff Day in den USA“
+- **02.01. – Tag des Buffets** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-buffet-day-usa/ — „Tag des Buffets – der National Buffet Day in den USA“
+- **02.01. – Tag des Schweizer Käses** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-schweizer-kaeses/ — „Tag des Schweizer Käses – National Swiss Cheese Day in den USA“
+- **02.01. – Waldmännchentag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/waldmaennchentag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/waldmaennchentag/ — „Waldmännchentag oder Schlägelstag in Deutschland“
+- **03.01. – Der internationale J.R.R. Tolkien Day am 3. Januar** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/jrr-tolkien-day/ — „Der internationale J.R.R. Tolkien Day am 3. Januar – Happy Birthday Tolkien!“
+- **03.01. – Der internationale Women Rock! Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/women-rock-day/ — „Der internationale Women Rock! Day – 3. Januar 2026“
+- **03.01. – Feiertag des Schlafens** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/feiertag-des-schlafens
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/festival-of-sleep-day-usa/ — „Feiertag des Schlafens – der US-amerikanische Festival of Sleep Day am 3. Januar“
+- **03.01. – Tag der schokolierten Kirschen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-schokolierten-kirschen-usa/ — „Tag der schokolierten Kirschen – National Chocolate Covered Cherry Day in den USA“
+- **03.01. – Tag des Stollen-Werfens** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-stollen-werfens
+- **03.01. – Tag des Strohhalms am 3. Januar** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-strohhalms-usa/ — „Tag des Strohhalms am 3. Januar – National Drinking Straw Day in den USA“
+- **04.01. – Tag der Hypnose** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-hypnose
+- **04.01. – Tag der Mandarine** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-mandarine/ — „Tag der Mandarine in Deutschland am 4. Januar 2026“
+- **04.01. – Tag der Spaghetti** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-spaghetti
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/spaghetti-tag-usa/ — „Spaghetti-Tag – National Spaghetti Day in den USA“
+  - automatische Ähnlichkeit: 100 %
+- **04.01. – Tag des Trivialwissens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-trivia-day-usa/ — „Tag des Trivialwissens – National Trivia Day in den USA“
+- **04.01. – Trivia-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/trivia-tag
+- **04.01. – Unabhängigkeitstag in Myanmar** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/myanmar-unabhaengigkeitstag
+- **04.01. – Verschenk-einen-Blumenkorb-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/verschenk-einen-blumenkorb-tag/ — „Verschenk-einen-Blumenkorb-Tag – Free Flower Basket Day in den USA“
+- **04.01. – Welt-Braille-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welt-braille-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welt-braille-tag/ — „Welt-Braille-Tag – der internationale World Braille Day“
+- **05.01. – Gott-sei-Dank ist-Montag-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/gott-sei-dank-ist-montag-tag/ — „Gott-sei-Dank ist-Montag-Tag in den USA – National Thank God It’s Monday Day 2026“
+- **05.01. – Tag der Drehbuchautoren** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-drehbuchautoren/ — „Tag der Drehbuchautoren – National Screenwriters Day in den USA“
+- **05.01. – Tag der Schlagsahne** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-schlagsahne
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-schlagsahne/ — „Tag der Schlagsahne – der US-amerikanische National Whipped Cream Day“
+- **05.01. – Tag des Vogels** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-vogels
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-bird-day-usa/ — „Tag des Vogels – National Bird Day in den Vereinigten Staaten am 5. Januar“
+- **05.01. – Tag des Wiegens** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-wiegens
+- **06.01. – Afrikatag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/roemisch-katholisch-afrikatag
+- **06.01. – Bau-den-Weihnachtsbaum-ab-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/bau-den-weihnachtsbaum-ab-tag/ — „Bau-den-Weihnachtsbaum-ab-Tag – National Take Down the Christmas Tree Day in den USA“
+- **06.01. – Dreikönigsfest** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/dreikonigsfest
+- **06.01. – La befana oder die Nacht der Weihnachtshexe Befana in Italien** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/nacht-der-befana-in-italien/ — „La befana oder die Nacht der Weihnachtshexe Befana in Italien – 6. Januar“
+- **06.01. – Nollaig na mBan** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/little-christmas-in-irland/ — „Nollaig na mBan – Women’s Christmas oder Little Christmas in Irland – 6. Januar“
+- **06.01. – Tag der Bohne** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-bohne
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-bohne/ — „Tag der Bohne – der US-amerikanische National Bean Day am 6. Januar“
+- **06.01. – Tag der Frau Holle in Europa** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-frau-holle/ — „Tag der Frau Holle in Europa – oder: das Ende der Rauhnächte am 6. Januar“
+- **06.01. – Tag des Kuschelns** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-kuschelns
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kuschelns-cuddle-up-day/ — „Tag des Kuschelns – National Cuddle Up Day in den Vereinigten Staaten“
+- **06.01. – Tag des schottischen Shortbread** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-schottischen-shortbread/ — „Tag des schottischen Shortbread – der National Shortbread Day in den USA“
+- **07.01. – Furz-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/furz-tag-in-den-usa/ — „Furz-Tag in den USA – National Pass Gas Day am 7. Januar“
+- **07.01. – Ich-lasse-mir-das-nicht-mehr-bieten-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ich-lasse-mir-das-nicht-mehr-bieten-tag/ — „Ich-lasse-mir-das-nicht-mehr-bieten-Tag – I’m Not Going To Take It Anymore Day in den USA“
+- **07.01. – International Silly Walks Day am 7. Januar** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-silly-walks-day/
+- **07.01. – Pioneer’s Day in Liberia** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/pioneers-day
+- **07.01. – Tag der Befreiung in Kambodscha** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/kambodscha-tag-der-befreiung
+- **07.01. – Tag der Fossilien und alten Steine** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-fossilien-und-alten-steine/ — „Tag der Fossilien und alten Steine – der US-amerikanische OId Rock Day“
+- **07.01. – Tag des alten Gesteins** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-alten-gesteins
+- **07.01. – Tag des Furzens** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-furzens
+- **07.01. – Tag des Spinnrockens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/st-distaffs-day/ — „Tag des Spinnrockens – St. Distaff‘s Day am 7. Januar“
+- **08.01. – Fest der Frauen in Griechenland** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/fest-der-frauen-griechenland/ — „Fest der Frauen in Griechenland – die Tradition des Yinekokratia am 8. Januar“
+- **08.01. – Internationaler Tag des Maschinenschreibens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-typing-day/ — „Internationaler Tag des Maschinenschreibens – der International Typing Day“
+- **08.01. – Mitbringtag auf der Arbeit** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/show-and-tell-day-at-work-day-usa/ — „Mitbringtag auf der Arbeit – Show and Tell Day at Work Day“
+- **08.01. – Tag des Argyle-Musters** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-argyle-musters/ — „Tag des Argyle-Musters – der US-amerikanische National Argyle Day am 8. Januar“
+- **08.01. – Tag des English Toffee am 8. Januar** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-english-toffee/ — „Tag des English Toffee am 8. Januar – National English Toffee Day in den USA“
+- **08.01. – Tag des Schaumbades** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-schaumbades
+- **08.01. – Tag des Schaumbads** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-schaumbads-bubble-bath-day/ — „Tag des Schaumbads – National Bubble Bath Day in den USA“
+- **09.01. – Spiele-Gott-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/spiele-gott-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/play-god-day/ — „Spiele-Gott-Tag – der US-amerikanische Play God Day am 9. Januar“
+- **09.01. – Tag der 1. Ballonfahrt** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-ersten-ballonfahrt-usa/ — „Tag der 1. Ballonfahrt – National Balloon Ascension Day oder Aviation in America Day“
+- **09.01. – Tag der Aprikose** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-aprikose/ — „Tag der Aprikose – National Apricot Day in den Vereinigten Staaten“
+- **10.01. – Internationaler Depeche-Mode-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-depeche-mode-day/ — „Internationaler Depeche-Mode-Tag – Depeche Mode Day am 10. Januar“
+- **10.01. – Pommes-und-Champagner-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/pommes-und-champagner-tag/ — „Pommes-und-Champagner-Tag – International Champagne and French Fries Day“
+- **10.01. – Rettet-die-Adler-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/save-the-eagles-day-usa/ — „Rettet-die-Adler-Tag – der US-amerikanische Save the Eagles Day am 10. Januar“
+- **10.01. – Tag der Blockflöte** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/internationaler-tag-der-blockflote
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-blockfloete/ — „Der bundesweite Tag der Blockflöte in Deutschland am 10. Januar 2026“
+- **10.01. – Tag der Typen am 10. Januar** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/peculiar-people-day/ — „Tag der Typen am 10. Januar – Peculiar People Day in den Vereinigten Staaten“
+- **10.01. – Tag der Zartbitterschokolade** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-zartbitterschokolade/ — „Tag der Zartbitterschokolade – National Bittersweet Chocolate Day in den USA“
+- **10.01. – Tag der Zimmerpflanze** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-zimmerpflanze
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-zimmerpflanzen/ — „Tag der Zimmerpflanzen – der US-amerikanische Houseplant Appreciation Day“
+- **11.01. – Der internationale No Pants Subway Ride** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/no-pants-subway-ride/ — „Der internationale No Pants Subway Ride – Aktionstag am 11. Januar 2026“
+- **11.01. – Internationaler Dankeschön-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-thank-you-day/ — „Internationaler Dankeschön-Tag – der International Thank You Day am 11. Januar“
+- **11.01. – Tag der Einheit in Nepal** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-einheit-in-nepal
+- **11.01. – Tag der Milch** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-milch
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-milk-day-usa/ — „Tag der Milch am 11. Januar – National Milk Day in den Vereinigten Staaten“
+- **11.01. – Tag des deutschen Apfels** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-deutschen-apfels
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-deutschen-apfels/ — „Tag des deutschen Apfels – bundesweiter Aktionstag am 11. Januar 2026“
+- **11.01. – Tag des Pfützenspringens** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-pfuetzenspringens
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/step-in-a-puddle-and-splash-your-friend-day/ — „Tag des Pfützenspringens in den USA – National Step in a Puddle and Splash Your Friend Day“
+- **12.01. – Chicken-Curry-Tag am 12. Januar** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/chicken-curry-tag/ — „Chicken-Curry-Tag am 12. Januar – National Curried Chicken Day in den USA“
+- **12.01. – Der internationale Weltschafkopftag am 12. Januar** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltschafkopftag-am-12-januar/
+- **12.01. – Fest der wilden Kerle** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/fest-der-wilden-kerle/ — „Fest der wilden Kerle – der US-amerikanische Feast of Fabulous Wild Men Day“
+- **12.01. – Festtag der fabelhaften wilden Männer** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/festtag-der-fabelhaften-wilden-maenner
+- **12.01. – Küsse-Rothaarige-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/kuesse-rothaarige-tag/ — „Küsse-Rothaarige-Tag – der International Kiss a Ginger Day“
+- **12.01. – Räume-Deinen-Schreibtisch-auf-Tag** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/raeume-deinen-schreibtisch-auf-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/raeum-deinen-schreibtisch-auf-tag/ — „Räum-Deinen-Schreibtisch-auf-Tag in den USA – National Clean off Your Desk Day 2026“
+  - automatische Ähnlichkeit: 80 %
+- **12.01. – Tag der Jugend in Indien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/national-youth-day
+- **12.01. – Tag des Marzipans** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-marzipans
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-marzipan/ — „Tag des Marzipans – Marsipanens dag in Schweden und National Marzipan Day in den USA“
+- **13.01. – Fest des Hilarius von Poitiers** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/kaeltester-tag-des-jahres-in-grossbritannien/ — „Fest des Hilarius von Poitiers – der kälteste Tag des Jahres in Großbritannien“
+- **13.01. – St. Knut-Tag in Skandinavien am 13. Januar** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/st-knut-tag/
+- **13.01. – Tag der Aufkleber** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-aufkleber/ — „Tag der Aufkleber – National Sticker Day in den Vereinigten Staaten“
+- **13.01. – Tag der Skeptiker** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-skeptiker
+- **13.01. – Tag der Sticker** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-sticker
+- **13.01. – Tag des Pfirsich Melba** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/pfirsich-melba-tag/ — „Tag des Pfirsich Melba – National Peach Melba Day in den Vereinigten Staaten“
+- **13.01. – Tag des Quietscheentchens** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-quietscheentchens
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-quietscheentchens/ — „Tag des Quietscheentchens am 13. Januar – Rubber Ducky Day in den USA“
+- **13.01. – Verwirkliche-Deine-Träume-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/verwirkliche-deine-traeume-tag/ — „Verwirkliche-Deine-Träume-Tag – der US-amerikanische Make Your Dreams Come True Day“
+- **14.01. – Schaff-Ordnung-in-Deiner-Wohnung-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/schaff-ordnung-in-deiner-wohnung-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/schaff-ordnung-in-deiner-wohnung-tag/ — „Schaff-Ordnung-in-Deiner-Wohnung-Tag – Organize Your Home Day in den USA“
+- **14.01. – Tag des Drachensteigens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/uttarayan-international-kite-day/ — „Tag des Drachensteigens – Uttarayan: der International Kite Day in Indien“
+- **14.01. – Welttag der Logik** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-logik/ — „Welttag der Logik – der internationale World Logic Day am 14. Januar“
+- **14.01. – Zieh-dein-Haustier-an-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/zieh-dein-haustier-an-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/zieh-dein-haustier-an-tag/ — „Zieh-dein-Haustier-an-Tag – der US-amerikanische National Dress Up Your Pet Day“
+- **15.01. – Tag der Wikipedia** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-wikipedia
+- **15.01. – Tag des Bagels** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-bagels/ — „Tag des Bagels – der US-amerikanische National Bagel Day am 15. Januar“
+- **15.01. – Tag des Erdbeereises** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-erdbeereis/ — „Tag des Erdbeereises – der US-amerikanische National Strawberry Ice Cream Day“
+- **15.01. – Tag des frisch gepressten Fruchtsafts** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-frisch-gepressten-fruchtsaft/ — „Tag des frisch gepressten Fruchtsafts – National Fresh Squeezed Juice Day in den USA“
+- **15.01. – Tag des Schlaglochs** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-schlaglochs/ — „Tag des Schlaglochs in Großbritannien – National Pothole Day 2026“
+- **16.01. – Ehrentag des Drachen** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/ehrentag-des-drachen
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ehrentag-des-drachen/ — „Ehrentag des Drachens – der US-amerikanische Appreciate a Dragon Day“
+- **16.01. – Nichts-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/nichts-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-nothing-day/ — „Nichts-Tag oder der Tag des Nichtstuns – National Nothing Day in den USA“
+- **16.01. – Tag der scharfen Gerichte** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-scharfen-gerichte
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-hot-and-spicy-food-day/ — „Internationaler Tag der scharfen Gerichte – der International Hot and Spicy Food Day“
+- **16.01. – Tag des Fetisch** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-fetisch
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-fetish-day/ — „Internationaler Fetisch-Tag – International Fetish Day am 16. Januar 2026“
+  - automatische Ähnlichkeit: 67 %
+- **17.01. – Art’s Birthday** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/arts-birthday-geburtstag-der-kunst/ — „Art’s Birthday – Geburtstag der Kunst – Robert Filliou und der Anniversaire de l’art“
+- **17.01. – Geburtstag der Kunst** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/arts-birthday
+- **17.01. – Tag der italienischen Küche am 17. Januar** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-italienischen-kueche/ — „Tag der italienischen Küche am 17. Januar – International Day of italian cuisines“
+- **17.01. – Tag der Kabelstraßenbahn** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/cable-car-day-usa/ — „Tag der Kabelstraßenbahn – der US-amerikanische Cable Car Day am 17. Januar“
+- **17.01. – Tag der Kinder-Erfinder** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-kinder-erfinder
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-kinder-erfinder/ — „Tag der Kinder-Erfinder – der US-amerikanische Kid Inventors‘ Day am 17. Januar“
+- **17.01. – Tag des Hot Buttered Rum** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-hot-buttered-rum-day/ — „Tag des Hot Buttered Rum – National Hot Buttered Rum Day in den Vereinigten Staaten“
+- **17.01. – Wirf-Deine-Jahresvorsätze-über-Bord-Tag** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/wirf-deine-jahresvorsaetze-ueber-bord-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/wirf-deine-neujahrsvorsaetze-ueber-bord-tag/ — „Wirf-Deine-Neujahrsvorsätze-über-Bord-Tag – Ditch New Years Resolutions Day in den USA“
+  - automatische Ähnlichkeit: 83 %
+- **18.01. – Reichsgründungstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/reichsgruendungstag
+- **18.01. – Tag des Gourmetkaffees am 18. Januar** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-gourmetkaffees-usa/ — „Tag des Gourmetkaffees am 18. Januar – National Gourmet Coffee Day in den USA“
+- **18.01. – Thesaurus-Tag am 18. Januar** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-thesaurus-day-usa/ — „Thesaurus-Tag am 18. Januar – National Thesaurus Day in den USA“
+- **18.01. – Weltreligionstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltreligionstag
+- **18.01. – Welttag der Migranten und Flüchtlinge** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-der-migranten-und-fluechtlinge
+- **18.01. – Welttag des Schneemanns** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-des-schneemanns
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-des-schneemanns/ — „Welttag des Schneemanns – World Day of Snowman 2026“
+- **18.01. – Winnie-Puuh-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/winnie-puuh-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/winnie-puuh-tag/ — „Winnie-Puuh-Tag – der weltweite Winnie the Pooh Day“
+- **18.01. – World Snow Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-snow-day/ — „World Snow Day – der internationale Welt-Schnee-Tag am 18. Januar 2026“
+- **19.01. – Blue Monday** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/blue-monday/ — „Blue Monday – der traurigste Tag des Jahres – 19. Januar 2026“
+- **19.01. – Konserven-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/konserven-tag-usa/ — „Konserven-Tag – National Tin Can Day in den USA“
+- **19.01. – Martin Luther King Day** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/martin-luther-king-day
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/martin-luther-king-day/ — „Der Martin Luther King Jr. Day in den USA – 19. Januar 2026“
+  - automatische Ähnlichkeit: 80 %
+- **19.01. – Poe-Toaster-Tag** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/poe-toaster-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/der-tag-des-poe-toaster/ — „Der Tag des Poe Toaster – die US-amerikanische Tradition des Poe Toaster“
+  - automatische Ähnlichkeit: 100 %
+- **19.01. – Tag der Konservendose** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-konservendose
+- **19.01. – Tag des Popcorns** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-popcorns
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-popcorn-day-usa/ — „Tag des Popcorns am 19. Januar – der National Popcorn Day in den USA“
+- **19.01. – Welt-Quark-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-quark-day/ — „Welt-Quark-Tag – World Quark Day am 19. Januar“
+- **20.01. – Befreie-die-Welt-von-Modediäten-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/befreie-die-welt-von-modediaeten-tag/ — „Befreie-die-Welt-von-Modediäten-Tag in den USA – Rid the World of Fad Diets and Gimmicks Day 2026“
+- **20.01. – Tag der Akzeptanz** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-akzeptanz
+- **20.01. – Tag der Kaffeepause** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-kaffeepause/ — „Tag der Kaffeepause – National Coffee Break Day in den Vereinigten Staaten“
+- **20.01. – Tag der Käseliebhaber** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-kaeseliebhaber
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-cheese-lovers-day-usa/ — „Tag der Käseliebhaber am 20. Januar – National Cheese Lovers Day in den USA“
+- **20.01. – Tag der Pinguine** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-pinguine
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/penguin-awareness-day-usa/ — „Tag der Pinguine am 20. Januar – Penguin Awareness Day in den USA“
+- **20.01. – Trommelfest von San Sebastián** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tamborrada/ — „Trommelfest von San Sebastián – das baskische Tamborrada de San Sebastián“
+- **21.01. – Der internationale Museum Selfie Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/museum-selfie-day/ — „Der internationale Museum Selfie Day – #MuseumSelfie Day am 21. Januar 2026“
+- **21.01. – Ehrentag des Eichhörnchens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/squirrel-appreciation-day-usa/ — „Ehrentag des Eichhörnchens – Squirrel Appreciation Day in den USA“
+- **21.01. – Internationaler Jogginghosentag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-jogginghosentag/ — „Internationaler Jogginghosentag – International Sweatpants Day – 21. Januar 2026“
+- **21.01. – Tag der Jogginghose** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-jogginghose
+- **21.01. – Tag des Müsliriegels** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-muesliriegels/ — „Tag des Müsliriegels – National Granola Bar Day in den Vereinigten Staaten“
+- **21.01. – Weltknuddeltag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltknuddeltag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltknuddeltag/ — „Weltknuddeltag – der (Inter-)National Hugging Day – 21. Januar 2026“
+- **22.01. – Beantworte-die-Fragen-Deiner-Katze-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/beantworte-die-fragen-deiner-katze-tag/ — „Beantworte-die-Fragen-Deiner-Katze-Tag – Answer Your Cat’s Question Day in den USA“
+- **22.01. – Deutsch-Französischer Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/deutsch-franzosischer-tag
+- **22.01. – Feiere-das-Leben-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/feiere-das-leben-tag
+- **22.01. – Tag der scharfen Saucen** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-scharfen-saucen
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-scharfen-saucen-usa/ — „Tag der scharfen Saucen am 22. Januar – National Hot Sauce Day in den USA“
+- **22.01. – Tag des hellen Brownies** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-hellen-brownie/ — „Tag des hellen Brownies – der US-amerikanische National Blonde Brownie Day“
+- **22.01. – Tag des Punktmusters am 22. Januar** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-punktmusters/ — „Tag des Punktmusters am 22. Januar – National Polka Dot Day in den USA“
+- **23.01. – Kuchen-Tag am 23. Januar** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/kuchen-tag-usa/ — „Kuchen-Tag am 23. Januar – National Pie Day in den USA“
+- **23.01. – Tag der Bounty** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-bounty/ — „Tag der Bounty – Bounty Day auf Pitcairn Island“
+- **23.01. – Tag der Handschrift** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-handschrift
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-handwriting-day-usa/ — „Tag der Handschrift am 23. Januar – National Handwriting Day in den USA“
+- **23.01. – Tag des Fußvermessens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/measure-your-feet-day-usa/ — „Tag des Fußvermessens – Measure your Feet Day in den USA“
+- **23.01. – Tag des Pies** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-pies
+- **24.01. – Internationaler Tag der Bildung** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-bildung/ — „Internationaler Tag der Bildung – der UNESCO International Day of Education“
+- **24.01. – Tag der Bierdose** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-bierdose
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ehrentag-der-bierdose/ — „Ehrentag der Bierdose am 24. Januar – Beer Can Appreciation Day in den USA“
+- **24.01. – Tag der Erdnussbutter am 24. Januar** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-erdnussbutter/ — „Tag der Erdnussbutter am 24. Januar – National Peanut Butter Day in den USA“
+- **24.01. – Tag der Komplimente** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-komplimente
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/compliment-day-tag-der-komplimente/ — „Tag der Komplimente – Compliment Day in den USA“
+- **24.01. – Welttag des herzhaften Lachens** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-des-herzhaften-lachens
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/global-belly-laugh-day/ — „Welttag des herzhaften Lachens – der Global Belly Laugh Day“
+- **25.01. – Burns Supper in Schottland** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/burns-supper-schottland/ — „Burns Supper in Schottland – ein Abend zu Ehren von Robert Burns am 25. Januar“
+- **25.01. – Gegenteiltag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/gegenteiltag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/gegenteiltag/ — „Gegenteiltag – der US-amerikanische National Opposite Day am 25. Januar“
+- **25.01. – Tag der Heiligen Dwynwen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-heiligen-dwynwen/ — „Tag der Heiligen Dwynwen – der walisische Saint Dwynwen’s Day am 25. Januar“
+- **25.01. – Tag der Wetterbeobachtung** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-wetterbeobachtung/ — „Tag der Wetterbeobachtung – der US-amerikanische Observe the Weather Day“
+- **25.01. – Tag des eigenen Zimmers** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-eigenen-zimmers
+- **25.01. – Welt-Lepra-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welt-lepra-tag
+- **26.01. – Australia Day** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/australia-day
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/australia-day/ — „Australia Day 2026 – der australische Nationalfeiertag am 26. Januar“
+- **26.01. – Tag der Eheleute** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-eheleute
+- **26.01. – Tag der Ehepartner am 26. Januar** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-ehepartner/ — „Tag der Ehepartner am 26. Januar – National Spouses Day in den Vereinigten Staaten“
+- **26.01. – Tag der Luftpolsterfolie** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-luftpolsterfolie
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/bubble-wrap-appreciation-day/ — „Ehrentag der Luftpolsterfolie in den USA – Bubble Wrap Appreciation Day 2026“
+- **26.01. – Tag der Republik in Indien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/indien-tag-der-republik
+- **26.01. – Tag der Zöllner** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-zollner
+- **26.01. – Tag des Erdnusskrokants** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-erdnusskrokant/ — „Tag des Erdnusskrokants – National Peanut Brittle Day in den Vereinigten Staaten“
+- **26.01. – Tag des Kohlsafts** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kohlsaft/ — „Tag des Kohlsafts – der US-amerikanische National Green Juice Day am 26. Januar“
+- **26.01. – Versteck-einen-Kuchen-Tag am 26. Januar** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/hide-a-cake-day-usa/ — „Versteck-einen-Kuchen-Tag am 26. Januar – der US-amerikanische Hide a Cake Day“
+- **26.01. – World Environmental Education Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-environmental-education-day/ — „World Environmental Education Day – der Welttag der Umweltbildung 2026“
+- **27.01. – Tag der Alphabetisierung** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-alphabetisierung
+- **27.01. – Tag der eulerschen Zahl** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-eulerschen-zahl/ — „Tag der eulerschen Zahl – der internationale e-Day am 27. Januar und 7. Februar“
+- **27.01. – Tag der familiären Leseförderung** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/family-literacy-day-in-kanada/ — „Tag der familiären Leseförderung in Kanada – Family Literacy Day 2026“
+- **27.01. – Tag der Stechuhr** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-stechuhr/ — „Tag der Stechuhr – Punch the Clock Day in den USA“
+- **27.01. – Tag des Gedenkens an die Opfer des Holocaust** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-des-gedenkens-an-die-opfer-des-holocaust
+- **27.01. – Tag des Schokoladenkuchens** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-schokoladenkuchens
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-schokoladenkuchens/ — „Tag des Schokoladenkuchens – National Chocolate Cake Day in den USA“
+- **27.01. – Thomas Crapper Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/thomas-crapper-day/ — „Thomas Crapper Day in Großbritannien am 27. Januar“
+- **28.01. – Datenschutztag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/datenschutztag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/europaeischer-datenschutztag/ — „Europäischer Datenschutztag – der EU Data Protection Day am 28. Januar“
+- **28.01. – Der US-amerikanische Fun at Work Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/fun-at-work-day/ — „Der US-amerikanische Fun at Work Day – 28. Januar 2026“
+- **28.01. – Der US-amerikanische National Library Shelfie Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-library-shelfie-day/ — „Der US-amerikanische National Library Shelfie Day – 28. Januar 2026“
+- **28.01. – Gänseblümchen-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/gaensebluemchen-tag/ — „Gänseblümchen-Tag – Daisy Day in den USA“
+- **28.01. – Internationaler LEGO-Tag am 28. Januar** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-lego-day/ — „Internationaler LEGO-Tag am 28. Januar – International LEGO Day 2026“
+- **28.01. – Spaß-bei-der-Arbeit-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/spass-bei-der-arbeit-tag
+- **28.01. – Tag der Kazoo am 28. Januar** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-kazoo/ — „Tag der Kazoo am 28. Januar – National Kazoo Day in den USA“
+- **28.01. – Tag des Blaubeerpfannkuchen** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-blaubeerpfannkuchen
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-blaubeerpfannkuchen/ — „Tag des Blaubeerpfannkuchens – National Blueberry Pancake Day in den USA“
+- **29.01. – Tag der Freidenker** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-freidenker
+- **29.01. – Tag der Maischips am 29. Januar** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-maischips/ — „Tag der Maischips am 29. Januar – National Corn Chip Day in den USA“
+- **29.01. – Tag der Nelken am 29. Januar** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-nelken/ — „Tag der Nelken am 29. Januar – der US-amerikanische National Carnation Day“
+- **29.01. – Tag des Blindenhundes** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-blindenhundes
+- **29.01. – Tag des Griesgram** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-griesgram
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/griesgram-tag/ — „Griesgram-Tag in den Vereinigten Staaten – Curmudgeons Day zu Ehren W.C. Fields“
+  - automatische Ähnlichkeit: 100 %
+- **29.01. – Tag des Puzzle** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-puzzle
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-puzzles-usa/ — „Tag des Puzzles in den Vereinigten Staaten – National Puzzle Day am 29. Januar“
+- **30.01. – Martyrs' Day in Indien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/national-martyrs-day
+- **30.01. – Saatgut-Tausch-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/saatgut-tausch-tag
+- **30.01. – Tag der Alltagsflucht** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-alltagsflucht/ — „Tag der Alltagsflucht – der US-amerikanische National Escape Day am 30. Januar“
+- **30.01. – Tag der Saudade** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/dia-da-saudade/ — „Tag der Saudade – der Dia da Saudade in Brasilien am 30. Januar 2026“
+- **30.01. – Tag der sinnlosen Anrufbeantworter-Nachrichten** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-sinnlosen-anrufbeantworter-nachrichten/ — „Tag der sinnlosen Anrufbeantworter-Nachrichten – Inane Answering Message Day“
+- **30.01. – Tag der sinnlosen Anrufbeantworternachrichten** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-sinnlosen-anrufbeantworternachrichten
+- **30.01. – Tag des Croissants** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-croissants
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-croissants/ — „Tag des Croissants am 30. Januar – der US-amerikanische National Croissant Day“
+- **30.01. – Tag des Nachbarschafts-Jodelns** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-nachbarschafts-jodelns/ — „Tag des Nachbarschafts-Jodelns – Yodel for Your Neighbors Day in den USA“
+- **31.01. – Grounding Page kuriose-feiertage** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/grounding/kuriose-feiertage-grounding.html
+- **31.01. – Grounding Page Sven Giese** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/grounding/sven-giese.html
+- **31.01. – Inspire Your Heart With Art Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/inspire-your-heart-with-art-day/ — „Inspire Your Heart With Art Day – Lass-Dich-von-Kunst-inspirieren-Tag in den USA“
+- **31.01. – Internationaler Zebra-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-zebra-tag/ — „Internationaler Zebra-Tag – International Zebra Day am 31. Januar“
+- **31.01. – Iss-Rosenkohl-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/iss-rosenkohl-tag/ — „Iss-Rosenkohl-Tag – Eat Brussels Sprouts Day in den Vereinigten Staaten“
+- **31.01. – Lass-Kunst-dein-Herz-inspirieren-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/lass-kunst-dein-herz-inspirieren-tag
+- **31.01. – Rückwärts-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/rueckwaerts-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/rueckwaerts-tag/ — „Rückwärts-Tag – der US-amerikanische National Backward Day“
+- **31.01. – Sankt-Nimmerleins-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/sankt-nimmerleins-tag/ — „Sankt-Nimmerleins-Tag – der US-amerikanische Hell is Freezing over Day“
+- **31.01. – Tag der heißen Schokolade** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-heissen-schokolade/ — „Tag der heißen Schokolade – National Hot Chocolate Day in den USA“
+- **31.01. – Tag der Straßenkinder** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-strassenkinder
+- **31.01. – Tag des Flaschenschraubverschlusses** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-flaschenschraubverschlusses/ — „Tag des Flaschenschraubverschlusses – Twist-Off Bottle Cap Day“
+- **31.01. – Unabhängigkeitstag in Nauru** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/nauru-unabhaengigkeitstag
+- **31.01. – yaD drawkcaB lanoitaN ehcsinakirema-SU red** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/yad-drawkcab-lanoitan-ehcsinakirema-red-gat-straewkcuer/ — „yaD drawkcaB lanoitaN ehcsinakirema-SU red – gaT-sträwkcüR“
+## Februar
+
+- **01.02. – Ändere-Dein-Passwort-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/aendere-dein-passwort-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/aendere-dein-passwort-tag/ — „Ändere-Dein-Passwort-Tag – National Change Your Password Day in den USA“
+- **01.02. – Dekoriere-mit-Süßigkeiten-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/dekoriere-mit-suessigkeiten-tag
+- **01.02. – Der US-amerikanische Hula in the Coola Day zum anstehenden Winterande am 1. Februar** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/hula-in-the-coola-day/
+- **01.02. – Robinson-Crusoe-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/robinson-crusoe-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/robinson-crusoe-tag/ — „Robinson-Crusoe-Tag – der US-amerikanische Robinson Crusoe Day“
+- **01.02. – Tag der Schlange am 1. Februar** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-schlange-usa/ — „Tag der Schlange am 1. Februar – National Serpent Day in den Vereinigten Staaten“
+- **01.02. – Tag des Eurasiers** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-eurasiers/ — „Tag des Eurasiers in Deutschland – 1. Februar – Happy Birthday für Eddy, den Eurasier Blindenhund“
+- **02.02. – Groundhog Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/groundhog-day/ — „Groundhog Day in den USA – der Murmeltiertag 2026“
+- **02.02. – Küünlapäev in Estland** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/kerzentag-in-estland/ — „Küünlapäev in Estland – Kerzentag zu Mariä Lichtmess am 2. Februar“
+- **02.02. – La Chandeleur** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/eierkuchenfest-in-frankreich/ — „La Chandeleur – Eierkuchenfest bzw. Tag der Crêpes in Frankreich“
+- **02.02. – Murmeltiertag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/murmeltiertag
+- **02.02. – Spiel-Deine-Ukulele-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/spiel-deine-ukulele-tag/ — „Spiel-Deine-Ukulele-Tag – World Play Your Ukulele Day“
+- **02.02. – Tag der Tater Tots am 2. Februar** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-tater-tot-day/ — „Tag der Tater Tots am 2. Februar – National Tater Tot Day in den Vereinigten Staaten“
+- **02.02. – Tag des arbeitslosen Duftbaums** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-arbeitslosen-duftbaums
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-arbeitslosen-duftbaums/ — „Tag des arbeitslosen Duftbaums am 2. Februar“
+- **02.02. – Tag des Igels** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-igels
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-igels/ — „Tag des Igels – der US-amerikanische Hedgehog Day“
+- **02.02. – Tag des Tutu** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-tutu
+- **02.02. – Welttag der Feuchtgebiete** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-der-feuchtgebiete
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-feuchtgebiete/ — „Welttag der Feuchtgebiete – World Wetlands Day“
+- **03.02. – Safer Internet Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/safer-internet-day
+- **03.02. – Tag der Ärztinnen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-aerztinnen/ — „Tag der Ärztinnen – National Women Physicians Day in den Vereinigten Staaten“
+- **03.02. – Tag der Eheringe** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-eheringe/ — „Tag der Eheringe – der US-amerikanische National Wedding Ring Day“
+- **03.02. – Tag der männlichen Körperpflege** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-maennlichen-koerperpflege
+- **03.02. – Tag des Karottenkuchens** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-karottenkuchens
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-karottenkuchens/ — „Tag des Karottenkuchens – National Carrot Cake Day in den USA“
+- **03.02. – The Day the Music Died** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/the-day-the-music-died
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/the-day-the-music-died/ — „The Day the Music Died – R.I.P. Buddy Holly, Ritchie Valens und The Big Bopper“
+- **04.02. – Danke-einem-Briefträger-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/danke-einem-brieftraeger-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/danke-einem-brieftraeger-tag/ — „Danke-einem-Briefträger-Tag – der US-amerikanische National Thank A Mailman Day“
+- **04.02. – Erzeuge-ein-Vakuum-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/erzeuge-ein-vakuum-tag/ — „Erzeuge-ein-Vakuum-Tag – der US-amerikanische Create a Vacuum Day am 4. Februar“
+- **04.02. – Tag der Aubergine** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-aubergine/ — „Tag der Aubergine – International Eggplant Day und World Eggplant Day“
+- **04.02. – Tag der hausgemachten Suppe** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-hausgemachten-suppe/ — „Tag der hausgemachten Suppe – National Homemade Soup Day in den USA“
+- **04.02. – Unabhängigkeitstag in Sri Lanka** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/sri-lanka-unabhaengigkeitstag
+- **04.02. – Weltkrebstag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltkrebstag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltkrebstag/ — „Weltkrebstag 2026 – World Cancer Day – Internationaler Aktionstag am 4. Februar“
+- **05.02. – Hast-du-gepupst?-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/hast-du-gepupst-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/hast-du-gepupst-tag/ — „Hast-du-gepupst?-Tag in Deutschland“
+- **05.02. – Internationaler Tag der Optimisten** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/optimist-day/ — „Internationaler Tag der Optimisten – International Optimist Day 2026“
+- **05.02. – Runeberg-Tag in Finnland** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/runeberg-tag-in-finnland/ — „Runeberg-Tag in Finnland – Runebergin päivä am 5. Februar“
+- **05.02. – Tag der Wetterleute** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-wetterleute/ — „Tag der Wetterleute – National Weatherperson’s Day in den USA“
+- **05.02. – Tag des Wetteransagers** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-wetteransagers
+- **05.02. – Welt-Nutella-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/welt-nutella-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-nutella-day/ — „Welt-Nutella-Tag – World Nutella Day am 5. Februar“
+- **06.02. – Arbeite-Nackt-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/arbeite-nackt-tag
+- **06.02. – Bubblegum-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/bubble-gum-day/ — „Bubblegum-Tag in den Vereinigten Staaten – Bubble Gum Day am 6. Februar 2026“
+- **06.02. – Dicker-Pulli-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/dicker-pulli-tag-in-deutschland/ — „Dicker-Pulli-Tag in Deutschland – Aktionstag zum Energiesparen am 6. Februar 2026“
+- **06.02. – International Clash Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-clash-day/ — „International Clash Day – der internationale Ehrentag für The Clash – 6. Februar 2026“
+- **06.02. – Internationaler Bob-Marley-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/bob-marley-day/ — „Internationaler Bob-Marley-Tag – Bob Marley Day auf Jamaika am 6. Februar“
+- **06.02. – Nackt-zur-Arbeit-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/working-naked-day/ — „Nackt-zur-Arbeit-Tag in den USA – Working Naked Day am 6. Februar 2026“
+- **06.02. – Tag der Essstäbchen am 6. Januar** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-essstaebchen/ — „Tag der Essstäbchen am 6. Januar – National Chopsticks Day in den USA“
+- **06.02. – Tag der lahmen Ente** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-lahmen-ente
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/lame-duck-day-usa/ — „Tag der lahmen Ente – Lame Duck Day in den USA“
+- **06.02. – Tag der Samen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-samen
+- **06.02. – Tag des Frozen Yogurt** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-frozen-yogurt/ — „Tag des Frozen Yogurt – National Frozen Yogurt Day in den USA“
+- **06.02. – Tag gegen weibliche Genitalverstümmelung** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-gegen-weibliche-genitalverstuemmelung
+- **06.02. – Waitangi Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/waitangi-day
+- **06.02. – Welttage ohne Mobiltelefon** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttage-ohne-mobiltelefon/ — „Welttage ohne Mobiltelefon – World Days Without Phone and Smartphone“
+- **06.02. – Zieh-etwas-Rotes-an-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-wear-red-day/ — „Zieh-etwas-Rotes-an-Tag in den USA – National Wear Red Day am 6. Februar 2026“
+- **07.02. – Clash-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/clash-day
+- **07.02. – e-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/e-tag
+- **07.02. – Eis-zum-Frühstück-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/eis-zum-fruehstueck-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ice-cream-for-breakfast-day/ — „Eis-zum-Frühstück-Tag in den USA – Ice Cream For Breakfast Day 2026“
+- **07.02. – Fettuccine-Alfredo-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/fettuccine-alfredo-tag/ — „Fettuccine-Alfredo-Tag – National Fettuccine Alfredo Day in den Vereinigten Staaten“
+- **07.02. – Liebe-Deinen-Roboter-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/love-your-robot-day/ — „Liebe-Deinen-Roboter-Tag – Love Your Robot Day in den Vereinigten Staaten“
+- **07.02. – Rosentag als Auftakt der Valentins-Woche** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/rosentag-valentins-woche/ — „Rosentag als Auftakt der Valentins-Woche – der Rose Day am 7. Februar“
+- **07.02. – Schick-einem-Freund-eine-Karte-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/schick-einem-freund-eine-karte-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/schick-einem-freund-eine-karte-tag/ — „Schick-einem-Freund-eine-Karte-Tag – National Send a Card to a Friend Day in den USA“
+- **07.02. – Tag der eulerschen Zahl** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-eulerschen-zahl/ — „Tag der eulerschen Zahl – der internationale e-Day am 27. Januar und 7. Februar“
+- **07.02. – Tag der Rose** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-rose
+- **07.02. – Winke-deinem-Nachbarn-mit-allen-Fingern-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/winke-deinem-nachbarn-mit-allen-fingern-tag
+- **07.02. – Winke-deinen-Nachbarn-mit-der-ganzen-Hand-zu-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/wave-all-your-fingers-at-your-neighbor-day/ — „Winke-deinen-Nachbarn-mit-der-ganzen-Hand-zu-Tag – Wave All Your Fingers at Your Neighbor Day“
+- **08.02. – Drachen-steigen-lassen-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/drachen-steigen-lassen-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-kite-flying-day-usa/ — „Drachen-steigen-lassen-Tag – National Kite Flying Day in den USA“
+- **08.02. – Prešeren-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/preseren-tag
+- **08.02. – Super Bowl Sonntag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/super-bowl-sonntag
+- **08.02. – Tag der Oper** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-oper
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-oper/ — „Tag der Oper – National Opera Day am 8. Februar und World Opera Day am 25. Oktober“
+- **08.02. – Tag des Antrags** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-antrags
+- **08.02. – Tag des Heiratsantrags in Indien** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-heiratsantrags-valentinswoche/ — „Tag des Heiratsantrags in Indien – Propose Day als zweiter Tag der Valentinswoche“
+- **08.02. – Tag des Koffeins** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-koffeins/ — „Tag des Koffeins – Caffeine Day zu Ehren von Friedlieb Ferdinand Runge“
+- **09.02. – Bagel-mit-Räucherlachs-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-bagel-and-lox-day/ — „Bagel-mit-Räucherlachs-Tag – National Bagel and Lox Day in den USA“
+- **09.02. – In-der-Badewanne-lesen-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/in-der-badewanne-lesen-tag/ — „In-der-Badewanne-lesen-Tag – Read In The Bathtub Day in den Vereinigten Staaten“
+- **09.02. – Kack-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-poop-day/ — „Kack-Tag in den Vereinigten Staaten – National Poop Day am 9. Februar 2026“
+- **09.02. – Reinige-Deinen-Computer-Tag** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/reinige-deinen-computer-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/saeubere-deinen-computer-tag/ — „Säubere-Deinen-Computer-Tag in den USA – Clean Out Your Computer Day 2026“
+  - automatische Ähnlichkeit: 75 %
+- **09.02. – Tag der außerirdischen Kultur** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-ausserirdischen-kultur
+- **09.02. – Tag der Pizza** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-pizza
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-pizza-usa/ — „Tag der Pizza – National Pizza Day oder National Pizza Pie Day in den USA“
+- **09.02. – Tag der Schokolade** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-schokolade
+- **09.02. – Tag der Zahnschmerzen** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-zahnschmerzen
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-zahnschmerzen/ — „Tag der Zahnschmerzen – der US-amerikanische National Toothache Day“
+- **10.02. – Flanell-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/flanell-tag/ — „Flanell-Tag – der US-amerikanische National Flannel Day am 10. Februar“
+- **10.02. – Internationaler Tag der Hülsenfrüchte** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-huelsenfruechte/ — „Internationaler Tag der Hülsenfrüchte – World Pulses Day am 10. Februar“
+- **10.02. – Internationaler Tag des Feuerlöschers** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-feuerloeschers/ — „Internationaler Tag des Feuerlöschers – International Fire Extinguisher Day am 10. Februar“
+- **10.02. – Regenschirm-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/regenschirm-tag-umbrella-day-in-den-usa/ — „Regenschirm-Tag – der National Umbrella Day in den Vereinigten Staaten“
+- **10.02. – Safer Internet Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/safer-internet-day/ — „Safer Internet Day – Tag für mehr Internetsicherheit in Deutschland 2026“
+- **10.02. – Tag der außerirdischen Kultur in New Mexico** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/extraterrestrial-culture-day-new-mexico/ — „Tag der außerirdischen Kultur in New Mexico – Extraterrestrial Culture Day 2026“
+- **10.02. – Tag der doofen Nuss am 10. Februar** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-doofen-nuss/ — „Tag der doofen Nuss am 10. Februar – ein kurioser Büro-Feiertag aus Deutschland“
+- **10.02. – Tag der Kinderhospizarbeit** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-kinderhospizarbeit
+- **10.02. – Tag des Regenschirms** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-regenschirms
+- **10.02. – Tag des Teddys** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-teddys
+- **11.02. – Europäischer Tag des Notrufs 112** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/europaeischer-tag-des-notrufs-112
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/europaeischer-tag-des-notrufes-112/ — „Europäischer Tag des Notrufes 112 – der European 112 Day am 11. Februar“
+  - automatische Ähnlichkeit: 75 %
+- **11.02. – Fütterung-der-Waldtiere-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/fuetterung-der-waldtiere-tag/ — „Fütterung-der-Waldtiere-Tag – der polnische Dzień Dokarmiania Zwierzyny Leśnej“
+- **11.02. – Gründungstag Japans** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/gruendungstag
+- **11.02. – Hin-ist-hin-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/hin-ist-hin-tag/ — „Hin-ist-hin-Tag in den USA – National Don’t Cry Over Spilled Milk Day“
+- **11.02. – Sei-elektrisierend-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/be-electrific-day/ — „Sei-elektrisierend-Tag – der US-amerikanische Be Electrific Day am 11. Februar“
+- **11.02. – Spiel-Deine-Gitarre-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/spiel-deine-gitarre-tag/ — „Spiel-Deine-Gitarre-Tag – Get Out Your Guitar Day in den USA“
+- **11.02. – Tag der Revolution im Iran** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/iran-tag-der-revolution
+- **11.02. – Tag des Versprechens** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-versprechens
+- **11.02. – Was-geschehen-ist-ist-geschehen-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/was-geschehen-ist-ist-geschehen-tag
+- **11.02. – Welttag der Kranken** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-der-kranken
+- **11.02. – White Shirt Day** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/white-shirt-day
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/white-shirt-day/ — „White Shirt Day – Tag des weißen T-Shirts in den Vereinigten Staaten“
+- **12.02. – Darwin-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/darwin-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/darwin-tag/ — „Darwin-Tag – International Darwin Day zu Ehren des Naturforschers am 12. Februar“
+- **12.02. – Schmotzigen Donnerstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/schmotzigen-donnerstag
+- **12.02. – Tag der Umarmung** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-umarmung
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-umarmung-valentinswoche/ — „Tag der Umarmung – der sechste Tag der indischen Valentinswoche am 12. Februar“
+- **12.02. – Tag des Reibekuchens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-reibekuchens/ — „Tag des Reibekuchens in Deutschland – Weiberfastnacht 12. Februar 2026“
+- **12.02. – Tag des verlorenen Penny** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-lost-penny-day/ — „Tag des verlorenen Penny – der US-amerikanische National Lost Penny Day“
+- **12.02. – Tag gegen den Einsatz von Kindersoldaten** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-gegen-den-einsatz-von-kindersoldaten
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/red-hand-day/ — „Internationaler Tag gegen den Einsatz von Kindersoldaten – Red Hand Day 2026“
+- **12.02. – Weiberfastnacht** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/weiberfastnacht
+- **13.02. – Ändere-deinen-Namen-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/aendere-deinen-namen-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/aendere-deinen-namen-tag/ — „Ändere-Deinen-Namen-Tag – der US-amerikanische Get A Different Name Day“
+- **13.02. – Cheddar-Tag am 13. Februar** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/cheddar-tag/ — „Cheddar-Tag am 13. Februar – National Cheddar Day in den USA“
+- **13.02. – Der erste Freitag der 13. des Jahres 2026** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/erster-freitag-der-13-des-jahres/
+- **13.02. – Galentine’s Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/galentines-day/ — „Galentine’s Day – Ehrentag für die weibliche Freundschaft am 13. Februar“
+- **13.02. – Internationaler Tag der Epilepsie** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/internationaler-tag-der-epilepsie
+- **13.02. – Internationaler Winter-Fahrradpendlertag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-winter-bike-to-work-day/ — „Internationaler Winter-Fahrradpendlertag – International Winter Bike to Work Day 2026“
+- **13.02. – Kuss-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/kuss-tag-valentinswoche/ — „Kuss-Tag – der siebte Tag der Valentinswoche in Indien am 13. Februar“
+- **13.02. – Rauchmeldertag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/rauchmeldertag-in-deutschland/ — „Rauchmeldertag in Deutschland 2026 – an jedem Freitag, den 13. im Jahr“
+- **13.02. – Rußiger Freitag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/russiger-freitag
+- **13.02. – Schuld-sind-die-anderen-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/blame-someone-else-day/ — „Schuld-sind-die-anderen-Tag in den USA – National Blame Someone Else Day 2026“
+- **13.02. – Tag der Tortellini** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-tortellini
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-tortellini/ — „Tag der Tortellini – der National Tortellini Day in den Vereinigten Staaten“
+- **13.02. – Tag des Kusses** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-kusses
+- **13.02. – Tag des Radios** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-radios
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltradiotag/ — „Welttag des Radios – der internationale UNESCO World Radio Day am 13. Februar“
+- **13.02. – Tag des Wals** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-wals
+- **14.02. – Frederick-Douglass-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/frederick-douglass-day/ — „Frederick-Douglass-Tag – Frederick Douglass Day in den USA“
+- **14.02. – Ich-♥-Freie-Software-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/ich-liebe-freie-software-tag
+- **14.02. – Schmalziger Samstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/schmalziger-samstag
+- **14.02. – Tag des Kondoms** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-kondoms
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kondoms/ — „Tag des Kondoms – National Condom Day in Australien, Großbritannien und den USA“
+- **14.02. – Tag des Riesenrads** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-des-riesenrads
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-riesenrads/ — „Tag des Riesenrads – der US-amerikanische National Ferris Wheel Day“
+- **14.02. – Valentinstag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/valentinstag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/valentinstag/ — „Valentinstag – Ehrentag des heiligen Valentin St. Valentine’s Day am 14. Februar“
+- **14.02. – Verschenk-ein-Buch-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/verschenk-ein-buch-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-book-giving-day/ — „Internationaler Verschenk-ein-Buch-Tag – International Book Giving Day 2026“
+- **14.02. – Welt-Mettbrötchen-Tag am 14. Februar** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welt-mettbroetchen-tag/
+- **15.02. – Angelman-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/angelman-tag
+- **15.02. – Annoy Squidward Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/annoy-squidward-day/ — „Annoy Squidward Day – Geh-Thaddäus-auf-die-Nerven-Tag in Bikini Bottom“
+- **15.02. – Anti-Valentinstag für Singles** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/st-skeletors-day/ — „Anti-Valentinstag für Singles – der britische St. Skeletor’s Day am 15. Februar“
+- **15.02. – Kinderkrebstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/kinderkrebstag
+- **15.02. – Tag der Gummidrops** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-gummidrops/ — „Tag der Gummidrops in den USA – National Gumdrop Day am 15. Februar“
+- **15.02. – Tag der Singles** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-singles
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ehrentag-der-singles-usa/ — „Ehrentag der Singles am 15. Februar – Singles Awareness Day in den USA“
+- **15.02. – Tag der Unabhängigkeitsbewegung in Serbien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-unabhaengigkeitsbewegung
+- **15.02. – Tag des Nilpferds** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-nilpferds
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/hippo-day-in-second-life/ — „Tag des Nilpferds – der National Hippo Day in Second Life“
+- **15.02. – Tag des Regenwurms** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-regenwurms
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-regenwurms/ — „Tag des Regenwurms in Deutschland“
+- **15.02. – Tulpensonntag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tulpensonntag
+- **16.02. – Happy Birthday George Washington** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/presidents-day-in-den-usa/ — „Happy Birthday George Washington – Presidents‘ Day in den USA – 16. Februar 2026“
+- **16.02. – Rosenmontag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/rosenmontag
+- **16.02. – Tag der Innovation** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-innovation/ — „Tag der Innovation – der National Innovation Day in den Vereinigten Staaten“
+- **16.02. – Tag der Mandel** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-mandel
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-mandel/ — „Tag der Mandel – der US-amerikanische National Almond Day am 16. Februar“
+- **16.02. – Tu-einem-Griesgram-einen-Gefallen-Tag** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tu-einem-griesgram-einen-gefallen-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/do-a-grouch-a-favor-day/ — „Tue-einem-Griesgram-einen-Gefallen-Tag – National Do a Grouch a Favor Day in den USA“
+  - automatische Ähnlichkeit: 75 %
+- **16.02. – Unabhängigkeitstag in Litauen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/litauen-unabhaengigkeitstag
+- **16.02. – Washington's Birthday** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/washingtons-birthday
+- **17.02. – Chinesisches Neujahrsfest** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/chinesisches-neujahrsfest
+- **17.02. – Faschingsdienstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/faschingsdienstag
+- **17.02. – Shrove Tuesday oder: Pancake Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/pancake-day-in-grossbritannien/ — „Shrove Tuesday oder: Pancake Day – Tag der Pfannkuchen in Großbritannien 2026“
+- **17.02. – Tag der spontanen Nettigkeiten** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-spontanen-nettigkeiten
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-spontanen-nettigkeiten/ — „Tag der spontanen Nettigkeiten – Random Acts of Kindness Day in Neuseeland und den USA“
+- **17.02. – Tag des menschlichen Geistes** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-menschlichen-geistes
+- **17.02. – Tag des Milchkaffees** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-milchkaffees/ — „Tag des Milchkaffees – der National Café au Lait Day in den Vereinigten Staaten“
+- **17.02. – Tag des Weißkohls** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-weisskohls/ — „Tag des Weißkohls – der National Cabbage Day in den Vereinigten Staaten“
+- **17.02. – Unabhängigkeitstag im Kosovo** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/unabhaengigkeitstag-kosovo
+- **18.02. – Aschermittwoch** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/aschermittwoch
+- **18.02. – Ehrentag der Daumen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ehrentag-der-daumen/ — „Ehrentag der Daumen – National Thumb Appreciation Day in den Vereinigten Staaten“
+- **18.02. – Elm-Farm-Ollie-Tag** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/elm-farm-ollie-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-fliegenden-milchkuh/ — „Elm Farm Ollie Day – Tag der fliegenden Milchkuh in den Vereinigten Staaten“
+  - automatische Ähnlichkeit: 75 %
+- **18.02. – International Eat Ice Cream for Breakfast Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-eat-ice-cream-for-breakfast-day/ — „International Eat Ice Cream for Breakfast Day – Internationaler Iss-Eis-zum-Frühstück-Tag“
+- **18.02. – Nichtrauchertag in Irland** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/nichtrauchertag-in-irland/ — „Nichtrauchertag in Irland – National No Smoking Day am 18. Februar 2026“
+- **18.02. – Pluto Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/pluto-tag/ — „Pluto Day – der internationale Tag der Entdeckung Plutos am 18. Februar 1930“
+- **18.02. – Pluto-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/pluto-tag
+- **18.02. – Tag der Batterie** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-batterie
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-batterie/ — „Tag der Batterie – National Battery Day in den USA – Happy Birthday Alessandro Volta“
+- **18.02. – Tag des Weintrinkens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-weintrinkens/ — „Tag des Weintrinkens – der US-amerikanische National Drink Wine Day“
+- **18.02. – Unabhängigkeitstag in Gambia** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/gambia-unabhaengigkeitstag
+- **19.02. – Tag der Minzschokolade** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-minzschokolade
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-minzschokolade/ — „Tag der Minzschokolade – der US-amerikanische National Chocolate Mint Day“
+- **19.02. – Tag der Wimpern** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-wimpern/ — „Tag der Wimpern – der US-amerikanische National Lash Day am 19. Februar“
+- **19.02. – Tag des Tauziehens** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-tauziehens
+- **20.02. – Der bundesweite Toast-Hawaii-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/toast-hawaii-tag/ — „Der bundesweite Toast-Hawaii-Tag in Deutschland am 20. Februar 2026“
+- **20.02. – Hoodie-Hoo-Tag auf der Nordhalbkugel** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/hoodie-hoo-tag-auf-der-nordhalbkugel/ — „Hoodie-Hoo-Tag auf der Nordhalbkugel – Northern Hemisphere Hoodie-Hoo Day“
+- **20.02. – Liebe-Dein-Haustier-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/liebe-dein-haustier-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/liebe-dein-haustier-tag/ — „Liebe-Dein-Haustier-Tag – der US-amerikanische National Love Your Pet Day“
+- **20.02. – Putze-Dein-Bücherregal-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/putze-dein-buecherregal-tag/ — „Putze-Dein-Bücherregal-Tag – Clean Out Your Bookcase Day in den USA“
+- **20.02. – Tag der Handschellen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-handschellen
+- **20.02. – Tag der Muffins** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-muffins/ — „Tag der Muffins – der US-amerikanische National Muffin Day“
+- **20.02. – Tag des Kirschkuchens** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-kirschkuchens
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kirschkuchens/ — „Tag des Kirschkuchens – National Cherry Pie Day in den USA“
+- **20.02. – Welt-Pfeifenraucher-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-pipe-smoking-day/ — „Welt-Pfeifenraucher-Tag – International Pipe Smoking Day am 20. Februar“
+- **20.02. – Welttag der Sozialen Gerechtigkeit** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-der-sozialen-gerechtigkeit
+- **21.02. – Biikebrennen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/biikebrennen
+- **21.02. – Tag der Muttersprache** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/internationaler-tag-der-muttersprache
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-muttersprache/ — „Internationaler Tag der Muttersprache – International Mother Language Day“
+- **21.02. – Tag der süßen Schnecken** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-sticky-bun-day/ — „Tag der süßen Schnecken – National Sticky Bun Day in den Vereinigten Staaten“
+- **21.02. – Tag des Kartenlesens** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-kartenlesens
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kartenlesens/ — „Tag des Kartenlesens – National Card Reading Day in den Vereinigten Staaten“
+- **21.02. – Weltgästeführertag am 21. Februar** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-tourist-guide-day/ — „Weltgästeführertag am 21. Februar – International Tourist Guide Day 2026“
+- **21.02. – Welttag der Schuppentiere am dritten Samstag im Februar** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-pangolin-day/ — „Welttag der Schuppentiere am dritten Samstag im Februar – World Pangolin Day 2026“
+- **21.02. – Welttag des Fremdenführers** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-des-fremdenfuehrers
+- **21.02. – World Whale Day auf Maui** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/wold-whale-day/ — „World Whale Day auf Maui – Welttag der Wale am 21. Februar 2026“
+- **22.02. – Gassi-Gehen-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/gassi-gehen-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/gassi-gehen-tag/ — „Gassi-Gehen-Tag – Walking the Dog Day in den USA“
+- **22.02. – Koch-Süßkartoffeln-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/koch-suesskartoffeln-tag/ — „Koch-Süßkartoffeln-Tag – National Cook a Sweet Potato Day in den USA“
+- **22.02. – Neko no hi oder Neko-no-kinenbi** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/neko-no-hi/ — „Neko no hi oder Neko-no-kinenbi – Katzentag in Japan am 22. Februar“
+- **22.02. – Sei-bescheiden-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/sei-bescheiden-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/sei-bescheiden-tag/ — „Sei-bescheiden-Tag – National Be Humble Day in den USA“
+- **22.02. – Single-Tasking-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/single-tasking-day/ — „Single-Tasking-Tag – der US-amerikanische Single Tasking Day am 22. Februar“
+- **22.02. – Tag der Fähren am 22. Februar** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-faehren/ — „Tag der Fähren am 22. Februar – Aktionstag für Fährreisen in Europa zum Petritag“
+- **22.02. – Tag der Margarita** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-margarita
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-margarita/ — „Tag der Margarita – der National Margarita Day in den Vereinigten Staaten“
+- **22.02. – Tag der Weißwurst** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-weisswurst/ — „Tag der Weißwurst in Deutschland am 22. Februar – die ersten Weißwürste werden serviert“
+- **22.02. – Tag der Wildtiere am 22. Februar und 4. September** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-wildtiere/ — „Tag der Wildtiere am 22. Februar und 4. September – National Wildlife Day in den USA“
+- **22.02. – Thinking Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/thinking-day
+- **22.02. – Welttag der Pfadfinder** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-pfadfinder-thinking-day/ — „Welttag der Pfadfinder – World Thinking Day 2026“
+- **23.02. – Spiel-Tennis-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/spiel-tennis-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/spiel-tennis-tag/ — „Spiel-Tennis-Tag – der US-amerikanische Play Tennis Day am 23. Februar“
+- **23.02. – Tag der Kacheln** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-kacheln/ — „Tag der Kacheln – National Tile Day in den Vereinigten Staaten“
+- **23.02. – Tag der Republik in Guyana** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/guyana-tag-der-republik
+- **23.02. – Tag des Bananenbrots** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-bananenbrots/ — „Tag des Bananenbrots – National Banana Bread Day in den USA“
+- **23.02. – Tag des Hundekuchens** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-hundekuchens
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-hundekuchens/ — „Internationaler Tag des Hundekuchens – International Dog Biscuit Appreciation Day“
+- **23.02. – Tag des Verteidigers des Vaterlandes** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-des-verteidigers-des-vaterlandes-gus
+- **23.02. – Unabhängigkeitstag in Brunei** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/brunei-unabhaengigkeitstag
+- **23.02. – Welttag der Waschmaschine** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-waschmaschine/ — „Welttag der Waschmaschine in Deutschland – 23. Februar“
+- **24.02. – Dragobete** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/dragobete/ — „Dragobete – der Tag der Liebenden in Rumänien“
+- **24.02. – Flaggentag in Mexiko** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/flaggentag-in-mexiko
+- **24.02. – Tag der Tortilla Chips** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-tortilla-chips
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-tortilla-chips/ — „Tag der Tortilla-Chips – National Tortilla Chip Day in den USA“
+- **24.02. – Tag der Unabhängigkeit in Estland** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-unabhaengigkeit
+- **24.02. – Tag des Chilis** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-chilis
+- **24.02. – Welttag der Barkeeper** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-bartender-day/ — „Welttag der Barkeeper – World Bartender Day“
+- **25.02. – Nationalfeiertag in Kuwait** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/kuweit-nationalfeiertag
+- **25.02. – Sei-unbequem-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/inconvenience-yourself-day/ — „Sei-unbequem-Tag in den USA – Inconvenience Yourself Day – 25. Februar 2026“
+- **25.02. – Tag der Schachtelsätze** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-schachtelsaetze
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-schachtelsaetze/ — „Tag der Schachtelsätze am 25. Februar – Ehrentag der Hypotaxe in Deutschland“
+- **25.02. – Tag der schokolierten Erdnüsse** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/schokolierte-erdnuesse-tag/ — „Tag der schokolierten Erdnüsse – National Chocolate Covered Peanuts Day in den USA“
+- **25.02. – Welttag der Lesezeichen am 25. Februar** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-lesezeichen/ — „Welttag der Lesezeichen am 25. Februar – World Bookmark Day 2026“
+- **26.02. – Erzähle-ein-Märchen-Tag** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/erzaehle-ein-maerchen-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/erzaehl-ein-maerchen-tag/ — „Erzähl-ein-Märchen-Tag – der Tell a Fairy Tale Day in den Vereinigten Staaten“
+  - automatische Ähnlichkeit: 67 %
+- **26.02. – For Pete’s Sake Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/for-petes-sake-day/ — „For Pete’s Sake Day – der US-amerikanische Um-Gottes-willen-Tag“
+- **26.02. – Levi-Strauss-Tag** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/levi-strauss-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/levi-strauss-day/ — „Levi Strauss Day in den USA – Happy Birthday Loeb Strauss am 26. Februar“
+  - automatische Ähnlichkeit: 67 %
+- **26.02. – Tag der Pistazie** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-pistazie
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-pistazie/ — „Tag der Pistazie – der National Pistachio Day in den Vereinigten Staaten“
+- **26.02. – Tag des Chilis** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-chili/ — „Tag des Chilis in den USA – National Chili Day am 26. Februar 2026“
+- **26.02. – Tag des Jahrmarkts am 26. Februar** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-jahrmarkts/ — „Tag des Jahrmarkts am 26. Februar – der National Carnival Day in den USA“
+- **26.02. – Tag des Ringfingers** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-ringfingers/ — „Tag des Ringfingers – der US-amerikanische Ring Finger Day am 26. Februar“
+- **26.02. – Tag des Toastbrots** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-toastbrots/ — „Tag des Toastbrots – der National Toast Day in den USA und Großbritannien 2026“
+- **27.02. – Der internationale Pokémon-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/pokemon-day/ — „Der internationale Pokémon-Tag – Pokémon Day am 27. Februar“
+- **27.02. – Retro-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-retro-day/ — „Retro-Tag – der National Retro Day in den USA“
+- **27.02. – Tag der Erdbeere** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-erdbeere
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-erdbeere/ — „Tag der Erdbeere – National Strawberry Day in den USA“
+- **27.02. – Tag der Republik - DARS** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/demokratische-arabische-republik-sahara-tag-der-republik
+- **27.02. – Tag des Eisbären** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-eisbaeren
+- **27.02. – Unabhängigkeitstag - Dominikanische Republik** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/dominikanischen-republik-unabhaengigkeitstag
+- **27.02. – Welteisbärentag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-polar-bear-day/ — „Welteisbärentag – International Polar Bear Day am 27. Februar“
+- **28.02. – Internationale Open That Bottle Night** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/open-that-bottle-night/ — „Internationale Open That Bottle Night – Öffene-diese-eine-Flasche-Nacht – 28. Februar 2026“
+- **28.02. – Schlaf-in-der-Öffentlichkeit-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/schlaf-in-der-oeffentlichkeit-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/schlaf-in-der-oeffentlichkeit-tag/ — „Schlaf-in-der-Öffentlichkeit-Tag – National Public Sleeping Day in den USA“
+- **28.02. – Tag der Floristik** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-floristik
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-floristik-usa/ — „Tag der Floristik – der US-amerikanische National Floral Design Day am 28. Februar“
+- **28.02. – Tag der Hosentasche** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-hosentasche/ — „Tag der Hosentasche – Car Keys and Small Change Day in den Vereinigten Staaten“
+- **28.02. – Tag der Schwertschlucker** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-schwertschlucker
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-sword-swallowers-day/ — „Welttag der Schwertschlucker – World Sword Swallower‘s Day 2026“
+- **28.02. – Tag der seltenen Erkrankungen** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-seltenen-erkrankungen
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-seltenen-krankheiten/ — „Tag der seltenen Krankheiten – International Rare Disease Day 2026“
+  - automatische Ähnlichkeit: 67 %
+- **28.02. – Tag der Zahnfee** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-zahnfee
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-zahnfee/ — „Tag der Zahnfee – der National Tooth Fairy Day in den USA“
+- **28.02. – Tag des Kalevala und der finnischen Kultur** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kalevala-und-der-finnischen-kultur/ — „Tag des Kalevala und der finnischen Kultur – Kalevalan ja suomalaisen kulttuurin päivä“
+- **28.02. – Tag des Schokoladensoufflé** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-schokoladensouffle/ — „Tag des Schokoladensoufflé in den USA – der National Chocolate Souffle Day“
+- **28.02. – Weltkrokettentag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltkrokettentag
+- **29.02. – Grounding Page kuriose-feiertage** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/grounding/kuriose-feiertage-grounding.html
+- **29.02. – Grounding Page Sven Giese** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/grounding/sven-giese.html
+- **29.02. – Schalttag und Schaltjahr** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/29-februar-schalttag/ — „Schalttag und Schaltjahr – eine kalendarische Kuriosität am 29. Februar 2028“
+## März
+
+- **01.03. – Balearentag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/balearentag
+- **01.03. – Meteorologischer Frühlingsanfang** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/meteorologischer-fruehlingsanfang
+- **01.03. – Plane-allein-zu-verreisen-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/plane-alleine-zu-verreisen-tag/ — „Plane-allein-zu-verreisen-Tag – Plan a Solo Vacation Day in den USA“
+- **01.03. – Tag der Erdnussbutter-Liebhaber** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-erdnussbutter-liebhaber/ — „Tag der Erdnussbutter-Liebhaber – National Peanut Butter Lover‘s Day in den USA“
+- **01.03. – Tag der Hand** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-hand/ — „Tag der Hand – bundesweiter Aktionstag in Deutschland am 1. März 2026“
+- **01.03. – Tag der Kranken** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-kranken
+- **01.03. – Tag der Namensvetter und Namensschwestern** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-namensvetter/ — „Tag der Namensvetter und Namensschwestern – Namesake Day 2026“
+- **01.03. – Tag des Schweins** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-schweins
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-schweins/ — „Tag des Schweins – der US-amerikanische National Pig Day am 1. März“
+- **01.03. – Tag des Zivilschutzes** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-zivilschutzes
+- **01.03. – Unabhängigkeitstag in Bosnien-Herzegowina** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/bosnien-herzegowina-unabhaengigkeitstag
+- **01.03. – Welttag der Komplimente am 1. März** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-compliment-day/ — „Welttag der Komplimente am 1. März – der World Compliment Day 2026“
+- **01.03. – Welttag des Kompliments** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-des-kompliments
+- **02.03. – Adoptiere-eine-Katze-Tag am 2. März** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/adoptiere-eine-katze-tag/ — „Adoptiere-eine-Katze-Tag am 2. März – International Rescue Cat Day 2026“
+- **02.03. – Dr. Seuss Tag** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/dr-seuss-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/dr-seuss-day/ — „Dr. Seuss Day in den USA – Happy Birthday Theodor Seuss Geisel – 2. März“
+  - automatische Ähnlichkeit: 67 %
+- **02.03. – Tag der alten Dinge** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-alten-dinge
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-alten-dinge/ — „Tag der alten Dinge am 2. März – National Old Stuff Day in den Vereinigten Staaten“
+- **02.03. – Unabhängigkeitstag in Texas** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/texas-independence-day
+- **02.03. – Wissenswertes-über-Namen-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/wissenswertes-ueber-namen-tag/ — „Wissenswertes-über-Namen-Tag – der internationale Fun Facts About Names Day 2026“
+- **03.03. – Mach-andere-glücklich-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/mach-andere-gluecklich-tag/ — „Mach-andere-glücklich-Tag – der US-amerikanische National I Want You To Be Happy Day“
+- **03.03. – Makha Puja** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/makha-puja
+- **03.03. – Pfirsichblüten-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/pfirsichblueten-tag
+- **03.03. – Tag der Befreiung in Bulgarien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-efreiung-bulgarien
+- **03.03. – Tag der ungewöhnlich Namen** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-ungewoehnlich-namen
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-ausgefallenen-namen/ — „Tag der ausgefallenen Namen – der internationale Unique Names Day 2026“
+  - automatische Ähnlichkeit: 67 %
+- **03.03. – Tag des Artenschutzes** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-artenschutzes
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-artenschutzes/ — „Tag des Artenschutzes – der United Nations World Wildlife Day am 3. März“
+- **03.03. – Tag des Aufschnitts am 3. März** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-aufschnitts/ — „Tag des Aufschnitts am 3. März – National Cold Cuts Day in den Vereinigten Staaten“
+- **03.03. – Tag des irischen Whiskey** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-irischen-whiskey/ — „Tag des irischen Whiskey – International Irish Whiskey Day 2026“
+- **03.03. – Tag des Moscow Mule** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-moscow-mule/ — „Tag des Moscow Mule – der National Moscow Mule Day in den Vereinigten Staaten“
+- **03.03. – Wenn-Haustiere-Daumen-hätten-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/wenn-haustiere-daumen-haetten-tag
+- **04.03. – Der US-amerikanische March Forth and Do Something Day am 4. März** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/march-forth-and-do-something-day/
+- **04.03. – Internationaler Scrapbooking-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/internationaler-scrapbooking-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-scrapbooking-tag/ — „Internationaler Scrapbooking-Tag am 4. März – International Scrapbooking Day“
+- **04.03. – Tag der Grammatik** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-grammatik/ — „Tag der Grammatik – National Grammar Day in den USA“
+- **04.03. – Tag der Snacks** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-snacks/ — „Tag der Snacks – der US-amerikanische National Snack Day am 4. März“
+- **04.03. – Tag der Spielzeugsoldaten** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-spielzeugsoldaten
+- **04.03. – Tag des heiligen Kasimir** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-heiligen-kasimir
+- **04.03. – Tag des Rührkuchens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-ruehrkuchens/ — „Tag des Rührkuchens – National Pound Cake Day in den USA“
+- **05.03. – Lei-Feng-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/lei-feng-tag
+- **05.03. – St. Piran's Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/st-pirans-day
+- **05.03. – Tag der Käse Flips** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-kaese-flips/ — „Tag der Käse Flips – der US-amerikanische National Cheese Doodle Day“
+- **05.03. – Tag der multiplen Persönlichkeit** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-multiplen-persoenlichkeit/ — „Tag der multiplen Persönlichkeit – der US-amerikanische National Multiple Personality Day“
+- **05.03. – Tag der Vermessung und Geoinformation** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-vermessung-und-geoinformation
+- **05.03. – Tag des Absinths** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-absinths
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-absinth/ — „Tag des Absinths – National Absinthe Day in den Vereinigten Staaten“
+- **05.03. – Tag des Energiesparens** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-energiesparens
+- **05.03. – Welttag des Buches** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-des-buches
+- **05.03. – World Book Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-book-day-irland-und-grossbritannien/ — „World Book Day – der Welttag des Buches in Irland und Großbritannien – 5. März 2026“
+- **06.03. – Europäischer Tag der Logopädie** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/europaeischer-tag-der-logopaedie
+- **06.03. – Oreo-Tag** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/oreo-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-oreo-kekse/ — „Tag der Oreo-Kekse – National Oreo Cookie Day in den Vereinigten Staaten“
+  - automatische Ähnlichkeit: 67 %
+- **06.03. – Sei-stolz-auf-deinen-zweiten-Vornamen-Tag** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/sei-stolz-auf-deinen-zweiten-vornamen-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/sei-stolz-auf-deinen-zweitnamen-tag/ — „Sei-stolz-auf-Deinen-Zweitnamen-Tag – der internationale Middle Name Pride Day 2026“
+  - automatische Ähnlichkeit: 71 %
+- **06.03. – Tag der Tiefkühlkost** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-tiefkuehlkost
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-tiefkuehlkost/ — „Tag der Tiefkühlkost – der US-amerikanische National Frozen Food Day am 6. März“
+- **06.03. – Tag der Verkäufer** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-verkaeufer
+- **06.03. – Tag des Dude** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/day-of-the-dude/ — „Tag des Dude – der internationale Day of the Dude“
+- **06.03. – Tag des Kleides** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kleides/ — „Tag des Kleides – der US-amerikanische National Dress Day am 6. März“
+- **06.03. – Tag des Zahnarztes** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-zahnarztes
+- **06.03. – Weltgebetstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltgebetstag
+- **06.03. – Zahnarzt-Tag am 6. März** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/zahnarzt-tag/ — „Zahnarzt-Tag am 6. März – National Dentist’s Day in den USA“
+- **06.03. – Zieh-Dich-raus-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-day-of-unplugging/ — „Zieh-Dich-raus-Tag in den USA – National Day of Unplugging 2026“
+- **07.03. – Alexander Graham Bell Day im kanadischen Nova Scotia am 7. März** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/alexander-graham-bell-day/
+- **07.03. – Der Geburtstag mit der Maus** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/maus-geburtstag/ — „Der Geburtstag mit der Maus – oder: Happy Birthday Sendung mit der Maus“
+- **07.03. – Tag der Frühstücksflocken am 7. März** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-fruehstuecksflocken/ — „Tag der Frühstücksflocken am 7. März – National Cereal Day in den USA“
+- **07.03. – Tag der gesunden Ernährung** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-gesunden-ernaehrung
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-gesunden-ernahrung/ — „Tag der gesunden Ernährung in Deutschland 2026“
+- **07.03. – Tag der Lehrer (Albanien)** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-lehrer
+- **07.03. – Tag der Mülltrennung** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-muelltrennung/ — „Tag der Mülltrennung – Eugène René Poubelles Dekret über die Abfalleimerpflicht in Paris“
+- **07.03. – Tag der Sauce tartare** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-sauce-tartare/ — „Tag der Sauce tartare in den USA – National Tartar Sauce Day am 7. März 2025“
+- **07.03. – Tag der Zerealien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-zerealien
+- **08.03. – Internationaler Frauentag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/frauentag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-frauentag-weltfrauentag/ — „Internationaler Frauentag – Weltfrauentag – International Women’s Day 2026“
+- **08.03. – Internationaler Tag der Planetarien** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-planetarien/ — „Internationaler Tag der Planetarien – International Day of Planetariums 2026“
+- **08.03. – Muttertag in Afghanistan** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/afghanistan-muttertag
+- **08.03. – Prüfe-Deine-Batterien-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/pruefe-deine-batterien-tag/ — „Prüfe-Deine-Batterien-Tag – der US-amerikanische Check Your Batteries Day 2026“
+- **08.03. – Sei-frech-Tag am 8. März** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/sei-frech-tag/ — „Sei-frech-Tag am 8. März – der National Be Nasty Day in den Vereinigten Staaten“
+- **08.03. – Tag der Erdnuss Cluster** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-erdnuss-cluster/ — „Tag der Erdnuss Cluster – National Peanut Cluster Day in den Vereinigten Staaten“
+- **08.03. – Tag der offenen Töpferei** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-offenen-topferei
+- **08.03. – Tag des Korrekturlesens** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-korrekturlesens
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-korrekturlesens/ — „Tag des Korrekturlesens – der US-amerikanische National Proofreading Day“
+- **09.03. – Barbie-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/barbie-tag
+- **09.03. – Barbies Geburtstag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/barbies-geburtstag/ — „Barbies Geburtstag – oder: Tag der Barbie-Puppe“
+- **09.03. – Finde-Dich-damit-ab-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/get-over-it-day/ — „Finde-Dich-damit-ab-Tag – der US-amerikanische Get Over It Day“
+- **09.03. – Füll-unsere-Tacker-auf-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/fill-our-staplers-day/ — „Füll-unsere-Tacker-auf-Tag – der nordamerikanische Fill Our Staplers Day 2026“
+- **09.03. – Panik-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/panik-tag-usa/ — „Panik-Tag – National Panic Day in den Vereinigten Staaten“
+- **09.03. – Tag der Fleischbällchen** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-fleischbaellchen
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-fleischbaellchen/ — „Tag der Fleischbällchen am 9. März – National Meatball Day in den Vereinigten Staaten“
+- **09.03. – Tag des Nickerchens** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-nickerchens
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-nickerchens-am-arbeitsplatz/ — „Tag des Nickerchens am Arbeitsplatz in den USA – National Workplace Napping Day 2026“
+- **10.03. – Festival of Life in the Cracks Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/festival-of-life-in-the-cracks-day/ — „Festival of Life in the Cracks Day – Die-Natur-bahnt-sich-ihren-Weg-Tag in den USA“
+- **10.03. – Internationaler Dudelsack-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-bagpipe-day/ — „Internationaler Dudelsack-Tag – der International Bagpipe Day am 10. März“
+- **10.03. – Mario-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/mario-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/mario-day/ — „Super-Mario-Tag – der US-amerikanische Mario Day am 10. März“
+- **10.03. – Schmier-Dir-Dein-Pausenbrot-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/schmier-dir-dein-pausenbrot-tag/ — „Schmier-Dir-Dein-Pausenbrot-Tag – National Pack Your Lunch Day in den USA“
+- **10.03. – Tag der Großartigkeit** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-grossartigkeit
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-day-of-awesomeness/ — „Internationaler Tag der Großartigkeit – International Day of Awesomeness“
+- **10.03. – Tag der Röcke** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-roecke/ — „Tag der Röcke – der US-amerikanische National Skirt Day am 10. März“
+- **10.03. – Tag des Dudelsacks** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-dudelsacks
+- **10.03. – Tag des Tibetaufstands** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tibetaufstand
+- **11.03. – Gedenktag für die Opfer des Terrors** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/europaeischer-gedenktag-fuer-die-opfer-des-terrorismus
+- **11.03. – Johnny Appleseed Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/johnny-appleseed-day
+- **11.03. – Tag der Hafer-Nuss-Waffeln** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-hafer-nuss-waffeln/ — „Tag der Hafer-Nuss-Waffeln – National Oatmeal Nut Waffles Day in den USA“
+- **11.03. – Tag der Rohrleitungen** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-rohrleitungen
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-plumbing-day/ — „Welttag der Rohrleitungen – der internationale World Plumbing Day 2026“
+- **11.03. – Tag der Wiedererlangung der Unabhängigkeit in Litauen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-wiedererlangung-der-unabhaengigkeit
+- **11.03. – Verehre-Dein-Werkzeug-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/verehre-dein-werkzeug-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/verehre-dein-werkzeug-tag/ — „Verehre-Dein-Werkzeug-Tag – der US-amerikanische National Worship of Tools Day“
+- **12.03. – Milky-Way-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/milky-way-tag/ — „Milky-Way-Tag – der US-amerikanische National Milky Way Day am 12. März“
+- **12.03. – Pflanz-eine-Blume-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/pflanz-eine-blume-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/pflanz-eine-blume-tag/ — „Pflanz-eine-Blume-Tag – National Plant a Flower Day in den Vereinigten Staaten“
+- **12.03. – Tag der Popcorn-Liebhaber** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-popcorn-liebhaber/ — „Tag der Popcorn-Liebhaber in den USA – National Popcorn Lover’s Day 2026“
+- **12.03. – Tag der Popcornliebhaber** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-popcornliebhaber
+- **12.03. – Unabhängigkeitstag in Mauritius** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/mauritius-unabhaengigkeitstag
+- **12.03. – Weltnierentag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltnierentag
+- **12.03. – Welttag gegen Internetzensur** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-gegen-internetzensur
+- **13.03. – Öffne-drinnen-einen-Regenschirm-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/oeffne-drinnen-einen-regenschirm-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/oeffne-drinnen-einen-regenschirm-tag/ — „Öffne-drinnen-einen-Regenschirm-Tag – Open Your Umbrella Indoors Day in den USA“
+- **13.03. – Rauchmeldertag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/rauchmeldertag-in-deutschland/ — „Rauchmeldertag in Deutschland 2026 – an jedem Freitag, den 13. im Jahr“
+- **13.03. – Tag der Edelsteine** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-edelsteine
+- **13.03. – Tag der Hühnernudelsuppe** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-huehnernudelsuppe/ — „Tag der Hühnernudelsuppe – National Chicken Noodle Soup Day in den USA“
+- **13.03. – Tag der Ohrenschützer** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-ohrenschuetzer
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-ohrenschuetzer/ — „Tag der Ohrenschützer – der US-amerikanische National Earmuff Day am 13. März“
+- **13.03. – Tag des Edelsteins am 13. März** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-edelsteins/ — „Tag des Edelsteins am 13. März – National Jewel Day in den Vereinigten Staaten“
+- **13.03. – Tag des Elefanten in Thailand** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-elefanten-thailand/ — „Tag des Elefanten in Thailand – National Thai Elephant Day oder: Chang Thai Day“
+- **13.03. – Welttag des Schlafes** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-sleep-day/ — „Welttag des Schlafes – der internationale World Sleep Day am 13. März 2026“
+- **14.03. – Aktionstag gegen Staudämme** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/aktionstag-gegen-staudaemme
+- **14.03. – Der Weiße Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weisser-tag-valentinstag-in-japan/ — „Der Weiße Tag – White Day oder der japanische Valentinstag Howaito dē“
+- **14.03. – Indiebookday** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/indiebookday/ — „Indiebookday in Deutschland, Österreich und der Schweiz – 14. März 2026“
+- **14.03. – Internationaler Tag der Bauchtasche** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-fanny-bag-day/ — „Internationaler Tag der Bauchtasche – der International Fanny Bag Day 2026“
+- **14.03. – Internationaler Tag der Mathematik** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-mathematik/ — „Internationaler Tag der Mathematik – International Day of Mathematics“
+- **14.03. – Lerne-mehr-über-Schmetterlinge-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/lerne-mehr-ueber-schmetterlinge-tag/ — „Lerne-mehr-über-Schmetterlinge-Tag – National Learn About Butterflies Day in den USA“
+- **14.03. – Pi-Tag** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/pi-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/pi-day-der-tag-der-zahl-pi/ — „Tag der Zahl Pi – der internationale Pi Day zu Ehren der Kreiszahl Pi am 14. März“
+  - automatische Ähnlichkeit: 67 %
+- **14.03. – Steak-und-Blowjob-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/steak-und-blowjob-tag
+- **14.03. – Stell-eine-Frage-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/stell-eine-frage-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-stell-eine-frage-tag/ — „Internationaler Stell-eine-Frage-Tag – International Ask a Question Day“
+- **14.03. – Tag der Kartoffelchips** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-kartoffelchips/ — „Tag der Kartoffelchips – der US-amerikanische National Potato Chip Day“
+- **14.03. – Tag der Verfassung in Andorra** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/andorra-tag-der-verfassung
+- **15.03. – Alles-was-Du-denkst-ist-falsch-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/alles-was-du-denkst-ist-falsch-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/alles-was-du-denkst-ist-falsch-tag/ — „Alles-was-Du-denkst-ist-falsch-Tag – Everything You Think is Wrong Day in den USA“
+- **15.03. – Brutus-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/brutus-tag-die-iden-des-maerz/ — „Brutus-Tag – die Iden des März und der National Brutus Day in den USA“
+- **15.03. – Der bundesweite Tag der Druckkunst** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-druckkunst/ — „Der bundesweite Tag der Druckkunst in Deutschland am 15. März“
+- **15.03. – Iden des März** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/iden-des-maerz
+- **15.03. – Sprachlos-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/sprachlos-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/sprachlos-tag/ — „Sprachlos-Tag – National Dumbstruck Day in den Vereinigten Staaten“
+- **15.03. – Tag der Revolution in Ungarn** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/ungarn-tag-der-revolution
+- **15.03. – Tag der Rückengesundheit** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-rueckengesundheit
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-rueckengesundheit/ — „Der bundesweite Tag der Rückengesundheit in Deutschland 2026“
+- **15.03. – Tag des Verbrauchers** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-verbrauchers
+- **15.03. – Tag gegen Polizeibrutalität** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-gegen-polizeibrutalitaet
+- **15.03. – Welttag der Aufklärung über Long-COVID** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-der-aufklaerung-ueber-long-covid
+- **15.03. – Welttag der Invaliden** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-der-invaliden
+- **15.03. – Weltverbrauchertag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltverbrauchertag/ — „Weltverbrauchertag – der internationale World Consumer Rights Day 2026“
+- **16.03. – Alles-was-Du-machst-ist-richtig-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/alles-was-du-machst-ist-richtig-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/alles-was-du-machst-ist-richtig-tag/ — „Alles-was-Du-machst-ist-richtig-Tag – National Everything You Do Is Right Day in den USA“
+- **16.03. – Ehrentag der Lippen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ehrentag-der-lippen/ — „Ehrentag der Lippen – Lips Appreciation Day in den Vereinigten Staaten“
+- **16.03. – Knygnešio diena** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-buecherschmuggler-in-litauen/ — „Knygnešio diena – Tag der Bücherschmuggler oder Tag der Buchträger in Litauen“
+- **16.03. – Tag der Aktie** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-aktie
+- **16.03. – Tag der Artischockenherzen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-artischockenherzen/ — „Tag der Artischockenherzen – National Artichoke Hearts Day in den USA“
+- **16.03. – Tag der Informationsfreiheit** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-informationsfreiheit
+- **16.03. – Tag der Knygnešiai** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-knygnesiai
+- **16.03. – Tag des Pandas** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-pandas/ — „Tag des Pandas – der US-amerikanische National Panda Day am 16. März“
+- **16.03. – Tag des Reisfladens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-reisfladens/ — „Tag des Reisfladens – ein kulinarischer Feiertag am 16. März in Belgien und Deutschland“
+- **16.03. – Tag des Schluckaufs** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-schluckaufs
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-schluckaufs/ — „Tag des Schluckaufs – der US-amerikanische National Hiccup Day am 16. März“
+- **17.03. – St. Patrick's Day** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/st-patricks-day
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/st-patricks-day/ — „St. Patrick`s Day – der irische Nationalfeiertag zu Ehren des Bischofs Patrick von Irland“
+- **17.03. – Tag des Tauchboots** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-tauchboots
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-tauchboots/ — „Tag des Tauchboots in Großbritannien – Submarine Day am 17. März“
+- **18.03. – Bundesweiter Aktionstag für die Freiheit der politischen Gefangenen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/bundesweiter-aktionstag-fuer-die-freiheit-der-politischen-gefangenen
+- **18.03. – Fest der Bäume in den Niederlanden** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/nationale-boomfeestdag/ — „Fest der Bäume in den Niederlanden – Nationale Boomfeestdag 2026“
+- **18.03. – Global Recycling Day am 18. März** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welt-recycling-tag/ — „Global Recycling Day am 18. März – der internationale Welt-Recycling-Tag 2026“
+- **18.03. – Tag der Flagge und Hymne von Aruba** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-flagge-und-nationalhymne
+- **18.03. – Tag der Fruchtbarkeitsgöttin** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-fruchtbarkeitsgoettin
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-fruchtbarkeitsgoettin/ — „Tag der Fruchtbarkeitsgöttin – Goddess of Fertility Day in den Vereinigten Staaten“
+- **18.03. – Tag der Gefallenen in der Türkei** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-gefallenen
+- **18.03. – Tag der peinlichen Momente** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-peinlichen-momente
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-peinlichen-momente/ — „Tag der peinlichen Momente – National Awkward Moments Day in den USA“
+- **18.03. – Tag des Sloppy Joe** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-sloppy-joe/ — „Tag des Sloppy Joe – der US-amerikanische National Sloppy Joe Day“
+- **19.03. – Frühstück-am-Arbeitsplatz-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/fruehstueck-am-arbeitsplatz-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-deskfast-day/ — „Frühstück-am-Arbeitsplatz-Tag – National Deskfast Day in den Vereinigten Staaten“
+- **19.03. – Lass-uns-lachen-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/lass-uns-lachen-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/lass-uns-lachen-tag/ — „Lass-uns-lachen-Tag – der US-amerikanische Let’s Laugh Day am 19. März“
+- **19.03. – Schokoladen-Karamell-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/schokoladen-karamell-tag/ — „Schokoladen-Karamell-Tag – National Chocolate Caramel Day in den USA“
+- **19.03. – Tag der Luftretter** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-luftretter/ — „Tag der Luftretter in Deutschland 2026 – Aktionstag am 19. März“
+- **19.03. – Tag des Geflügels** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-gefluegels
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-gefluegels/ — „Tag des Geflügels – der US-amerikanische National Poultry Day am 19. März“
+- **20.03. – Frühlingsanfang** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/fruehlingsanfang
+- **20.03. – Kinder- und Jugendtheatertag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/kinder-und-jugendtheatertag
+- **20.03. – Tag der Bibliomanie am 20. März** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-bibliomanie/ — „Tag der Bibliomanie am 20. März – Bibliomania Day in den USA“
+- **20.03. – Tag der französischen Sprache** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-franzoesischen-sprache
+- **20.03. – Tag der Ravioli** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-ravioli/ — „Tag der Ravioli – National Ravioli Day in den USA“
+- **20.03. – Tag des Glücks** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-gluecks
+- **20.03. – Tag des Vergiftungsschutzes für Kinder im Haushalt** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-vergiftungsschutzes-fuer-kinder-im-haushalt
+- **20.03. – Unabhängigkeitstag in Tunesien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tunesien-unabhaengigkeitstag
+- **20.03. – Weltgeschichtentag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltgeschichtentag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltgeschichtentag/ — „Weltgeschichtentag – World Storytelling Day 2026“
+- **20.03. – Weltglückstag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-day-of-happiness/ — „Weltglückstag – UNO International Day of Happiness 2026“
+- **20.03. – Weltmundgesundheitstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltmundgesundheitstag
+- **20.03. – Weltschlaftag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltschlaftag
+- **20.03. – Weltspatzentag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltspatzentag
+- **20.03. – Welttag der Frösche am 20. März** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-frog-day/ — „Welttag der Frösche am 20. März – World Frog Day 2026“
+- **20.03. – Welttag der Romantik** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/welttag-der-romantik
+- **20.03. – Welttag des Sperlings** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-des-sperlings/ — „Welttag des Sperlings – der World Sparrow Day 2026“
+- **21.03. – Internationaler Tag der Farbe am 21. März** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-colour-day/ — „Internationaler Tag der Farbe am 21. März – der International Colour Day 2026“
+- **21.03. – Tag der Menschenrechte in Südafrika** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/suedafrika-tag-der-menschenrechte
+- **21.03. – Tag des Baguettes** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-baguettes/ — „Tag des Baguettes – National French Bread Day in den USA“
+- **21.03. – Tag des Puppenspiels** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-puppenspiels
+- **21.03. – Tag des Tattoos** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-tattoos
+- **21.03. – Tag des Waldes** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-waldes
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-waldes/ — „Internationaler Tag des Waldes – International Day of Forests“
+- **21.03. – Tag gegen Rassismus** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-fuer-die-beseitigung-der-rassendiskriminierung
+- **21.03. – Tattoo-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-tattoo-day-und-national-tattoo-day/ — „Tattoo-Tag – World Tattoo Day am 21. März und National Tattoo Day am 17. Juli“
+- **21.03. – Welt-Down-Syndrom-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welt-down-syndrom-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welt-down-syndrom-tag/ — „Welt-Down-Syndrom-Tag am 21. März – der World Down Syndrome Day 2026“
+- **21.03. – Welttag der Hauswirtschaft** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-der-hauswirtschaft
+- **21.03. – Welttag der Poesie** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-der-poesie
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-poesie-unseco-world-poetry-day/ — „Welttag der Poesie – UNESCO World Poetry Day“
+- **21.03. – Welttag des Holzes** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-wood-day/ — „Welttag des Holzes – der World Wood Day 2026“
+- **22.03. – Internationaler Tag der Seehunde** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-day-of-the-seal/ — „Internationaler Tag der Seehunde – International Day of the Seal“
+- **22.03. – Tag der Kriminalitätsopfer** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-kriminalitaetsopfer
+- **22.03. – Tag des Berliner Bären** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-berliner-baeren/ — „Tag des Berliner Bären in Deutschland – 22. März“
+- **22.03. – Tag des Faulenzens** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-faulenzens
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-faulenzens/ — „Tag des Faulenzens am 22. März – National Goof-Off Day in den Vereinigten Staaten“
+- **22.03. – Weltwassertag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltwassertag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltwassertag/ — „Weltwassertag – der UNO World Water Day 2026“
+- **22.03. – Wir-lieben-Brokkoli-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/wir-lieben-brokkoli-tag/ — „Wir-lieben-Brokkoli-Tag – der We Love Broccoli Day in den USA“
+- **22.03. – World Doula Day 2026** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-doula-day/ — „World Doula Day 2026 – Welttag der Doulas am 22. März“
+- **23.03. – Melba-Toast-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/melba-toast-tag/ — „Melba-Toast-Tag – National Melba Toast Day in den USA“
+- **23.03. – Tag der Chia-Samen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-chia-samen/ — „Tag der Chia-Samen – de National Chia Day in den USA“
+- **23.03. – Tag der Hundewelpen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-hundewelpen/ — „Tag der Hundewelpen – National Puppy Day in den USA“
+- **23.03. – Tag der polnisch-ungarischen Freundschaft** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-polnisch-ungarischen-freundschaft
+- **23.03. – Tag der Republik in Pakistan** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/pakistan-tag-der-republik
+- **23.03. – Tag der süßen Katzenbabys** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-suessen-katzenbabys/ — „Tag der süßen Katzenbabys – Cuddly Kitten Day in den USA“
+- **23.03. – Tag der Welpen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-welpen
+- **23.03. – Welttag der Meteorologie** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-der-meteorologie
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-meteorologie/ — „Welttag der Meteorologie – World Meteorological Day“
+- **24.03. – Elefanten-zeichnen-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/elefanten-zeichnen-tag/ — „Elefanten-zeichnen-Tag in Deutschland am 24. März“
+- **24.03. – Harry Houdini Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/harry-houdini-tag/ — „Harry Houdini Tag – der US-amerikanische Harry Houdini Day am 24. März“
+- **24.03. – Tag der Cocktails** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-cocktails/ — „Tag der Cocktails – der National Cocktail Day in den USA“
+- **24.03. – Tag der Schoko-Rosinen** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-schoko-rosinen
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-schoko-rosinen/ — „Tag der Schoko-Rosinen – National Chocolate Covered Raisin Day in den USA“
+- **24.03. – Tag des handwerklich hergestellten Speiseeises** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-handwerklich-hergestellten-speiseeises
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/europaeischer-tag-des-handwerklich-hergestellten-speiseeises/ — „Europäischer Tag des handwerklich hergestellten Speiseeises“
+- **24.03. – Tag für das Recht auf Wahrheit über schwere Menschenrechtsverletzungen und für die Würde der Opfer** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-fuer-das-recht-auf-wahrheit-ueber-schwere-menschenrechtsverletzungen-und-fuer-die-wuerde-der-opfer
+- **24.03. – Welttuberkulosetag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttuberkulosetag
+- **25.03. – Ehrentag der Seekühe** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ehrentag-der-seekuehe/ — „Ehrentag der Seekühe in den USA – Manatee Appreciation Day am 25. März 2026“
+- **25.03. – European Talent Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/european-talent-day/ — „European Talent Day – Tag der Talente am 25. März“
+- **25.03. – Internationaler Document Freedom Day für offene digitale Standards** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/document-freedom-day/ — „Internationaler Document Freedom Day für offene digitale Standards – 25. März 2026“
+- **25.03. – Maryland Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/maryland-day
+- **25.03. – Tag der Revolution in Griechenland** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/griechenland-tag-der-revolution
+- **25.03. – Tag der Solidarität mit inhaftierten und vermissten Mitarbeitern** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-solidaritaet-mit-inhaftierten-und-vermissten-mitarbeitern
+- **25.03. – Tag der Tolkien-Lektüre** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tolkien-reading-day/ — „Tag der Tolkien-Lektüre – Tolkien Reading Day am 25. März“
+- **25.03. – Tag der Waffel** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-waffel
+- **25.03. – Tag des Gedenkens an die Opfer der Sklaverei und des transatlantischen Sklavenhandels** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-gedenkens-an-die-opfer-der-sklaverei-und-des-transatlantischen-sklavenhandels
+- **25.03. – Trandagen in Schweden** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/trandagen-in-schweden/ — „Trandagen in Schweden – Kranich-Tag oder die Rückkehr der Kraniche am 25. März“
+- **25.03. – Våffeldagen am 25. März** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/vaffeldagen-schweden/ — „Våffeldagen am 25. März – der landesweite Tag der Waffel in Schweden 2026“
+- **25.03. – Verkündigung des Herrn** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/verkuendigung-des-herrn
+- **26.03. – Erfinde-Deinen-eigenen-Feiertag-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/erfinde-deinen-eigenen-feiertag-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/erfinde-deinen-eigenen-feiertag-tag/ — „Erfinde-Deinen-eigenen-Feiertag-Tag – Make Up Your Own Holiday Day in den USA“
+- **26.03. – Live Long and Prosper Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/live-long-and-prosper-day/ — „Live Long and Prosper Day – Lebe-lang-und-in-Frieden-Tag“
+- **26.03. – Purple Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/purple-day
+- **26.03. – Tag des Nougats am 26. März** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-nougat/ — „Tag des Nougats am 26. März – National Nougat Day in den Vereinigten Staaten“
+- **26.03. – Tag des Spinats** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-spinats
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-spinat/ — „Tag des Spinats am 26. März – National Spinach Day in den USA“
+- **26.03. – Unabhängigkeitstag in Bangladesch** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/bangladesch-unabhaengigkeitstag
+- **27.03. – Internationaler Whisky-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-whiskey-day/ — „Internationaler Whisky-Tag – International Whisk(e)y Day“
+- **27.03. – Tag der Paella** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-paella
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-paella/ — „Tag der Paella – National Spanish Paella Day in den USA“
+- **27.03. – Tag des Joe am 27. März** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-joe/ — „Tag des Joe am 27. März – der US-amerikanische National Joe Day“
+- **27.03. – Tag des Whiskys** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-whiskys
+- **27.03. – Viagra-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/viagra-tag
+- **27.03. – Welttag des Theaters** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-des-theaters
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-des-theaters/ — „Welttag des Theaters – World Theatre Day am 27. März“
+- **28.03. – Earth Hour** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/earth-hour
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/earth-hour/ — „Earth Hour – Licht aus für das Klima – internationaler Aktionstag am 28. März 2026“
+- **28.03. – Ehrentag des Unkrauts** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/ehrentag-des-unkrauts
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ehrentag-des-unkrauts/ — „Ehrentag des Unkrauts – Weed Appreciation Day in den USA“
+- **28.03. – Etwas-am-Stiel-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/etwas-am-stiel-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/etwas-am-stiel-tag/ — „Etwas-am-Stiel-Tag – National Something on a Stick Day in den USA“
+- **28.03. – Respektiere-Deine-Katze-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/respektiere-deine-katze-tag/ — „Respektiere-Deine-Katze-Tag – der US-amerikanische Respect Your Cat Day“
+- **28.03. – Tag der Eierausstellung am 28. März** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/eggsibit-day/ — „Tag der Eierausstellung am 28. März – Eggsibit Day in den Vereinigten Staaten“
+- **28.03. – Tag der Schwarzwälder Kirschtorte** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-schwarzwaelder-kirschtorte
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-schwarzwaelder-kirschtorte/ — „Tag der Schwarzwälder Kirschtorte – der US-amerikanische National Black Forest Cake Day“
+- **29.03. – Ehrentag des Blendwerks** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ehrentag-des-blendwerks/ — „Ehrentag des Blendwerks – der US-amerikanische Festival of Smoke and Mirrors Day“
+- **29.03. – Einmal-am-Tag-etwas-Verrücktes-tun-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/einmal-am-tag-etwas-verruecktes-tun-tag/ — „Einmal-am-Tag-etwas-Verrücktes-tun-Tag in Deutschland am 29. März“
+- **29.03. – Internationaler Tag der Meerjungfrauen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-meerjungfrauen/ — „Internationaler Tag der Meerjungfrauen – International Mermaid Day“
+- **29.03. – Palmsonntag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/palmsonntag
+- **29.03. – Tag der Seekuh** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-seekuh
+- **29.03. – Tag der Tante-Emma-Laden-Besitzer** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-mom-and-pop-business-owners-day/ — „Tag der Tante-Emma-Laden-Besitzer – National Mom and Pop Business Owners Day in den USA“
+- **29.03. – Tag des Zitronenkuchens** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-zitronenkuchens
+- **29.03. – Welt-Piano-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-piano-day/ — „Welt-Piano-Tag – der internationale World Piano Day am 29. März 2026“
+- **30.03. – Anderswo-ist-auch-scheiße-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/anderswo-ist-auch-scheisse-tag/ — „Anderswo-ist-auch-scheiße-Tag – The Grass is Always Browner on the Other Side of the Fence Day“
+- **30.03. – Ärzte-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-doctors-day-usa/ — „Ärzte-Tag – der US-amerikanische National Doctors‘ Day am 30. März 2026“
+- **30.03. – Internationaler Tag des Wäschefaltens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-waeschefaltens/ — „Internationaler Tag des Wäschefaltens – International Laundry Folding Day“
+- **30.03. – Internationaler Zero-Waste-Tag am 30. März** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-day-of-zero-waste/ — „Internationaler Zero-Waste-Tag am 30. März – International Day of Zero Waste 2026“
+- **30.03. – Mache-einen-Spaziergang-im-Park-Tag** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/mache-einen-spaziergang-im-park-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/mach-einen-spaziergang-im-park-tag/ — „Mach-einen-Spaziergang-im-Park-Tag – National Take a Walk in the Park Day in den USA“
+  - automatische Ähnlichkeit: 80 %
+- **30.03. – Tag des Arztes** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/doktortag
+- **30.03. – Tag des Bleistifts** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-bleistifts
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-bleistifts/ — „Tag des Bleistifts – der US-amerikanische National Pencil am 30. März“
+- **31.03. – 313** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-donaldismus/ — „313 – der internationale Tag des Donaldismus – Ehrentag für die Entenhausen-Forschung“
+- **31.03. – Grounding Page kuriose-feiertage** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/grounding/kuriose-feiertage-grounding.html
+- **31.03. – Grounding Page Sven Giese** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/grounding/sven-giese.html
+- **31.03. – Internationaler Umarme-einen-Mediävist-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-hug-a-medievalist-day/ — „Internationaler Umarme-einen-Mediävist-Tag – International Hug a Medievalist Day“
+- **31.03. – Tag der Wachsmalstifte am 31. März** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-wachsmalstifte/ — „Tag der Wachsmalstifte am 31. März – National Crayola Crayon Day in den USA“
+- **31.03. – Tag des Bunsenbrenners** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-bunsenbrenners
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-bunsenbrenners/ — „Tag des Bunsenbrenners – National Bunsen Burner Day in den Vereinigten Staaten“
+- **31.03. – Tag des Eiffelturms** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-eiffelturms
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-eiffelturms/ — „Tag des Eiffelturms – der US-amerikanische National Eiffel Tower Day“
+- **31.03. – Tag des Wachsmalstiftes** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-wachsmalstiftes
+- **31.03. – Welt-Backup-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welt-backup-tag
+- **31.03. – World Backup Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-backup-day/ — „World Backup Day – Internationaler Tag der Datensicherung 2026“
+## April
+
+- **01.04. – 1. April** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/1-april
+- **01.04. – Internationaler Occhi-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-tatting-day/ — „Internationaler Occhi-Tag – International Tatting Day am 1. April“
+- **01.04. – Internationaler Tag des Taschenrechners** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-taschenrechners/ — „Internationaler Tag des Taschenrechners – International Pocket Calculator Day“
+- **01.04. – Tag der älteren Generation** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-aelteren-generation
+- **01.04. – Tag der Atheisten** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-atheisten
+- **01.04. – Tag der essbaren Bücher** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-edible-book-day/ — „Tag der essbaren Bücher – International Edible Book Day am 1. April“
+- **01.04. – Tag der Hoffnung** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-hoffnung
+- **01.04. – Tag des Gehens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-walking-day/ — „Tag des Gehens in den Vereinigten Staaten – National Walking Day 2026“
+- **01.04. – Tag des Occhis** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-occhis
+- **02.04. – Erdnussbutter-und-Marmelade-Tag** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/erdnussbutter-und-marmelade-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/erdnussbutter-marmelade-sandwich-tag/ — „Tag des Erdnussbutter-und-Marmelade-Sandwichs – National Peanut Butter & Jelly Day“
+  - automatische Ähnlichkeit: 80 %
+- **02.04. – Frühlingsvollmond** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/fruehlingsvollmond
+- **02.04. – Gründonnerstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/gruendonnerstag
+- **02.04. – Kinderbuchtag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/kinderbuchtag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-kinderbuchtag/ — „Internationaler Kinderbuchtag – International Children’s Book Day 2026“
+- **02.04. – Tag der Burritos** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-burritos/ — „Tag der Burritos in den USA – National Burrito Day – 2. April 2026“
+- **02.04. – Tag des Frettchens** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-frettchens
+- **02.04. – Welt-Autismus-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welt-autismus-tag
+- **02.04. – Weltmaultaschentag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltmaultaschentag/ — „Weltmaultaschentag – immer parallel zum Gründonnerstag – 2. April 2026“
+- **03.04. – Carfreitag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/carfreitag
+- **03.04. – Finde einen Regenbogen Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/finde-einen-regenbogen-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/finde-einen-regenbogen-tag/ — „Finde-einen-Regenbogen-Tag am 3. April – Find a Rainbow Day in den USA“
+- **03.04. – Geh-zu Fuß-zur-Arbeit-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-walk-to-work-day-usa/ — „Geh-zu Fuß-zur-Arbeit-Tag in den USA – National Walk to Work Day 2026“
+- **03.04. – Karfreitag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/karfreitag
+- **03.04. – Lauf-zur-Arbeit-Tag in den USA** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/lauf-zur-arbeit-tag-usa
+- **03.04. – Tag der Arschkarte** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-arschkarte/ — „Tag der Arschkarte – die erste Rote Karte der Fußball-Bundesliga am 3. April 1971“
+- **03.04. – Tag der Schokoladen Mousse** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-schokoladen-mousse-usa/ — „Tag der Schokoladen Mousse – National Chocolate Mousse Day in den USA“
+- **03.04. – Tag der Schokoladenmousse** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-schokoladenmousse
+- **03.04. – Welt-Murmel-Tag om Großbritanien** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welt-murmel-tag/ — „Welt-Murmel-Tag om Großbritanien – World Marbles Day am 3. April 2026“
+- **03.04. – Welt-Party-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welt-party-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-party-day/ — „Welt-Party-Tag – der internationale World Party Day – Party is the opposite of war“
+- **03.04. – Welttag der Wassertiere am 3. April** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-aquatic-animal-day/ — „Welttag der Wassertiere am 3. April – World Aquatic Animal Day 2026“
+- **04.04. – 404-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/404-day/ — „404-Tag – der US-amerikanische 404 Day am 4. April“
+- **04.04. – Erzähl-eine-Lüge-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/erzaehl-eine-luege-tag
+- **04.04. – Internationaler Tag des Feuerlaufens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-firewalk-day/ — „Internationaler Tag des Feuerlaufens – International Firewalk Day 2026“
+- **04.04. – Karsamstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/karsamstag
+- **04.04. – Tag der Karotte** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-karotte
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-karotte/ — „Internationaler Tag der Karotte – International Carrot Day“
+- **04.04. – Tag der Kissenschlacht** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-kissenschlacht
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-pillow-fight-day/ — „Internationaler Kissenschlacht-Tag – International Pillow Fight Day 2026“
+  - automatische Ähnlichkeit: 67 %
+- **04.04. – Tag der Ratte** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-ratte
+- **04.04. – Tag des Cordon Bleu** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-cordon-bleu/ — „Tag des Cordon Bleu – National Cordon Bleu Day in den Vereinigten Staaten“
+- **04.04. – Tag des Vitamin C** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-des-vitamin-c
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-vitamin-c/ — „Tag des Vitamin C – der US-amerikanische Vitamin C Day“
+- **04.04. – Tag für die Aufklärung über Minengefahr und die Unterstützung von Antiminenprogrammen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-fuer-die-aufklaerung-ueber-minengefahr-und-die-unterstuetzung-von-antiminenprogrammen
+- **04.04. – Weltschlagzeugertag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/weltschlagzeugertag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltschlagzeugertag/ — „Weltschlagzeugertag am 4. April – World Drummer’s Day 2026“
+- **05.04. – Lies-eine-Straßenkarte-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/lies-eine-strassenkarte-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/lies-eine-strassenkarte-tag/ — „Lies-eine-Straßenkarte-Tag – National Read a Road Map Day in den USA“
+- **05.04. – Ostersonntag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/ostersonntag
+- **05.04. – Qingming-Fest** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/qingming-fest
+- **05.04. – Setz-Alles-auf-eine-Karte-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/setz-alles-auf-eine-karte-tag
+- **05.04. – Tag der Geologen in Russland** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-geologen
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-geologen/ — „Tag der Geologen in Osteuropa – internationaler Geologist Day am 5. April 2026“
+  - automatische Ähnlichkeit: 75 %
+- **05.04. – Tag des Deutschen Brotes** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-deutschen-brotes/ — „Tag des Deutschen Brotes – bundesweiter Aktionstag am 5. Mai“
+- **05.04. – Tag des Ersten Kontakts** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/first-contact-day-star-trek/ — „Tag des Ersten Kontakts – der First Contact Day in Star Trek am 5. April 2063“
+- **05.04. – Tag des Karamells** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-karamells
+- **05.04. – Tag des Löwenzahns** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-loewenzahns/ — „Tag des Löwenzahns – National Dandelion Day in den Vereinigten Staaten“
+- **06.04. – Chakri-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/chakri-tag
+- **06.04. – Karamell-Popcorn-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/karamell-popcorn-tag
+- **06.04. – Ostermontag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/ostermontag
+- **06.04. – Tag der frischen Tomaten am 6. April** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-frischen-tomaten/ — „Tag der frischen Tomaten am 6. April – National Fresh Tomato Day in den USA“
+- **06.04. – Tag der Wackelaugen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-wackelaugen/ — „Tag der Wackelaugen – Intergalactic Googly Eye Day“
+- **06.04. – Tag des Sports für Entwicklung und Frieden** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-sports-fuer-entwicklung-und-frieden
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-sports-fuer-entwicklung-und-frieden/ — „Internationaler Tag des Sports für Entwicklung und Frieden am 6. April“
+- **06.04. – Tag des Teflons** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-teflons
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-teflon/ — „Tag des Teflons am 6. April – der US-amerikanische National Teflon Day“
+- **06.04. – Tartan Day zu Ehren der Declaration of Arbroath** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tartan-day-usa-kanada/ — „Tartan Day zu Ehren der Declaration of Arbroath in Kanada und den USA am 6. April“
+- **06.04. – Twinkie-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/twinkie-tag/ — „Twinkie-Tag – National Twinkie Day in den USA“
+- **06.04. – Welt-Olympiatag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/welt-olympiatag
+- **07.04. – Biertag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/biertag
+- **07.04. – Internationaler Tag der Biber am 7. April** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-biber/ — „Internationaler Tag der Biber am 7. April – der International Beaver Day 2026“
+- **07.04. – Keine-Hausarbeit-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/keine-hausarbeit-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/keine-hausarbeit-tag/ — „Keine-Hausarbeit-Tag – der US-amerikanische No Housework Day am 7. April“
+- **07.04. – Kuchen-zum-Kaffee-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/kuchen-zum-kaffee-tag/ — „Kuchen-zum-Kaffee-Tag – der National Coffee Cake Day in den Vereinigten Staaten“
+- **07.04. – Nationaler Tag des Bieres** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-beer-day-usa/ — „Nationaler Tag des Bieres in den USA – National Beer Day am 7. April“
+- **07.04. – Osterdienstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/osterdienstag
+- **07.04. – Tag des Bibers** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-bibers
+- **07.04. – Tag des Gedenkens an den Völkermord in Ruanda** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-des-genozid-in-ruanda
+- **07.04. – Weltgesundheitstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltgesundheitstag
+- **08.04. – Das japanische Blumenfest Hana Matsuri am 8. April** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/blumenfest-hana-matsuri-japan/
+- **08.04. – Das-gehört-uns-allen-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/das-gehoert-uns-allen-tag/ — „Das-gehört-uns-allen-Tag – National All Is Ours Day in den Vereinigten Staaten“
+- **08.04. – Der US-amerikanische Rex Manning Day am 8. April** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/rex-manning-day/
+- **08.04. – Tag der Roma** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-roma
+- **08.04. – Zeichne-einen-Vogel-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/zeichne-einen-vogel-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/draw-a-bird-day/ — „Zeichne-einen-Vogel-Tag in Großbritannien – Draw a Bird Day am 8. April“
+- **09.04. – Ehrentag der Antiquitäten** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ehrentag-der-antiquitaeten/ — „Ehrentag der Antiquitäten – der US-amerikanische National Cherish an Antique Day“
+- **09.04. – Gib-Dir-einen-Namen-Tag** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/gib-dir-einen-namen-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/waehle-dir-deinen-namen/ — „Wähle-Dir-Deinen-Namen-Tag – der US-amerikanische National Name Yourself Day“
+  - automatische Ähnlichkeit: 60 %
+- **09.04. – Gin-Tonic-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/gin-tonic-tag/ — „Gin-Tonic-Tag – National und International Gin and Tonic Day 2026“
+- **09.04. – National Winston Churchill Day am 9. April** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/winston-churchill-tag/ — „National Winston Churchill Day am 9. April – Winston-Churchill-Tag in den USA“
+- **09.04. – Tag der Finnischen Sprache** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-finnischen-sprache
+- **09.04. – Tag des Einhorns** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-einhorns/ — „Tag des Einhorns – der National und International Unicorn Day 2026“
+- **09.04. – Winston-Churchill-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/winston-churchill-tag
+- **10.04. – Ermutige-Kinder-zu-schreiben-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ermutige-kinder-zu-schreiben-tag/ — „Ermutige-Kinder-zu-schreiben-Tag – National Encourage a Young Writer Day in den USA“
+- **10.04. – Tag der Geschwister** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-geschwister
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-geschwister/ — „Tag der Geschwister – National Siblings Day in den Vereinigten Staaten“
+- **10.04. – Tag der Golfer** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-golfer
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-golfer/ — „Tag der Golfer am 10. April – National Golfers Day in den USA“
+- **10.04. – Tag der Nutztiere** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-nutztiere/ — „Tag der Nutztiere – der US-amerikanische National Farm Animals Day“
+- **10.04. – Tag der Sicherheitsnadel** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-sicherheitsnadel
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-sicherheitsnadel/ — „Internationaler Tag der Sicherheitsnadel – International Safety Pin Day“
+- **10.04. – Tag des Schweigens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-schweigens/ — „Tag des Schweigens in den USA – National Day of Silence am 10. April 2026“
+- **10.04. – Tag des Zimt-Croissants** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-zimt-croissants/ — „Tag des Zimt-Croissants – National Cinnamon Crescent Day in den USA“
+- **11.04. – Tag der 8-Spur-Kassette** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-8-spur-kassette
+- **11.04. – Tag der Freesien** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-freesien/ — „Tag der Freesien in Deutschland – 11. April“
+- **11.04. – Tag der Haustiere** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-haustiere
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-haustiere/ — „Tag der Haustiere – National Pet Day in den USA“
+- **11.04. – Tag des Käsefondues** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kaesefondue/ — „Tag des Käsefondues – National Cheese Fondue Day in den USA“
+- **11.04. – Unsichtbarkeitstag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/unsichtbarkeitstag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/unsichtbarkeitstag/ — „Unsichtbarkeitstag in Deutschland 2026“
+- **11.04. – Welt-Parkinson-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welt-parkinson-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welt-parkinson-tag/ — „Welt-Parkinson-Tag – World Parkinson‘s Day 2026“
+- **12.04. – Lakritztag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/lakritztag/ — „Lakritztag in Deutschland und der US-amerikanische National Licorice Day“
+- **12.04. – National D.E.A.R. Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/drop-everything-and-read-day/ — „National D.E.A.R. Day – der Drop Everything and Read Day in den USA“
+- **12.04. – National Redemption Day in Liberia** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/national-redemption-day
+- **12.04. – Tag der bemannten Raumfahrt** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-kosmonauten
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-bemannten-raumfahrt/ — „Internationaler Tag der bemannten Raumfahrt – UN International Day of Human Space Flight“
+- **12.04. – Tag der Einzelkinder** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-einzelkinder/ — „Tag der Einzelkinder – der US-amerikanische National Only Child Day am 12. April“
+- **12.04. – Tag der Lakritze** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/taglder-lakritze
+- **12.04. – Tag des gegrillten Käse-Sandwiches** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-gegrillten-kaese-sandwiches
+- **12.04. – Tag des starken Windes** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-starken-windes
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-big-wind-day/ — „Jahrestag des starken Windes – der US-amerikanische National Big Wind Day“
+- **12.04. – Weißer Sonntag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/weisser-sonntag
+- **12.04. – Welttag der Hamster** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-hamster/ — „Welttag der Hamster – World Hamster Day oder Hamster Day am 12. April“
+- **12.04. – Zeig-Deine-wilde-Seite-Tag am 12. April** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/walk-on-your-wild-side-day/ — „Zeig-Deine-wilde-Seite-Tag am 12. April – Walk on your Wild Side Day in den USA“
+- **13.04. – Ehrentag der Pflanze** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/ehrentag-der-pflanze
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-plant-appreciation-day/ — „Internationaler Ehrentag der Pflanze – International Plant Appreciation Day“
+- **13.04. – Mittagessen-ist-wichtig-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/mittagessen-ist-wichtig-tag/ — „Mittagessen-ist-wichtig-Tag – der National Make Lunch Count Day in den USA“
+- **13.04. – Scrabble-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/scrabble-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/scrabble-tag/ — „Scrabble-Tag zu Ehren von Alfred Mosher Butts – National Scrabble Day in den USA“
+- **14.04. – Black Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/black-day-suedkorea/ — „Black Day – der schwarze Tag in Südkorea“
+- **14.04. – Kuchen-und-Cunnilingus-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/kuchen-und-cunnilingus-tag
+- **14.04. – Momente-des-Lachens-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/momente-des-lachens-tag
+- **14.04. – Schau-in-den-Himmel-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/schau-in-den-himmel-tag/ — „Schau-in-den-Himmel-Tag – Look Up at the Sky Day in den Vereinigten Staaten“
+- **14.04. – Tag der Delfine** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-delfine/ — „Tag der Delfine – National Dolphin Day am 14. April und World Dolphin Day am 12. September“
+- **14.04. – Tag der Pekannuss** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-pekannuss
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-pekannuss/ — „Tag der Pekannuss – National Pecan Day in den USA“
+- **14.04. – Tag des Gärtnerns** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-gaertnerns/ — „Tag des Gärtnerns – National Gardening Day in den USA“
+- **14.04. – Tiburtiustag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tiburtiustag
+- **14.04. – Welttag der Quanten** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-quantum-day/ — „Welttag der Quanten – World Quantum Day 2026“
+- **15.04. – Alles-ist-scheiße-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/alles-ist-scheisse-tag/ — „Alles-ist-scheiße-Tag – National That Sucks Day in den USA“
+- **15.04. – Kuckuckstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/kuckuckstag
+- **15.04. – Mecker-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/mecker-tag/ — „Mecker-Tag – der National Griper`s Day in den Vereinigten Staaten“
+- **15.04. – Tag der Banane** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/banana-day-usa/ — „Tag der Banane in den USA – Banana Day am 15. April 2026“
+- **15.04. – Tag der Kunst** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/art-day/ — „Tag der Kunst – der internationale World Art Day“
+- **15.04. – Tag des Radiergummis** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-radiergummis
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-radiergummis/ — „Tag des Radiergummis – National Rubber Eraser Day in den USA“
+- **15.04. – Titanic-Gedenktag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/titanic-gedenktag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/titanic-gedenktag/ — „Titanic-Gedenktag – Jahrestag des Untergangs der RMS Titanic 1912“
+- **16.04. – Eier-Benedict-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/eier-benedict-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/eggs-benedict-tag/ — „Eier-Benedict-Tag – National Eggs Benedict Day in den USA“
+- **16.04. – Gib-mir-Fünf-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-high-five-day-usa/ — „Gib-mir-Fünf-Tag in den USA – National High Five Day am 16. April 2026“
+- **16.04. – High-Five-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/high-five-tag
+- **16.04. – Holocaust-Gedenktag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/frankreich-ungarn-holocaust-gedenktag
+- **16.04. – Komm-im-Schlafanzug-zur-Arbeit-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/komm-im-schlafanzug-zur-arbeit-tag/ — „Komm-im-Schlafanzug-zur-Arbeit-Tag – National Wear Pajamas to Work Day in den USA“
+- **16.04. – Tag der Orchidee am 16. April** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-orchid-day/ — „Tag der Orchidee am 16. April – National Orchid Day in den Vereinigten Staaten“
+- **16.04. – Tag der Stimme** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/world-voice-day
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-voice-day/ — „Internationaler Tag der Stimme – World Voice Day (WVD)“
+- **16.04. – Tag des Leipziger Auwaldes** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-des-leipziger-auwaldes
+- **16.04. – World Semicolon Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-semicolon-day/ — „World Semicolon Day – der internationale Welttag des Semikolons am 16. April“
+- **17.04. – Bla-Bla-Bla-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/bla-bla-bla-tag
+- **17.04. – BlaBlabBla-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/blablabbla-tag/ — „BlaBlabBla-Tag – der US-amerikanische Blah, Blah, Blah Day am 17. April“
+- **17.04. – Ehrentag der Fledermaus** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ehrentag-der-fledermaus-usa/ — „Ehrentag der Fledermaus – National Bat Appreciation Day in den USA“
+- **17.04. – Ford-Mustang-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/ford-mustang-tag
+- **17.04. – Tag der Hämophilie** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welthaemophilietag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-haemophilie/ — „Welttag der Hämophilie am 17. April – der internationale World Hemophilia Day 2026“
+- **17.04. – Tag der Jugendinformation** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-jugendinformation
+- **17.04. – Tag der Rückkehr der Apollo 13** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-rueckkehr-der-apollo-13
+- **17.04. – Unabhängigkeitstag in Syrien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/syrien-unabhaengigkeitstag
+- **17.04. – Welttag des Malbec am 17. April** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/malbec-world-day/ — „Welttag des Malbec am 17. April – der internationale Malbec World Day 2026“
+- **17.04. – World Public Transport Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-public-transport-day/ — „World Public Transport Day – Welttag der öffentlichen Verkehrsmittel 2026“
+- **18.04. – Internationaler Denkmaltag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-denkmaltag/ — „Internationaler Denkmaltag – International Day for Monuments and Sites“
+- **18.04. – Tag der Jongleure** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-jongleure
+- **18.04. – Tag der Kolumnisten** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-kolumnisten
+- **18.04. – Tag der Tier-Kekse am 18. April** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-animal-crackers-day-usa/ — „Tag der Tier-Kekse am 18. April – National Animal Crackers Day in den USA“
+- **18.04. – Tag der Zeitungskolumnisten** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-zeitungskolumnisten/ — „Tag der Zeitungskolumnisten – der US-amerikanische National Columnists‘ Day“
+- **18.04. – Tag des Denkmals** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/denkmaltag
+- **18.04. – Tag des Jonglierens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-jonglierens/ — „Tag des Jonglierens – International Jugglers Day und World Juggling Day“
+- **18.04. – Tag des Plattenladens** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-plattenladens
+- **18.04. – Tag des Velociraptors** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-velociraptors/ — „Tag des Velociraptors – National Velociraptor Awareness Day in den USA“
+- **18.04. – Unabhängigkeitstag in Simbabwe** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/simbabwe-unabhaengigkeitstag
+- **18.04. – Weltamateurfunktag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltamateurfunktag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltamateurfunktag/ — „Weltamateurfunktag – der internationale World Amateur Radio Day“
+- **19.04. – Bicycle Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/bicycle-day/ — „Bicycle Day – Albert Hofmann unternimmt am 19. April eine Radtour auf LSD“
+- **19.04. – Fahrradtag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/fahrradtag
+- **19.04. – Knoblauch-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-knoblauchs/ — „Knoblauch-Tag – National Garlic Day und Garlic Lovers Day in den USA“
+- **19.04. – Tag der Primel** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/primeltag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/primrose-day/ — „Primel-Tag in Großbritannien – Primrose Day zu Ehren von Benjamin Disraeli“
+  - automatische Ähnlichkeit: 100 %
+- **19.04. – Tag des Knoblauchs** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/knoblauchtag
+- **19.04. – Tag des Wäscheaufhängens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-waescheaufhaengens/ — „Tag des Wäscheaufhängens – National Hanging Out Day in den Vereinigten Staaten“
+- **20.04. – 420** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/420/ — „420 – der internationale Cannabis-Tag oder US-amerikanische Pot Smokers Day“
+- **20.04. – 420-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/420-tag
+- **20.04. – Gedenktag der Columbineopfer** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/gedenktag-der-columbineopfer
+- **20.04. – Tag der Anerkennung von Freiwilligen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-anerkennung-von-freiwilligen
+- **20.04. – Tag der Cheddar Fries am 20. April** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-cheddar-fries-day/ — „Tag der Cheddar Fries am 20. April – National Cheddar Fries Day in den USA“
+- **20.04. – Tag der chinesischen Sprache** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-chinesischen-sprache
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-chinesischen-sprache/ — „Tag der chinesischen Sprache – UNESCO Chinese Language Day am 20. April“
+- **20.04. – Tag der Doppelgänger** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-doppelgaenger/ — „Tag der Doppelgänger – National Look Alike Day in den Vereinigten Staaten“
+- **21.04. – Kindergarten-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/kindergarten-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/kindergarten-tag/ — „Kindergarten-Tag – National Kindergarten Day in den USA“
+- **21.04. – Natale di Roma** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/natale-di-roma
+- **21.04. – Nationaler Tag des Tees** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/british-national-tea-day/ — „Nationaler Tag des Tees in Großbritannien – der British National Tea Day“
+- **21.04. – Rasen-betreten-verboten-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/rasen-betreten-verboten-tag/ — „Rasen-betreten-verboten-Tag – Keep off the Grass Day in den Vereinigten Staaten“
+- **21.04. – Tag der Kreativität und Innovation** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-kreativitaet-und-innovation
+- **21.04. – Tag der langen Wörter am 21. April** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-langen-woerter-und-begriffe/ — „Tag der langen Wörter am 21. April – der US-amerikanische Big Word Day“
+- **21.04. – Tag des berühmtesten Nessie-Fotos am 21. April** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-beruehmtesten-nessie-fotos/
+- **22.04. – Tag der Aprilschauer** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-aprilschauer/ — „Tag der Aprilschauer – der US-amerikanische April Showers Day am 22. April“
+- **22.04. – Tag der Erde** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-erde
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-erde-earth-day/ — „Tag der Erde – Earth Day oder der International Mother Earth Day 2026“
+- **22.04. – Tag der Geleebohne** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-geleebohne
+- **22.04. – Tag der Jelly Beans** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-jelly-beans/ — „Tag der Jelly Beans – National Jelly Bean Day in den Vereinigten Staaten“
+- **23.04. – Boys'Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/boys-day
+- **23.04. – Girls'Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/girls-day
+- **23.04. – Internationaler Ramones-Tag am 23. April** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-ramones-day/ — „Internationaler Ramones-Tag am 23. April – International Ramones Day“
+- **23.04. – Internationaler Tag der Pallaskatze am 23. April** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-pallas-cat-day/ — „Internationaler Tag der Pallaskatze am 23. April – International Pallas’s Cat Day“
+- **23.04. – Internationaler Tag des Nasenbohrens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-nasenbohrens/ — „Internationaler Tag des Nasenbohrens – International Nose Picking Day“
+- **23.04. – Kinderspartag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/kinderspartag-usa/ — „Kinderspartag in den USA – National Teach Your Children to Save Day 2026“
+- **23.04. – Tag der englischen Sprache** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-englischen-sprache
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-englischen-sprache/ — „Tag der englischen Sprache – der internationale UN English Language Day“
+- **23.04. – Tag des Deutschen Bieres** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-deutschen-bieres
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-deutschen-bieres/ — „Tag des Deutschen Bieres – Ein Feiertag zu Ehren des Reinheitsgebots 2026“
+- **23.04. – Tag des Kirsch-Käsekuchens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kirsch-kaesekuchen/ — „Tag des Kirsch-Käsekuchens – der US-amerikanische National Cherry Cheesecake Day“
+- **23.04. – Talk Like Shakespeare Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/talk-like-shakespeare-day/ — „Talk Like Shakespeare Day – Sprich-wie-Shakespeare-Tag“
+- **23.04. – Vespa-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/vespa-tag/ — „Vespa-Tag – Piaggio lässt am 23. April 1946 die Vespa patentieren“
+- **23.04. – Welttag des Buches** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-des-buches-und-des-urheberrechts
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltbuchtag/ — „Welttag des Buches und des Urheberrechts am 23. April – Weltbuchtag 2026“
+- **23.04. – Welttag des Labors** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-des-labors
+- **23.04. – Welttischtennistag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttischtennistag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttischtennistag/ — „Welttischtennistag – der internationale World Table Tennis Day am 23. April“
+- **23.04. – World Book Night in UK, Irland und den USA am 23. April** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-book-night/
+- **24.04. – Der internationale Fashion Revolution Day am 24. April 2026 #whomademyclothes** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/fashion-revolution-day/
+- **24.04. – Gedenktag für die Opfer des türkischen Völkermords an den Armeniern** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/gedenktag-fuer-die-opfer-des-tuerkischen-volkermords-an-den-armeniern-von-1915
+- **24.04. – Internationaler Tag der Streuobstwiese in Europa** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-streuobstwiese/ — „Internationaler Tag der Streuobstwiese in Europa – 24. April 2026“
+- **24.04. – Tag des Versuchstieres** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-versuchstieres
+- **24.04. – Würstchen-im-Schlafrock-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/wuerstchen-im-schlafrock-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/wuerstchen-im-schlafrock-tag/ — „Würstchen-im-Schlafrock-Tag – der US-amerikanische National Pigs-In-A-Blanket Day“
+- **25.04. – ANZAC Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/anzac-day
+- **25.04. – Flaggentag in Färöer** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/flaggentag
+- **25.04. – Internationaler Tag der Skulptur** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-sculpture-day/ — „Internationaler Tag der Skulptur – International Sculpture Day am 25. April 2026“
+- **25.04. – Internationaler Tag der Tierärzte** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-veterinary-day/ — „Internationaler Tag der Tierärzte – der World Veterinary Day am 25. April 2026“
+- **25.04. – Tag der Astronomie** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/astronomy-day/ — „Tag der Astronomie in den USA – National Astronomy Day am 25. April und 19. September 2026“
+- **25.04. – Tag der Befreiung in Italien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/italien-tag-der-befreiung
+- **25.04. – Tag der DNA** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-dna
+- **25.04. – Tag der Eltern-Kind-Entfremdung** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-eltern-kind-entfremdung
+- **25.04. – Tag der Freiheit in Portugal** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-freiheit
+- **25.04. – Tag der Pinguine** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/internationaler-tag-der-pinguine
+- **25.04. – Tag des Baumes** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-baumes
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-baumes-in-deutschland/ — „Der bundesweite Tag des Baumes in Deutschland 2026“
+- **25.04. – Tag des Telefons** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-telefons/ — „Tag des Telefons – National Telephone Day in den USA“
+- **25.04. – Welt-Pinguin-Tag am 25. April** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welt-pinguin-tag/ — „Welt-Pinguin-Tag am 25. April – der internationale World Penguin Day 2026“
+- **25.04. – Weltmalariatag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltmalariatag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltmalariatag/ — „Weltmalariatag – World Malaria Day – internationaler Aktionstag am 25. April 2026“
+- **26.04. – Alien-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/alien-tag
+- **26.04. – Erinnere-Dich-an-Deinen-ersten-Kuss-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/erinnere-dich-an-deinen-ersten-kuss-tag/ — „Erinnere-Dich-an-Deinen-ersten-Kuss-Tag – Remember Your First Kiss Day in den USA“
+- **26.04. – Internationaler Tag der Flamingos** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-flamingos/ — „Internationaler Tag der Flamingos – International Flamingo Day – 26. April“
+- **26.04. – Jahrestag der Katastrophe von Tschernobyl** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/jahrestag-der-katastrophe-von-tschernobyl
+- **26.04. – Tag der Brezel** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-brezel
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-brezel/ — „Tag der Brezel – National Pretzel Day und Eat a Pretzel Day in den USA“
+- **26.04. – Tag der Lochkamera-Fotographie** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-lochkamera-fotographie
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-lochkamera-fotografie/ — „Tag der Lochkamera-Fotografie – Worldwide Pinhole Photography Day 2026“
+  - automatische Ähnlichkeit: 67 %
+- **26.04. – Tag der Richterskala** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-richterskala
+- **26.04. – Umarme-einen-Australier-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/umarme-einen-australier-tag/ — „Umarme-einen-Australier-Tag – der US-amerikanische Hug an Australian Day“
+- **26.04. – Unionstag in Tansania** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/unionstag-tansania
+- **26.04. – Welttag der Partnerstädte** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-der-partnerstaedte
+- **26.04. – Welttag des geistigen Eigentums** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-des-geistigen-eigentums
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-des-geistigen-eigentums/ — „Welttag des geistigen Eigentums – World Intellectual Property Day 2026“
+- **26.04. – Welttag für die Berufungen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-fuer-die-berufungen
+- **27.04. – Ehrentag der Raben und Krähen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ehrentag-der-raben-und-kraehen/ — „Ehrentag der Raben und Krähen – International Crow and Raven Appreciation Day“
+- **27.04. – Königstag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/koenigstag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/koenigstag-koningsdag-niederlande/ — „Königstag – Koningsdag in den Niederlanden 2026“
+- **27.04. – Tag der Freiheit in Südafrika** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/suedafrika-tag-der-verfassung
+- **27.04. – Tag der Gummibärchen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-gummibaerchen/ — „Tag der Gummibärchen – National Gummi Bear Day in den USA“
+- **27.04. – Tag der Hochrippe** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-hochrippe/ — „Tag der Hochrippe – National Prime Rib Day in den USA“
+- **27.04. – Tag der Morsezeichen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-morsezeichen
+- **27.04. – Tag der Schreibwaren** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-schreibwaren
+- **27.04. – Tag des Morsecodes** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-morsecode/ — „Tag des Morsecodes – National Morse Code Day in den USA“
+- **27.04. – Tag des Nationalaufstands in Slowenien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-nationalaufstands
+- **27.04. – Unabhängigkeitstag in Togo** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/togo-unabhaengigkeitstag
+- **27.04. – Welt-Grafiker-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welt-grafiker-tag
+- **27.04. – Weltdesigntag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltdesigntag/ — „Weltdesigntag – der internationale World Design Day 2026“
+- **27.04. – Welttag der Möwen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-moewen/ — „Welttag der Möwen – World Seagull Day am 27. April“
+- **27.04. – Welttag des Designs** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-des-designs
+- **28.04. – Rettet-die-Frösche-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/save-the-frogs-day/ — „Rettet-die-Frösche-Tag – der internationale Save The Frogs Day 2026“
+- **28.04. – Tag der Cracker** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-cracker/ — „Tag der Cracker – der US-amerikanische National Cracker Day am 28. April“
+- **28.04. – Tag der Superhelden** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-superhelden
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-superhelden/ — „Tag der Superhelden am 29. April – National Superhero Day in den Vereinigten Staaten“
+- **28.04. – Tag des Blaubeerkuchens** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-blaubeerkuchens
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-blaubeerkuchen/ — „Tag des Blaubeerkuchens am 28. April – National Blueberry Pie Day in den USA“
+- **28.04. – Welttag für Sicherheit und Gesundheit am Arbeitsplatz** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-fuer-sicherheit-und-gesundheit-am-arbeitsplatz
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-fuer-sicherheit-und-gesundheit-am-arbeitsplatz/ — „Der internationale Welttag für Sicherheit und Gesundheit am Arbeitsplatz 2026“
+- **29.04. – Gedenktag für die Opfer chemischer Waffen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/gedenktag-fuer-die-opfer-chemischer-waffen
+- **29.04. – Shōwa-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/showa-tag
+- **29.04. – Tag der Gloria Dei am 29. April** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-gloria-dei/ — „Tag der Gloria Dei am 29. April – National Peace Rose Day in den USA“
+- **29.04. – Tag der Immunologie** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-immunologie
+- **29.04. – Tag der Sekretärinnen und Sekretäre** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-sekretaerinnen-und-sekretaere
+- **29.04. – Tag des Reißverschlusses** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-reissverschlusses
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-reissverschlusses/ — „Tag des Reißverschlusses am 29. April – National Zipper Day in den USA“
+- **29.04. – Tag des Wunsches** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-wunsches
+- **29.04. – Tag gegen Lärm** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-gegen-laerm
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-gegen-laerm/ — „Tag gegen Lärm – International Noise Awareness Day am 29. April 2026“
+- **29.04. – Welttag des Tanzes** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-des-tanzes
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-des-tanzes/ — „Welttag des Tanzes am 29. April – der UNESCO International Dance Day 2026“
+- **30.04. – Der bundesweite Tag des Wolfes** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-wolfes/ — „Der bundesweite Tag des Wolfes – Aktionstag in Deutschland am 30. April“
+- **30.04. – Grounding Page kuriose-feiertage** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/grounding/kuriose-feiertage-grounding.html
+- **30.04. – Grounding Page Sven Giese** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/grounding/sven-giese.html
+- **30.04. – Koninginnedag in den Niederlanden** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/koninginnedag-der-niederlaendische-koeniginnentag/ — „Koninginnedag in den Niederlanden – der letzte Königinnentag 2013“
+- **30.04. – Poem in your Pocket Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/poem-in-your-pocket-day/ — „Poem in your Pocket Day in den Vereinigten Staaten – 30. April 2026“
+- **30.04. – Tag der Ehrlichkeit** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-ehrlichkeit
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-ehrlichkeit/ — „Tag der Ehrlichkeit – der National Honesty Day in den Vereinigten Staaten“
+- **30.04. – Tag der Haferflockenkekse** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-haferflockenkekse/ — „Tag der Haferflockenkekse – National Oatmeal Cookie Day in den USA“
+- **30.04. – Tag der Rosine** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-rosine/ — „Tag der Rosine – der US-amerikanische National Raisin Day am 30. April“
+- **30.04. – Tag der Vereinigung in Vietnam** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-vereinigung
+- **30.04. – Tag des Jazz** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-jazz
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-des-jazz/ — „Welttag des Jazz am 30. April – UNESCO International Jazz Day 2026“
+- **30.04. – Tag des Tierarztes** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-tierarztes
+- **30.04. – Tag für gewaltfreie Erziehung** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-fuer-gewaltfreie-erziehung
+- **30.04. – Tanz in den Mai** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tanz-in-den-mai
+- **30.04. – Walpurgisnacht** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/walpurgisnacht
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/walpurgisnacht/ — „Walpurgisnacht am 30. April – Hexenbrennen in der Nacht zum 1. Mai“
+## Mai
+
+- **01.05. – Erster Mai** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/erster-mai
+- **01.05. – International Sunflower Guerrilla Gardening Day 2026** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-sunflower-guerrilla-gardening-day/
+- **01.05. – Mutter-Gans-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/mutter-gans-tag/ — „Mutter-Gans-Tag – National Mother Goose Day in den USA“
+- **01.05. – Ohne-Hose-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/ohne-hose-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ohne-hose-tag/ — „Ohne-Hose-Tag – der internationale No Pants Day am 1. Mai 2026“
+- **01.05. – Staatsfeiertag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/staatsfeiertag
+- **01.05. – Tag der Museumsbahnen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-museumsbahnen/ — „Tag der Museumsbahnen in Deutschland“
+- **01.05. – Tag der Tuba** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-tuba
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-tuba/ — „Internationaler Tag der Tuba – der International Tuba Day am 1. Mai 2026“
+- **01.05. – Tag des Batman-Debüts** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-batman-debuets/ — „Tag des Batman-Debüts – der US-amerikanische Batman Day“
+- **01.05. – Tag des Lei** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-lei
+- **01.05. – Tag des Lei auf Hawaii** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-lei-auf-hawaii/ — „Tag des Lei auf Hawaii – der hawaiianische Lei Day“
+- **01.05. – Unabhängigkeitstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/marshallinseln-unabhaengigkeitstag
+- **01.05. – Vappu** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/vappu-das-finnische-fruehlingsfest/ — „Vappu – das finnische Frühlingsfest zum 1. Mai“
+- **01.05. – Visakha Puja** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/visakha-puja
+- **01.05. – Weltraumtag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltraumtag
+- **02.05. – Baby-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/baby-tag/ — „Baby-Tag – der US-amerikanische National Baby Day“
+- **02.05. – Der internationale Blue Switch Day am 2. Mai** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/blue-switch-day/
+- **02.05. – Flaggentag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/polen-flaggentag
+- **02.05. – Harry-Potter-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/harry-potter-tag
+- **02.05. – Kampf- und Feiertag der Arbeitslosen** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/kampf-und-feiertag-der-arbeitslosen
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-kampf-und-feiertag-der-arbeitslosen/ — „Internationaler Kampf- und Feiertag der Arbeitslosen 2026“
+- **02.05. – Remembrance & Resistance Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/remembrance-und-resistance-tag
+- **02.05. – Stadtfeiertag von Madrid** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/stadtfeiertag-von-madrid
+- **02.05. – Tag der Kräuter** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-kraeuter/ — „Tag der Kräuter in den USA – National Herb Day am 2. Mai 2026“
+- **02.05. – Tag der Trüffelpraline** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-trueffelpraline/ — „Tag der Trüffelpraline – National Truffle Day in den USA“
+- **02.05. – Tag des Babys** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-babys
+- **02.05. – Tag des Drohnenflugs** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-drohnenflugs/ — „Tag des Drohnenflugs – International Drone Day 2026“
+- **02.05. – Welt-Nackt-Gärtnern-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welt-nackt-gaertnern-tag
+- **02.05. – Weltfischbrötchentag in Schleswig-Holstein** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltfischbroetchentag/ — „Weltfischbrötchentag in Schleswig-Holstein – 2. Mai 2026“
+- **02.05. – Welttag des Thunfischs** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-des-thunfischs/ — „Welttag des Thunfischs – World Tuna Day 2026“
+- **03.05. – Internationaler Tag des Waldkindergartens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-waldkindergartens/ — „Internationaler Tag des Waldkindergartens – Global Day of Forest Kindergarten“
+- **03.05. – Meditiere-im-Garten-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/meditiere-im-garten-tag
+- **03.05. – Tag der Nachkriegsverfassung in Japan** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-nachkriegsverfassung
+- **03.05. – Tag der Pressefreiheit** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-pressefreiheit
+- **03.05. – Tag der Sonne** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-sonne
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-sonne/ — „Der internationale Tag der Sonne – International Sun Day 2026“
+- **03.05. – Tag der Teppichfalte** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-teppichfalte/ — „Tag der Teppichfalte – der US-amerikanische Lumpy Rug Day am 3. Mai“
+- **03.05. – Tag der Verfassung in Polen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/polen-tag-der-verfassung
+- **03.05. – Tag des Übersinnlichen** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-uebersinnlichen
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-uebersinnlichen/ — „Tag des Übersinnlichen – National Paranormal Day in den Vereinigten Staaten“
+- **03.05. – Trag-zwei-verschiedenfarbige-Schuhe-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/trag-zwei-verschiedenfarbige-schuhe-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/trag-zwei-verschiedenfarbige-schuhe-tag/ — „Trag-zwei-verschiedenfarbige-Schuhe-Tag – National Two Different Colored Shoes Day“
+- **03.05. – Welt-Apfelwein-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welt-apfelwein-tag/ — „Welt-Apfelwein-Tag – World Cider Day am 3. Juni“
+- **03.05. – Weltlachtag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltlachtag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltlachtag/ — „Weltlachtag – World Laughter Day am 3. Mai 2026“
+- **04.05. – Dodenherdenking** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/nationales-totengedenken
+- **04.05. – Star-Wars-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/star-wars-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/star-wars-day/ — „Star-Wars-Tag oder: Star Wars Day – May the 4th be with you am 4. Mai“
+- **04.05. – Tag der Feuerwehrleute** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-feuerwehrleute
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-feuerwehrleute/ — „Internationaler Tag der Feuerwehrleute – International Firefighters‘ Day“
+- **04.05. – Tag der Gyoza** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-gyoza/ — „Tag der Gyoza in Deutschland am 4. Mai“
+- **04.05. – Tag des Grüns** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/gruener-tag
+- **04.05. – Tag des Orangensafts am 4. Mai** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-orangensaft/ — „Tag des Orangensafts am 4. Mai – National Orange Juice Day in den USA“
+- **05.05. – Astronauten-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/astronauten-tag-usa/ — „Astronauten-Tag – National Astronaut Day in den USA“
+- **05.05. – Cartoonisten-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/cartoonisten-tag-usa/ — „Cartoonisten-Tag – National Cartoonists Day in den USA“
+- **05.05. – Cinco de mayo** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/cinco-de-mayo
+- **05.05. – Europäischer Protesttag zur Gleichstellung von Menschen mit Behinderung** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/europaeischer-protesttag-zur-gleichstellung-von-menschen-mit-behinderung
+- **05.05. – Europatag des Europarates** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/europatag-des-europarates
+- **05.05. – Gedenktag gegen Gewalt und Rassismus im Gedenken an die Opfer des Nationalsozialismus** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/gedenktag-gegen-gewalt-und-rassismus-im-gedenken-an-die-opfer-des-nationalsozialismus
+- **05.05. – Hebammentag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/hebammentag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-hebammentag/ — „Internationaler Hebammentag – der International Midwives‘ Day am 5. Mai“
+- **05.05. – Krönungstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/kronungstag
+- **05.05. – National Teacher Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-amerikanischen-lehrer/ — „National Teacher Day – Tag der US-amerikanischen Lehrer 2026“
+- **05.05. – Tag der Befreiung** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/daenemark-niederlande-tag-der-befreiung
+- **05.05. – Tag der Handhygiene** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-haendehygiene
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-handhygiene/ — „Internationaler Tag der Handhygiene – Save Lives: Clean Your Hands“
+- **05.05. – Tag der Kissenpoesie** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-kissenpoesie/ — „Tag der Kissenpoesie in den USA – Poem on Your Pillow Day 2026“
+- **05.05. – Tag des belegten Baguettes** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-belegten-baguettes/ — „Tag des belegten Baguettes – National (Eat a) Hoagie Day in den Vereinigten Staaten“
+- **05.05. – Tag des Bilderrahmens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-bilderrahmens/ — „Tag des Bilderrahmens – International Picture Frame Day“
+- **05.05. – Tag des Deutschen Brotes** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-deutschen-brotes/ — „Tag des Deutschen Brotes – bundesweiter Aktionstag am 5. Mai“
+- **05.05. – Tag des herzkranken Kindes** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-herzkranken-kindes
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-herzkranken-kindes/ — „Tag des herzkranken Kindes – bundesweiter Aktionstag in Deutschland am 5. Mai“
+- **05.05. – Welt-Asthma-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welt-asthma-tag
+- **06.05. – Anti-Diät-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/anti-diaet-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-no-diet-day/ — „Internationaler Anti-Diät-Tag am 6. Mai – der International No Diet Day 2026“
+- **06.05. – Der internationale Weltkindermaltag am 6. Mai** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltkindermaltag/
+- **06.05. – Keine-Hausaufgaben-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/keine-hausaufgaben-tag/ — „Keine-Hausaufgaben-Tag – No Homework Day in den USA“
+- **06.05. – Tag der Getränke** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-getraenke/ — „Tag der Getränke – National Beverage Day in den USA“
+- **06.05. – World Accordion Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-akkordeons/ — „World Accordion Day – Internationaler Tag des Akkordeons am 6. Mai“
+- **07.05. – National Day of Prayer** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/national-day-of-prayer
+- **07.05. – Tag der Vernunft** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-day-of-reason-usa/ — „Tag der Vernunft in den USA – National Day of Reason am 7. Mai 2026“
+- **07.05. – Tag des Cosmopolitans** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-cosmopolitans
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-cosmopolitans/ — „Tag des Cosmopolitans – National Cosmopolitan Day in den USA“
+- **07.05. – Tag des Radios in Russland** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-des-radios-in-russland
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-radios-in-russland/ — „Tag des Radios und Tag der Kommunikationsarbeiter in Russland“
+  - automatische Ähnlichkeit: 67 %
+- **07.05. – Tag des Verpackungsdesigns** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-verpackungsdesigns/ — „Tag des Verpackungsdesigns – National Packaging Design Day in den USA“
+- **07.05. – Welt-Passwort-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welt-passwort-tag
+- **08.05. – Ohne-Socken-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/ohne-socken-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ohne-socken-tag/ — „Ohne-Socken-Tag – der US-amerikanische No Socks Day“
+- **08.05. – Tag der Befreiung** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/international-tag-der-befreiung
+- **08.05. – Tag der Eltern in Südkorea** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-eltern-suedkorea/ — „Tag der Eltern in Südkorea – der koreanische Parent’s Day“
+- **08.05. – Tag der öffentlichen Parks und botanischen Gärten** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-public-gardens-day-usa/ — „Tag der öffentlichen Parks und botanischen Gärten – National Public Gardens Day USA 2026“
+- **08.05. – Tag der Schwertlilie am 8. Mai** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-schwertlilie/ — „Tag der Schwertlilie am 8. Mai – National Iris Day in den Vereinigten Staaten“
+- **08.05. – Trink-eine-Cola-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/trink-eine-cola-tag/ — „Trink-eine-Cola-Tag – National Have a Coke Day in den USA“
+- **08.05. – Verschenke-einen-Cupcake-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/verschenke-einen-cupcake-tag/ — „Verschenke-einen-Cupcake-Tag – National Give Someone a Cupcake Day in den USA“
+- **08.05. – Weltrotkreuztag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltrotkreuztag
+- **08.05. – Welttag der Esel** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-esel/ — „Welttag der Esel – der internationale World Donkey Day am 8. Mai“
+- **09.05. – Der bundesweite Deutsche Sekttag am 9. Mai 2026** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/deutscher-sekttag/
+- **09.05. – Eine-Nacht-Durchmachen-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/eine-nacht-durchmachen-tag/ — „Eine-Nacht-Durchmachen-Tag in den USA – Stay Up All Night Day 2026“
+- **09.05. – Eisenbahn-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-train-day/ — „Eisenbahn-Tag in den Vereinigten Staaten – der National Train Day am 9. Mai 2026“
+- **09.05. – Europatag der Europäischen Union** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/europatag-der-europaeischen-union
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/europatag/ — „Europatag der Europäischen Union – Europe Day 2026“
+- **09.05. – Foodie-Tag am 9. Mai** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/foodie-tag/ — „Foodie-Tag am 9. Mai – National Foodies Day in den Vereinigten Staaten“
+- **09.05. – Gratis-Comic-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/gratis-comic-tag
+- **09.05. – International Chameleon Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-chamaeleons/ — „International Chameleon Day – Internationaler Tag des Chamäleons – 9. Mai“
+- **09.05. – Minigolf-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/minigolf-tag-usa/ — „Minigolf-Tag in den USA – National Miniature Golf Day am 9. Mai 2026“
+- **09.05. – Tag der verlorenen Socke** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-verlorenen-socke
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-verlorenen-socke/ — „Tag der verlorenen Socke – internationaler Lost Socks Memorial Day“
+- **09.05. – Tag des Fairen Handels** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-fairen-handels
+- **09.05. – Tag des Orgasmus** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-orgasmus
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-orgasmus/ — „Tag des Orgasmus – der brasilianische Día del Orgasmo am 9. Mai“
+- **09.05. – Tag des Sieges in Russland** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-des-sieges
+- **09.05. – Welttag des Bonsai** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-bonsai-day/ — „Welttag des Bonsai – World Bonsai Day am 9. Mai 2026“
+- **09.05. – Weltzugvogeltag im Mai und Oktober** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltzugvogeltag/ — „Weltzugvogeltag im Mai und Oktober – World Migratory Bird Day 2026“
+- **10.05. – International Monty Python Status Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-monty-python-status-day/ — „International Monty Python Status Day – Monty-Python-Status-Tag am 10. Mai“
+- **10.05. – Internationaler Tag des Kaktus** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-kaktus/ — „Internationaler Tag des Kaktus – World oder National Cactus Day in den USA am 10. Mai“
+- **10.05. – Mother Ocean Day 2026** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/mother-ocean-day/ — „Mother Ocean Day 2026 – internationaler Mutter-Ozean-Tag am 10. Mai“
+- **10.05. – Muttertag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/muttertag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/muttertag/ — „Muttertag in Deutschland am zweiten Sonntag im Mai – 10. Mai 2026“
+- **10.05. – Ohne-Schuhe-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/ohne-schuhe-tag
+- **10.05. – One Day Without Shoes Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/one-day-without-shoes-day-2015/ — „One Day Without Shoes Day – 10. Mai 2025“
+- **10.05. – Räum-Dein-Zimmer-auf-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/raeum-dein-zimmer-auf-tag/ — „Räum-Dein-Zimmer-auf-Tag – Clean Up Your Room Day in den USA“
+- **10.05. – Tag der Windmühle** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-windmuehle-usa/ — „Tag der Windmühle – der US-amerikanische National Windmill Day am 10. Mai“
+- **10.05. – Tag des (freien) Buches** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-des-freien-buches
+- **10.05. – Tag gegen den Schlaganfall** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-gegen-den-schlaganfall
+- **10.05. – Welt-Lupus-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welt-lupus-tag
+- **10.05. – Weltzugvogeltag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltzugvogeltag
+- **11.05. – Beginn der Eisheiligen am 11. Mai 2026** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/eisheilige/
+- **11.05. – Chokladbollens dag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/chokladbollens-dag-schweden/ — „Chokladbollens dag – Tag der Schokoladenbällchen in Schweden“
+- **11.05. – Eisheilige - Mamertus** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/eisheilige-mamertus
+- **11.05. – Iss-was-du-willst-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/iss-was-du-willst-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/iss-was-du-willst-tag/ — „Iss-was-Du-willst-Tag – Eat What You Want Day in den USA“
+- **11.05. – Tag der gleichfarbigen Socken** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-gleichfarbigen-socken/ — „Tag der gleichfarbigen Socken in Deutschland – 11. Mai“
+- **11.05. – Tag der Kinderbetreuung** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-kinderbetreuung
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-kinderbetreuung/ — „Tag der Kinderbetreuung in Deutschland – 11. Mai 2026“
+- **11.05. – Tag der Twilight Zone** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-twilight-zone/ — „Tag der Twilight Zone – National Twilight Zone Day in den USA“
+- **12.05. – Eisheilige - Pankratius** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/eisheilige-pankratius
+- **12.05. – Internationaler Tag der Multiplen Chemikalien-Sensitivität 2026** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-mcs/
+- **12.05. – Tag der Gurke** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-gurke-uk/ — „Tag der Gurke – National Cucumber Day in Großbritannien“
+- **12.05. – Tag der Pflege** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-pflege
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-pflege/ — „Internationaler Tag der Pflegenden – International Nurses Day 2026“
+- **12.05. – Tag des Chronischen Erschöpfungssyndroms** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-chronischen-erschopfungssyndroms
+- **12.05. – Tag des Hodometers** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-hodometers/ — „Tag des Hodometers – National Odometer Day in den USA“
+- **12.05. – Tag des Limericks** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-des-limericks
+- **13.05. – Eisheilige - Servatius** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/eisheilige-servatius
+- **13.05. – Internationaler Schreibwarentag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-stationery-day/ — „Internationaler Schreibwarentag – World Stationery Day 2026“
+- **13.05. – Tag der Croûtons** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-croutons/ — „Tag der Croûtons – National Crouton Day in den USA“
+- **13.05. – Tag der Rezeptionisten** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-rezeptionisten
+- **13.05. – Tag der Tulpen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-tulpen-usa/ — „Tag der Tulpen – National Tulip Day in den USA“
+- **13.05. – Tag des Apfelkuchens** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-apfelkuchens
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-apfelkuchens/ — „Tag des Apfelkuchens – National Apple Pie Day in den USA“
+- **13.05. – Tag des Fruchtcocktails** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-fruchtcocktails/ — „Tag des Fruchtcocktails – National Fruit Cocktail Day in den USA“
+- **13.05. – Tag des Hummus** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-hummus
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-hummus-tag/ — „Internationaler Hummus-Tag – International Hummus Day 2026“
+  - automatische Ähnlichkeit: 67 %
+- **13.05. – Welt-Cocktail-Tag am 13. Mai** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-cocktail-day/ — „Welt-Cocktail-Tag am 13. Mai – World Cocktail Day 2026“
+- **14.05. – Christi Himmelfahrt** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/christi-himmelfahrt
+- **14.05. – Eisheilige - Bonifatius** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/eisheilige-bonifatius
+- **14.05. – Ententanz-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-ententanz/ — „Ententanz-Tag – National Chicken Dance Day in den USA“
+- **14.05. – Ententanztag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/ententanztag
+- **14.05. – Tag der Buttermilch-Biskuits** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-buttermilch-biskuits/ — „Tag der Buttermilch-Biskuits – National Buttermilk Biscuit Day in den USA“
+- **14.05. – Tag des Freelancers** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-freelancers
+- **14.05. – Tag des Wanderns** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-wanderns-in-deutschland/ — „Tag des Wanderns – der bundesweite Wandertag in Deutschland am 14. Mai 2026“
+- **14.05. – Untergrund-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/underground-american-day/ — „Untergrund-Tag in den USA – Underground American Day“
+- **14.05. – Vatertag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/vatertag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/vatertag-in-deutschland/ — „Der bundesweite Vatertag in Deutschland an Christi Himmelfahrt – 14. Mai 2026“
+- **14.05. – Yellow Day oder: 로즈데이** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/yellow-day-suedkorea/ — „Yellow Day oder: 로즈데이 – Tag der gelben Rosen in Südkorea am 14. Mai“
+- **15.05. – Auf-Arbeit-Radeln-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/auf-arbeit-radeln-tag
+- **15.05. – Eisheilige - Sophia** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/eisheilige-sophia
+- **15.05. – Pizza-Party-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/pizza-party-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/pizza-party-tag-usa/ — „Pizza-Party-Tag in den USA – Pizza Party Day 2026“
+- **15.05. – Tag der Familie** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-familie
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-familie/ — „Internationaler Tag der Familie – UN International Day of Families 2026“
+- **15.05. – Tag der Kriegsdienstverweigerer** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-kriegsdienstverweigerer
+- **15.05. – Tag der Nylonstrümpfe** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-nylonstruempfe/ — „Tag der Nylonstrümpfe – National Nylon Stocking Day in den USA“
+- **15.05. – Tag der Schokoladentropfen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-schokoladentropfen/ — „Tag der Schokoladentropfen – National Chocolate Chip Day in den Vereinigten Staaten“
+- **15.05. – Tag des Fahrradflickzeugs** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-fahrrad-flickzeugs/ — „Tag des Fahrradflickzeugs in Deutschland – 15. Mai 2026“
+- **15.05. – Tag des Strohhuts** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-strohhuts/ — „Tag des Strohhuts in Großbritannien – der (National) Straw Hat Day am 15. Mai“
+- **16.05. – BBQ-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/bbq-tag-in-den-usa/ — „BBQ-Tag – National Barbecue Day in den Vereinigten Staaten“
+- **16.05. – Ich-mag-Bäume-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ich-mag-baeume-tag/ — „Ich-mag-Bäume-Tag – National Love a Tree Day in den USA“
+- **16.05. – International Metalheads Day am 16. Mai** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-metalheads-day/ — „International Metalheads Day am 16. Mai – RIP Ronnie James Dio“
+- **16.05. – Tag der Biografen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-biographen-usa/ — „Tag der Biografen – National Biographer’s Day in den USA“
+- **16.05. – Tag der Biographen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-biographen
+- **16.05. – Tag der Sea-Monkeys** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-sea-monkey-day/ — „Tag der Sea-Monkeys – National Sea-Monkey Day in den USA“
+- **16.05. – Tag der Urzeitkrebse** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-urzeitkrebse
+- **16.05. – Weltwhiskytag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltwhiskytag
+- **16.05. – World Whisky Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-whisky-day/ — „World Whisky Day – Welt-Whisky-Tag am 16. Mai 2026“
+- **17.05. – Museumstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/museumstag
+- **17.05. – Tag der Armlehne** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-armlehne/ — „Tag der Armlehne in Deutschland am 17. Mai“
+- **17.05. – Tag der Sammelwütigen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-sammelwuetigen/ — „Tag der Sammelwütigen – Pack Rat Day in den USA“
+- **17.05. – Tag der Verfassung in Nauru** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/nauru-tag-der-verfassung
+- **17.05. – Tag der Verfassung in Norwegen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/norwegen-tag-der-verfassung
+- **17.05. – Tag der Walnuss** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-walnuss/ — „Tag der Walnuss – National Walnut Day in den USA“
+- **17.05. – Tag gegen Homophobie, Transphobie und Biphobie** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-gegen-homophobie
+- **17.05. – Welt-Hypertonie-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welt-hypertonie-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welt-hypertonie-tag/ — „Welt Hypertonie Tag – World Hypertension Day 2026“
+- **17.05. – Weltfernmeldetag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltfernmeldetag
+- **17.05. – Welttag der sozialen Kommunikationsmittel** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-der-sozialen-kommunikationsmittel
+- **17.05. – Welttag des Backens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-baking-day/ — „Welttag des Backens – World Baking Day 2026“
+- **18.05. – Besuch-Deine-Verwandten-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/besuch-deine-verwandten-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/besuch-deine-verwandten-tag/ — „Besuch-deine-Verwandten-Tag – National Visit your Relatives Day in den USA“
+- **18.05. – I Love Reese’s Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/i-love-reeses-day/ — „I Love Reese’s Day in den Vereinigten Staaten und Kanada am 18. Mai“
+- **18.05. – Internationaler Museumstag am 18. Mai** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-museumstag/ — „Internationaler Museumstag am 18. Mai – International Museum Day 2026“
+- **18.05. – Kein-schmutziges-Geschirr-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/kein-schmutziges-geschirr-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/kein-schmutziges-geschirr-tag/ — „Kein-schmutziges Geschirr-Tag – der US-amerikanische National No Dirty Dishes Day“
+- **19.05. – Malcom-X-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/-malcom-x-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/malcolmx-day/ — „Malcom-X-Tag – der US-amerikanische Malcolm X Day“
+- **19.05. – National Devil’s Food Cake Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-devils-food-cake/ — „National Devil’s Food Cake Day in den Vereinigten Staaten“
+- **19.05. – Tag der Mai-Sonne** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-mai-sonne/ — „Tag der Mai-Sonne – National May Ray Day in den USA“
+- **20.05. – Ernte-Erdbeeren-Tag** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/ernte-erdbeeren-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/pflueck-erdbeeren-tag/ — „Pflücke-Erdbeeren-Tag – National Pick Strawberries Day in den USA“
+  - automatische Ähnlichkeit: 67 %
+- **20.05. – Europäischer Tag der Meere** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-meere
+- **20.05. – Fremdworttag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/fremdworttag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/fremdworttag/ — „Der bundesweite Fremdworttag in Deutschland – 20. Mai 2026“
+- **20.05. – Nationalfeiertag in Kamerun** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/kamerun-nationalfeiertag
+- **20.05. – Streaming-Tag- National Streaming Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/streaming-tag/ — „Streaming-Tag- National Streaming Day in den USA“
+- **20.05. – Tag der Maße und Gewichte** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-masse-und-gewichte
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-masse-und-gewichte/ — „Tag der Maße und Gewichte – Weights and Measures Day“
+- **20.05. – Weltbienentag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltbienentag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltbienentag/ — „Weltbienentag – World Bee Day der Vereinten Nationen 2026“
+- **21.05. – Erdbeeren-mit-Sahne-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/erdbeeren-mit-sahne-tag/ — „Erdbeeren-mit-Sahne-Tag – der US-amerikanische National Strawberries and Cream Day“
+- **21.05. – Internationaler Tee-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-tea-day/ — „Internationaler Tee-Tag – der International Tea Day am 21. Mai und am 15. Dezember“
+- **21.05. – Sprich-wie-Yoda-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/sprich-wie-yoda-tag/ — „Sprich-wie-Yoda-Tag – der internationale Talk Like Yoda Day am 21. Mai“
+- **21.05. – Tag der Notizzettel am 21. Mai** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-notizzettel/ — „Tag der Notizzettel am 21. Mai – National Memo Day in den Vereinigten Staaten“
+- **21.05. – Tag des Aperitifs** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-aperitifs/ — „Tag des Aperitifs in den USA – National Aperitif Day 2026“
+- **21.05. – Tag des Notizbuchs** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-notizbuchs
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-notizbuchs/ — „Tag des Notizbuchs in den USA – National Notebook Day 2026“
+- **21.05. – Welttag für kulturelle Entwicklung** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-fuer-kulturelle-entwicklung
+- **21.05. – Welttrinkgeldtag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttrinkgeldtag/ — „Welttrinkgeldtag – bundesweiter Aktionstag am 21. Mai“
+- **21.05. – Weltuntergangstag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltuntergangstag-in-den-usa/ — „Weltuntergangstag – Rapture Party Day in den USA – 21. Mai“
+- **22.05. – Der bundesweite Tag des Schwimmmeisters** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-schwimmmeisters/ — „Der bundesweite Tag des Schwimmmeisters in Deutschland am 22. Mai 2026“
+- **22.05. – Kauf-ein-Instrument-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/kauf-ein-instrument-tag/ — „Kauf-ein-Instrument-Tag – National Buy a Musical Instrument Day in den USA“
+- **22.05. – Sherlock-Holmes-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/sherlock-holmes-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-sherlock-holmes-day/ — „Sherlock-Holmes-Tag – der International Sherlock Holmes Day am 22. Mai“
+- **22.05. – Tag der biologischen Vielfalt** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-biologischen-vielfalt/ — „Tag der biologischen Vielfalt – International Day for Biological Diversity 2026“
+- **22.05. – Tag der Zahnpastatube** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-zahnpastatube/ — „Tag der Zahnpastatube – National Toothpaste Tube Day in den USA“
+- **22.05. – Tag des Vanillepuddings** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-vanillepuddings
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-vanillepuddings/ — „Tag des Vanillepuddings – National Vanilla Pudding Day in den USA“
+- **22.05. – Tag zur Erhaltung der Artenvielfalt** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-zur-erhaltung-der-artenvielfalt
+- **22.05. – World Goth Day** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/world-goth-day
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-goth-day/ — „World Goth Day – internationaler Tag der Gothic-Szene am 22. Mai“
+- **23.05. – Der bundesweite Tag des Inspizienten** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-inspizienten/ — „Der bundesweite Tag des Inspizienten in Deutschland“
+- **23.05. – Tag des Glückspfennigs** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-glueckspfennigs
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-glueckspfennigs/ — „Tag des Glückspfennigs – National Lucky Penny Day in den USA“
+- **23.05. – Tag des Grundgesetzes** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-des-grundgesetzes
+- **23.05. – Tag zur Beendigung von Geburtsfisteln** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-zur-beendigung-von-geburtsfisteln
+- **23.05. – Welt-Schildkröten-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welt-schildkroten-tag
+- **23.05. – Weltschildkrötentag am 23. Mai** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welt-schildkroeten-tag/ — „Weltschildkrötentag am 23. Mai – der internationale World Turtle Day 2026“
+- **24.05. – Europäischer Tag der Parke** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/europaeischer-tag-der-parke/ — „Europäischer Tag der Parke – der European Day of Parks 2026“
+- **24.05. – Explant Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/explant-day
+- **24.05. – Iss-eine-Kiwi-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/iss-eine-kiwi-tag/ — „Iss-eine-Kiwi-Tag in Deutschland am 24. Mai“
+- **24.05. – Pfingstsonntag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/pfingstsonntag
+- **24.05. – Spargel-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/spargel-tag-in-grossbritannien/ — „Spargel-Tag in Großbritannien – der britische Asparagus Day“
+- **24.05. – Tag der Brüder** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-brueder
+- **24.05. – Tag der kyrillischen Schrift** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-kyrillischen-schrift
+- **24.05. – Tag der Parks** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-parks
+- **24.05. – Tag der Schnitzeljagd** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-schnitzeljagd/ — „Tag der Schnitzeljagd – National Scavenger Hunt Day in den USA“
+- **24.05. – Tag der Weinbergschnecke** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-weinbergschnecke
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-weinbergschnecke/ — „Tag der Weinbergschnecke – National Escargot Day in den USA“
+- **24.05. – Tag des Diadems** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-diadems
+- **25.05. – Afrikatag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/afrikatag
+- **25.05. – Beginn der Woche der Solidarität mit den Völkern der Gebiete ohne Selbstregierung** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/beginn-der-woche-der-solidaritaet-mit-den-volkern-der-gebiete-ohne-selbstregierung
+- **25.05. – Der internationale Geek Pride Day am 25. Mai** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/geek-pride-day/
+- **25.05. – Dia Del Payaso Peruano** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-clowns-peru/ — „Dia Del Payaso Peruano – der Tag des Clowns in Peru“
+- **25.05. – Memorial Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/memorial-day
+- **25.05. – Mühlentag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/muehlentag
+- **25.05. – Nationalfeiertag in Jordanien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/jordanien-nationalfeiertag
+- **25.05. – Pfingstmontag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/pfingstmontag
+- **25.05. – Tag der Revolution in Argentinien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/argentinien-tag-der-revolution
+- **25.05. – Tag der vermissten Kinder** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-vermissten-kinder
+- **25.05. – Tag des Weins** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-weins
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-weins-usa/ — „Tag des Weins in den USA – National Wine Day am 25. Mai“
+- **25.05. – Towel Day** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/towel-day
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/towel-day-handtuchtag/ — „Towel Day am 25. Mai – der intergalaktische Handtuchtag zu Ehren von Douglas Adams“
+- **25.05. – Urbanstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/urbanstag
+- **25.05. – Wear the Lilac Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/wear-the-lilac-day/ — „Wear the Lilac Day – Gedenktag der Glorreichen Revolution in Ankh-Morpork“
+- **26.05. – Deutscher Diversity-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/deutscher_diversity-tag
+- **26.05. – Dracula-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/dracula-tag
+- **26.05. – Lindy-Hop-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/lindy-hop-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-lindy-hop-day/ — „Internationaler Lindy-Hop Tag – World Lindy Hop Day“
+- **26.05. – Muttertag in Polen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/polen-muttertag
+- **26.05. – Sorry Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/national-sorry-day
+- **26.05. – Tag der Farbe Grau** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-farbe-grau-uk/ — „Tag der Farbe Grau – National Grey Day in Großbritannien“
+- **26.05. – Tag des Blaubeerkäsekuchens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-blaubeerkaesekuchens/ — „Tag des Blaubeerkäsekuchens – National Blueberry Cheesecake Day in den USA“
+- **26.05. – Tag des Papierfliegers** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-papierfliegers
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-papierfliegers/ — „Tag des Papierfliegers – National Paper Airplane Day in den USA“
+- **26.05. – Unabhängigkeitstag in Georgien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/georgien-unabhaengigkeitstag
+- **26.05. – Welttag der Rothaarigen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-rothaarigen/ — „Welttag der Rothaarigen – World Redhead Day am 26. Mai“
+- **27.05. – Tag der Sonnencreme** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-sonnencreme
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-sonnencreme/ — „Tag der Sonnencreme am 27. Mai – National Sun Screen Day in den USA“
+- **27.05. – Tag des Klebebands am 27. Mai** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-klebebands/ — „Tag des Klebebands am 27. Mai – National Cellophane Tape Day in den USA“
+- **27.05. – Tag des Tesafilms** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-tesafilms
+- **27.05. – Welt-MS-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welt-ms-tag
+- **27.05. – Welttag der Otter** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-otter/ — „Welttag der Otter – der internationale World Otter Day am 27. Mai 2026“
+- **27.05. – Welttag des Purzelbaums** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/welttag-des-purzelbaums
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-des-purzelbaums/ — „Welttag des Purzelbaums – der internationale Ehrentag der Turnrolle am 27. Mai“
+- **28.05. – Amnesty International Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/amnesty-international-tag
+- **28.05. – Tag der Revolution** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/aethiopien-tag-der-revolution
+- **28.05. – Tag der Rückkehr der Nacktschnecken** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-rueckkehr-der-nacktschnecken-aus-capistrano/ — „Tag der Rückkehr der Nacktschnecken – The Slugs Return From Capistrano Day“
+- **28.05. – Tag des Grenzsoldaten** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-des-grenzsoldaten
+- **28.05. – Tag des Hamburgers** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-hamburgers
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-hamburgers/ — „Tag des Hamburgers – National und International Hamburger Day am 28. Mai“
+- **28.05. – Unabhängigkeitstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/aserbaidschan-unabhaengigkeitstag
+- **28.05. – Welt-Blutkrebs-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welt-blutkrebs-tag
+- **28.05. – Weltspieltag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/internationaler-weltspieltag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltspieltag/ — „Weltspieltag oder Welttag des Spielens – World Play Day am 28. Mai“
+- **29.05. – Keks-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/keks-tag-grossbritannien/ — „Keks-Tag in Großbritannien – der britische National Biscuit Day am 29. Mai“
+- **29.05. – Leg-Dein-Kopfkissen-auf-den-Kühlschrank-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/leg-dein-kopfkissen-auf-den-kuehlschrank-tag/ — „Leg-Dein-Kopfkissen-auf-den-Kühlschrank-Tag – Put A Pillow On Your Fridge Day in den USA“
+- **29.05. – Lerne-wie-Kompostieren-geht-Tag** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/lerne-wie-kompostieren-geht-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/lerne-kompostieren-tag/ — „Lerne-Kompostieren-Tag – der National Learn about Composting Day in den USA“
+  - automatische Ähnlichkeit: 60 %
+- **29.05. – Tag der Büroklammer** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-bueroklammer
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-bueroklammer/ — „Tag der Büroklammer – der US-amerikanische National Paperclip Day“
+- **29.05. – Tag des Friedenssicherungs-Personals der Vereinten Nationen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-friedenssicherungs-personals-der-vereinten-nationen
+- **30.05. – Dìa Nacional De La Papa am 30. Mai** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/dia-nacional-de-la-papa-peru/ — „Dìa Nacional De La Papa am 30. Mai – der Nationaltag der Kartoffel in Peru“
+- **30.05. – Ein-Loch-ist-im-Eimer-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ein-loch-ist-im-eimer-tag/ — „Ein-Loch-ist-im-Eimer-Tag – der National My Bucket’s Got a Hole Day in den USA“
+- **30.05. – Gieß-eine-Blume-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/giess-eine-blume-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/giess-eine-blume-tag/ — „Gieß-eine-Blume-Tag – der US-amerikanische Water a Flower Day am 30. Mai“
+- **30.05. – Tag der Architektur** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-architektur
+- **30.05. – Tag der Kanaren** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/der-tag-der-kanaren
+- **30.05. – Tag des Mint Julep am 30. Mai** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-mint-julep/ — „Tag des Mint Julep am 30. Mai – National Mint Julep Day in den Vereinigten Staaten“
+- **30.05. – Welttag der Seelöwen am 30. Mai** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-seeloewen/ — „Welttag der Seelöwen am 30. Mai – der internationale World Sea Lion Day 2026“
+- **31.05. – Artikuliere-vollständige-Sätze-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/artikuliere-vollstaendige-saetze-tag/ — „Artikuliere-vollständige-Sätze-Tag – National Speak In Complete Sentences Day in den USA“
+- **31.05. – Grounding Page kuriose-feiertage** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/grounding/kuriose-feiertage-grounding.html
+- **31.05. – Grounding Page Sven Giese** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/grounding/sven-giese.html
+- **31.05. – Inchies-meets-Sketchnotes-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/inchies-meets-sketchnotes-tag/ — „Inchies-meets-Sketchnotes-Tag in Deutschland“
+- **31.05. – Tag der Makronen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-makronen/ — „Tag der Makronen – National Macaroon Day in den USA“
+- **31.05. – Tag der Republik** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/suedafrika-tag-der-republik
+- **31.05. – Tag der Webdesigner** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-webdesigner
+- **31.05. – Tag der Weißstörche in Polen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-weissstoerche-in-polen/ — „Tag der Weißstörche in Polen – Dzień Bociana Białego am 31. Mai“
+- **31.05. – Tag des Gehörschutzes** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-gehoerschutzes/ — „Tag des Gehörschutzes – National Save Your Hearing Day in den USA“
+- **31.05. – Weltnichtrauchertag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltnichtrauchertag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltnichtrauchertag/ — „Weltnichtrauchertag am 31. Mai – World No Tobacco Day 2026“
+- **31.05. – World Parrot Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-papageien/ — „World Parrot Day – Welttag der Papageien“
+## Juni
+
+- **01.06. – Albert-Schweitzer-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/albert-schweitzer-tag
+- **01.06. – Gott-sei-Dank ist-Montag-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/gott-sei-dank-ist-montag-tag/ — „Gott-sei-Dank ist-Montag-Tag in den USA – National Thank God It’s Monday Day 2026“
+- **01.06. – Kindertag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/international-kindertag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-kindertag/ — „Internationaler Kindertag – Aktionstag am 1. Juni 2026“
+- **01.06. – Meteorologischer Sommeranfang** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/meteorologischer-sommeranfang
+- **01.06. – Oscar the Grouch Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/oscar-the-grouch-day/ — „Oscar the Grouch Day – Happy Birthday Oscar aus der Sesamstraße“
+- **01.06. – Sag-etwas-Nettes-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/sag-etwas-nettes-tag/ — „Sag-etwas-Nettes-Tag – National Say Something Nice Day“
+- **01.06. – Tag der Olive** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-olive/ — „Tag der Olive – der National Olive Day in den USA“
+- **01.06. – Tag des Nagellacks** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-nagellacks/ — „Tag des Nagellacks – National Nail Polish Day in den USA“
+- **01.06. – Weltbauerntag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltbauerntag
+- **01.06. – Weltelterntag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/weltelterntag
+- **01.06. – Weltmilchtag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltmilchtag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltmilchtag/ — „Weltmilchtag – der internationale World Milk Day“
+- **01.06. – Welttag der Riffe** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-reef-day/ — „Welttag der Riffe – World Reef Awareness Day – Aktionstag am 1. Juni 2026“
+- **02.06. – Festa della Repubblica** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/festa-della-repubblica
+- **02.06. – Hurentag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/hurentag
+- **02.06. – Mach-früher-Feierabend-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/mach-frueher-feierabend-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/mach-frueher-feierabend-tag/ — „Mach-früher-Feierabend-Tag in den USA – National Leave the Office Early Day 2026“
+- **02.06. – Rocky-Road-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/rocky-road-tag
+- **02.06. – Tag der Grillhähnchen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-grillhaehnchen/ — „Tag der Grillhähnchen – National Rotisserie Chicken Day in den USA“
+- **02.06. – Yell Fudge at the Cobras in North America Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/yell-fudge-at-the-cobras-in-north-america-day/ — „Yell Fudge at the Cobras in North America Day in den Vereinigten Staaten“
+- **03.06. – Der bundesweite Tag der Amsel** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-amsel/ — „Der bundesweite Tag der Amsel in Deutschland am 3. Juni“
+- **03.06. – Europäischer Tag des Fahrrads und Weltfahrradtag am 3. Juni** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/europaischer-tag-des-fahrrads/
+- **03.06. – Tag der Eier** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-egg-day-usa/ — „Tag der Eier in den USA – National Egg Day am 3. Juni“
+- **03.06. – Tag der Wiederholung** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-wiederholung
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-wiederholungen/ — „Tag der Wiederholungen – National Repeat Day in den USA“
+- **03.06. – Tag des Chimborazo** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-chimborazo
+- **03.06. – Tag des Cholesterins** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-cholesterins
+- **03.06. – Tag des Fahrrades** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-fahrrades
+- **03.06. – Welt-Apfelwein-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welt-apfelwein-tag/ — „Welt-Apfelwein-Tag – World Cider Day am 3. Juni“
+- **03.06. – Welttag des Laufens** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-des-laufens
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/global-running-day/ — „Welttag des Laufens – Global Running Day am 3. Juni 2026“
+- **04.06. – Fronleichnam** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/fronleichnam
+- **04.06. – Schafskälte** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/schafskaelte
+- **04.06. – Tag der Kinder, die unschuldig zu Aggressionsopfern geworden sind** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-kinder-die-unschuldig-zu-aggressionsopfern-geworden-sind
+- **04.06. – Tag der Schneider** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-schneider/ — „Tag der Schneider – der National Tailors Day in den USA“
+- **04.06. – Tag des Cognacs** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-cognacs/ — „Tag des Cognacs – National Cognac Day in den USA“
+- **04.06. – Tag des Einkaufswagens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-einkaufswagens/ — „Tag des Einkaufswagens – Shopping Cart Day in den USA“
+- **04.06. – Tag des Käses** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kaese-usa/ — „Tag des Käses – der National Cheese Day in den USA“
+- **04.06. – Umarme-Deine-Katze-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/umarme-deine-katze-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/umarme-deine-katze-tag/ — „Umarme-Deine-Katze-Tag – Hug Your Cat Day in den USA“
+- **04.06. – Unabhängigkeitstag in Tonga** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tonga-unabhaengigkeitstag
+- **05.06. – Ketchup-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ketchup-tag/ — „Ketchup-Tag – der US-amerikanische National Ketchup Day am 5. Juni“
+- **05.06. – Tag der Befreiung** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/seychellen-tag-der-befreiung
+- **05.06. – Tag der Haltung** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-haltung/ — „Tag der Haltung – National Attitude Day in den USA“
+- **05.06. – Tag der Verfassung** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/daenemark-tag-der-verfassung
+- **05.06. – Tag des Donuts** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-donuts
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-doughnut-usa/ — „Tag des Donut in den USA – National Doughnut Day 2026“
+- **05.06. – Tag des Heißluftballons** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-des-heissluftballons
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-heissluftballons/ — „Tag des Heißluftballons – Hot Air Balloon Day in den USA“
+- **05.06. – Tag des Lebkuchens am 5. Juni** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-lebkuchens/ — „Tag des Lebkuchens am 5. Juni – National Gingerbread Day in den Vereinigten Staaten“
+- **05.06. – Welttag der Umwelt** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-der-umwelt
+- **05.06. – Weltumwelttag am 5. Juni** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltumwelttag/ — „Weltumwelttag am 5. Juni – UNO World Environment Day 2026“
+- **06.06. – D-Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/d-day
+- **06.06. – Internationaler Slayer-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-slayer-tag/ — „Internationaler Slayer-Tag – International Day of Slayer 2026“
+- **06.06. – Internationaler Tag der Höhlen und der unterirdischen Welten am 6. Juni und 13. September** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-hoehlentag/
+- **06.06. – Nationalfeiertag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/schweden-nationalfeiertag
+- **06.06. – Sehbehindertentag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/sehbehindertentag
+- **06.06. – Tag der Gartenarbeit** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-gartenarbeit/ — „Tag der Gartenarbeit – National Gardening Exercise Day in den USA“
+- **06.06. – Tag der Organspende** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-organspende
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-organspende/ — „Tag der Organspende in Deutschland – 6. Juni 2026“
+- **06.06. – Tag der russischen Sprache** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-russischen-sprache
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-russischen-sprache/ — „Internationaler Tag der russischen Sprache – UN Russian Language Day 2026“
+- **06.06. – Tag des Jo-Jos** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-jo-jos
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-jo-jo/ — „Tag des Jo-Jos – der US-amerikanische National Yo-Yo Day am 6. Juni“
+- **07.06. – Schokoladeneis-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/schokoladeneis-tag/ — „Schokoladeneis-Tag – der US-amerikanische National Chocolate Ice Cream Day“
+- **07.06. – Sjómannadagurinn** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/sjomannadagurinn/ — „Sjómannadagurinn – Tag der Seeleute und Fischer auf Island 2026“
+- **07.06. – Tag der Apotheker** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-apotheker
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-apotheke-deutschland/ — „Tag der Apotheke in Deutschland – bundesweiter Aktionstag am 7. Juni 2026“
+- **07.06. – Tag des Hundes** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-hundes
+- **07.06. – Tag des Modellflugs** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-modellflugs/ — „Tag des Modellflugs in Deutschland am 7. Juni 2026“
+- **07.06. – Tag des Schokoladeneises** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-schokoladeneises
+- **07.06. – Tag des Videorekorders** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-des-videorekorders
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-videorekorders/ — „Tag des Videorekorders am 7. Juni – National VCR Day in den USA“
+- **07.06. – Welt-Naturisten-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welt-naturisten-tag/ — „Welt-Naturisten-Tag – der internationale World Naturist Day am 7. Juni 2026“
+- **07.06. – Welterbetag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welterbetag
+- **08.06. – Beste-Freunde-Tag am 8. Juni und 15. August** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/beste-freunde-tag/ — „Beste-Freunde-Tag am 8. Juni und 15. August – National Best Friends Day in den USA“
+- **08.06. – Der internationale Ghostbusters Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ghostbusters-day/ — „Der internationale Ghostbusters Day – Erinnerung an den US-Kinostart am 8. Juni 1984“
+- **08.06. – Hoppla-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/hoppla-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/hoppla-tag/ — „Hoppla-Tag am 8. Juni – National Upsy Daisy Day in den Vereinigten Staaten“
+- **08.06. – Tag der besten Freunde** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-besten-freunde
+- **08.06. – Tag des Berliners** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-berliners/ — „Tag des Berliners – National Jelly-Filled Doughnut Day und National Cream-Filled Donut Day“
+- **08.06. – Tag des Erdbeerkäsekuchens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/strawberry-cheesecake-day/ — „Tag des Erdbeerkäsekuchens – Strawberry Cheesecake Day am 8. Juni“
+- **08.06. – Tag des Meeres** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-meeres
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-meeres/ — „Tag des Meeres am 8. Juni – UNO World Oceans Day 2026“
+- **08.06. – Was-willst-Du-trinken-Tag?** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/name-your-poison-day/ — „Was-willst-Du-trinken-Tag? – National Name your Poison Day in den USA“
+- **08.06. – Welthirntumortag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welt-hirntumor-tag
+- **09.06. – Donald Duck Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/donald-duck-tag
+- **09.06. – Donald Ducks Geburtstag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/happy-birthday-donald-duck/ — „Donald Ducks Geburtstag – der US-amerikanische Donald Duck Day am 9. Juni“
+- **09.06. – Internationaler Tag der Archive am 9. Juni** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-archive/ — „Internationaler Tag der Archive am 9. Juni – International Archives Day 2026“
+- **09.06. – Internationaler Tag der keltischen Kunst** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-keltischen-kunst/ — „Internationaler Tag der keltischen Kunst – International Day of Celtic Art 2026“
+- **09.06. – Tag des Erdbeer-Rhabarber-Kuchens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/erdbeer-rhabarber-kuchen-tag/ — „Tag des Erdbeer-Rhabarber-Kuchens – National Strawberry Rhubarb Pie Day in den USA“
+- **10.06. – Eistee-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/eistee-tag/ — „Eistee-Tag – National Iced Tea Day in den Vereinigten Staaten“
+- **10.06. – Internationaler Tag der Heraldik am 10. Juni** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-heraldik/ — „Internationaler Tag der Heraldik am 10. Juni – International Heraldry Day 2026“
+- **10.06. – Kindersicherheitstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/kindersicherheitstag
+- **10.06. – Portugal-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/portugal-tag
+- **10.06. – Tag des Eistees** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-eistees
+- **10.06. – Tag des Kugelschreibers** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-kugelschreibers
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kugelschreibers/ — „Tag des Kugelschreibers in den USA – National Ballpoint Pen Day“
+- **10.06. – Tag des veganen Fischbrötchens** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-veganen-fischbroetchens
+- **10.06. – Weltjugendstiltag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltjugendstiltag/ — „Weltjugendstiltag – World Art Nouveau Day 2026“
+- **11.06. – Cousteau Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/cousteau-day/ — „Cousteau Day – ein Feiertag zu Ehren von Jacques Cousteau“
+- **11.06. – International Day of Play** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-day-of-play/ — „International Day of Play – Internationaler Tag des Spielens“
+- **11.06. – Jerky-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/jerky-tag
+- **11.06. – Kamehameha-Tag auf Hawaii** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/kamehameha-day/ — „Kamehameha-Tag auf Hawaii – King Kamehameha Day“
+- **11.06. – Tag der Geodäsie** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-geodaesie-in-deutschland/ — „Tag der Geodäsie in Deutschland – 11. Juni 2024“
+- **11.06. – Tag der Pizza Margherita** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-pizza-margherita/ — „Tag der Pizza Margherita – Pizza Margherita Day in den USA“
+- **11.06. – Tag des German Schokoladenkuchens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-german-chocolate-cake-day/ — „Tag des German Schokoladenkuchens – National German Chocolate Cake Day“
+- **11.06. – Tag des Maiskolbens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-maiskolbens/ — „Tag des Maiskolbens – National Corn on the Cob Day in den USA“
+- **12.06. – Dia dos Namorados** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/dia-dos-namorados/ — „Dia dos Namorados – der brasilianische Tag der Liebenden“
+- **12.06. – Loving-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-loving-day-usa/ — „Loving-Tag in den USA – National Loving Day am 12. Juni“
+- **12.06. – Superman-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/superman-tag/ — „Superman-Tag – der US-amerikanische Superman Day am 12. Juni“
+- **12.06. – Tag der Erdnussbutter-Kekse** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-erdnussbutter-kekse/ — „Tag der Erdnussbutter-Kekse – National Peanut Butter Cookie Day“
+- **12.06. – Tag der Falafel** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-falafel
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-falafel-day/ — „Internationaler Falafel-Tag – International Falafel Day“
+  - automatische Ähnlichkeit: 67 %
+- **12.06. – Tag der roten Rose** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-roten-rose
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-roten-rose/ — „Tag der roten Rose – National Red Rose Day in den USA“
+- **12.06. – Tag des Tagebuchs** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-tagebuchs
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-tagebuchs/ — „Tag des Tagebuchs in Deutschland – 12. Juni“
+- **12.06. – Tag Russlands** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-russlands
+- **12.06. – Unabhängigkeitstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/philippinen-unabhaengigkeitstag
+- **12.06. – Welttag gegen Kinderarbeit** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-gegen-kinderarbeit
+- **13.06. – Jäte-deinen-Garten-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/jaete-deinen-garten-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/jaete-deinen-garten-tag/ — „Jäte-deinen-Garten-Tag – National Weed Your Garden Day in den USA“
+- **13.06. – Tag der Aufklärung über Albinismus** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-aufklaerung-ueber-albinismus
+- **13.06. – Tag der Libelle** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-libelle/ — „Tag der Libelle in den USA – National Dragonfly Day 2026“
+- **13.06. – Tag der Nähmaschine** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-naehmaschine
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-naehmaschine/ — „Tag der Nähmaschine in den USA – National Sewing Machine Day am 13. Juni“
+- **13.06. – Tag der Puppe** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-puppe
+- **13.06. – Tag der Tauben** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-tauben/ — „Tag der Tauben in den Vereinigten Staaten – National Pigeon Day am 13. Juni“
+- **13.06. – Tag der verhinderten Köche** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-verhinderten-koeche/ — „Tag der verhinderten Köche – der National Kitchen Klutzes of America Day“
+- **13.06. – Tag des Axtwerfens** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-axtwerfens
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-axe-throwing-day/ — „Internationaler Tag des Axtwerfens – International Axe Throwing Day 2026“
+- **13.06. – Tag des Gins** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-gins
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-des-gin-world-gin-day/ — „Welttag des Gins – World Gin Day am 13. Juni 2026“
+- **13.06. – Tag des Guerilla-Strickens** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-guerilla-strickens
+- **13.06. – Tag des Roséweins** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-roseweins/ — „Tag des Roséweins in den Vereinigten Staaten – National Rosé Day 2026“
+- **14.06. – Befreiungstag der Falklandinseln** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/falklandinseln-befreiungstag
+- **14.06. – Befreiungstag in Südgeorgien und die Südlichen Sandwichinseln** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/suedgeorgien-und-die-suedlichen-sandwichinseln-befreiungstag
+- **14.06. – Flag Day in den USA** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/flag-day
+- **14.06. – Internationaler Bade-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-bath-day/ — „Internationaler Bade-Tag – der International Bath Day am 14. Juni 2026“
+- **14.06. – Tag des Badens** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-badens
+- **14.06. – Tag des Bourbon** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-bourbon
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-bourbon/ — „Tag des Bourbons in den USA – National Bourbon Day am 14. Juni“
+- **14.06. – Tag des Erdbeertörtchens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-erdbeertoertchens/ — „Tag des Erdbeertörtchens in den USA – National Strawberry Shortcake Day“
+- **14.06. – Tag des Gartens** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-gartens
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-gartens-in-deutschland/ — „Tag des Gartens in Deutschland – Aktionstag am 14. Juni 2026“
+- **14.06. – Weltblutspendetag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltblutspendetag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltblutspendetag/ — „Weltblutspendetag – World Blood Donor Day 2026“
+- **15.06. – Der bundesweite Tag des Strandkorbs** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-strandkorbs-in-deutschland/ — „Der bundesweite Tag des Strandkorbs in Deutschland am 15. Juni“
+- **15.06. – Global Wind Day** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/global-wind-day
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/global-wind-day/ — „Global Wind Day am 15. Juni – Weltwindtag 2026“
+- **15.06. – Küss-einen-Wookiee-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-kiss-a-wookiee-day/ — „Küss-einen-Wookiee-Tag – National Kiss a Wookiee Day in den USA“
+- **15.06. – Nimm-Deine-Katze-mit-zur-Arbeit-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/take-your-cat-to-work-day/ — „Nimm-Deine-Katze-mit-zur-Arbeit-Tag – Take Your Cat To Work Day 2026“
+- **15.06. – Tag der Macht des Lächelns** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-macht-des-laechelns
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/macht-des-laechelns-tag/ — „Macht-des-Lächelns-Tag – National Smile Power Day in den USA“
+  - automatische Ähnlichkeit: 100 %
+- **15.06. – Tag der Naturfotografie** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-naturfotografie
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-naturfotografie/ — „Tag der Naturfotografie – Nature Photography Day in den USA“
+- **15.06. – Welttag gegen Diskriminierung und Misshandlung älterer Menschen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-gegen-diskriminierung-und-misshandlung-aelterer-menschen
+- **16.06. – Bloomsday** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/bloomsday
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/bloomsday/ — „Bloomsday in Irland – ein literarischer Feiertag zu Ehren des James Joyce Romans Ulysses“
+- **16.06. – Captain-Picard-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/captain-picard-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/captain-picard-day/ — „Captain-Picard-Tag – der Captain Picard Day auf der USS-Enterprise-D“
+- **16.06. – Internationaler Tag der Meeresschildkröten** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-meeresschildkroeten/ — „Internationaler Tag der Meeresschildkröten – World Sea Turtle Day“
+- **16.06. – Internationaler Tag des Wasserfalls** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-waterfall-day/ — „Internationaler Tag des Wasserfalls – der International Waterfall Day am 16. Juni“
+- **16.06. – Tag der Cannoli** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-cannoli/ — „Tag der Cannoli – der US-amerikanische National Cannoli Day am 16. Juni“
+- **16.06. – Tag des afrikanischen Kindes** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-des-afrikanischen-kindes
+- **16.06. – Tag des frischen Gemüses** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-frischen-gemueses
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-frischen-gemuese/ — „Tag des frischen Gemüses – der US-amerikanische Fresh Veggies Day“
+- **17.06. – Gedenktag des Deutschen Volkes** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/gedenktag-des-deutschen-volkes
+- **17.06. – Internationaler Tag der Müllabfuhr** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-muellabfuhr/ — „Internationaler Tag der Müllabfuhr – der Global Garbage Man Day am 17. Juni“
+- **17.06. – Iss-Dein-Gemüse-auf-Tag** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/iss-dein-gemuese-auf-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/iss-dein-gemuese-tag/ — „Iss-Dein-Gemüse-Tag in den USA – National Eat Your Vegetables Day am 17. Juni“
+  - automatische Ähnlichkeit: 80 %
+- **17.06. – Tag der sowjetischen Besetzung Lettlands** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-sowjetischen-besetzung-lettlands
+- **17.06. – Tag des Apfelstrudels** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-apfelstrudels
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-apfelstrudels/ — „Tag des Apfelstrudels am 17. Juni – National Apple Strudel Day in den USA“
+- **17.06. – Unabhängigkeitstag in Island** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/island-unabhaengigkeitstag
+- **17.06. – Welttag der Krokodile** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-krokodile/ — „Welttag der Krokodile – World Crocodile Day oder World Croc Day am 17. Juni“
+- **17.06. – Welttag für die Bekämpfung der Wüstenbildung und der Dürre** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-fuer-die-bekaempfung-der-wuestenbildung-und-der-duerre
+- **18.06. – Autistic Pride Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/autistic-pride-day
+- **18.06. – Geh-Angeln-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/geh-angeln-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/geh-angeln-tag/ — „Geh-Angeln-Tag – National Go Fishing Day in den USA“
+- **18.06. – Gönn-Dir-was-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/goenn-dir-was-tag/ — „Gönn-Dir-was-Tag – der US-amerikanische National Splurge Day am 18. Juni“
+- **18.06. – Internationaler Sushi-Tag am 18. Juni** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-sushi-day/ — „Internationaler Sushi-Tag am 18. Juni – International Sushi Day 2026“
+- **18.06. – Panik-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/panik-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-panic-day/ — „Internationaler Panik-Tag oder keine Panik – der International Panic Day am 18. Juni“
+- **18.06. – Tag des Picknicks** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-picknicks
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-picnic-day/ — „Internationaler Tag des Picknicks – International Picnic Day“
+- **18.06. – Tag des Sushi** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-sushi
+- **19.06. – Garfield-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/garfield-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/garfield-tag/ — „Garfield-Tag am 19. Juni – National Garfield the Cat Day in den Vereinigten Staaten“
+- **19.06. – Iss-einen-Oreo-Keks-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/iss-einen-oreo-keks-tag/ — „Iss-einen-Oreo-Keks-Tag in den USA – National Eat an Oreo Day“
+- **19.06. – Tag der Armbanduhr** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-armbanduhr/ — „Tag der Armbanduhr – National Watch Day in den USA“
+- **19.06. – Tag der Flip Flops** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-flip-flops
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-flip-flop-day-usa/ — „Tag der Flip-Flops in den USA – National Flip Flop Day 2026“
+- **19.06. – Tag des Martini** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-martini
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/martini-tag/ — „Martini-Tag – National Martini Day in den USA“
+  - automatische Ähnlichkeit: 100 %
+- **19.06. – Welt-Sichelzellanämie-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welt-sichelzellanaemie-tag
+- **19.06. – Weltbummeltag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltbummeltag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-sauntering-day/ — „Weltbummeltag – T.W. Rabe und der World Sauntering Day“
+- **20.06. – International Surfing Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-surfing-day/ — „International Surfing Day – der internationale Tag des Surfens 2026“
+- **20.06. – Tag der argentinischen Flagge** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-argentinischen-flagge
+- **20.06. – Tag der Filtertüte** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-filtertuete/ — „Tag der Filtertüte in Deutschland zu Ehren von Melitta Bentz am 20. Juni“
+- **20.06. – Tag der Produktivität** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-produktivitaet
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-productivity-day/ — „Welttag der Produktivität – der internationale World Productivity Day“
+- **20.06. – Tag der Verkehrssicherheit** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-verkehrssicherheit
+- **20.06. – Tag des amerikanischen Adlers** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-amerikanischen-adlers
+- **20.06. – Tag des Jonglierens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-jonglierens/ — „Tag des Jonglierens – International Jugglers Day und World Juggling Day“
+- **20.06. – Tag des Vanille-Milchshakes** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-vanille-milchshakes/ — „Tag des Vanille-Milchshakes in den USA – National Vanilla Milkshake Day“
+- **20.06. – Weltflüchtlingstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltfluechtlingstag
+- **21.06. – Der bundesweite Mofa-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/mofa-tag-in-deutschland/ — „Der bundesweite Mofa-Tag in Deutschland – 21. Juni 2026“
+- **21.06. – Geh-Skateboarden-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/geh-skateboarden-tag/ — „Geh-Skateboarden-Tag – Go Skateboarding Day“
+- **21.06. – Lebensmittel-Allergietag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/lebensmittel-allergietag
+- **21.06. – Mobil ohne Auto** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/mobil-ohne-auto-moa-autofreier-aktionssonntag
+- **21.06. – Muschel-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/muschel-tag/ — „Muschel-Tag in den USA – National Seashell Day am 21. Juni 2026“
+- **21.06. – Nationalfeiertag in Grönland** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/gronland-nationalfeiertag
+- **21.06. – Selfie-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/selfie-tag/ — „Selfie-Tag – der US-amerikanische National Selfie Day“
+- **21.06. – Sommeranfang** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/sommeranfang
+- **21.06. – Sommersonnenwende** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/sommersonnenwende
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/sommersonnenwende/ — „Sommersonnenwende – der längste Tag und die kürzeste Nacht des Jahres 2026“
+- **21.06. – T-Shirt-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/t-shirt-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-tshirt-day/ — „Internationaler T-Shirt-Tag am 21. Juni – International T-Shirt Day 2026“
+- **21.06. – Tag der langen Menschen am 21. Juni** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-langen-menschen/
+- **21.06. – Tag der Musik** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/deutscher-tag-der-musik
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-musik-in-deutschland/ — „Der bundesweite Tag der Musik in Deutschland – Aktionstag am 21. Juni 2026“
+- **21.06. – Tag der selbstgemachten Musik** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/internationaler-tag-der-selbstgemachten-musik
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-musik-in-deutschland/ — „Der bundesweite Tag der Musik in Deutschland – Aktionstag am 21. Juni 2026“
+  - automatische Ähnlichkeit: 67 %
+- **21.06. – Tag des Schlafes** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-schlafes
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-schlafes/ — „Der bundesweite Tag des Schlafes in Deutschland am 21. Juni (von 2000 bis 2003)“
+- **21.06. – Tag des Yoga** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-yoga
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-yoga-day/ — „Internationaler Tag des Yoga – UNO International Yoga Day 2026“
+- **21.06. – Welthumanistentag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welthumanistentag
+- **21.06. – Welttag der Dackel** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-dackel/ — „Welttag der Dackel – World Dachshund Day am 21. Juni 2026“
+- **21.06. – Welttag der Giraffe am 21. Juni** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-giraffe/ — „Welttag der Giraffe am 21. Juni – der internationale World Giraffe Day 2026“
+- **22.06. – Tag der Zwiebelringe** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-zwiebelringe
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-zwiebelringe/ — „Tag der Zwiebelringe – National Onion Ring Day in den USA“
+- **22.06. – Tag des antifaschistischen Kampfes** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-antifaschistischen-kampfes
+- **22.06. – Tag des Schokoladen-Eclairs** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-schokoladen-eclairs
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/schokoladen-eclair-tag/ — „Schokoladen-Eclair-Tag – National Chocolate Eclair Day in den USA“
+  - automatische Ähnlichkeit: 67 %
+- **22.06. – Typisch-Mann-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/stupid-guy-thing-day/ — „Typisch-Mann-Tag – Stupid Guy Thing Day in den USA“
+- **22.06. – Weltregenwaldtag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltregenwaldtag/ — „Weltregenwaldtag – World Rainforest Day am 22. Juni“
+- **22.06. – Welttag der Kamele** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-kamele/ — „Welttag der Kamele – World Camel Day am 22. Juni“
+- **22.06. – Welttag des VW-Käfers** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-des-vw-kaefers/ — „Welttag des VW-Käfers – Worldwide VW Beetle Day“
+- **23.06. – Gedenktag an die Opfer des Terrorismus** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/kanadischer-gedenktag-an-die-opfer-des-terrorismus
+- **23.06. – Loslassen-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/loslassen-tag/ — „Loslassen-Tag in den USA – Let it Go Day am 23. Juni“
+- **23.06. – Luxemburgischer Nationalfeiertag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/luxemburgischer-nationalfeiertag
+- **23.06. – Pink-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/pink-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/pink-tag/ — „Pink-Tag oder Tag der Farbe Pink – National Pink Day in den USA“
+- **23.06. – Tag der pinken Flamingos** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-pinken-flamingos/ — „Tag der pinken Flamingos – Pink Flamingo Day in den USA“
+- **23.06. – Tag der Schreibmaschine** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-schreibmaschine
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/typewriter-day/ — „Tag der Schreibmaschine – der internationale Typewriter Day“
+- **23.06. – Tag der Witwen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-witwen
+- **23.06. – Tag des öffentlichen Dienstes** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-offentlichen-dienstes
+- **24.06. – Johannistag und Johannisnacht am 24. Juni** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/johannistag/
+- **24.06. – Schwimm-eine-Runde-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/schwimm-eine-runde-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/schwimm-eine-runde-tag/ — „Schwimm-eine-Runde-Tag in den USA – National Swim a Lap Day“
+- **24.06. – Tag der Feen** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-feen
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-fairy-day/ — „Internationaler Feen-Tag – der International Fairy Day“
+  - automatische Ähnlichkeit: 67 %
+- **24.06. – Tag der Pralinen** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-pralinen
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-pralinen-usa/ — „Tag der Pralinen – National Pralines Day in den USA“
+- **24.06. – Tag des UFOs** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-ufos/ — „Tag des UFOs – der US-amerikanische UFO Day“
+- **25.06. – Aschura-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/aschura-tag
+- **25.06. – Blockhaus-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/blockhaus-tag/ — „Blockhaus-Tag – der National Log Cabin Day in den USA“
+- **25.06. – Noch sechs Monate bis Weihnachten** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/leon-day/ — „Noch sechs Monate bis Weihnachten – der US-amerikanische Leon Day“
+- **25.06. – Staatsfeiertag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/kroatien-staatsfeiertag
+- **25.06. – Tag der Beatles** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-beatles
+- **25.06. – Tag der Weißfleckenkrankheit** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-weissfleckenkrankheit
+- **25.06. – Tag des Erdbeerparfaits** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-erdbeerparfaits/ — „Tag des Erdbeerparfaits – National Strawberry Parfait Day in den USA“
+- **25.06. – Tag des Handschlags** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-handschlags
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-handschlags/ — „Tag des Handschlags in den USA – National Handshake Day am 25. Juni 2026“
+- **25.06. – Tag des Seefahrers** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-seefahrers
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/day-of-the-seafarer/ — „Tag der Seefahrer – internationaler IMO Day of the Seafarer 2026“
+- **25.06. – Tag des Ziegenkäses** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-ziegenkaeses/ — „Tag des Ziegenkäses – Goats Cheese Day in Großbritannien“
+- **25.06. – Unabhängigkeitstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/mosambik-unabhaengigkeitstag
+- **25.06. – Unabhängigkeitstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/slowenien-unabhaengigkeitstag
+- **25.06. – Welttag der Schulfreunde** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/welttag-der-schulfreunde
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-schulfreunde/ — „Welttag der Schulfreunde – 25. Juni 2026“
+- **26.06. – Bärengedenktag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/baerengedenktag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/baerengedenktag-in-deutschland/ — „Bärengedenktag in Deutschland am 26. Juni – Gedenktag für den Bären Bruno JJ 1“
+- **26.06. – Nimm-Deinen-Hund-mit-zur-Arbeit-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/nimm-deinen-hund-mit-zur-arbeit-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/take-your-dog-to-work-day-usa/ — „Nimm-Deinen-Hund-mit-zur-Arbeit-Tag 2026 – Take Your Dog To Work Day in den USA“
+- **26.06. – Tag der Foodtrucks** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-foodtrucks/ — „Tag der Foodtrucks in den USA – National Food Truck Day 2026“
+- **26.06. – Tag der Kosmetiker** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-kosmetiker
+- **26.06. – Tag der Tropicals** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-tropicals/ — „Tag der Tropicals – Tropical Cocktails Day in den USA“
+- **26.06. – Tag des Kanus** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-kanus
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kanus-kanada/ — „Tag des Kanus 2026 – der kanadische National Canoe Day am 26. Juni“
+- **26.06. – Tag des Schokoladenpuddings** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-schokoladenpuddings
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-schokoladenpuddings/ — „Tag des Schokoladenpuddings – National Chocolate Pudding Day in den USA“
+- **26.06. – Tag gegen Drogenmißbrauch und illegalen Drogenhandel** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-gegen-drogenmissbrauch-und-illegalen-drogenhandel
+- **26.06. – Tag zur Unterstützung der Folteropfer** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-zur-unterstuetzung-der-folteropfer
+- **26.06. – Unabhängigkeitstag IN Madagaskar** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/madagaskar-unabhaengigkeitstag
+- **26.06. – Welttag der Kältetechnik** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-kaeltetechnik/ — „Welttag der Kältetechnik – World Refrigeration Day am 26. Juni“
+- **27.06. – Der bundesweite Tag des Deutschen Whiskys am 27. Juni 2026** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-deutschen-whiskys/
+- **27.06. – Happy-Birthday-to-You-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/happy-birthday-to-you-tag/ — „Happy-Birthday-to-You-Tag – Happy Birthday to You Day in den USA“
+- **27.06. – Internationaler Tag der Schlümpfe** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-schluempfe/ — „Internationaler Tag der Schlümpfe – der Global Smurfs Day am 27. Juni 2026“
+- **27.06. – Siebenschläfertag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/siebenschlaefertag/ — „Siebenschläfertag in Deutschland – die sieben Schläfer von Ephesus am 27. Juni“
+- **27.06. – Tag der Ananas** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-ananas
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-pineapple-day/ — „Internationaler Tag der Ananas – der International Pineapple Day am 27. Juni“
+- **27.06. – Tag der Posttraumatischen Belastungsstörung** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-posttraumatischen-belastungsstoerung
+- **27.06. – Tag der Sonnenbrille** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-sonnenbrille
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-sonnenbrille/ — „Tag der Sonnenbrille – National Sunglasses Day in den USA“
+- **27.06. – Tag der Zwiebel am 27. Juni** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-zwiebel/ — „Tag der Zwiebel am 27. Juni – der National Onion Day in den Vereinigten Staaten“
+- **28.06. – Christopher Street Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/christopher-street-day
+- **28.06. – Paul-Bunyan-Tag am 28. Juni** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/paul-bunyan-day/ — „Paul-Bunyan-Tag am 28. Juni – National Paul Bunyan Day in den Vereinigten Staaten“
+- **28.06. – Tag der alternativen Kreiszahl Tau** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tau-day/ — „Tag der alternativen Kreiszahl Tau – der internationale Tau Day am 28. Juni“
+- **28.06. – Tag der Verfassung in der Ukraine** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-verfassung-in-der-ukraine
+- **28.06. – Tag der Versicherungen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-versicherungen
+- **28.06. – Tag des Body Piercing** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-body-piercing
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-body-piercing-day/ — „Internationaler Tag des Body Piercing – der International Body Piercing Day“
+- **28.06. – Tag des Tapioka** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-tapioka
+- **28.06. – Tau-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tau-tag
+- **29.06. – Feiertag der Umarmung** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/feiertag-der-umarmung
+- **29.06. – Internationaler Matsch-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-mud-day/ — „Internationaler Matsch-Tag – der International Mud Day am 29. Juni 2026“
+- **29.06. – Internationaler Tag der Fischer** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-fischer/ — „Internationaler Tag der Fischer – International Fisherman’s Day am 29. Juni“
+- **29.06. – Internationaler Tag der Tropen am 29. Juni** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-tropen/ — „Internationaler Tag der Tropen am 29. Juni – International Day of the Tropics“
+- **29.06. – Tag der Donau** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-donau
+- **29.06. – Tag der Kamera** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-kamera/ — „Tag der Kamera – der US-amerikanische National Camera Day am 29. Juni“
+- **29.06. – Tag des Industriedesigns** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-industriedesigns
+- **29.06. – Tag des Mandel-Buttercrunch** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-mandel-buttercrunch/ — „Tag des Mandel-Buttercrunch – National Almond Buttercrunch Day in den USA“
+- **29.06. – Tag des Matsches** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-matsches
+- **29.06. – Tag des Waffeleisens** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-waffeleisens
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-waffeleisens/ — „Tag des Waffeleisens – der US-amerikanische National Waffle Iron Day“
+- **30.06. – Grounding Page kuriose-feiertage** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/grounding/kuriose-feiertage-grounding.html
+- **30.06. – Grounding Page Sven Giese** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/grounding/sven-giese.html
+- **30.06. – Inkontinenztag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/inkontinenztag
+- **30.06. – Internationaler Tag der Asteroiden** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-asteroiden/ — „Internationaler Tag der Asteroiden – International Asteroid Day“
+- **30.06. – Mai-Tai-Tag am 30. Juni** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/mai-tai-tag/ — „Mai-Tai-Tag am 30. Juni – National Mai Tai Day in den USA“
+- **30.06. – Social-Media-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/social-media-tag
+- **30.06. – Tag des Meteors** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-des-meteors
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-meteors/ — „Tag des Meteors – Meteor Day zur Erinnerung an das Tunguska-Ereignis am 30. Juni 1908“
+- **30.06. – Unabhängigkeitstag der Demokratische Republik Kongo** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/demokratische-republik-kongo-unabhaengigkeitstag
+## Juli
+
+- **01.07. – Canada Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/canada-day
+- **01.07. – Chicken-Wing-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/chicken-wing-tag/ — „Chicken-Wing-Tag – der US-amerikanische National und International Chicken Wing Day“
+- **01.07. – Internationaler Witze-Tag 2026** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-joke-day/ — „Internationaler Witze-Tag 2026 – der International Joke Day am 1. Juli“
+- **01.07. – July Morning** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/july-morning
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/july-morning/ — „July Morning in Bulgarien – eine Hippie-Tradition zum 1. Juli“
+- **01.07. – Tag der Briefmarken** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-briefmarken/ — „Tag der Briefmarken – National U.S. Postage Stamp Day in den USA“
+- **01.07. – Tag der Früchte** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-fruechte
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-fruit-day/ — „Internationaler Tag der Früchte – der International Fruit Day 2026“
+- **01.07. – Tag der Ingwerplätzchen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-ingwerplaetzchen/ — „Tag der Ingwerplätzchen – National Gingersnap Day in den USA“
+- **01.07. – Tag der kreativen Eissorten** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-kreativen-eissorten
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-kreativen-eissorten/ — „Tag der kreativen Eissorten – Creative Ice Cream Flavors Day in den USA“
+- **01.07. – Tag der Litfaßsäule** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-litfasssaeule/ — „Tag der Litfaßsäule in Deutschland – 1. Juli 1855“
+- **01.07. – Tag der Witze** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-witze
+- **01.07. – Unabhängigkeitstag in Ruanda** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/ruanda-unabhaengigkeitstag
+- **01.07. – Unabhängigkeitstag in Somalia** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/somalia-unabhaengigkeitstag
+- **02.07. – Habe-ich-vergessen-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/habe-ich-vergessen-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/habe-ich-vergessen-tag/ — „Habe-ich-vergessen-Tag – National I Forgot Day in den USA“
+- **02.07. – Tag der Franken** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-franken
+- **02.07. – Tag des Anisette am 2. Juli** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-anisettes/ — „Tag des Anisette am 2. Juli – National Anisette Day in den USA“
+- **02.07. – Tag des Toilettenpapierbeutels oder Tag des ToiPaBeu** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-toipabeu/ — „Tag des Toilettenpapierbeutels oder Tag des ToiPaBeu in Deutschland“
+- **02.07. – Tag des UFOs** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-des-ufos
+- **02.07. – Welt-UFO-Tag am 2. Juli** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-ufo-day/ — „Welt-UFO-Tag am 2. Juli – World UFO Day 2026“
+- **03.07. – Bleib-aus-der-Sonne-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/bleib-aus-der-sonne-tag
+- **03.07. – Internationaler Plastiktütenfreier Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-plastic-bag-free-day/ — „Internationaler Plastiktütenfreier Tag – International Plastic Bag Free Day 2026“
+- **03.07. – Iss-Deine-Bohnen-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/iss-deine-bohnen-tag/ — „Iss-Deine-Bohnen-Tag – der US-amerikanische National Eat Your Beans Day“
+- **03.07. – Plastiktütenfreien Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/plastiktuetenfreien-tag
+- **03.07. – Schmeichle-Deinem-Spiegelbild-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/schmeichle-deinem-spiegelbild-tag/ — „Schmeichle-Deinem-Spiegelbild-Tag – Compliment Your Mirror Day in den USA“
+- **03.07. – Tag der Befreiung vom Faschismus in Weißrussland** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-befreiung-vom-faschismus
+- **03.07. – Tag der Klimaanlage** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-klimaanlage/ — „Tag der Klimaanlage – Air Conditioning Appreciation Day in den USA“
+- **03.07. – Tag der Schokoladen-Waffeln** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-schokoladen-waffeln/ — „Tag der Schokoladen-Waffeln – National Chocolate Wafer Day in den USA“
+- **03.07. – Tag des Ungehorsams** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-ungehorsams
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-ungehorsams/ — „Tag des Ungehorsams – der US-amerikanische National Disobedience Day“
+- **03.07. – Tage der Klimaanlage** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tage-der-klimaanlage
+- **03.07. – World Meerkat Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-erdmaennchen/ — „World Meerkat Day – der internationale Welttag der Erdmännchen 2026“
+- **04.07. – Alice-im-Wunderland-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/alice-im-wunderland-tag/ — „Alice-im-Wunderland-Tag – der internationale Alice in Wonderland Day“
+- **04.07. – Brate-Eier-auf-dem-Gehweg-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/brate-eier-auf-dem-gehweg-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/brate-eier-auf-dem-gehweg-tag/ — „Brate-Eier-auf-dem-Gehweg-Tag – der US-amerikanische Sidewalk Egg Frying Day“
+- **04.07. – Die National Tom Sawyer Days** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-tom-sawyer-days/ — „Die National Tom Sawyer Days in den Vereinigten Staaten am 4. Juli 2026“
+- **04.07. – Fleisch-Unabhängigkeits-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/independence-from-meat-day/ — „Fleisch-Unabhängigkeits-Tag – der US-amerikanische Independence from Meat Day“
+- **04.07. – Geh-in-den-Park-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/geh-in-den-park-tag-usa/ — „Geh-in-den-Park-Tag in den USA – National Hop A Park Day am 4. Juli 2026“
+- **04.07. – Genossenschaftstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/genossenschaftstag
+- **04.07. – Holocaust-Gedenktag in Lettland** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/lettland-holocaust-gedenktag
+- **04.07. – Independence Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/independence-day
+- **04.07. – Spareribs-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/spareribs-tag/ — „Spareribs-Tag – National Barbecued Spareribs Day in den USA“
+- **04.07. – Tag der Country-Musik** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/amerikanischer-tag-der-country-musik
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-country-musik-usa/ — „Tag der Country-Musik – der US-amerikanische National Country Music Day“
+- **04.07. – Tag der Gießkanne** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-giesskanne/ — „Tag der Gießkanne in Deutschland – bundesweiter Aktionstag am 4. Juli 2026“
+- **04.07. – Tag des Kirschkernspuckens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-kirschkernspuckens/ — „Tag des Kirschkernspuckens – International Cherry Pit Spitting Day 2026“
+- **04.07. – Unabhängig-von-Fleisch-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/unabhaengig-von-fleisch-tag
+- **05.07. – Nationalfeiertag in Venezuela** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/venezuela-nationalfeiertag
+- **05.07. – Tag der Graham Cracker** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-graham-cracker/ — „Tag der Graham Cracker – National Graham Cracker Day in den Vereinigten Staaten“
+- **05.07. – Tag der Slawenapostel Kyrill und Method** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-slawenapostel-kyrill-und-method
+- **05.07. – Tag der Workaholics** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-workaholics
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-workaholics/ — „Tag der Workaholics – der US-amerikanische National Workaholics Day“
+- **05.07. – Tag des Bikinis** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-bikinis
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-bikinis/ — „Tag des Bikinis – Louis Réard präsentiert erstmals öffentlich den Bikini“
+- **06.07. – Eino Leinon päivä am 6. Juli** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/eino-leinon-paeivae-finnland/ — „Eino Leinon päivä am 6. Juli – Finnland feiert den Geburtstag von Eino Leino“
+- **06.07. – Internationaler Tag des Kusses** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/internationaler-tag-des-kusses
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-kissing-day/ — „Internationaler Tag des Kusses – International Kissing Day am 6. Juli 2026“
+- **06.07. – Jan-Hus-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/jan-hus-tag
+- **06.07. – Lade-Deinen-Webmaster-zum-Essen-ein-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/lade-deinen-webmaster-zum-essen-ein-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/take-your-webmaster-to-lunch-day/ — „Lade-Deinen-Webmaster-zum-Essen-ein-Tag – Take Your Webmaster To Lunch Day“
+- **06.07. – Tag der Regenschirmhülle** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-regenschirmhuelle/ — „Tag der Regenschirmhülle – National Umbrella Cover Day in den USA“
+- **06.07. – Tag des Brathähnchen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-brathaehnchen
+- **06.07. – Unabhängigkeitstag in Malawi** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/malawi-unabhaengigkeitstag
+- **07.07. – Globaler Tag der Vergebung** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/globaler-tag-der-vergebung
+- **07.07. – Iwan-Kupala-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/iwan-kupala-tag
+- **07.07. – Sag-die-Wahrheit-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/sag-die-wahrheit-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/sag-die-wahrheit-tag/ — „Sag-die-Wahrheit-Tag am 7. Juli – National Tell The Truth Day in den USA“
+- **07.07. – Tag der Makkaroni am 7. Juli** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-makkaroni/ — „Tag der Makkaroni am 7. Juli – National Macaroni Day in den Vereinigten Staaten“
+- **07.07. – Tag der Schokolade** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/internationaler-tag-der-schokolade
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-schokolade-usa/ — „Tag der Schokolade am 7. Juli – National Chocolate Day in den USA“
+- **07.07. – Tag des Erdbeereisbechers** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-erdbeereisbechers/ — „Tag des Erdbeereisbechers – National Strawberry Sundae Day in den USA“
+- **07.07. – Tag des Freibads** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-freibads/ — „Tag des Freibads – bundesweiter Aktionstag in Deutschland am 7. Juli 2026“
+- **07.07. – Tanabata** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tanabata-sternenfest-japan/ — „Tanabata in Japan oder die Tradition des japanischen Sternenfests am 7. Juli“
+- **08.07. – Jährliche Totenwache für Soapy Smith** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/annual-soapy-smith-wake/ — „Jährliche Totenwache für Soapy Smith – Annual Soapy Smith Wake am 8. Juli“
+- **08.07. – Tag der Blaubeeren** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-blaubeeren/ — „Tag der Blaubeeren – National Blueberry Day in den Vereinigten Staaten“
+- **08.07. – Tag der Mandel-Schokolade** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-mandel-schokolade
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-mandel-schokolade/ — „Tag der Mandel-Schokolade in den USA – National Chocolate with Almonds Day“
+- **08.07. – Tag der Videospiele** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-videospiele
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-videospiele/ — „Tag der Videospiele – der US-amerikanische Video Games Day am 8. Juli“
+- **09.07. – Fernweh-Tag am 9. Juli** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/fernweh-tag/ — „Fernweh-Tag am 9. Juli – Call of the Horizon Day in den Vereinigten Staaten“
+- **09.07. – Nicht-alle-Eier-fürs-Omelett-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/nicht-alle-eier-fuers-omelett-tag/ — „Nicht-alle-Eier-fürs-Omelett-Tag – National Don’t Put all your Eggs in One Omelet Day in den USA“
+- **09.07. – Tag der Zuckerplätzchen** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-zuckerplaetzchen
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-zuckerplaetzchen/ — „Tag der Zuckerplätzchen – National Sugar Cookie Day in den USA“
+- **09.07. – Tag des Rock 'n' Roll** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-rock-n-roll
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-rocknroll/ — „Tag des Rock’n’Roll – National Rock’n’Roll Day in den Vereinigten Staaten“
+- **09.07. – Unabhängigkeitstag im Südsudan** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/suedsudan-unabhaengigkeitstag
+- **09.07. – Unabhängigkeitstag in Argentinien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/argentinien-unabhaengigkeitstag
+- **10.07. – Ehrentag der Autosammler** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ehrentag-der-autosammler/ — „Ehrentag der Autosammler in den USA – Collector Car Appreciation Day 2026“
+- **10.07. – Ehrentag der Wasserschweine** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/capybara-appreciation-day/ — „Ehrentag der Wasserschweine – Capybara Appreciation Day in den USA“
+- **10.07. – Kätzchen-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/kaetzchen-tag/ — „Kätzchen-Tag – der US-amerikanische National Kitten Day am 10. Juli“
+- **10.07. – Siebenbrüdertag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/siebenbruedertag
+- **10.07. – Tag der Piña Colada** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-pina-colada
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-pina-colada/ — „Tag der Piña Colada – der US-amerikanische National Piña Colada Day“
+- **10.07. – Teddybär-Picknick-Tag** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/teddybaer-picknick-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-teddybaer-picknicks/ — „Tag des Teddybär-Picknicks – der internationale Teddy Bear Picnic Day“
+  - automatische Ähnlichkeit: 67 %
+- **10.07. – Tritt-nicht-auf-eine-Biene-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tritt-nicht-auf-eine-biene-tag/ — „Tritt-nicht-auf-eine-Biene-Tag – Don’t Step on a Bee Day in den USA“
+- **10.07. – Unabhängigkeitstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/bahamas-unabhaengigkeitstag
+- **11.07. – Día del Bandoneón** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/dia-del-bandoneon/ — „Día del Bandoneón – der argentinische Tag des Bandoneons am 11. Juli“
+- **11.07. – Mojito-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/mojito-tag/ — „Mojito-Tag – der US-amerikanische National Mojito Day am 11. Juli 2026“
+- **11.07. – Muntere-die-Einsamen-auf-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/muntere-die-einsamen-auf-tag/ — „Muntere-die-Einsamen-auf-Tag – National Cheer Up the Lonely Day in den USA“
+- **11.07. – Tag der Haustierfotos** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-haustierfotos/ — „Tag der Haustierfotos in den USA – All American Pet Photo Day am 11. Juli“
+- **11.07. – Tag des Blaubeermuffins** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-blaubeermuffins
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-blaubeermuffins/ — „Tag des Blaubeermuffins – der US-amerikanische National Blueberry Muffin Day“
+- **11.07. – Tag des Genozid in Srebrenica** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-des-genozid-in-srebrenica
+- **11.07. – Tag des Swimmingpools** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-swimmingpools/ — „Tag des Swimmingpools in den USA – National Swimming Pool Day am 11. Juli“
+- **11.07. – Weltbevölkerungstag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltbevolkerungstag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltbevoelkerungstag/ — „Weltbevölkerungstag am 11. Juli – der UNO World Population Day 2026“
+- **11.07. – World Horse Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-pferde/ — „World Horse Day – der internationale UN-Welttag der Pferde am 11. Juli“
+- **12.07. – Etch-A-Sketch-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/etch-a-sketch-tag
+- **12.07. – Tag der Einfachheit** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-einfachheit
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-einfachheit/ — „Tag der Einfachheit am 12. Juli – National Simplicity Day in den Vereinigten Staaten“
+- **12.07. – Tag der Iris-Heterochromie** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-iris-heterochromie/ — „Tag der Iris-Heterochromie – der US-amerikanische National Different Colored Eyes Day“
+- **12.07. – Tag der Papiertüte am 12. Juli** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-papiertuete/ — „Tag der Papiertüte am 12. Juli – National Paper Bag Day in den Vereinigten Staaten“
+- **12.07. – Tag des Pekannusskuchens** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-pekannusskuchens
+- **12.07. – Unabhängigkeitstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/kiribati-unabhaengigkeitstag
+- **12.07. – Unabhängigkeitstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/s%C3%83%C2%A3o-tom%C3%83%C2%A9-und-pr%C3%83%C2%ADncipe-unabhaengigkeitstag
+- **12.07. – Wackelpudding-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/wackelpudding-tag/ — „Wackelpudding-Tag – National Eat Your Jell-O Day in den Vereinigten Staaten“
+- **13.07. – Dia internacional do Rock in Brasilien** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/dia-internacional-do-rock/ — „Dia internacional do Rock in Brasilien – International Day of Rock“
+- **13.07. – Ehrentag der Barbershop-Musik** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/ehrentag-der-barbershop-musik
+- **13.07. – Internationaler Tag der Stadtschreier** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-stadtschreier/ — „Internationaler Tag der Stadtschreier – International Town Criers Day 2026“
+- **13.07. – Sei-stolz-ein-Geek-zu-sein-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/sei-stolz-ein-geek-zu-sein-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/embrace-your-geekness-day/ — „Sei-stolz-ein-Geek-zu-sein-Tag – der US-amerikanische Embrace Your Geekness Day“
+- **13.07. – Tag der fröhlichen Arbeitnehmer** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-froehlichen-arbeitnehmer/ — „Tag der fröhlichen Arbeitnehmer – der US-amerikanische Gruntled Workers Day“
+- **13.07. – Tag der Pommes frites** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-pommes-frites
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/pommes-tag/ — „Pommes-Tag – der US-amerikanische National French Fry Day“
+  - automatische Ähnlichkeit: 67 %
+- **13.07. – Tag des Stadtschreiers** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-des-stadtschreiers
+- **14.07. – Ehrentag der Kuh** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ehrentag-der-kuh-usa/ — „Ehrentag der Kuh in den USA – Cow Appreciation Day am 14. Juli 2026“
+- **14.07. – Fête nationale** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/fete-nationale
+- **14.07. – Spongebobs Geburtstag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/spongebobs-geburtstag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/spongebobs-geburtstag/ — „Spongebobs Geburtstag – Happy Birthday SpongeBob Schwammkopf“
+- **14.07. – Tag der Haie am 14. Juli** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-haie/ — „Tag der Haie am 14. Juli – National Shark Awareness Day in den Vereinigten Staaten“
+- **14.07. – Tag der Käse-Makkaroni** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-kaese-makkaroni/ — „Tag der Käse-Makkaroni – National Mac and Cheese Day in den Vereinigten Staaten“
+- **14.07. – Tag der Nacktheit** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-nacktheit
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-nacktheit/ — „Internationaler Tag der Nacktheit – International Nude Day in Neuseeland und den USA“
+- **14.07. – Tag des Grand Marnier am 14. Juli** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-grand-marnier/ — „Tag des Grand Marnier am 14. Juli – National Grand Marnier Day in den USA“
+- **14.07. – Tag des Maßbandes** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-massbands/ — „Tag des Maßbandes – der US-amerikanische National Tape Measure Day“
+- **15.07. – Ich-mag-Pferde-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-i-love-horses-day-usa/ — „Ich-mag-Pferde-Tag – der US-amerikanische National I Love Horses Day“
+- **15.07. – Tag der Gummiwürmer** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-gummiwuermer
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-gummiwuermer/ — „Tag der Gummiwürmer am 15. Juli – National Gummi Worm Day in den USA“
+- **15.07. – Tag des Hot Dogs** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-hot-dog/ — „Tag des Hot Dogs in den Vereinigten Staaten – National Hot Dog Day 15. Juli 2026“
+- **15.07. – Tag des Teilens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-teilens/ — „Tag des Teilens – der US-amerikanische National Give Something Away Day“
+- **15.07. – Welttag für den Kompetenzerwerb junger Menschen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-fuer-den-kompetenzerwerb-junger-menschen
+- **16.07. – Der bundesweite Tag des guten Fleisches** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-guten-fleisches/ — „Der bundesweite Tag des guten Fleisches in Deutschland – 16. Juli 2026“
+- **16.07. – Ehrentag der Meerschweinchen- Guinea Pig Appreciation Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ehrentag-der-meerschweinchen-kanada/ — „Ehrentag der Meerschweinchen- Guinea Pig Appreciation Day in Kanada“
+- **16.07. – Gedenktag Unserer Lieben Frau auf dem Berge Karmel** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/gedenktag-unserer-lieben-frau-auf-dem-berge-karmel
+- **16.07. – Tag des frischen Spinats** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-frischen-spinats
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-frischen-spinats/ — „Tag des frischen Spinats – der US-amerikanische National Fresh Spinach Day“
+- **16.07. – Welttag der Schlange** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/welttag-der-schlange
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-schlange/ — „Welttag der Schlange – der internationale World Snake Day am 16. Juli“
+- **17.07. – Tag der Gerechtigkeit** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-gerechtigkeit
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-gerechtigkeit/ — „Internationaler Tag der Gerechtigkeit – der International Justice Day 2026“
+- **17.07. – Tag des Emojis** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-emojis
+- **17.07. – Tag des gelben Schweins** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-gelben-schweins
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-gelben-schweins/ — „Tag des gelben Schweins – der US-amerikanische National Yellow Pig Day“
+- **17.07. – Tattoo-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-tattoo-day-und-national-tattoo-day/ — „Tattoo-Tag – World Tattoo Day am 21. März und National Tattoo Day am 17. Juli“
+- **17.07. – Welt-Emoji-Tag am 17. Juli** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welt-emoji-tag/ — „Welt-Emoji-Tag am 17. Juli – der internationale World Emoji Day 2026“
+- **17.07. – Wrong-Way-Corrigan-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/wrong-way-corrigan-tag/ — „Wrong-Way-Corrigan-Tag in den USA – National Wrong Way Corrigan Day“
+- **18.07. – Nelson-Mandela-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/nelson-mandela-tag
+- **18.07. – Tag der sauren Süßigkeiten** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-sauren-suessigkeiten/ — „Tag der sauren Süßigkeiten – National Sour Candy Day in den Vereinigten Staaten“
+- **18.07. – Tag des Kaviars** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-kaviars
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kaviars/ — „Tag des Kaviars in den Vereinigten Staaten – National Caviar Day am 18. Juli“
+- **18.07. – Tag des Woodie-Kombiwagens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-woodie/ — „Tag des Woodie-Kombiwagens in den USA – National Woodie Wagon Day 2026“
+- **18.07. – Welt-Zuhör-Tag am 18. Juli** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-listening-day/ — „Welt-Zuhör-Tag am 18. Juli – der internationale World Listening Day 2026“
+- **18.07. – Wirf-könnte-und-sollte-weg-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/wirf-koennte-und-sollte-weg-tag/ — „Wirf-könnte-und-sollte-weg-Tag – Toss Away the Could Haves and Should Haves Day 2026“
+- **19.07. – Der bundesweite Tag der Zugverspätung** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-zugverspaetung/ — „Der bundesweite Tag der Zugverspätung in Deutschland – 19. Juli“
+- **19.07. – Eiscreme-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-ice-cream-day-usa/ — „Eiscreme-Tag in den USA – National Ice Cream Day am 19. Juli 2026“
+- **19.07. – Simson-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/simson-tag/ — „Simson-Tag – bundesweiter Aktionstag in Deutschland am 19. Juli 2026“
+- **19.07. – Strecke-die-Zunge-raus-Tag am 19. Juli** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/streck-die-zunge-raus-tag/ — „Strecke-die-Zunge-raus-Tag am 19. Juli – Stick Out Your Tongue Day in den USA“
+- **19.07. – Tag des Daiquiri** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-daiquiri
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-daiquiri/ — „Tag des Daiquiri am 19. Juli – National Daiquiri Day in den Vereinigten Staaten“
+- **19.07. – Tag des Himbeerkuchens** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-himbeerkuchens
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-himbeerkuchens/ — „Tag des Himbeerkuchens – National Raspberry Cake Day in den USA“
+- **20.07. – Gedenktag zum Attentat vom 20. Juli 1944** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/gedenktag-zum-attentat-vom-20-juli-1944
+- **20.07. – Internationaler Schach-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-chess-day/ — „Internationaler Schach-Tag – International Chess Day – Happy Birthday, FIDE am 20. Juli“
+- **20.07. – Internationaler Tag des Ambigramms** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-ambigramms/ — „Internationaler Tag des Ambigramms – International Ambigram Day am 20. Juli“
+- **20.07. – Internationaler Tag des Kuchens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-cake-day/ — „Internationaler Tag des Kuchens – der International Cake Day am 20. Juli“
+- **20.07. – Internationaler-Umarmt-Eure-Kinder-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/global-hug-your-kids-day/ — „Internationaler-Umarmt-Eure-Kinder-Tag – der Global Hug Your Kids Day 2026“
+- **20.07. – Lollipop-Tag am 20. Juli** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/lollipop-tag/ — „Lollipop-Tag am 20. Juli – National Lollipop Day in den Vereinigten Staaten“
+- **20.07. – Tag des hässlichen Trucks** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-haesslichen-trucks
+- **20.07. – Tag des Meeres in Japan** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-meeres-japan
+- **20.07. – Tag des Mondes** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-des-mondes
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-mondes/ — „Tag des Mondes – National Moon Day in den USA und International Moon Day“
+- **20.07. – Tag des Schachs** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-schachs
+- **20.07. – Umarme-Deine-Kinder-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/umarme-deine-kinder-tag
+- **20.07. – Unabhängigkeitstag in Kolumbien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/kolumbien-unabhaengigkeitstag
+- **20.07. – Weltraumforschungstag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltraumforschungstag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltraumforschungstag/ — „Weltraumforschungstag – Space Exploration Day in den Vereinigten Staaten“
+- **20.07. – World Jump Day** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/world-jump-day
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-jump-day/ — „World Jump Day – ein kollektiver Sprung der Menschheit am 20. Juli 2006“
+- **21.07. – Crème-brûlée-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/creme-brulee-tag/ — „Crème-brûlée-Tag – National Creme Brulee Day in den Vereinigten Staaten“
+- **21.07. – Gedenktag für verstorbene Drogenabhängige** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/nationaler-gedenktag-fuer-verstorbene-drogenabhaengige
+- **21.07. – National Be Someone Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-be-someone-day/ — „National Be Someone Day in den Vereinigten Staaten am 21. Juli“
+- **21.07. – Nationalfeiertag in Belgien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/belgien-nationalfeiertag
+- **21.07. – Tag des Junkfood** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-junkfood
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-junkfoods/ — „Tag des Junkfoods – der US-amerikanische National Junk Food Day“
+- **22.07. – Pi-Annäherungstag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/pi-ann%C3%A4herungstag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/pi-annaeherungstag/ — „Pi-Annäherungstag – der Pi Approximation Day“
+- **22.07. – Tag der Hängematte** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-haengematte
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-haengematte/ — „Tag der Hängematte – Hammock Day in den USA“
+- **22.07. – Tag der Mango** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-mango/ — „Tag der Mango in den USA – National Mango Day am 22. Juli“
+- **22.07. – Tag der Sommerfreizeit** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-sommerfreizeit/ — „Tag der Sommerfreizeit – National Summer Leisure Day in den USA“
+- **22.07. – Tag des Rattenfängers** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-rattenfaengers
+- **22.07. – Welttag des Gehirns** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-des-gehirns/ — „Welttag des Gehirns – der World Brain Day 2026“
+- **23.07. – Beginn der Hundstage** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/hundstage
+- **23.07. – Der bundesweite Tag der Pinsa** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-pinsa/ — „Der bundesweite Tag der Pinsa in Deutschland“
+- **23.07. – Erdnussbutter-Schokoladen-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/erdnussbutter-schokoladen-tag/ — „Erdnussbutter-Schokoladen-Tag in den USA – National Peanut Butter and Chocolate Day“
+- **23.07. – International Yada, Yada, Yada Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-yada-yada-yada-day/ — „International Yada, Yada, Yada Day – Yada-Yada-Yada-Tag am 23. Juli“
+- **23.07. – Nationalfeiertag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/aegypten-nationalfeiertag
+- **23.07. – Tag der Erfrischungen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-erfrischungen/ — „Tag der Erfrischungen in den USA – National Refreshment Day am 23. Juli 2026“
+- **23.07. – Tag der großartigen Großmütter** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/gorgeous-grandma-day/ — „Tag der großartigen Großmütter – Gorgeous Grandma Day in den USA“
+- **23.07. – Tag der Schorle** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-schorle/ — „Tag der Schorle in Deutschland am 23. Juli 2026“
+- **23.07. – Tag des Vanilleeis** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-vanilleeis
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/vanilleeis-tag/ — „Vanilleeis-Tag – der US-amerikanische National Vanilla Ice Cream Day am 23. Juli“
+  - automatische Ähnlichkeit: 100 %
+- **23.07. – Zuckerstreusel-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/zuckerstreusel-tag/ — „Zuckerstreusel-Tag – National Sprinkle Day in den USA“
+- **24.07. – Erzähl-einen-alten-Witz-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/erzaehl-einen-alten-witz-tag/ — „Erzähl-einen-alten-Witz-Tag – National Tell an Old Joke Day in den USA“
+- **24.07. – Tag der Cousins und Cousinen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-cousins-und-cousinen
+- **24.07. – Tag der Freude** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-freude
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-freude/ — „Internationaler Tag der Freude – International Day of Joy am 24. Juli“
+- **24.07. – Tag der virtuellen Liebe** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-virtuellen-liebe
+- **24.07. – Tag des Drive-in** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-drive-thru-day/ — „Tag des Drive-in – der US-amerikanische National Drive-Thru Day am 24. Juli“
+- **24.07. – Tag des Tequila** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-tequila
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-tequila/ — „Tag des Tequila – der US-amerikanische National Tequila Day am 24. Juli“
+- **25.07. – Jakobstag oder Jakobitag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/jakobstag/ — „Jakobstag oder Jakobitag – Lostag zu Ehren des Apostels Jakobus am 25. Juli“
+- **25.07. – Käse-und-Wein-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/kaese-und-wein-tag/ — „Käse-und-Wein-Tag – National Wine and Cheese Day in den Vereinigten Staaten“
+- **25.07. – Nadel-Einfädelungs-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/nadel-einfaedelungs-tag/ — „Nadel-Einfädelungs-Tag – der US-amerikanische National Thread The Needle Day“
+- **25.07. – Tag der Kulinariker** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-kulinariker
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-kulinariker/ — „Tag der Kulinariker – der National Culinarians Day in den Vereinigten Staaten“
+- **25.07. – Tag der Republik in Tunesien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tunesien-tag-der-republik
+- **25.07. – Tag des Cowboy** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-cowboy/ — „Tag des Cowboy in den USA – National Day of the Cowboy am 25. Juli 2026“
+- **25.07. – Tag des Karussells** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-karussells/ — „Tag des Karussells in den USA – National Carousel Day oder National Merry-Go-Round Day“
+- **25.07. – Welttag der Prävention gegen das Ertrinken** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-praevention-gegen-das-ertrinken/ — „Welttag der Prävention gegen das Ertrinken – World Drowning Prevention Day“
+- **26.07. – Alles-oder-Nichts-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/alles-oder-nichts-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/alles-oder-nichts-tag/ — „Alles-oder-Nichts-Tag – der US-amerikanische National All or Nothing Day“
+- **26.07. – Der bundesweite Tag der Seenotretter** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-seenotretter/ — „Der bundesweite Tag der Seenotretter in Deutschland – 26. Juli 2026“
+- **26.07. – Independent Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/independent-day
+- **26.07. – Onkel-und-Tante-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/onkel-und-tante-tag
+- **26.07. – Tag des Bagelfests** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-bagelfest-day/ — „Tag des Bagelfests – der US-amerikanische National Bagelfest Day am 26. Juli“
+- **26.07. – Tag des Kaffee-Milchshakes** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/kaffee-milchshake-tag/ — „Tag des Kaffee-Milchshakes – National Coffee Milkshake Day in den USA“
+- **26.07. – Welttag des Tofu** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tofu-tag/ — „Welttag des Tofu – der internationale World Tofu Day am 26. Juli“
+- **27.07. – Crème-brûlée-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/creme-brulee-tag/ — „Crème-brûlée-Tag – National Creme Brulee Day in den Vereinigten Staaten“
+- **27.07. – Geh-mit-Deinen-Zimmerpflanzen-spazieren-Tag** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/geh-mit-deinen-zimmerpflanzen-spazieren-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/geh-mit-deiner-hose-spazieren-tag/ — „Geh-mit-deiner-Hose-spazieren-Tag – Take your Pants for a Walk Day in den USA“
+  - automatische Ähnlichkeit: 67 %
+- **27.07. – Geh-mit-Deiner-Zimmerpflanze-spazieren-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/geh-mit-deiner-zimmerpflanze-spazieren-tag/ — „Geh-mit-Deiner-Zimmerpflanze-spazieren-Tag – National Take Your Houseplants For A Walk Day“
+- **27.07. – Tag der Schlafmütze** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-schlafmuetze
+- **27.07. – Tag des Scotchs** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-scotchs/ — „Tag des Scotchs – der US-amerikanische National Scotch Day am 27. Juli“
+- **27.07. – Tag des Stelzenlaufens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-stelzenlaufens/ — „Tag des Stelzenlaufens – der US-amerikanische Walk On Stilts Day am 27. Juli“
+- **27.07. – Unikeonpäivä** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/unikeonpaeivae-der-finnische-siebenschlaefertag/ — „Unikeonpäivä – Siebenschläfertag oder Tag der Schlafmütze in Finnland“
+- **28.07. – Tag der Vollmilchschokolade** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-vollmilchschokolade
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-vollmilchschokolade/ — „Tag der Vollmilchschokolade – National Milk Chocolate Day in den USA“
+- **28.07. – Tag des Kaffeesatzes** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kaffeesatzes/ — „Tag des Kaffeesatzes in Deutschland – 28. Juli 2026“
+- **28.07. – Unabhängigkeitstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/peru-unabhaengigkeitstag
+- **28.07. – Welt-Hepatitis-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welt-hepatitis-tag
+- **28.07. – Welttag des Naturschutzes am 28. Juli** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-des-naturschutzes/ — „Welttag des Naturschutzes am 28. Juli – World Nature Conservation Day 2026“
+- **29.07. – Asalha Puja** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/asalha-puja
+- **29.07. – Chicken-Wing-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/chicken-wing-tag/ — „Chicken-Wing-Tag – der US-amerikanische National und International Chicken Wing Day“
+- **29.07. – Ólavsøka** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/%C3%83%E2%80%9Clavs%C3%83%C2%B8ka
+- **29.07. – Tag der Lasagne** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-lasagne
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-lasagne/ — „Tag der Lasagne am 29. Juli – National Lasagna Day in den Vereinigten Staaten“
+- **29.07. – Tag des Lippenstifts** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-lippenstifts
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-lippenstifts/ — „Tag des Lippenstifts – der National Lipstick Day in den Vereinigten Staaten“
+- **29.07. – Tag des Regens** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-regens
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-regens/ — „Tag des Regens in den USA – Rain Day in Waynesburg, Pennsylvania“
+- **29.07. – Tag des Tigers** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-tigers
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-tiger-day/ — „Internationaler Tag des Tigers – International Tiger Day oder Global Tiger Day“
+- **30.07. – Der internationale Weltpostkartentag am 30. Juli 2026** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltpostkartentag/
+- **30.07. – Nationalfeiertag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/marokko-nationalfeiertag
+- **30.07. – Tag der Freundschaft** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-freundschaft
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-day-of-friendship/ — „Internationaler Tag der Freundschaft – International Day of Friendship“
+- **30.07. – Tag des Käsekuchens** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-kaesekuchens
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kaesekuchens/ — „Tag des Käsekuchens in den USA – National Cheesecake Day am 30. Juli“
+- **30.07. – Tag des Taschenbuchs** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-des-taschenbuchs
+- **30.07. – Taschenbuch-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/taschenbuch-tag/ — „Taschenbuch-Tag – National Paperback Book Day in den USA“
+- **30.07. – Welttag des Schnorchelns** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-des-schnorchelns/ — „Welttag des Schnorchelns – World Snorkeling Day“
+- **30.07. – Welttag gegen Menschenhandel** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-gegen-menschenhandel
+- **30.07. – Zuspätkommtag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/zuspaetkommtag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/zuspaetkommtag/ — „Der bundesweite Zuspätkommtag in Deutschland am 30. Juli“
+- **31.07. – Black Tot Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/black-tot-day/ — „Black Tot Day in Großbritannien – Gedenktag der letzten offiziellen Rumration am 31. Juli 1970“
+- **31.07. – Ehrentag der Rettungsschwimmer** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-ehrentag-der-rettungsschwimmer/ — „Ehrentag der Rettungsschwimmer – International Lifeguard Appreciation Day“
+- **31.07. – Ehrentag des Sysadmins** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/system-administrator-appreciation-day/ — „Ehrentag des Sysadmins – System Administrator Appreciation Day 2026“
+- **31.07. – Grounding Page kuriose-feiertage** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/grounding/kuriose-feiertage-grounding.html
+- **31.07. – Grounding Page Sven Giese** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/grounding/sven-giese.html
+- **31.07. – Harry Potters Geburtstag am 31. Juli 1980** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/harry-potters-geburtstag/
+- **31.07. – Orgasmus-Tag Großbritannien am 31. Juli** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-orgasm-day-in-england/ — „Orgasmus-Tag Großbritannien am 31. Juli – National Orgasm Day in UK“
+- **31.07. – Tag der ausgefallenen Musikinstrumente** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-ausgefallenen-musikinstrumente
+- **31.07. – Tag der Avocado am 31. Juli** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-avocado/ — „Tag der Avocado am 31. Juli – National Avocado Day in den USA“
+- **31.07. – Tag des Mischlingshundes am 31. Juli und 2. Dezember** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-mischlingshundes-usa/ — „Tag des Mischlingshundes am 31. Juli und 2. Dezember – National Mutt Day in den USA“
+- **31.07. – Tag des Orgasmus in England** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/england-tag-des-orgasmus
+- **31.07. – Tag des Rangers** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-rangers
+- **31.07. – Tag des Systemadministrators** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-systemadministrators
+- **31.07. – Uncommon Musical Instrument Awereness Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-ausgefallenen-musikinstrumente/ — „Uncommon Musical Instrument Awereness Day – Tag der ausgefallenen Musikinstrumente“
+- **31.07. – Unterhalte-Dich-im-Fahrstuhl-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/talk-in-an-elevator-day/ — „Unterhalte-Dich-im-Fahrstuhl-Tag in den USA – Talk In An Elevator Day 2026“
+## August
+
+- **01.08. – Der nationale Tag der Alpakas in Peru** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-alpakas-in-peru/ — „Der nationale Tag der Alpakas in Peru – Dia Nacional del Alpaca am 1. August“
+- **01.08. – Freundinnen-Tag am 1. August** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/freundinnen-tag/ — „Freundinnen-Tag am 1. August – National Girlfriends Day in den USA“
+- **01.08. – Internationaler Tag des Blues** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-blues-music-day/ — „Internationaler Tag des Blues – International Blues Music Day am 1. August 2026“
+- **01.08. – Nationalfeiertag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/schweiz-nationalfeiertag
+- **01.08. – Spider-Man-Tag am 1. August** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/spider-man-tag/ — „Spider-Man-Tag am 1. August – National Spider-Man Day in den USA“
+- **01.08. – Tag der Kinderlosen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-kinderlosen
+- **01.08. – Tag der Sandburg** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-sandburg/ — „Tag der Sandburg in den USA – (National) Sandcastle Day am 1. August 2026“
+- **01.08. – Tag des Kanons** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kanons/ — „Tag des Kanons – Rounds Resounding Day in den USA“
+- **01.08. – Tag des Lungenkrebses** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-lungenkrebses
+- **01.08. – Tag des Mittelfingers** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-mittelfingers
+- **01.08. – Tag des Senfs** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-senfs
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-mustard-day-usa/ — „Tag des Senfs in den USA – National Mustard Day am 1. August 2026“
+- **01.08. – Tag des World Wide Web** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-des-world-wide-web
+- **01.08. – Unabhängigkeitstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/benin-unabhaengigkeitstag
+- **01.08. – World Middle Finger Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-middle-finger-day/ — „World Middle Finger Day – Welt-Mittelfingertag am 1. August“
+- **02.08. – Gedenktag für die im Ilinden-Preobraschenie-Aufstand Gefallenen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/gedenktag-fuer-die-im-ilinden-preobraschenie-aufstand-gefallenen
+- **02.08. – Nationalfeiertag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/mazedonien-nationalfeiertag
+- **02.08. – Sandwich-Eis-Tag am 2. August** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/sandwich-eis-tag/ — „Sandwich-Eis-Tag am 2. August – National Ice Cream Sandwich Day in den USA“
+- **02.08. – Tag der außersinnlichen Wahrnehmung** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-aussersinnlichen-wahrnehmung/ — „Tag der außersinnlichen Wahrnehmung in den USA – Psychic Day 2026“
+- **02.08. – Tag der Dinosaurier am 2. August** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-dinosaurier/ — „Tag der Dinosaurier am 2. August – National Dinosaurs Day in den USA“
+- **02.08. – Tag der Puppen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-puppen/ — „Tag der Puppen in den USA – National Doll Day am 2. August 2026“
+- **02.08. – Tag der Schwestern** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-schwestern
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-schwestern/ — „Tag der Schwestern in den USA – National Sisters Day am 2. August 2026“
+- **02.08. – Tag des Eiscreme-Sandwichs** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-eiscreme-sandwichs
+- **02.08. – Tag des Malbuchs** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-malbuchs
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-malbuchs/ — „Tag des Malbuchs – National Coloring Book Day in den Vereinigten Staaten“
+- **03.08. – Nimm-Dir-ein-paar-Nüsse-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/nimm-dir-ein-paar-nuesse-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/nimm-dir-ein-paar-nuesse-tag/ — „Nimm-Dir-ein-paar-Nüsse-Tag – National Grab Some Nuts Day in den USA“
+- **03.08. – Reinige-deine-Böden-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/reinige-deine-boeden-tag
+- **03.08. – Tag der Wassermelone** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-wassermelone
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-wassermelone/ — „Tag der Wassermelone am 3. August – National Watermelon Day in den USA“
+- **03.08. – Wisch-den-Fußboden-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/wisch-den-fussboden-tag/ — „Wisch-den-Fußboden-Tag – National Clean Your Floors Day in den USA“
+- **04.08. – Internationaler Ehrentag der Eule** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-ehrentag-der-eule/ — „Internationaler Ehrentag der Eule – International Owl Awareness Day“
+- **04.08. – Tag der Küstenwache** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-kuestenwache-usa/ — „Tag der Küstenwache – der US-amerikanische National Coast Guard Day“
+- **04.08. – Tag der Schokoladentropfen-Kekse** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-schokoladentropfen-kekse/ — „Tag der Schokoladentropfen-Kekse – National Chocolate Chip Cookie Day in den USA“
+- **04.08. – Tag der US-amerikanischen Küstenwache** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-us-amerikanischen-kuestenwache
+- **04.08. – Tag des Champagners** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-champagners
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-champagners-usa/ — „Tag des Champagners – National Champagne Day in den USA“
+- **04.08. – Tag des Weißweins** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-weissweins/ — „Tag des Weißweins – National White Wine Day in den USA“
+- **05.08. – Internationaler Tag der Verkehrsampel** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-verkehrsampel/ — „Internationaler Tag der Verkehrsampel – International Traffic Light Day“
+- **05.08. – Tag der Auster** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-auster/ — „Tag der Auster – der US-amerikanische National Oyster Day am 5. August“
+- **05.08. – Tag der grünen Paprika am 5. August** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-gruenen-paprika/ — „Tag der grünen Paprika am 5. August – National Green Peppers Day in den USA“
+- **05.08. – Tag der Unterwäsche** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-unterwaesche
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-unterwaesche/ — „Tag der Unterwäsche – National Underwear Day in den USA“
+- **05.08. – Tag des Abrackerns** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-abrackerns/ — „Tag des Abrackerns – National Work like a Dog Day in den Vereinigten Staaten“
+- **05.08. – Tag des Sieges und der heimatlichen Dankbarkeit** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-des-sieges-und-der-heimatlichen-dankbarkeit
+- **06.08. – Klatsch-und-Tratsch-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/klatsch-und-tratsch-tag/ — „Klatsch-und-Tratsch-Tag – National Gossip Day in den USA“
+- **06.08. – Root-Beer-Float-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/root-beer-float-tag/ — „Root-Beer-Float-Tag – National Root Beer Float Day in den USA“
+- **06.08. – Tag des frischen Atems** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-frischen-atems/ — „Tag des frischen Atems – National Fresh Breath Day in den USA“
+- **06.08. – Tag des Gedenkens an den Atombombenabwurf auf Hiroshima** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-des-gedenkens-an-den-atombombenabwurf-auf-hiroshima
+- **06.08. – Tag des Mets** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-mets
+- **06.08. – Unabhängigkeitstag in Bolivien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/bolivien-unabhaengigkeitstag
+- **06.08. – Unabhängigkeitstag in Jamaika** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/jamaika-unabhaengigkeitstag
+- **06.08. – Wackel-mit-den-Zehen-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/wackel-mit-den-zehen-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/wackel-mit-den-zehen-tag/ — „Wackel-mit-den-Zehen-Tag – Wiggle Your Toes Day in den USA“
+- **07.08. – Himbeeren-mit-Sahne-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/himbeeren-mit-sahne-tag/ — „Himbeeren-mit-Sahne-Tag – National Raspberries and Cream Day in den USA“
+- **07.08. – Tag der Drehtür** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-drehtuer/ — „Tag der Drehtür – Theophilus Van Kannel erhält am 7. August 1888 das US-Patent für die Drehtür“
+- **07.08. – Tag des Bieres** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-bieres
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-beer-day/ — „Internationaler Tag des Bieres – International Beer Day am 7. August 2026“
+- **07.08. – Tag des Leuchtturms** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-leuchtturms
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-leuchtturms/ — „Tag des Leuchtturms in den USA – National Lighthouse Day am 7. August“
+- **07.08. – Unabhängigkeitstag in der Elfenbeinküste** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/elfenbeinkueste-unabhaengigkeitstag
+- **07.08. – Unabhängigkeitstag in Kolumbien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/kolumbien-unabhaengigkeitstag-2
+- **08.08. – Augsburger Hohes Friedensfest** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/augsburger-friedensfest
+- **08.08. – Glücklichsein-ist-machbar-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/happiness-happens-day/ — „Glücklichsein-ist-machbar-Tag – der US-amerikanische Happiness Happens Day“
+- **08.08. – Memento Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/memento-tag/ — „Memento Tag in Deutschland am 8. August“
+- **08.08. – Mochi-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/mochi-tag/ — „Mochi-Tag – National Mochi Day in den USA“
+- **08.08. – Schmuggel-ein-paar-Zucchini-auf-die-Terrasse-Deiner-Nachbarn-Nacht** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/schmuggel-ein-paar-zucchini-auf-die-terrasse-deiner-nachbarn-nacht/ — „Schmuggel-ein-paar-Zucchini-auf-die-Terrasse-Deiner-Nachbarn-Nacht in den USA“
+- **08.08. – Tag der Katze** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-katze
+- **08.08. – Tag der Unendlichkeit** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-unendlichkeit/ — „Tag der Unendlichkeit – International Infinity Day“
+- **08.08. – Tag des Bowlings** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-bowlings/ — „Tag des Bowlings in den USA – National Bowling Day 2026“
+- **08.08. – Tag des Dollars am 8. August** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-dollars/ — „Tag des Dollars am 8. August – National Dollar Day in den Vereinigten Staaten“
+- **08.08. – Weltkatzentag oder: Internationaler Katzentag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltkatzentag/ — „Weltkatzentag oder: Internationaler Katzentag – der International Cat Day 2026“
+- **08.08. – Wiederholungstag, Wiederholungstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/wiederholungstag
+- **09.08. – Ehrentag der Kunst am 9. August** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-art-appreciation-day/ — „Ehrentag der Kunst am 9. August – International Art Appreciation Day“
+- **09.08. – Frauentag in Südafrika** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/frauentag-in-suedafrika
+- **09.08. – Tag der Buchliebhaber** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-buchliebhaber
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-buchliebhaber/ — „Tag der Buchliebhaber – National Book Lovers Day in den USA“
+- **09.08. – Tag der indigenen Völker** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-indigenen-voelker
+- **09.08. – Tag der Melone in Turkmenistan** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-melone-turkmenistan/ — „Tag der Melone in Turkmenistan – 9. August 2026“
+- **09.08. – Tag des Milchreis** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-milchreis
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-milchreis/ — „Tag des Milchreis – National Rice Pudding Day in den USA“
+- **09.08. – Unabhängigkeitstag in Singapur** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/singapur-unabhaengigkeitstag
+- **10.08. – Ehrentag der Wolkenkratzer** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ehrentag-der-wolkenkratzer/ — „Ehrentag der Wolkenkratzer – Skyscraper Appreciation Day in den USA“
+- **10.08. – Faulpelz-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/faulpelz-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/faulpelz-tag/ — „Faulpelz-Tag in den Vereinigten Staaten – National Lazy Day am 10. August“
+- **10.08. – S‘Mores-Tag am 10. August** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/smores-tag/ — „S‘Mores-Tag am 10. August – der National S’Mores Day in den Vereinigten Staaten“
+- **10.08. – Unabhängigkeitstag in Ecuador** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/ecuador-unabhaengigkeitstag
+- **10.08. – Welt-Löwen-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welt-loewen-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-lion-day/ — „Welt-Löwen-Tag am 10. August – der internationale World Lion Day 2026“
+- **11.08. – Spiel-im-Sand-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/spiel-im-sand-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/spiel-im-sand-tag/ — „Spiel-im-Sand-Tag am 11. August – National Play in the Sand Day in den USA“
+- **11.08. – Tag der Söhne und Töchter** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-soehne-und-toechter
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-soehne-und-toechter/ — „Tag der Söhne und Töchter – National Sons and Daughters Day in den USA“
+- **11.08. – Tag des Weizens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-weizens/ — „Tag des Weizens in Deutschland am 11. August“
+- **11.08. – Unabhängigkeitstag im Tschad** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tschad-unabhaengigkeitstag
+- **11.08. – Yama no hi** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-berges-japan/ — „Yama no hi – 山の日 – der nationale Tag des Berges in Japan am 11. August“
+- **12.08. – Sonnenfinsternis** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/sonnenfinsternis
+- **12.08. – Tag der Jugend** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-jugend
+- **12.08. – Tag der Mittelkinder am 12. August** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-mittelkinder/ — „Tag der Mittelkinder am 12. August – National Middle Child‘s Day in den USA“
+- **12.08. – Tag der Vinyl-Schallplatte** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-vinyl-schallplatte
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-vinyl-schallplatte/ — „Tag der Vinyl-Schallplatte – Vinyl Record Day in den USA“
+- **12.08. – Tag des Elefanten** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-elefanten
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-des-elefanten/ — „Welttag des Elefanten – World Elephant Day am 12. August“
+- **12.08. – Trucker-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/trucker-tag/ — „Trucker-Tag – Truck Driver Day und National Truckers Appreciation Day in den USA“
+- **13.08. – Jahrestag des Mauerbaus 1961** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/jahrestag-des-mauerbaus-1961
+- **13.08. – Linkshändertag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/linkshaendertag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-linkshaendertag/ — „Internationaler Linkshändertag – International Lefthanders Day am 13. August“
+- **13.08. – Prosecco-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/prosecco-tag/ — „Prosecco-Tag – der US-amerikanische National Prosecco Day am 13. August“
+- **13.08. – Tag des Filets Mignon** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-filet-mignon/ — „Tag des Filets Mignon – National Filet Mignon Day in den Vereinigten Staaten“
+- **14.08. – Internationaler Tag des Rosé** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-rose-day/ — „Internationaler Tag des Rosé – International Rosé Day“
+- **14.08. – Nationaler Navajo-Codesprecher-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/nationaler-navajo-codesprecher-tag
+- **14.08. – Navajo-Code-Sprecher-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/navajo-code-talkers-day/ — „Navajo-Code-Sprecher-Tag in den USA – National Navajo Code Talkers Day“
+- **14.08. – Tag des Wassereises** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-wassereises
+- **14.08. – Vanille-Fruchteis-am-Stiel-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/vanille-fruchteis-am-stiel-tag/ — „Vanille-Fruchteis-am-Stiel-Tag – der US-amerikanische National Creamsicle Day“
+- **14.08. – Welttag der Eidechsen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-eidechsen/ — „Welttag der Eidechsen – World Lizard Day am 14. August“
+- **15.08. – Beste-Freunde-Tag am 8. Juni und 15. August** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/beste-freunde-tag/ — „Beste-Freunde-Tag am 8. Juni und 15. August – National Best Friends Day in den USA“
+- **15.08. – Gedenktag des Kriegsendes in Japan** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/gedenktag-des-kriegsendes
+- **15.08. – Internationaler Geocaching-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-geocaching-day/ — „Internationaler Geocaching-Tag – International Geocaching Day 2026“
+- **15.08. – Nationalfeiertag in Liechtenstein** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/liechtenstein-nationalfeiertag
+- **15.08. – Tag der Erholung** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-erholung
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-erholung/ — „Tag der Erholung – National Relaxation Day in den USA“
+- **15.08. – Tag der Fehler am 15. August** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-fehler/ — „Tag der Fehler am 15. August – National Failures Day in den Vereinigten Staaten“
+- **15.08. – Tag der Honigbiene** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-honigbiene
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-honigbiene/ — „Tag der Honigbiene in den USA – National Honey Bee Day am 15. August 2026“
+- **15.08. – Tag der obdachlosen Tiere** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-obdachlosen-tiere
+- **15.08. – Tag der polnischen Armee** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-polnischen-armee
+- **15.08. – Tag des Geocachings** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-geocachings
+- **15.08. – Unabhängigkeitstag in Indien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/indien-unabhaengigkeitstag
+- **15.08. – Unabhängigkeitstag in Kongo** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/republik-kongo-unabhaengigkeitstag
+- **15.08. – Welttag des Panama-Kanals** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-des-panama-kanals
+- **16.08. – Bennington Battle Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/bennington-battle-day
+- **16.08. – Erzähl-einen-Witz-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/erzaehl-einen-witz-tag
+- **16.08. – Tag der Achterbahn** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-achterbahn
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-achterbahn/ — „Tag der Achterbahn am 16. August – National Roller Coaster Day in den USA“
+- **16.08. – Tag der Bratwurst** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-bratwurst
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-bratwurst/ — „Tag der Bratwurst – der National Bratwurst Day in den Vereinigten Staaten“
+- **16.08. – Tag des Rums** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-rums/ — „Tag des Rums – der US-amerikanische National Rum Day am 16. August“
+- **16.08. – Welttag des Helikopters** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-helicopter-day/ — „Welttag des Helikopters – der World Helicopter Day am 16. August 2026“
+- **16.08. – Wink-Überwachungskameras-zu-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/wink-ueberwachungskameras-zu-tag/ — „Wink-Überwachungskameras-zu-Tag – International Wave At The Surveillance Cameras Day“
+- **17.08. – Ich-mag-meine-Füße-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ich-mag-meine-fuesse-tag/ — „Ich-mag-meine-Füße-Tag – der US-amerikanische National I Love My Feet Day“
+- **17.08. – Nationalfeiertag in Argentinien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/argentinien-nationalfeiertag
+- **17.08. – Tag der Aubergine** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-aubergine/ — „Tag der Aubergine – International Eggplant Day und World Eggplant Day“
+- **17.08. – Tag der Republik in Indonesien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/indonesien-tag-der-republik
+- **17.08. – Tag der schwarzen Katze** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-schwarzen-katze
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-schwarzen-katze-usa/ — „Ehrentag der schwarzen Katze – Black Cat Appreciation Day in den USA“
+- **17.08. – Tag des HB-Bleistifts** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-hb-bleistifts/ — „Tag des HB-Bleistifts – der US-amerikanische National #2 Pencil Day am 17. August“
+- **17.08. – Unabhängigkeitstag in Gabun** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/gabun-unabhaengigkeitstag
+- **18.08. – Nationalfeiertag in Afghanistan** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/afghanistan-nationalfeiertag
+- **18.08. – Tag der Eiscreme-Torte am 18. August** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-eiscreme-torte/ — „Tag der Eiscreme-Torte am 18. August – National Ice Cream Pie Day in den USA“
+- **18.08. – Tag der Entdeckung des Elements Helium durch Jules Janssen am 18. August 1868** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-helium-entdeckung/
+- **18.08. – Tag der Papierformate** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-papierformate/ — „Tag der Papierformate – Publikation der Norm DIN 476 am 18. August 1922“
+- **18.08. – Tag der schlechten Poesie** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-schlechten-poesie
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-schlechten-poesie/ — „Tag der schlechten Poesie am 18. August – Bad Poetry Day in den USA“
+- **18.08. – Tag des hochgekrempelten Hosenbeins** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-hochgekrempelten-hosenbeins
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-hochgekrempelten-hosenbeins/ — „Tag des hochgekrempelten Hosenbeins in Deutschland am 18. August“
+- **18.08. – Tag des Versandhauskatalogs** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-des-versandhauskatalogs
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-versandhauskatalogs/ — „Tag des Versandhauskatalogs – National Mail Order Catalog Day in den USA“
+- **19.08. – Das chinesische Fest Qixi** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/qixi/ — „Das chinesische Fest Qixi – Elsterfest oder die Nacht der Siebenen am 19. August 2026“
+- **19.08. – Internationaler Tag der Haarschleife** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-haarschleife/ — „Internationaler Tag der Haarschleife – International Bow Day – 19. August“
+- **19.08. – Internationaler Tag des Orang-Utans** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-orangutan-day/ — „Internationaler Tag des Orang-Utans – International Orangutan Day – 19. August“
+- **19.08. – Nationaler Tag der Luftfahrt** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-luftfahrt-usa/ — „Nationaler Tag der Luftfahrt – National Aviation Day in den Vereinigten Staaten“
+- **19.08. – Softeis-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/softeis-tag/ — „Softeis-Tag in den Vereinigten Staaten – National Soft Ice Cream Day am 19. August“
+- **19.08. – Sprich-wie-Jar-Jar-Binks-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-talk-like-jar-jar-binks-day/ — „Sprich-wie-Jar-Jar-Binks-Tag – International Talk Like Jar Jar Binks Day am 19. August“
+- **19.08. – Tag der Fotografie** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-fotografie
+- **19.08. – Tag der Kartoffel** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-kartoffel
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-kartoffel-usa/ — „Tag der Kartoffel in den USA – National Tater Day und National Potato Day“
+- **19.08. – Tag der Kühlwasser-Legionellen und Tag der Kühlwasserhygiene** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-kuehlwasser-legionellen/ — „Tag der Kühlwasser-Legionellen und Tag der Kühlwasserhygiene in Deutschland 2026“
+- **19.08. – Tag des scharfen Essens in den USA** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-scharfen-essens-usa
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-scharfen-essens/ — „Tag des scharfen Essens – National Hot and Spicy Food Day in den USA“
+- **19.08. – Welt-Foto-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-photo-day/ — „Welt-Foto-Tag – World Photo Day oder World Photography Day am 19. August“
+- **19.08. – Welttag der humanitären Hilfe** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-der-humanitaeren-hilfe
+- **20.08. – Endlich-kaputt-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/endlich-kaputt-tag/ — „Endlich-kaputt-Tag in Deutschland – 20. August“
+- **20.08. – Gründungstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/ungarn-gruendungstag
+- **20.08. – Tag der Limonade am 20. August** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-limonade/ — „Tag der Limonade am 20. August – National Lemonade Day in den USA“
+- **20.08. – Tag der Mücke** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-muecke
+- **20.08. – Tag der Speck-Fans** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-speck-fans/ — „Tag der Speck-Fans – National Bacon Lovers Day in den USA“
+- **21.08. – Spumoni-Tag am 21. August** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/spumoni-tag/ — „Spumoni-Tag am 21. August – National Spumoni Day in den USA“
+- **21.08. – Tag der Dichter am 21. August** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-dichter/ — „Tag der Dichter am 21. August – der US-amerikanische National Poets Day“
+- **21.08. – Tag der Männerpflege** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-maennerpflege/ — „Tag der Männerpflege in den USA – Men’s Grooming Day am 21. August 2026“
+- **21.08. – Tag der Senioren** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-senioren
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-senioren-usa/ — „Tag der Senioren – National Senior Citizens Day in den USA“
+- **22.08. – Iss-einen-Pfirsich-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/iss-einen-pfirsich-tag/ — „Iss-einen-Pfirsich-Tag – National Eat a Peach Day in den USA“
+- **22.08. – Lass-Deine-Katze-untersuchen-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/lass-deine-katze-untersuchen-tag/ — „Lass-Deine-Katze-untersuchen-Tag – National Bring Your Cat to the Vet Day in den USA“
+- **22.08. – Sei-ein-Engel-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/sei-ein-engel-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/sei-ein-engel-tag/ — „Sei-ein-Engel-Tag – National Be An Angel Day in den USA“
+- **22.08. – Tag der Fische** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-fische
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-fische/ — „Tag der Fische in Deutschland am 22. August“
+- **22.08. – Weltpflanzenmilchtag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltpflanzenmilchtag/ — „Weltpflanzenmilchtag – der internationale World Plant Milk Day am 22. August“
+- **23.08. – Reite-den-Wind-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/reite-den-wind-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ride-the-wind-day/ — „Reite-den-Wind-Tag – der internationale Ride the Wind Day“
+- **23.08. – Tag der günstigen Flüge** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-guenstigen-fluege/ — „Tag der günstigen Flüge in den USA – National Cheap Flight Day“
+- **23.08. – Tag des Gedenkens an die Opfer von Stalinismus und Nationalsozialismus** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-des-gedenkens-an-die-opfer-von-stalinismus-und-nationalsozialismus
+- **23.08. – Tag zur Erinnerung an den Sklavenhandel und seine Abschaffung** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-zur-erinnerung-an-den-sklavenhandel-und-seine-abschaffung
+- **23.08. – World Daffodil Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-daffodil-day/ — „World Daffodil Day – Welttag der Narzisse am 23. August“
+- **24.08. – Kobe-Bryant-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/kobe-bryant-tag/ — „Kobe-Bryant-Tag – Kobe Bryant Day oder Black Mamba Day in Kalifornien“
+- **24.08. – La Noche de la Nostalgia** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/noche-de-la-nostalgia-uruguay/ — „La Noche de la Nostalgia – die Nacht der Nostalgie in Uruguay am 24. August“
+- **24.08. – Tag der Fußball-Bundesliga** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-fu%C3%9Fball-bundesliga
+- **24.08. – Tag der Herabstufung Plutos** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-herabstufung-plutos
+- **24.08. – Tag der seltsamen Musik** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-seltsamen-musik
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-strange-music-day/ — „Internationaler Tag der seltsamen Musik – der International Strange Music Day“
+- **24.08. – Tag der Waffel** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-waffel-usa/ — „Tag der Waffel – National Waffle Day in den USA“
+- **24.08. – Tag des Dosenöffners** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-dosenoeffners/ — „Tag des Dosenöffners – National Can Opener Day in den Vereinigten Staaten“
+- **24.08. – Tag des Messers** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-messers
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-messers/ — „Tag des Messers am 24. August – National Knife Day in den Vereinigten Staaten“
+- **24.08. – Tag des Vesuvs** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-des-vesuvs
+- **24.08. – Über-das-Wetter-schimpfen-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ueber-das-wetter-schimpfen-tag/ — „Über-das-Wetter-schimpfen-Tag – Weather Complaint Day in den USA“
+- **24.08. – Unabhängigkeitstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/ukraine-unabhaengigkeitstag
+- **25.08. – Küsst-und-versöhnt-Euch-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/kuesst-und-versoehnt-euch-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/kiss-and-make-up-day/ — „Küsst-und-versöhnt-Euch-Tag – der US-amerikanische Kiss And Make Up Day“
+- **25.08. – Linux-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/inux-tag
+- **25.08. – Tag der gebrauchten Kleidung** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-gebrauchten-kleidung/ — „Tag der gebrauchten Kleidung – der US-amerikanische National Second Hand Wardrobe Day“
+- **25.08. – Tag der Konservendose** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-konservendose-1810
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-konservendose/ — „Tag der Konservendose: Peter Durand erhält das Patent für die Konserve am 25. August 1810“
+- **25.08. – Tag des Bananensplits** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-bananensplits/ — „Tag des Bananensplits – National Banana Split Day in den Vereinigten Staaten“
+- **25.08. – The Great Moon Hoax oder der Tag des großen Mondschwindels am 25. August 1835** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-grossen-mondschwindels/
+- **26.08. – Kirsch-Wassereis-am-Stiel-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/kirsch-wassereis-am-stiel-tag/ — „Kirsch-Wassereis-am-Stiel-Tag – National Cherry Popsicle Day in den USA“
+- **26.08. – Tag der Gleichstellung von Frauen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-gleichstellung-von-frauen
+- **26.08. – Tag der WebMistress** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-webmistress
+- **26.08. – Tag des Hundes** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-hundes-usa/ — „Tag des Hundes in den Vereinigten Staaten – National Dog Day am 26. August“
+- **26.08. – Tag des Toilettenpapiers** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-toilettenpapiers
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-toilettenpapiers/ — „Tag des Toilettenpapiers – der National Toilet Paper Day in den USA“
+- **27.08. – Britischer Tag des Burgers** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/britischer-tag-des-burgers
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-burgers-grossbritannien/ — „Tag des Burgers in Großbritannien – National Burger Day am 27. August 2026“
+- **27.08. – Einfach-so-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/einfach-so-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/einfach-so-tag/ — „Einfach-so-Tag – der US-amerikanische Just because Day am 27. August“
+- **27.08. – Internationaler Schere-Stein-Papier-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/schere-stein-papier-tag/ — „Internationaler Schere-Stein-Papier-Tag – World Rock Paper Scissors Day“
+- **27.08. – Tag der Bananenliebhaber** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-bananenliebhaber/ — „Tag der Bananenliebhaber – National Banana Lovers Day in den Vereinigten Staaten“
+- **27.08. – Tag des Tauziehens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-tauziehens/ — „Tag des Tauziehens – der US-amerikanische Tug-of-War Day am 27. August“
+- **27.08. – Unabhängigkeitstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/moldawien-unabhaengigkeitstag
+- **27.08. – Welttag der Seen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-seen/ — „Welttag der Seen – der United Nations World Lake Day am 27. August“
+- **27.08. – Zhōngyuán Jié** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/geisterfest-china/ — „Zhōngyuán Jié – das chinesische Geisterfest bzw. Fest der hungrigen Geister 2026“
+- **28.08. – Krümel-über-der-Tastatur-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/kruemel-ueber-der-tastatur-tag/ — „Krümel-über-der-Tastatur-Tag – Crackers Over Your Keyboard Day in den USA“
+- **28.08. – Tag der Kirschtasche** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-kirschtasche/ — „Tag der Kirschtasche – der US-amerikanische National Cherry Turnovers Day“
+- **28.08. – Tag der Radiowerbung** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-radiowerbung
+- **28.08. – Tag der Regenbogenbrücke** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-regenbogenbruecke/ — „Tag der Regenbogenbrücke – Rainbow Bridge Remembrance Day in den USA“
+- **28.08. – Tag der Russlanddeutschen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-russlanddeutschen
+- **28.08. – Tag des Computer-Mouse-Rennens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-computer-mouse-rennens/ — „Tag des Computer-Mouse-Rennens in den USA – Race Your Mouse Around the Icons Day“
+- **28.08. – Tag des Querbinders** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-querbinders
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-querbinders/ — „Tag des Querbinders in den USA – National Bow Tie Day am 28. August“
+- **28.08. – Tag des Rotweins** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-rotweins/ — „Tag des Rotweins – der US-amerikanische National Red Wine Day am 28. August“
+- **29.08. – Kräuter-statt-Salz-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/kraeuter-statt-salz-tag/ — „Kräuter-statt-Salz-Tag – der US-amerikanische More Herbs, Less Salt Day“
+- **29.08. – Nationalfeiertag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/slowakei-nationalfeiertag
+- **29.08. – Tag der Individualrechte am 29. August** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-individualrechte/ — „Tag der Individualrechte am 29. August – Individual Rights Day in den USA“
+- **29.08. – Tag des Chop Suey am 29. August** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-chop-suey/ — „Tag des Chop Suey am 29. August – National Chop Suey Day in den USA“
+- **29.08. – Tag des Franchise** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-franchise
+- **29.08. – Tag des Zitronensafts** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-zitronensafts/ — „Tag des Zitronensafts – National Lemon Juice Day in den USA“
+- **29.08. – Tag gegen Nuklearversuche** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-gegen-nuklearversuche
+- **30.08. – Frankenstein-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/frankenstein-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/frankenstein-tag/ — „Frankenstein-Tag – Frankenstein Day oder Happy Birthday Mary Wollenstonecraft Shelley“
+- **30.08. – Gedenktag für die Todesopfer in Abschiebungshaft** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/gedenktag-fuer-die-todesopfer-in-abschiebungshaft
+- **30.08. – Strand-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/strand-tag/ — „Strand-Tag – der US-amerikanische National Beach Day am 30. August 2026“
+- **30.08. – Tag der gerösteten Marshmallows** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-geroesteten-marshmallows/ — „Tag der gerösteten Marshmallows – National Toasted Marshmallow Day in den USA“
+- **30.08. – Tag der Verschwundenen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-verschwundenen
+- **30.08. – Tag des Slinky am 30. August** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-slinky/ — „Tag des Slinky am 30. August – (National) Slinky Day in den USA“
+- **30.08. – Tag des Walhais** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-walhais
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-walhais/ — „Internationaler Tag des Walhais – International Whale Shark Day 2026“
+- **31.08. – Grounding Page kuriose-feiertage** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/grounding/kuriose-feiertage-grounding.html
+- **31.08. – Grounding Page Sven Giese** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/grounding/sven-giese.html
+- **31.08. – Iss-draussen-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/iss-draussen-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/iss-draussen-tag/ — „Iss-draußen-Tag am 31. August – der US-amerikanische Eat Outside Day“
+- **31.08. – Montag der rücksichtsvollen Autofahrer** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/motorist-consideration-monday/ — „Montag der rücksichtsvollen Autofahrer in den USA – Motorist Consideration Monday 2026“
+- **31.08. – Tag des Studentenfutters** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-studentenfutters
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-studentenfutters/ — „Tag des Studentenfutters – National Trail Mix Day in den Vereinigten Staaten“
+- **31.08. – Unabhängigkeitstag in Kirgisistan** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/kirgisistan-unabhaengigkeitstag
+- **31.08. – Unabhängigkeitstag in Malaysia** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/malaysia-unabhaengigkeitstag
+- **31.08. – Unabhängigkeitstag in Trinidad und Tobago** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/trinidad-und-tobago-unabhaengigkeitstag
+- **31.08. – Wir-lieben-Memoiren-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/wir-lieben-memoiren-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/wir-lieben-memoiren-tag/ — „Wir-lieben-Memoiren-Tag – der internationale We Love Memoirs Day“
+## September
+
+- **01.09. – Antikriegstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/deutscher-antikriegstag
+- **01.09. – Der bundesweite Tag des Zebrastreifens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-zebrastreifens/ — „Der bundesweite Tag des Zebrastreifens in Deutschland am 1. September“
+- **01.09. – Internationaler Tag der Primaten am 1. September** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-primaten/ — „Internationaler Tag der Primaten am 1. September – International Primate Day 2026“
+- **01.09. – Meteorologischer Herbstanfang** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/meteorologischer-herbstanfang
+- **01.09. – Tag der Wörter, auf die sich nichts reimt** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-woerter-auf-die-sich-nichts-reimt/ — „Tag der Wörter, auf die sich nichts reimt – National No Rhyme (Nor Reason) Day in den USA“
+- **01.09. – Tag des Briefschreibens** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-briefschreibens
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-letter-writing-day/ — „Welttag des Briefschreibens – World Letter Writing Day am 1. September“
+- **01.09. – Tag des Hühnerjungen am 1. September** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-huehnerjungen/ — „Tag des Hühnerjungen am 1. September – National Chicken Boy Day in den USA“
+- **01.09. – Welttag der Kuh** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-kuh/ — „Welttag der Kuh – World Cow Day – internationaler Aktionstag am 1. September“
+- **02.09. – Bison-ten Yell Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/bison-ten-yell-day/ — „Bison-ten Yell Day in den Vereinigten Staaten am 2. September“
+- **02.09. – Blaubeereis-am-Stiel-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/blaubeereis-am-stiel-tag/ — „Blaubeereis-am-Stiel-Tag – National Blueberry Popsicle Day in den USA“
+- **02.09. – Internationaler Tag der Kokosnuss am 2. September** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-coconut-day/ — „Internationaler Tag der Kokosnuss am 2. September – World Coconut Day 2026“
+- **02.09. – Tag der Enthauptung** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-enthauptung
+- **03.09. – Nationalfeiertag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/san-marino-nationalfeiertag
+- **03.09. – Tag der Erbsensuppe** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-erbsensuppe/ — „Tag der Erbsensuppe in Deutschland am 3. September“
+- **03.09. – Tag des Feuersalamanders** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-feuersalamanders/ — „Tag des Feuersalamanders in Deutschland – 3. September“
+- **03.09. – Tag des Welsh Rarebit** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-welsh-rarebit/ — „Tag des Welsh Rarebit – National Welsh Rarebit Day in den USA“
+- **03.09. – Tag des Wolkenkratzers** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-wolkenkratzers
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-wolkenkratzers/ — „Tag des Wolkenkratzers – National Skyscraper Day in den USA“
+- **03.09. – Unabhängigkeitstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/katar-unabhaengigkeitstag
+- **04.09. – Auch-Mütter-dürfen-faul-sein-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-lazy-moms-day/ — „Auch-Mütter-dürfen-faul-sein-Tag in den USA – National Lazy Mom’s Day 2026“
+- **04.09. – Iss-mehr-als-ein-Dessert-Tag am 4. September** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/iss-mehr-als-ein-dessert-tag/ — „Iss-mehr-als-ein-Dessert-Tag am 4. September – Eat an Extra Dessert Day in den USA“
+- **04.09. – Tag der Currywurst** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-currywurst
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-currywurst-in-deutschland/ — „Der bundesweite Tag der Currywurst in Deutschland am 4. September“
+- **04.09. – Tag der Macadamianüsse** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-macadamianuesse/ — „Tag der Macadamianüsse – National Macadamia Nut Day in den USA“
+- **04.09. – Tag der Wildtiere am 22. Februar und 4. September** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-wildtiere/ — „Tag der Wildtiere am 22. Februar und 4. September – National Wildlife Day in den USA“
+- **04.09. – Tag der Zeitungsausträger** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-zeitungsaustraeger
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-zeitungsaustraegers/ — „Tag des Zeitungsausträgers am 4. September – Newspaper Carrier Day in den USA“
+- **05.09. – Kopfschmerztag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/kopfschmerztag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/kopfschmerztag-in-deutschland/ — „Der bundesweite Kopfschmerztag in Deutschland 2026“
+- **05.09. – Tag der Käsepizza** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-kaesepizza
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-kaesepizza/ — „Tag der Käsepizza am 5. September – National Cheese Pizza Day in den USA“
+- **05.09. – Tag der Wohltätigkeit** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-wohltaetigkeit
+- **05.09. – Tag des Geiers** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-geiers
+- **05.09. – Verspäte-Dich-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/verspaete-dich-tag/ — „Verspäte-Dich-Tag – Be Late for Something Day in den USA“
+- **05.09. – Welttag des Bartes** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/wwelttag-des-bartes
+- **05.09. – World Beard Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-beard-day/ — „World Beard Day – Welttag des Bartes am 5. September 2026“
+- **06.09. – Anti-Prokrastinations-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/anti-prokrastinations-tag/ — „Anti-Prokrastinations-Tag – Fight Procrastination Day in den Vereinigten Staaten“
+- **06.09. – Kaffee-Eis-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kaffee-eis/ — „Kaffee-Eis-Tag – National Coffee Ice Cream Day in den Vereinigten Staaten“
+- **06.09. – Kämpfe-gegen-die-Prokrastination-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/kaempfe-gegen-die-prokrastination-tag
+- **06.09. – Lies-ein-Buch-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/lies-ein-buch-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/lies-ein-buch-tag/ — „Lies-ein-Buch-Tag – National Read a Book Day in den USA“
+- **06.09. – Pet-Rock-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/pet-rock-day/ — „Pet-Rock-Tag in den Vereinigten Staaten – Pet Rock Day am 6. September 2026“
+- **06.09. – Tag der Heimat** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-heimat
+- **06.09. – Tag der jüdischen Kultur** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-juedischen-kultur
+- **06.09. – Tag des Eierwerfens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-eierwerfens/ — „Tag des Eierwerfens – der US-amerikanische Great Egg Toss Day am 6. September“
+- **07.09. – (National) Salami Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-salami/ — „(National) Salami Day – der US-amerikanische Tag der Salami am 7. September“
+- **07.09. – Kauf-ein-Buch-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/kauf-ein-buch-tag/ — „Kauf-ein-Buch-Tag – der US-amerikanische National Buy a Book Day am 7. September“
+- **07.09. – Konstituierung des ersten Deutschen Bundestages** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/konstituierung-des-ersten-deutschen-bundestages
+- **07.09. – Labor Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/labor-day
+- **07.09. – Tag der Bierliebhaber** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-bierliebhaber/ — „Tag der Bierliebhaber – National Beer Lover’s Day in den Vereinigten Staaten“
+- **07.09. – Tag der Salami** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-salami
+- **07.09. – Weder-Regen-noch-Schnee-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/weder-regen-noch-schnee-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weder-regen-noch-schnee-tag/ — „Weder-Regen-noch-Schnee-Tag – der US-amerikanische National Neither Snow Nor Rain Day“
+- **08.09. – Der US-amerikanische National Ants On A Log Day am 8. September 2026** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-ants-on-a-log-day/
+- **08.09. – Gründungstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/andorra-gruendungstag
+- **08.09. – Internationaler Tag der Vergebung** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-pardon-day/ — „Internationaler Tag der Vergebung – der International Pardon Day am 8. September“
+- **08.09. – Star Trek Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/star-trek-day/ — „Star Trek Day – die TV-Premiere von Star Trek am 8. September 1966“
+- **08.09. – Tag der Physiotherapie** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-physiotherapie
+- **08.09. – Tag des Et-Zeichens am 8. September** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-et-zeichens/ — „Tag des Et-Zeichens am 8. September – National Ampersand Day in den USA“
+- **08.09. – Tag des Leguans** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-leguans/ — „Tag des Leguans – National Iguana Awareness Day in den Vereinigten Staaten“
+- **08.09. – Tag des Pardons** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-des-pardons
+- **08.09. – Unabhängigkeitstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/mazedonien-unabhaengigkeitstag
+- **08.09. – Weltalphabetisierungstag oder Weltbildungstag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-literary-day/ — „Weltalphabetisierungstag oder Weltbildungstag – UNESCO World Literacy Day“
+- **08.09. – Welttag der Alphabetisierung** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-der-alphabetisierung
+- **09.09. – Das japanische Chrysanthemenfest Kiku no Sekku oder: Choyo no Sekku am 9. September** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/chrysanthemenfest-kiku-no-sekku-japan/
+- **09.09. – Internationaler Sudoku-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-sudoku-tag/ — „Internationaler Sudoku-Tag – International Sudoku Day am 9. September“
+- **09.09. – Internationaler Tag des typografisch richtigen Apostrophs am 9. September** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-typografisch-richtigen-apostrophs/
+- **09.09. – Nationalfeiertag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/nordkorea-nationalfeiertag
+- **09.09. – Tag des alkoholgeschädigten Kindes** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-alkoholgeschaedigten-kindes
+- **09.09. – Tag des Teddybären** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/teddybaertag
+- **09.09. – Tag des Wiener Schnitzels** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-wiener-schnitzels
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-wiener-schnitzels/ — „Tag des Wiener Schnitzels – National Wiener Schnitzel Day in den USA“
+- **09.09. – Teddybär-Tag am 9. September** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/teddybaer-tag/ — „Teddybär-Tag am 9. September – National Teddy Bear Day in den USA“
+- **09.09. – Unabhängigkeitstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tadschikistan-unabhaengigkeitstag
+- **10.09. – R U OK? Day in Australien** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ruok-day-in-australien/ — „R U OK? Day in Australien – Aktionstag zur Suizidprävention – 10. September 2026“
+- **10.09. – Tag des unheimlichen Bostoner Roboter-Pferdes** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-unheimlichen-bostoner-roboter-pferdes/ — „Tag des unheimlichen Bostoner Roboter-Pferdes – Creepy Boston Dynamics Robotic Horse Day“
+- **10.09. – Tausche-Ideen-aus-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tausche-ideen-aus-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tausche-ideen-aus-tag/ — „Tausche-Ideen-aus-Tag – der US-amerikanische National Swap Ideas Day“
+- **10.09. – Warntag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/warntag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/warntag/ — „Warntag in Deutschland – Probealarm am 10. September 2026“
+- **10.09. – Welttag der Suizidprävention** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-der-suizidpraevention
+- **11.09. – 9/11** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/patriot-day-and-national-day-of-service-and-remembrance/ — „9/11 – Patriot Day and National Day of Service and Remembrance in den USA“
+- **11.09. – 9/11-Gedenktag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/911-gedenktag
+- **11.09. – Diada Nacional de Catalunya** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/diada-nacional-de-catalunya
+- **11.09. – Die Earth Night** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/earth-night/ — „Die Earth Night in Deutschland und Österreich – 11. September 2026“
+- **11.09. – Jinnah-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/jinnah-tag
+- **11.09. – Keine-Nachrichten-sind-gute-Nachrichten-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/keine-nachrichten-sind-gute-nachrichten-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/no-news-is-good-news-day/ — „Keine-Nachrichten-sind-gute-Nachrichten-Tag – No News is Good News Day in den USA“
+- **11.09. – Mach-Dein-Bett-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/mach-dein-bett-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/mach-dein-bett-tag/ — „Mach-dein-Bett-Tag – National Make Your Bed Day in den Vereinigten Staaten“
+- **11.09. – Rosch ha-Schana** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/rosch-ha-schana
+- **11.09. – Stadtfeiertag von Zürich** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/zuerich-stadtfeiertag
+- **11.09. – Tag der Wohnungslosen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-wohnungslosen
+- **12.09. – Europäischer Kopfschmerz- und Migränetag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/europaeischer-kopfschmerz-und-migraenetag
+- **12.09. – Nationalfeiertag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/kap-verde-nationalfeiertag
+- **12.09. – Tag der Computerspiele** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-computerspiele/ — „Tag der Computerspiele – National Video Games Day in den Vereinigten Staaten“
+- **12.09. – Tag der Delfine** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-delfine/ — „Tag der Delfine – National Dolphin Day am 14. April und World Dolphin Day am 12. September“
+- **12.09. – Tag der deutschen Sprache** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-deutschen-sprache
+- **12.09. – Tag der Ersten Hilfe** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-ersten-hilfe
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-ersten-hilfe/ — „Welttag der Ersten Hilfe – World First Aid Day am 12. September 2026“
+- **12.09. – Tag der ökologisch-sozialen Marktwirtschaft** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-oekologisch-sozialen-marktwirtschaft
+- **12.09. – Tag der Süd-Süd-Zusammenarbeit** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-sued-sued-zusammenarbeit
+- **12.09. – Tag des Schokoladen-Milchshakes** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-schokoladenmilchshakes
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-schokoladen-milchshakes/ — „Tag des Schokoladen-Milchshakes – National Chocolate Milkshake Day in den USA“
+- **12.09. – Weltkautschuktag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltkautschuktag
+- **13.09. – Der bundesweite Mach-was-du-willst-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/mach-was-du-willst-tag/ — „Der bundesweite Mach-was-du-willst-Tag in Deutschland am 13. September“
+- **13.09. – Internationaler Tag der Höhlen und der unterirdischen Welten am 6. Juni und 13. September** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-hoehlentag/
+- **13.09. – Internationaler Tag der Schokolade** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-chocolate-day/ — „Internationaler Tag der Schokolade – der International Chocolate Day am 13. September“
+- **13.09. – Tag der Erdnuss** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-erdnuss
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-erdnuesse/ — „Tag der Erdnüsse – National Peanut Day in den Vereinigten Staaten“
+- **13.09. – Tag der Erinnerung und Mahnung** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-erinnerung-und-mahnung
+- **13.09. – Tag des Glückskeks** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-glueckskeks
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/glueckskeks-tag/ — „Glückskeks-Tag – der US-amerikanische National Fortune Cookie Day am 13. September“
+  - automatische Ähnlichkeit: 100 %
+- **13.09. – Tag des offenen Denkmals** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-offenen-denkmals
+- **13.09. – Tag des positiven Denkens** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-positiven-denkens
+- **13.09. – Tag des Programmierers** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-programmierers
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-programmierers/ — „Tag des Programmierers am 256. Tag des Jahres – Programmer Day 2026“
+- **13.09. – Umarme-Deinen-Hund-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/umarme-deinen-hund-tag/ — „Umarme-Deinen-Hund-Tag in den USA – National Hug Your Hound Day 2026“
+- **13.09. – Welt-Sepsis-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welt-sepsis-tag
+- **13.09. – Wider-den-Aberglauben-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/wider-dem-aberglauben-tag/ — „Wider-den-Aberglauben-Tag – der US-amerikanische National Defy Superstition Day“
+- **14.09. – International Talk about Cancer Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-talk-about-cancer-day/ — „International Talk about Cancer Day – Internationaler Sprich-über-Krebs-Tag“
+- **14.09. – Kreuzerhöhung** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/kreuzerhohung
+- **14.09. – Nutting Day am 14. September** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/nutting-day/ — „Nutting Day am 14. September – Tag des Nüssesammelns in Großbritannien“
+- **14.09. – Tag der Ruhe am 14. September** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-ruhe/ — „Tag der Ruhe am 14. September – der britische National Quiet Day 2026“
+- **14.09. – Tag der Tropenwälder** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-tropenwaelder
+- **14.09. – Tag des belegten Baguettes** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-belegten-baguettes/ — „Tag des belegten Baguettes – National (Eat a) Hoagie Day in den Vereinigten Staaten“
+- **14.09. – Tag des Berliners** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-berliners/ — „Tag des Berliners – National Jelly-Filled Doughnut Day und National Cream-Filled Donut Day“
+- **14.09. – Tag-des-mit-Creme-gefüllten-Donuts** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-mit-creme-gefuellten-donuts
+- **14.09. – Tausche-mit-Deinem-Chef-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tausche-mit-deinem-chef-tag/ — „Tausche-mit-Deinem-Chef-Tag in den USA – National Boss-Employee Exchange Day 2026“
+- **15.09. – Battle of Britain Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/battle-of-britain-day
+- **15.09. – Greenpeace-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/greenpeace-tag
+- **15.09. – Nationalfeiertag in Costa Rica** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/costa-rica-nationalfeiertag
+- **15.09. – Nationalfeiertag in EL Salvador** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/el-salvador-nationalfeiertag
+- **15.09. – Nationalfeiertag in Guatemala** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/guatemala-nationalfeiertag
+- **15.09. – Nationalfeiertag in Honduras** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/honduras-nationalfeiertag
+- **15.09. – Nationalfeiertag in Nicaragua** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/nicaragua-nationalfeiertag
+- **15.09. – Tag der Bildungsfreiheit** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-bildungsfreiheit
+- **15.09. – Tag der Demokratie** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-demokratie
+- **15.09. – Tag der IT-Profis** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-it-profis
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-it-profis/ — „Tag der IT-Profis in den USA – National IT Professionals Day am 15. September 2026“
+- **15.09. – Tag der Linguini** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-linguini/ — „Tag der Linguini – der National Linguine Day in den Vereinigten Staaten“
+- **15.09. – Tag des Doppel-Cheeseburgers** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-doppel-cheeseburgers/ — „Tag des Doppel-Cheeseburgers – der US-amerikanische National Double Cheeseburger Day“
+- **15.09. – Tag des Filzhutes** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-filzhutes
+- **15.09. – Tag des Filzhuts am 15. September** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-filzhuts/ — „Tag des Filzhuts am 15. September – National Felt Hat Day in den Vereinigten Staaten“
+- **15.09. – Tag des Käsetoasts** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kaesetoasts/ — „Tag des Käsetoasts – der US-amerikanische National Cheese Toast Day“
+- **15.09. – Tag des Punktes** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-punktes
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-punktes/ — „Internationaler Tag des Punktes – International Dot Day am 15. September“
+- **15.09. – Weltlymphomtag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltlymphomtag
+- **16.09. – Lese-ein-eBook-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/lese-ein-ebook-tag
+- **16.09. – Sammel-Steine-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/sammel-steine-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/sammel-steine-tag-usa/ — „Sammel-Steine-Tag – der US-amerikanische National Collect Rocks Day“
+- **16.09. – Tag der Amerikanischen Legion** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-amerikanischen-legion
+- **16.09. – Tag der berufstätigen Eltern** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-berufstaetigen-eltern
+- **16.09. – Tag der Guacamole** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-guacamole/ — „Tag der Guacamole – der US-amerikanische National Guacamole Day“
+- **16.09. – Tag der Stieffamilie** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-stieffamilie
+- **16.09. – Tag des Rosinenbrotes** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-rosinenbrots/ — „Tag des Rosinenbrotes – der US-amerikanische National Cinnamon Raisin Bread Day“
+- **16.09. – Tag für den Schutz der Ozonschicht** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-fuer-die-erhaltung-der-ozonschicht
+- **16.09. – Tag zur Erhaltung der Ozonschicht** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-zur-erhaltung-der-ozonschicht/ — „Tag zur Erhaltung der Ozonschicht – International Day for the Preservation of the Ozone Layer“
+- **16.09. – Unabhängigkeitstag in Mexiko** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/mexiko-unabhaengigkeitstag
+- **16.09. – Unabhängigkeitstag in Papua-Neuguinea** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/papua-neuguinea-unabhaengigkeitstag
+- **17.09. – Constitution Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/constitution-day
+- **17.09. – Stadtfeiertag von Sofia** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/sofia-stadtfeiertag
+- **17.09. – Tag der Apfeltasche** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-apfeltasche
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-apfeltasche/ — „Tag der Apfeltasche – National Apple Dumpling Day in den USA“
+- **17.09. – Tag der Country-Musik** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-country-musik
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-country-music-day/ — „Internationaler Tag der Country-Musik – International Country Music Day (ICMDAY)“
+- **17.09. – Tag der Nationalhelden** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-nationalhelden
+- **17.09. – Welttag der Mantarochen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-mantarochen/ — „Welttag der Mantarochen – World Manta Day am 17. September“
+- **18.09. – Glasrecyclingtag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/glasrecyclingtag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/glasrecyclingtag/ — „Glasrecyclingtag in Deutschland 2026“
+- **18.09. – Internationaler Lies-ein-E-Book-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-read-an-ebook-day/ — „Internationaler Lies-ein-E-Book-Tag – International Read An Ebook Day 2026“
+- **18.09. – Internationaler Parking Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/parking-day/ — „Internationaler Parking Day – internationaler Aktionstag am 18. September 2026“
+- **18.09. – POW/MIA-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/pow-mia-tag
+- **18.09. – Tag der ersten Liebe** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-ersten-liebe/ — „Tag der ersten Liebe – National First Love Day in den USA“
+- **18.09. – Tag der Schiene** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-schiene-in-deutschland/ — „Tag der Schiene in Deutschland – 18. bis 20. September 2026“
+- **18.09. – Tag des Cheeseburgers** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-cheeseburgers
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-cheeseburgers/ — „Tag des Cheeseburgers – National Cheeseburger Day in den USA“
+- **18.09. – Tag des Respekts** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-respekts
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-respekts/ — „Tag des Respekts am 18. September – der National Respect Day in den USA“
+- **18.09. – Unabhängigkeitstag in Chile** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/chile-unabhaengigkeitstag
+- **18.09. – Weltknotentag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltknotentag/ — „Weltknotentag – World Knot Tying Day am 18. September“
+- **18.09. – Welttag des Bambus** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-des-bambus/ — „Welttag des Bambus – World Bamboo Day am 18. September“
+- **19.09. – International Talk like a Pirate Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-talk-like-a-pirate-day/ — „International Talk like a Pirate Day – Sprich-wie-ein-Pirat-Tag“
+- **19.09. – Iss-einen-Apfel-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/iss-einen-apfel-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-iss-einen-apfel-tag/ — „Iss-einen-Apfel-Tag – International Eat an Apple Day 2026“
+- **19.09. – Lungentag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/lungentag
+- **19.09. – Miaue-wie-ein-Pirat-Tag am 19. September** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/miaue-wie-ein-pirat-tag/ — „Miaue-wie-ein-Pirat-Tag am 19. September – Meow Like a Pirate Day in den USA“
+- **19.09. – Sprich-Wie-Ein-Pirat-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/sprich-wie-ein-pirat-tag
+- **19.09. – Tag der Astronomie** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/astronomy-day/ — „Tag der Astronomie in den USA – National Astronomy Day am 25. April und 19. September 2026“
+- **19.09. – Tag der Schiene** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-schiene-in-deutschland/ — „Tag der Schiene in Deutschland – 18. bis 20. September 2026“
+- **19.09. – Tag der Software-Freiheit** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-software-freiheit
+- **19.09. – Tag des Butterscotch-Puddings** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-butterscotch-puddings/ — „Tag des Butterscotch-Puddings – National Butterscotch Pudding Day in den USA“
+- **19.09. – Tag des Handwerks** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-handwerks/ — „Tag des Handwerks in Deutschland 2026“
+- **19.09. – Tag des Roten Pandas** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-roten-pandas/ — „Tag des Roten Pandas – International Red Panda Day 2026“
+- **19.09. – Unabhängigkeitstag in St. Kitts und Nevis** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/st-kitts-und-nevis-unabhaengigkeitstag
+- **20.09. – Der bundesweite Weltkindertag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltkindertag-in-deutschland/ — „Der bundesweite Weltkindertag in Deutschland 2026“
+- **20.09. – Deutscher Weltkindertag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/deutscher-weltkindertag
+- **20.09. – Eidgenössischer Dank-, Buss- und Bettag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/eidgenoessischer-dank-buss-und-bettag
+- **20.09. – Jom Kippur** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/jom-kippur
+- **20.09. – Plane-Deine-Brückentage-für-das-nächste-Jahr-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/plane-deine-brueckentage-fuer-das-naechste-jahr-tag/ — „Plane-Deine-Brückentage-für-das-nächste-Jahr-Tag in Deutschland“
+- **20.09. – Tag der Ehefrau** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-ehefrau
+- **20.09. – Tag der Pepperoni-Pizza** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-pepperoni-pizza/ — „Tag der Pepperoni-Pizza – National Pepperoni Pizza Day in den USA“
+- **20.09. – Tag der Schiene** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-schiene-in-deutschland/ — „Tag der Schiene in Deutschland – 18. bis 20. September 2026“
+- **20.09. – Tag des Friedhofs** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-friedhofs
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-friedhofs-deutschland/ — „Tag des Friedhofs in Deutschland – 19. und 20. September 2026“
+- **20.09. – Tag des Geotops** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-geotops
+- **20.09. – Weltaufräumtag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-cleanup-day/ — „Weltaufräumtag – World Cleanup Day am 20. September 2026“
+- **21.09. – Abgasfrei-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/zero-emissions-day/ — „Abgasfrei-Tag – der internationale Zero Emissions Day“
+- **21.09. – Minigolftag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/minigolftag
+- **21.09. – Tag des Respekts vor dem Alter** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-respekts-vor-dem-alter
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/keiro-no-hi/ — „Achtung-vor-dem-Alter-Tag in Japan – Keirō no Hi am 21. September 2026“
+  - automatische Ähnlichkeit: 75 %
+- **21.09. – Unabhängigkeitstag in Armenien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/armenien-unabhaengigkeitstag
+- **21.09. – Unabhängigkeitstag in Belize** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/belize-unabhaengigkeitstag
+- **21.09. – Unabhängigkeitstag in Malta** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/malta-unabhaengigkeitstag
+- **21.09. – Welt-Alzheimertag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welt-alzheimertag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welt-alzheimertag/ — „Welt-Alzheimertag – World Alzheimer’s Day“
+- **21.09. – Weltfriedenstag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-des-friedens
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltfriedenstag/ — „Weltfriedenstag – der UNO International Day of Peace“
+- **21.09. – Welttag der Dankbarkeit** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-der-dankbarkeit
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-gratitude-day/ — „Welttag der Dankbarkeit – World Gratitude Day“
+- **22.09. – Autofreier Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/autofreier-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/autofreier-tag/ — „Autofreier Tag – World Car Free Day am 22. September“
+- **22.09. – Ehrentag der Elefanten** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/ehrentag-der-elefanten
+- **22.09. – Hobbit-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/hobbit-tag/ — „Hobbit-Tag – Hobbit Day oder: der Geburtstag von Bilbo und Frodo Beutlin“
+- **22.09. – OneWebDay** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/onewebday
+- **22.09. – Tag der Eistüte** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-eistuete/ — „Tag der Eistüte – der National Ice Cream Cone Day in den USA“
+- **22.09. – Tag der Hobbits** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-hobbits
+- **22.09. – Tag der weißen Schokolade** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-weissen-schokolade/ — „Tag der weißen Schokolade – National White Chocolate Day in den USA“
+- **22.09. – Tag des Nashorns** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-nashorns
+- **22.09. – Unabhängigkeitstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/mali-unabhaengigkeitstag
+- **22.09. – Unabhängigkeitstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/bulgarien-unabhaengigkeitstag
+- **22.09. – Welt-Nashorn-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-rhino-day/ — „Welt-Nashorn-Tag – World Rhino Day am 22. September“
+- **23.09. – Gründungstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/saudi-arabien-gruendungstag
+- **23.09. – Herbstanfang** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/herbstanfang
+- **23.09. – Internationaler Tag der Gebärdensprachen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-gebaerdensprachen/ — „Internationaler Tag der Gebärdensprachen – International Day of Sign Languages“
+- **23.09. – National Checkers Day oder der Dogs in Politics Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/dogs-in-politics-day/ — „National Checkers Day oder der Dogs in Politics Day in den USA“
+- **23.09. – Tag der Bisexualität** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-bisexualitaet
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-bisexualitaet/ — „Tag der Bisexualität – Celebrate Bisexuality Day am 23. September“
+- **23.09. – Tag der Kastanie** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-kastanie-in-deutschland/ — „Tag der Kastanie in Deutschland – 23. September 2026“
+- **23.09. – Tag des Herbstspaziergangs** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-herbstspaziergangs/ — „Tag des Herbstspaziergangs – Autumn Stroll Day in den USA“
+- **23.09. – Thrue-Bab** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/thrue-bab-in-bhutan/ — „Thrue-Bab – Tag des gesegneten Regens oder: das Ende des Monsuns in Bhutan“
+- **24.09. – Heritage Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/heritage-day
+- **24.09. – Nationalfeiertag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/guinea-bissau-nationalfeiertag
+- **24.09. – St. Rupert-Fest** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/st-rupert
+- **24.09. – Tag der Raumfahrt** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-raumfahrt
+- **24.09. – Tag der Satzzeichen** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-satzzeichen
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-satzzeichen/ — „Tag der Satzzeichen – National Punctuation Day in den USA“
+- **24.09. – Tag der Sauna** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-sauna
+- **24.09. – Tag des Braai** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-braai/ — „Tag des Braai – National Braai Day in Südafrika“
+- **24.09. – Tag des Kirsch-Souffles** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kirsch-souffles/ — „Tag des Kirsch-Souffles – National Cherries Jubilee Day in den USA“
+- **24.09. – Weltschifffahrtstag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltschifffahrtstag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltschifffahrtstag/ — „Weltschifffahrtstag – der World Maritime Day am 24. September 2026“
+- **24.09. – Welttag der Gorillas** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-gorillas/ — „Welttag der Gorillas – World Gorilla Day“
+- **25.09. – Comicbuchtag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/comicbuchtag
+- **25.09. – Save the Koala Day in Australien** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/save-the-koala-day/ — „Save the Koala Day in Australien – Rettet-die-Koalas-Tag am 25. September 2026“
+- **25.09. – Tag der Comics am 25. September** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-comics/ — „Tag der Comics am 25. September – National Comic Book Day in den USA“
+- **25.09. – Tag der Träume** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-traeume
+- **25.09. – Tag der Zahngesundheit** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-zahngesundheit
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-zahngesundheit/ — „Tag der Zahngesundheit in Deutschland 2026“
+- **25.09. – Tag des Deutschen Butterbrotes** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-deutschen-butterbrotes
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-deutschen-butterbrots/ — „Tag des Deutschen Butterbrotes 2026“
+- **25.09. – Tag des Flüchtlings** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-fluechtlings
+- **25.09. – Tag des Kochens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kochens/ — „Tag des Kochens – National Cooking Day in den USA“
+- **25.09. – Umarme-einen-Vegetarier-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/umarme-einen-vegetarier-tag
+- **26.09. – Europäischen Pilztag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/europaeischen-pilztag
+- **26.09. – Europäischer Pilztag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/europaeischer-pilztag/ — „Europäischer Pilztag – der European Mushroom Day am 26. September 2026“
+- **26.09. – Internationaler Tag des Hasen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-rabbit-day/ — „Internationaler Tag des Hasen – International Rabbit Day 2026“
+- **26.09. – Tag der Geisterjagd** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-geisterjagd/ — „Tag der Geisterjagd in den USA – National Ghost Hunting Day am 26. September 2026“
+- **26.09. – Tag der Pfannkuchen am 26. September** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-pfannkuchen-usa/ — „Tag der Pfannkuchen am 26. September – National Pancake Day in den USA“
+- **26.09. – Tag der Sprachen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-sprachen
+- **26.09. – Tag des gesunden Frühstücks** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-gesunden-fruehstuecks/ — „Tag des gesunden Frühstücks – National Better Breakfast Day in den USA“
+- **26.09. – Tag des Holzfällers** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-holzfaellers
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/holzfaeller-tag/ — „Tag des Holzfällers am 26. September – der US-amerikanische Lumberjack Day“
+- **26.09. – Tag des Kaninchens** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-kaninchens
+- **26.09. – Tag des Liebesbriefchens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-liebesbriefchens/ — „Tag des Liebesbriefchens – Love Note Day in Kanada“
+- **26.09. – Tag für die vollständige Beseitigung der Kernwaffen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-fuer-die-vollstaendige-beseitigung-der-kernwaffen
+- **27.09. – Internationaler Tag der Flüsse** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-rivers-day/ — „Internationaler Tag der Flüsse – World Rivers Day am 27. September 2026“
+- **27.09. – Tag der Gehörlosen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-gehorlosen
+- **27.09. – Tag des kalten Kakaos** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kalten-kakao-usa/ — „Tag des kalten Kakaos – National Chocolate Milk Day in den USA“
+- **27.09. – Tag des Schals am 27. September** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-schals/ — „Tag des Schals am 27. September – National Scarf Day in den Vereinigten Staaten“
+- **27.09. – Welttourismustag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttourismustag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttourismustag/ — „Welttourismustag am 27. September – der internationale World Tourism Day 2026“
+- **27.09. – Zerdrücke-eine-Dose-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/zerdruecke-eine-dose-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/zerdruecke-eine-dose-tag/ — „Zerdrücke-eine-Dose-Tag am 27. September – National Crush a Can Day in den USA“
+- **28.09. – Aquarium-Revue-Nacht am 28. September** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/aquarium-revue-nacht/ — „Aquarium-Revue-Nacht am 28. September – Fish Tank Floorshow Night in den USA“
+- **28.09. – Stell-eine-dumme-Frage-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/stell-eine-dumme-frage-tag/ — „Stell-eine-dumme-Frage-Tag – Ask a Stupid Question Day in den Vereinigten Staaten“
+- **28.09. – Tag des Erdbeer-Sahne-Kuchens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-erdbeer-sahne-kuchens/ — „Tag des Erdbeer-Sahne-Kuchens – National Strawberry Cream Pie Day in den USA“
+- **28.09. – Tag des Rechts auf Wissen** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-rechts-auf-wissen
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-right-to-know-day/ — „Internationaler Tag des Rechts auf Wissen – International Right to Know Day“
+- **28.09. – Tag-der-guten-Nachbarn** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-guten-nachbarn
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-guten-nachbarn/ — „Tag des guten Nachbarn – der US-amerikanische National Good Neighbor Day“
+- **28.09. – Welt-Tollwut-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welt-tollwuttag
+- **29.09. – Konfuzius-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/konfuziustag
+- **29.09. – Michaelistag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/michaelistag
+- **29.09. – Michaelstag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/michaelstag/ — „Michaelstag in Großbritannien – The Day the Devil Spit on Your Blackberries“
+- **29.09. – Tag der Biscotti** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-biscotti/ — „Tag der Biscotti – der National Biscotti Day in den Vereinigten Staaten“
+- **29.09. – Weltherztag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltherztag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltherztag-world-heart-day/ — „Weltherztag 2026 – der internationale World Heart Day am 29. September“
+- **30.09. – Aktionstag gegen Glücksspielsucht** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/aktionstag-gegen-gluecksspielsucht
+- **30.09. – Grounding Page kuriose-feiertage** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/grounding/kuriose-feiertage-grounding.html
+- **30.09. – Grounding Page Sven Giese** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/grounding/sven-giese.html
+- **30.09. – Hieronymustag oder der Internationale Übersetzertag am 30. September** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/hieronymustag-internationaler-uebersetzertag/
+- **30.09. – Internationaler Podcast-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-podcast-tag/ — „Internationaler Podcast-Tag – International Podcast Day am 30. September“
+- **30.09. – Stell-eine-dumme-Frage-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/stell-eine-dumme-frage-tag
+- **30.09. – Tag der Blasphemie** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-blasphemie
+- **30.09. – Tag der Schlammpackung** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-schlammpackung
+- **30.09. – Tag des Kaugummis** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kaugummis/ — „Tag des Kaugummis – National Chewing Gum Day in den Vereinigten Staaten“
+- **30.09. – Tag des Olivenöls Extra Vergine** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-olivenoels-extra-vergine/ — „Tag des Olivenöls Extra Vergine – National Extra Virgin Olive Oil Day in den USA“
+- **30.09. – Tag des Podcasts** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-podcasts
+- **30.09. – Tag des Übersetzens** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-uebersetzens
+## Oktober
+
+- **01.10. – Europäischer Tag der Depression** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-depression
+- **01.10. – Gründungstag der Volksrepublik China** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/volksrepublik-china-gruendungstag
+- **01.10. – Hoschana Rabba** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/hoschana-rabba
+- **01.10. – Internationaler Ehrentag der Waschbären** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ehrentag-der-waschbaeren/ — „Internationaler Ehrentag der Waschbären – International Raccoon Appreciation Day“
+- **01.10. – Internationaler Tag des Kaffees** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-kaffees/ — „Internationaler Tag des Kaffees – International Coffee Day“
+- **01.10. – Tag der älteren Menschen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-aelteren-menschen
+- **01.10. – Tag des CD-Players am 1. Oktober** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-cd-players/ — „Tag des CD-Players am 1. Oktober – National CD Player Day in den USA“
+- **01.10. – Tag des Kaffees** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/internationaler-tag-des-kaffees
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kaffees-in-deutschland/ — „Tag des Kaffees in Deutschland 2026“
+- **01.10. – Unabhängigkeitstag der Republik Zypern** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/republik-zypern-unabhaengigkeitstag
+- **01.10. – Unabhängigkeitstag in Nigeria** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/nigeria-unabhaengigkeitstag
+- **01.10. – Unabhängigkeitstag in Tuvalu** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tuvalu-unabhaengigkeitstag
+- **01.10. – Weltmusiktag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltmusiktag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltmusiktag/ — „Weltmusiktag oder Internationaler Tag der Musik – International Music Day am 1. Oktober“
+- **01.10. – Weltvegetariertag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltvegetariertag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltvegetariertag/ — „Weltvegetariertag – World Vegetarian Day“
+- **02.10. – Der bundesweite Tag des Obstbrandes** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-obstbrandes/ — „Der bundesweite Tag des Obstbrandes in Deutschland am 2. Oktober 2026“
+- **02.10. – Gib-Deinem-Auto-einen-Namen-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/gib-deinem-auto-einen-namen-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/gib-deinem-auto-einen-namen-tag/ — „Gib-Deinem-Auto-einen-Namen-Tag – National Name Your Car Day in den USA“
+- **02.10. – Karo-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/karo-tag/ — „Karo-Tag in den Vereinigten Staaten – National Plaid Day am 2. Oktober 2026“
+- **02.10. – Schmini Azeret** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/schmini-azeret
+- **02.10. – Tag der Gewaltlosigkeit** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-gewaltlosigkeit
+- **02.10. – Tag der Phileas Fogg-Wette** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-phileas-fogg-wette/ — „Tag der Phileas Fogg-Wette – der internationale Phileas Fogg Wager Day“
+- **02.10. – Tag der Reinigungskräfte** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-reinigungskraefte/ — „Tag der Reinigungskräfte – National Custodial Workers Recognition Day in den USA“
+- **02.10. – Tag des Lächelns** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-laechelns
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-laechelns/ — „Tag des Lächelns – World Smile Day 2026“
+- **02.10. – Unabhängigkeitstag in Guinea** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/guinea-unabhaengigkeitstag
+- **02.10. – Welttag für Nutztiere** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-fuer-nutztiere
+- **03.10. – Der weltweite Smoothie-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/smoothie-tag/ — „Der weltweite Smoothie-Tag – Global Smoothie Day am 3. Oktober“
+- **03.10. – Gaecheonjeol** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/gaecheonjeol
+- **03.10. – Happy Birthday** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/happy-birthday/ — „Happy Birthday – die kuriosen Feiertage feiern ihren 14. Geburtstag“
+- **03.10. – Tag der Deutschen Einheit** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-deutschen-einheit
+- **03.10. – Tag der offenen Moschee** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-offenen-moschee
+- **03.10. – Tag des Herbstlaubs** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-herbstlaubs/ — „Tag des Herbstlaubs – National Look at the Leaves Day in den USA“
+- **04.10. – Beginn der Internationalen Weltraumwoche** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/beginn-der-internationalen-weltraumwoche
+- **04.10. – Glühbirnen-Austausch-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/gluehbirnen-austausch-tag/ — „Glühbirnen-Austausch-Tag in den USA – Change A Light Day am 4. Oktober 2026“
+- **04.10. – Tag der Flaschenschiffe** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-flaschenschiffe/ — „Tag der Flaschenschiffe – National Ships-in-Bottles Day in den Vereinigten Staaten“
+- **04.10. – Tag der Zimtschnecke** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/kanelbullens-dag-schweden/ — „Tag der Zimtschnecke – der schwedische Kanelbullens dag am 4. Oktober“
+- **04.10. – Tag des Wodkas** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-wodkas
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-wodka/ — „Tag des Wodkas – der National Vodka Day in den Vereinigten Staaten“
+- **04.10. – Trucker-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/trucker-tag/ — „Trucker-Tag – Truck Driver Day und National Truckers Appreciation Day in den USA“
+- **04.10. – Unabhängigkeitstag in Lesotho** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/lesotho-unabhaengigkeitstag
+- **04.10. – Welttierschutztag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttierschutztag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttierschutztag/ — „Welttierschutztag – der internationale World Animal Day am 4. Oktober“
+- **05.10. – Internationaler Tag der Architektur** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-day-of-architecture/ — „Internationaler Tag der Architektur – World Day of Architecture – 5. Oktober 2026“
+- **05.10. – Mach-etwas-Nettes-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/mach-etwas-nettes-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/mach-etwas-nettes-tag/ — „Mach-etwas-Nettes-Tag – der US-amerikanische National Do Something Nice Day“
+- **05.10. – Star Wars Reads Day 2013** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/star-wars-reads-day/
+- **05.10. – Tag der Ausrufung der Republik in Portugal** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-ausrufung-der-republik
+- **05.10. – Tag der Epilepsie** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-epilepsie
+- **05.10. – Tag der Verfassung in Vanuatu** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/vanuatu-tag-der-verfassung
+- **05.10. – Welt-Seifenblasen-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welt-seifenblasen-tag/ — „Welt-Seifenblasen-Tag – der internationale World Bubble Day am 5. Oktober“
+- **05.10. – Weltlehrertag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltlehrertag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltlehrertag/ — „Weltlehrertag – der internationale UNESCO World Teacher’s Day am 5. Oktober“
+- **05.10. – Welttag des Wohn- und Siedlungswesens** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-des-wohn-und-siedlungswesens
+- **06.10. – Deutsch-Amerikanischer Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/deutsch-amerikanischer-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/german-american-day/ — „Deutsch-Amerikanischer Tag – German-American Day in den Vereinigten Staaten“
+- **06.10. – Europäischer Tag der pflegenden Angehörigen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/europaeischer-tag-der-pflegenden-angehoerigen/ — „Europäischer Tag der pflegenden Angehörigen – European Carers Day am 6. Oktober“
+- **06.10. – Knoblauch-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-knoblauchs/ — „Knoblauch-Tag – National Garlic Day und Garlic Lovers Day in den USA“
+- **06.10. – Nudel-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-noodle-day/ — „Nudel-Tag – International Noodle Day for Raymond Federmann am 6. Oktober“
+- **06.10. – Obst-am-Arbeitsplatz-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/obst-am-arbeitsplatz-tag/ — „Obst-am-Arbeitsplatz-Tag in den USA – National Fruit at Work Day 2026“
+- **06.10. – Tag des Assistenzarztes** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-assistenzarztes
+- **06.10. – Tag des verrückten Hutmachers** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-verrueckten-hutmachers
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-verrueckten-hutmachers/ — „Tag des verrückten Hutmachers – der US-amerikanische National Mad Hatter Day“
+- **07.10. – Der bundesweite Tag des Morgenmuffels** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-morgenmuffels-in-deutschland/ — „Der bundesweite Tag des Morgenmuffels in Deutschland am 7. Oktober“
+- **07.10. – ehemaliger Tag der Republik in der DDR** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/ddr-tag-der-republik
+- **07.10. – Internationaler Tag der Ballonkünstler** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-ballonkuenstler/ — „Internationaler Tag der Ballonkünstler – Annual Balloons around the World Day 2026“
+- **07.10. – Tag der amerikanischen Nationalblume** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-amerikanischen-nationalblume/ — „Tag der amerikanischen Nationalblume – National Flower Day in den USA“
+- **07.10. – Tag der Badewanne** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-badewanne
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-badewanne/ — „Tag der Badewanne – der National Bathtub Day in den Vereinigten Staaten“
+- **07.10. – Tag der Kürbiskerne** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-kuerbiskerne/ — „Tag der Kürbiskerne in den USA – National Pumpkin Seed Day am 7. Oktober 2026“
+- **07.10. – Tag des Grünkohls** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-gruenkohls/ — „Tag des Grünkohls in den USA – National Kale Day am 7. Oktober 2026“
+- **07.10. – Tag des Mineralwassers** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-mineralwassers/ — „Tag des Mineralwassers in Deutschland am 7. Oktober“
+- **07.10. – Welttag für menschenwürdige Arbeit** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-fuer-menschenwuerdige-arbeit
+- **08.10. – Tag der Piroggen am 8. Oktober** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-piroggen/ — „Tag der Piroggen am 8. Oktober – National Pierogi Day in den USA“
+- **08.10. – Tag des Fangspiels** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-fangspiels
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-fangspiels/ — „Tag des Fangspiels am 8. Oktober – American Touch Tag Day in den USA“
+- **08.10. – Tag des Oktopusses** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-oktopusses
+- **08.10. – Unabhängigkeitstag in Kroatien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/kroatien-unabhaengigkeitstag
+- **08.10. – Welttag der Buchhandlungen am 8. Oktober** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-bookshop-day/ — „Welttag der Buchhandlungen am 8. Oktober – World Bookshop Day 2026“
+- **08.10. – Welttag der Kraken** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-kraken/ — „Welttag der Kraken – World Octopus Day am 8. Oktober“
+- **08.10. – Welttag des Sehens** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-des-sehens
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-sight-day/ — „Welttag des Sehens – der internationale World Sight Day am 8. Oktober 2026“
+- **08.10. – Wettergesprächs- und Small-Talk-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/wettergespraechs-und-smalltalk-tag/ — „Wettergesprächs- und Small-Talk-Tag in Deutschland“
+- **09.10. – Bier-und-Pizza-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/bier-und-pizza-tag
+- **09.10. – Brandschutztag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/brandschutztag
+- **09.10. – Hangeul-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/hangeul-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/hangeul-tag/ — „Hangeul-Tag in Südkorea – der Tag des koreanischen Alphabets an 9. Oktober“
+- **09.10. – Internationaler Tag der Mitfahrgelegenheit** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-ride-sharing-day/ — „Internationaler Tag der Mitfahrgelegenheit – Samåkningsdagen – International Ride Sharing Day 2026“
+- **09.10. – Leif-Eriksson-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/leif-eriksson-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/leif-erikson-day/ — „Leif Eriksson Tag – der US-amerikanische Leif Erikson Day“
+- **09.10. – Tag des Schimmelkäse** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-schimmelkaese
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/schimmelkaese-tag/ — „Schimmelkäse-Tag – National Moldy Cheese Day in den USA“
+  - automatische Ähnlichkeit: 100 %
+- **09.10. – Tag des Weltpostvereins** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-des-weltpostvereins
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltposttag/ — „Weltposttag oder Tag des Weltpostvereins – World Post Day am 9. Oktober“
+- **09.10. – Unabhängigkeitstag in Uganda** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/uganda-unabhaengigkeitstag
+- **09.10. – Welt-Ei-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welt-ei-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-egg-day/ — „Welt-Ei-Tag – World Egg Day am 9. Oktober 2026“
+- **10.10. – Internationaler Tag der Tape-Händler** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-cassette-store-day/ — „Internationaler Tag der Tape-Händler – International Cassette Store Day 2026“
+- **10.10. – Kärntner Landesfeiertag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/kaerntner-landesfeiertag
+- **10.10. – Luxemburger Gedenktag für die Opfer des Zweiten Weltkriegs** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/nationaler-gedenktag-fuer-die-opfer-des-zweiten-weltkriegs
+- **10.10. – Nationalfeiertag in Taiwan** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/taiwan-nationalfeiertag
+- **10.10. – Tag der Handtasche** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-handtasche/ — „Tag der Handtasche – National Handbag Day in den USA“
+- **10.10. – Tag der Obdachlosen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-obdachlosen
+- **10.10. – Tag der Tic Tacs am 10. Oktober** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-tic-tacs/ — „Tag der Tic Tacs am 10. Oktober – National Tic Tac Day in den Vereinigten Staaten“
+- **10.10. – Tag des Hundes** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-hundes/ — „Tag des Hundes in Deutschland 2026“
+- **10.10. – Umarme-einen-Schlagzeuger-Tag am 10. Oktober** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/umarme-einen-schlagzeuger-tag/ — „Umarme-einen-Schlagzeuger-Tag am 10. Oktober – Hug a Drummer Day“
+- **10.10. – Unabhängigkeitstag in Fidschi** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/fidschi-unabhaengigkeitstag
+- **10.10. – Universaler Tag der Musik** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/universaler-tag-der-musik-der-amerikanische-universal-music-day/ — „Universaler Tag der Musik – Universal Music Day am 10. Oktober 2026“
+- **10.10. – Welthospiztag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welthospiztag
+- **10.10. – Welthundetag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welthundetag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-des-hundes/ — „Welthundetag oder Welttag des Hundes am 10. Oktober – World Dog Day 2026“
+- **10.10. – Welttag der geistigen Gesundheit** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-der-geistigen-gesundheit
+- **10.10. – Welttag des Porridge am 10. Oktober** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-porridge-day/ — „Welttag des Porridge am 10. Oktober – World Porridge Day 2026“
+- **10.10. – Welttag gegen die Todesstrafe** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-gegen-die-todesstrafe
+- **10.10. – Weltzugvogeltag im Mai und Oktober** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltzugvogeltag/ — „Weltzugvogeltag im Mai und Oktober – World Migratory Bird Day 2026“
+- **11.10. – Coming-out-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/coming-out-tag
+- **11.10. – Internationaler Mädchentag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-maedchentag/ — „Internationaler Mädchentag – der UNO International Day of the Girl Child 2026“
+- **11.10. – Meine-Party-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/its-my-party-day/ — „Meine-Party-Tag – der US-amerikanische It’s My Party Day am 11. Oktober“
+- **11.10. – Tag der Mädchen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-maedchen
+- **11.10. – Tag der Würstchen-Pizza** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-wuerstchen-pizza/ — „Tag der Würstchen-Pizza – National Sausage Pizza Day in den USA“
+- **11.10. – Tag des Schauspiels** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-schauspiels
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-schauspiels-in-deutschland/ — „Der bundesweite Tag des Schauspiels in Deutschland am 11. Oktober“
+- **12.10. – Columbus Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/columbus-day
+- **12.10. – Freidenker-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/freidenker-tag/ — „Freidenker-Tag – der US-amerikanische Freethought Day am 12. Oktober“
+- **12.10. – Kolumbus-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/kolumbus-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/kolumbus-tag/ — „Kolumbus-Tag in den USA – Columbus Day am 12. Oktober 2026“
+- **12.10. – Tag der Frustrationsschreie** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-frustrationsschreie
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-frustationsschreie/ — „Internationaler Tag der Frustrationsschreie – Moment of Frustration Scream Day“
+- **12.10. – Unabhängigkeitstag in Äquatorialguinea** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/aequatorialguinea-unabhaengigkeitstag
+- **12.10. – Weltrheumatag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltrheumatag
+- **13.10. – Ada-Lovelace-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/ada-lovelace-tag
+- **13.10. – Anti-BH-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/anti-bh-tag
+- **13.10. – Ehemaliger Tag der Aktivisten** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/ehemaliger-tag-der-aktivisten
+- **13.10. – Ehemaliger Tag der Seeverkehrswirtschaft** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/ehemaliger-tag-der-seeverkehrswirtschaft
+- **13.10. – International Suit Up Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-suit-up-day/ — „International Suit Up Day – zu Ehren von Barney Stinson am 13. Oktober 2026“
+- **13.10. – M&M-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/mundm-tag/ — „M&M-Tag – der US-amerikanische National M&M Day am 13. Oktober“
+- **13.10. – Stell-dich-deinen-Ängsten-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/stell-dich-deinen-aengsten-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/stell-dich-deinen-aengsten-tag/ — „Stell-dich-deinen-Ängsten-Tag in den USA – National Face Your Fears Day 2026“
+- **13.10. – Tag der Katastrophenvorbeugung** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-katastrophenvorbeugung
+- **13.10. – Tag des Gedächtnistrainings** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-gedaechtnistrainings/ — „Tag des Gedächtnistrainings – National Train Your Brain Day in den USA“
+- **13.10. – Tag des Yorkshire Puddings** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-yorkshire-puddings
+- **14.10. – Der US-amerikanische Nimm-Deinen-Teddybär-mit-zur-Arbeit-Tag 2026** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/nimm-deinen-teddybaer-mit-zur-arbeit-tag/
+- **14.10. – Glücklich-trotz-Glatze-Tag am 14. Oktober** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/gluecklich-trotz-glatze-tag/ — „Glücklich-trotz-Glatze-Tag am 14. Oktober – Be Bald & be Free Day in den USA“
+- **14.10. – Hospiztag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/hospiztag
+- **14.10. – Tag der Glatze** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-glatze
+- **14.10. – Tag der Notfallschwester** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-notfallschwester
+- **14.10. – Tag des Desserts** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-desserts
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-desserts/ — „Tag des Desserts am 14. Oktober – National Dessert Day in den Vereinigten Staaten“
+- **14.10. – Tag des mit Schokolade überzogenen Insekts** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-mit-schokolade-ueberzogenen-insekts
+- **14.10. – Weltnormentag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltnormentag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltnormentag/ — „Weltnormentag – World Standards Day am 14. Oktober“
+- **15.10. – Fossilien-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/fossilien-tag-in-den-usa-national-fossil-day/ — „Fossilien-Tag in den USA – National Fossil Day 2025“
+- **15.10. – Mops-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/mops-tag/ — „Mops-Tag – der National Pug Day in den Vereinigten Staaten“
+- **15.10. – Tag der Frau in ländlichen Gebieten** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-frau-in-laendlichen-gebieten
+- **15.10. – Tag der Grützwurst** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-gruetzwurst
+- **15.10. – Tag der Pilze** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-pilze-usa/ — „Tag der Pilze – National Mushroom Day in den USA“
+- **15.10. – Tag der Sternenkinder** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-sternenkinder
+- **15.10. – Tag des Händewaschens** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-haendewaschens
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-des-haendewaschens/ — „Welttag des Händewaschens – Global Handwashing Day“
+- **15.10. – Tag des Schornsteinfegers** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-schornsteinfegers/ — „Tag des Schornsteinfegers in Deutschland – 15. Oktober 2026“
+- **15.10. – Tag des weißen Stockes** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-weissen-stockes
+- **16.10. – Blog Action Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/blog-action-day
+- **16.10. – Boss Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/boss-day
+- **16.10. – Ex-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ex-tag/ — „Ex-Tag – der US-amerikanische National Ex Day am 16. Oktober“
+- **16.10. – Steve-Jobs-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/steve-jobs-tag
+- **16.10. – Tag der streunende Katze** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-streunende-katze
+- **16.10. – Tag des Likörs** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-likoers/ — „Tag des Likörs – National Liqueur Day in den USA“
+- **16.10. – Tag des Wörterbuchs** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-woerterbuchs
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-woerterbuchs/ — „Tag des Wörterbuchs – National Dictionary Day in den USA“
+- **16.10. – Welternährungstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/welternaehrungstag
+- **16.10. – World Bread Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-bread-day/ — „World Bread Day – Internationaler Tag des Brotes“
+- **17.10. – Der bundesweite Tag des Grabsteins** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-grabsteins/ — „Der bundesweite Tag des Grabsteins in Deutschland 2026“
+- **17.10. – Der Süßeste Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/sweetest-day/ — „Der Süßeste Tag in den Vereinigten Staaten – Sweetest Day am 17. Oktober 2026“
+- **17.10. – Internationaler Tag der Reparatur** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-reparatur/ — „Internationaler Tag der Reparatur – International Repair Day am 17. Oktober 2026“
+- **17.10. – Nationaler Pasta-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/pasta-tag-usa/ — „Nationaler Pasta-Tag – der US-amerikanische National Pasta Day am 17. Oktober“
+- **17.10. – Sweetest Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/sweetest-day
+- **17.10. – Tag der Tabellenkalkulation** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-tabellenkalkulation
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-tabellenkalkulation/ — „Tag der Tabellenkalkulation – National Spreadsheet Day in den USA“
+- **17.10. – Tag der zweiten Chance** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-zweiten-chance/ — „Tag der zweiten Chance – National Mulligan Day in den USA“
+- **17.10. – Tag für die Beseitigung der Armut** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-fuer-die-beseitigung-der-armut
+- **17.10. – Trag-auffällige-Klamotten-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/trag-auffaellige-klamotten-tag/ — „Trag-auffällige-Klamotten-Tag – Wear Something Gaudy Day in den USA“
+- **17.10. – Trage-etwas-Kitschiges-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/trage-etwas-kitschiges-tag
+- **18.10. – Alaska Day** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/alaska-day
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/alaska-day/ — „Alaska Day – offizieller Feiertag des US-amerikanischen Bundesstaates Alaska“
+- **18.10. – Ehrentag des Hackbratens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ehrentag-des-hackbratens-usa/ — „Ehrentag des Hackbratens – der US-amerikanische National Meatloaf Appreciation Day“
+- **18.10. – Ohne-Bart-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/ohne-bart-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ohne-bart-tag/ — „Ohne-Bart-Tag – der US-amerikanische National No Beard Day am 18. Oktober“
+- **18.10. – Tag der Krawatte** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-krawatte
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-krawatte-in-kroatien/ — „Tag der Krawatte in Kroatien – der kroatische Dan Kravate am 18. Oktober“
+- **18.10. – Tag der Menopause** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-menopause
+- **18.10. – Tag des Kartoffelpürees** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kartoffelpuerees/ — „Tag des Kartoffelpürees – National Mashed Potato Day in den Vereinigten Staaten“
+- **18.10. – Tag des Musikalbums** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-album-day/ — „Tag des Musikalbums in Großbritannien – National Album Day 2025“
+- **18.10. – Tag des Schokoladen-Cupcakes** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-schokoladen-cupcakes/ — „Tag des Schokoladen-Cupcakes – National Chocolate Cupcake Day in den USA“
+- **19.10. – Evaluier-dein-Leben-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/evaluier-dein-leben-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/evaluier-dein-leben-tag/ — „Evaluier-dein-Leben-Tag – Evaluate Your Life Day in den Vereinigten Staaten“
+- **19.10. – Gin-Tonic-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/gin-tonic-tag/ — „Gin-Tonic-Tag – National und International Gin and Tonic Day 2026“
+- **19.10. – Internationaler Gib-Deinem-Fahrrad-einen-Namen-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-gib-deinem-fahrrad-einen-namen-tag/ — „Internationaler Gib-Deinem-Fahrrad-einen-Namen-Tag – International Name Your Bike Day“
+- **19.10. – Räum-deinen-Desktop-auf-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/raeum-deinen-desktop-auf-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/raeum-deinen-desktop-auf-tag/ — „Räum-Deinen-Desktop-auf-Tag in den USA – National Clean Your Virtual Desktop Day 2026“
+- **20.10. – Internationaler Tag der Fluglotsen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-fluglotsen/ — „Internationaler Tag der Fluglotsen – International Day of the Air Traffic Controller“
+- **20.10. – Internationaler Tag der Köche am 20. Oktober** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-koeche/ — „Internationaler Tag der Köche am 20. Oktober – der International Chefs Day“
+- **20.10. – Tag der Allee** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-allee/ — „Tag der Allee in Deutschland – bundesweiter Aktionstag am 20. Oktober“
+- **20.10. – Tag der Gehirnerschütterung** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-gehirnerschuetterung/ — „Tag der Gehirnerschütterung in Deutschland“
+- **20.10. – Tag des Faultiers** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-faultiers
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-faultiers/ — „Internationaler Tag des Faultiers – International Sloth Day 2026“
+- **20.10. – Tag des Shampoos** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-shampoo-usa/ — „Tag des Shampoos – National Shampoo Day in den USA“
+- **20.10. – Weltosteoporosetag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltosteoporosetag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltosteoporosetag/ — „Weltosteoporosetag am 20. Oktober – der World Osteoporosis Day 2026“
+- **20.10. – Weltstatistiktag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltstatistiktag
+- **21.10. – Nacho-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/nacho-tag/ — „Nacho-Tag – International Day of the Nacho und National Nacho Day in den USA“
+- **21.10. – Tag der Kinderseiten** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-kinderseiten
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-kinderseiten-in-deutschland/ — „Tag der Kinderseiten in Deutschland – 21. Oktober 2026“
+- **21.10. – Tag der Nachos** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-nachos
+- **21.10. – Tag des Apfels** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-apfels-in-grossbritannien/ — „Tag des Apfels in Großbritannien – der nationale Apple Day UK am 21. Oktober“
+- **21.10. – Trafalgar Day** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/trafalgar-day
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/trafalgar-day/ — „Trafalgar Day zu Ehren von Admiral Horatio Nelson in Großbritannien“
+- **21.10. – Zähl-Deine-Knöpfe-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/zaehl-deine-knoepfe-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/zaehl-deine-knoepfe-tag/ — „Zähl-Deine-Knöpfe-Tag – Count Your Buttons Day in den USA“
+- **21.10. – Zurück-in-die-Zukunft-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/zurueck-in-die-zukunft-tag
+- **22.10. – Tag der Farbe** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-farbe-usa/ — „Tag der Farbe in den Vereinigten Staaten – National Color Day am 22. Oktober“
+- **22.10. – Tag der Feststelltaste** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-feststelltaste
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-feststelltaste/ — „Internationaler Tag der Feststelltaste – INTERNATIONAL CAPS LOCK DAY“
+- **22.10. – Tag der Nuss** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-nuss
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-nuss-in-grossbritannien/ — „Tag der Nuss in Großbritannien – der britische National Nut Day am 22. Oktober“
+- **22.10. – Tag des Wombats** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-wombats/ — „Tag des Wombats – der australische World Wombat Day am 22. Oktober“
+- **22.10. – Welttag des Stotterns** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-des-stotterns
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-des-stotterns/ — „Welttag des Stotterns – der internationale Stuttering Awareness Day 2026“
+- **23.10. – Chulalongkorn-Tag in Thailand** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/chulalongkorn-tag
+- **23.10. – Gucky-Tag oder: Die Rückkehr des Mausbibers in Perry Rhodan** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/gucky-tag/
+- **23.10. – Tag der Crocs** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-crocs-usa/ — „Tag der Crocs – National Croc Day in den USA“
+- **23.10. – Tag der Republik in Ungarn** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/ungarn-tag-der-republik
+- **23.10. – Tag des iPods** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-ipods
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-ipod/ — „Tag des iPod – der US-amerikanische National iPod Day“
+- **23.10. – Tag des Mols** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-mols
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-mols/ — „Tag des Mols – der US-amerikanische National Mole Day“
+- **23.10. – Tag des Piloten in Brasilien** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-piloten-in-brasilien/ — „Tag des Piloten in Brasilien – der brasilianische Dia do Aviador“
+- **23.10. – Tag des Schneeleoparden** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-schneeleoparden/ — „Tag des Schneeleoparden – International Snow Leopard Day“
+- **23.10. – Tag des Werbers** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-werbers
+- **24.10. – Beginn der Abrüstungswoche** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/beginn-der-abruestungswoche
+- **24.10. – Hol-Dir-Deine-Zeit-zurück-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/hol-dir-deine-zeit-zurueck-tag/ — „Hol-Dir-Deine-Zeit-zurück-Tag – Take Back Your Time Day in den USA“
+- **24.10. – Mache-einen-Unterschied-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/mache-einen-unterschied-tag
+- **24.10. – Tag der Bibliotheken** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-bibliotheken
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-bibliotheken/ — „Tag der Bibliotheken in Deutschland am 24. Oktober“
+- **24.10. – Tag der Ernährung am 24. Oktober** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-ernaehrung-in-den-usa/ — „Tag der Ernährung am 24. Oktober – der US-amerikanische National Food Day“
+- **24.10. – Tag der Fleischwurst** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-fleischwurst/ — „Tag der Fleischwurst – National Bologna Day in den USA“
+- **24.10. – Tag der Vereinten Nationen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-vereinten-nationen
+- **24.10. – Tag des Kängurus** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kaengurus/ — „Tag des Kängurus – World Kangaroo Day & National Kangaroo Awareness Day“
+- **24.10. – Unabhängigkeitstag in Sambia** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/sambia-unabhaengigkeitstag
+- **24.10. – Welttag der Gewürze** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-gewuerze/ — „Welttag der Gewürze – der internationale World Spice Day am 24. Oktober“
+- **24.10. – Welttag der Information über Entwicklungsfragen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-der-information-ueber-entwicklungsfragen
+- **25.10. – Der bundesweite Tag des Einbruchschutzes** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-einbruchschutzes/ — „Der bundesweite Tag des Einbruchschutzes in Deutschland – 25. Oktober 2026“
+- **25.10. – Sauerste Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/sauerste-tag
+- **25.10. – Sourest Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/sourest-day-sauerster-tag-im-jahr/ — „Sourest Day – oder: Happy Birthday, Mr. Sauer -der Sauerste Tag des Jahres – 25. Oktober“
+- **25.10. – Tag der Flüsse** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-fluesse
+- **25.10. – Tag der Künstler** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-kuenstler
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-artist-day/ — „Internationaler Tag der Künstler – International Artist Day am 25. Oktober“
+- **25.10. – Tag der Schwiegermutter** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-schwiegermutter
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/schwiegermutter-tag/ — „Schwiegermutter-Tag in den USA – National Mother-in-Law Day – 25. Oktober 2026“
+  - automatische Ähnlichkeit: 100 %
+- **25.10. – Tag des fettigen Essens am 25. Oktober** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-fettigen-essens-in-den-usa/ — „Tag des fettigen Essens am 25. Oktober – National Greasy Foods Day in den USA“
+- **25.10. – Weltnudeltag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltnudeltag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltpastatag-oder-weltnudeltag/ — „Weltpastatag oder Weltnudeltag am 25. Oktober – der internationale World Pasta Day“
+- **25.10. – Welttag der Pizzabäcker 2026** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-pizzabaecker/ — „Welttag der Pizzabäcker 2026 – World Pizza Makers Day am 25. Oktober“
+- **26.10. – Angam Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/angam-day
+- **26.10. – Ehrentag des Maultiers oder Muli-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/muli-tag-usa/ — „Ehrentag des Maultiers oder Muli-Tag – National Mule Appreciation Day in den USA“
+- **26.10. – Heul-den-Mond-an-Nacht** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/heul-den-mond-an-nacht
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/heul-den-mond-an-tag/ — „Heul-den-Mond-an-Tag – Howl at the Moon Day in den Vereinigten Staaten“
+  - automatische Ähnlichkeit: 75 %
+- **26.10. – Nationalfeiertag in Österreich** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/nationalfeiertag-in-oesterreich
+- **26.10. – Tag der Intersexualität** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-intersexualitaet
+- **26.10. – Tag des Kürbis** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kuerbis-in-den-usa/ — „Tag des Kürbis – der US-amerikanische National Pumpkin Day“
+- **27.10. – Der bundesweite Mit-Absicht-Geld-verlieren-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/mit-absicht-geld-verlieren-tag/ — „Der bundesweite Mit-Absicht-Geld-verlieren-Tag in Deutschland am 27. Oktober“
+- **27.10. – Nationaler Erzähl-eine-Geschichte-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/nationaler-erzaehl-eine-geschichte-tag-uk/ — „Nationaler Erzähl-eine-Geschichte-Tag – National Tell a Story Day in Großbritannien“
+- **27.10. – Navy Day in den USA** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/navy-day-usa
+- **27.10. – Tag der Boxershorts** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-boxerhorts/ — „Tag der Boxershorts – der Boxer Shorts Day in den Vereinigten Staaten“
+- **27.10. – Tag der schwarzen Katze** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-schwarzen-katze-grossbritannien/ — „Tag der schwarzen Katze – National Black Cat Day in Großbritannien“
+- **27.10. – Unabhängigkeitstag in Turkmenistan** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/turkmenistan-unabhaengigkeitstag
+- **27.10. – Welttag der Ergotherapie** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-der-ergotherapie
+- **27.10. – Welttag des audiovisuellen Erbes** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-des-audiovisuellen-erbes
+- **28.10. – Nein-Tag in Griechenland** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/griechenland-nationalfeiertag
+- **28.10. – Ochi-Tag oder der Jahrestag des Nein in Griechenland am 28. Oktober** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/nein-tag-in-griechenland/
+- **28.10. – Tag der Animation** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-animation
+- **28.10. – Tag der Kuscheltier-Liebhaber** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-kuscheltier-liebhaber
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-kuscheltier-liebhaber/ — „Tag der Kuscheltier-Liebhaber – der US-amerikanische Plush Animal Lover’s Day“
+- **28.10. – Tag der wild wachsenden Nahrung** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-wildwachsenden-nahrung/ — „Tag der wild wachsenden Nahrung – National Wild Foods Day in den USA“
+- **28.10. – Unabhängigkeitstag in Tschechien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tschechien-unabhaengigkeitstag
+- **28.10. – Welt-Konfetti-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welt-konfetti-tag/ — „Welt-Konfetti-Tag – der US-amerikanische World Ticker-Tape Day“
+- **28.10. – Weltpoliotag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welt-poliotag
+- **29.10. – Tag der Einsiedler** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-einsiedler-in-den-usa/ — „Tag der Einsiedler – National Hermit Day in den USA“
+- **29.10. – Tag der Katze** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-katze-in-den-usa/ — „Tag der Katze in den Vereinigten Staaten – National Cat Day am 29. Oktober“
+- **29.10. – Tag der Republik in der Türkei** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tuerkei-tag-der-republik
+- **29.10. – Tag des Haferbreis** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-haferbreis/ — „Tag des Haferbreis – National Oatmeal Day in den USA“
+- **29.10. – Tag des Internets** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-internets
+- **29.10. – Welt-Psoriasistag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welt-psoriasistag
+- **29.10. – Weltschlaganfalltag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltschlaganfalltag
+- **30.10. – Bandana-Tag in Australien am 30. Oktober** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/bandana-tag-in-australien/ — „Bandana-Tag in Australien am 30. Oktober – National Bandana Day 2026“
+- **30.10. – Candy-Corn-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/candy-corn-tag/ — „Candy-Corn-Tag – National Candy Corn Day in den USA“
+- **30.10. – Frankenstein-Freitag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/frankenstein-freitag
+- **30.10. – Gedenktag für die Opfer politischer Gewalt** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/gedenktag-fuer-die-opfer-politischer-gewalt
+- **30.10. – Nacht des Unfugs** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/nacht-des-unfugs
+- **30.10. – Nacht des verfluchten Kühlschranks** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/nacht-des-verfluchten-kuehlschranks
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-verfluchten-kuehlschranks/ — „Tag des verfluchten Kühlschranks – die US-amerikanische Haunted Refrigerator Night“
+  - automatische Ähnlichkeit: 67 %
+- **30.10. – Tag der Checkliste** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-checkliste
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-checklisten/ — „Tag der Checklisten – National Checklists Day in den USA“
+- **30.10. – Tag des Kinnkraulens am 30. Oktober** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kinnkraulens/ — „Tag des Kinnkraulens am 30. Oktober in Deutschland“
+- **30.10. – Welt-Lemuren-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welt-lemuren-tag/ — „Welt-Lemuren-Tag – World Lemur Day 2026“
+- **30.10. – Weltspartag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltspartag
+- **30.10. – Welttag des Hörspiels** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-des-hoerspiels/ — „Welttag des Hörspiels – World Audio Drama Day – 30. Oktober“
+- **31.10. – Grounding Page kuriose-feiertage** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/grounding/kuriose-feiertage-grounding.html
+- **31.10. – Grounding Page Sven Giese** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/grounding/sven-giese.html
+- **31.10. – Halloween** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/halloween
+- **31.10. – Schnitz-einen-Kürbis-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/schnitz-einen-kuerbis-tag/ — „Schnitz-einen-Kürbis-Tag – National Carve a Pumpkin Day in den USA“
+- **31.10. – Steigere-Deine-übersinnlichen-Fähigkeiten-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/steigere-deine-uebersinnlichen-faehigkeiten-tag/ — „Steigere-Deine-übersinnlichen-Fähigkeiten-Tag – Increase Your Psychic Powers Day“
+- **31.10. – Tag der Toten** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/dia-de-los-muertos
+- **31.10. – Tag der Türklingel** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-tuerklingel/ — „Tag der Türklingel – der National Doorbell Day in den Vereinigten Staaten“
+- **31.10. – Tag der Zauberei** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-zauberei
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-zauberei/ — „Tag der Zauberei im Gedenken an Harry Houdini – National Magic Day in den USA“
+- **31.10. – Umarme-ein-Schaf-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/hug-a-sheep-day/ — „Umarme-ein-Schaf-Tag in den USA – National Hug a Sheep Day am 31. Oktober 2026“
+- **31.10. – Weltspartag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltspartag/ — „Weltspartag – World Savings Day am 31. Oktober“
+- **31.10. – Welttag der Städte** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-der-staedte
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-staedte/ — „Welttag der Städte – World Cities Day am 31. Oktober“
+## November
+
+- **01.11. – Allerheiligen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/allerheiligen
+- **01.11. – Nationalfeiertag in Algerien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/algerien-nationalfeiertag
+- **01.11. – Tag der Autoren** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-autoren
+- **01.11. – Tag der Calzone** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-calzone
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-calzone/ — „Tag der Calzone – National Calzone Day in den USA“
+- **01.11. – Tag der Schriftsteller** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-schriftsteller-in-den-usa/ — „Tag der Schriftsteller – National Authors Day in den USA“
+- **01.11. – Tag der Toten** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-toten
+- **01.11. – Tag des Einhorns** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-einhorns/ — „Tag des Einhorns – der National und International Unicorn Day 2026“
+- **01.11. – Tag des Nichtstuns** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-nichtstuns-in-den-usa/ — „Tag des Nichtstuns in den USA – Zero Tasking Day 2026“
+- **01.11. – Tag des Zimts** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-zimts/ — „Tag des Zimts – National Cinnamon Day in den USA“
+- **01.11. – Unabhängigkeitstag in Antigua und Barbuda** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/antigua-und-barbuda-unabhaengigkeitstag
+- **01.11. – Waisenkinder-Sonntag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/waisenkinder-sonntag
+- **01.11. – Weltvegantag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltvegantag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltvegantag/ — „Weltvegantag – der internationale World Vegan Day“
+- **02.11. – Halte-Ausschau-nach-Kreisen-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/halte-ausschau-nach-kreisen-tag/ — „Halte-Ausschau-nach-Kreisen-Tag – Look for Circles Day in den USA“
+- **02.11. – Krümelmonster-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/kruemelmonster-tag/ — „Krümelmonster-Tag – National Cookie Monster Day in den USA“
+- **02.11. – Tag der Toten** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-toten-2
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/der-tag-der-toten-dia-de-los-muertos/ — „Der Tag der Toten in Mexiko – der mexikanische Día de los Muertos“
+- **02.11. – Tag des gefüllten Eies** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-gefuellten-eies
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-gefuellten-eier/ — „Tag der gefüllten Eier – National Deviled Egg Day in den USA“
+  - automatische Ähnlichkeit: 67 %
+- **02.11. – Tag gegen Straflosigkeit für Verbrechen an Journalisten** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-gegen-straflosigkeit-fuer-verbrechen-an-journalisten
+- **03.11. – Tag der Hausfrau** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-hausfrau
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-hausfrau-in-den-usa/ — „Tag der Hausfrau – National Housewife’s Day in den USA“
+- **03.11. – Tag der Kultur** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-kultur
+- **03.11. – Tag des Sandwich** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-sandwich
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/sandwich-tag-in-den-usa/ — „Sandwich-Tag in den Vereinigten Staaten – National Sandwich Day“
+  - automatische Ähnlichkeit: 100 %
+- **03.11. – Unabhängigkeitstag in Panama** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/panama-unabhaengigkeitstag
+- **03.11. – Wahltag in den USA** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/wahltag-in-den-usa
+- **03.11. – Weltmännertag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltmaennertag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltmaennertag/ — „Weltmännertag – der internationale Men’s World Day“
+- **03.11. – Welttag der Quallen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-quallen/ — „Welttag der Quallen – World Jellyfish Day am 3. November“
+- **04.11. – Nationaler Skeptikertag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/nationaler-skeptikertag/ — „Nationaler Skeptikertag – National Skeptics Day in den USA“
+- **04.11. – Tag der Chicken Lady** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-chicken-lady-in-den-usa/ — „Tag der Chicken Lady – National Chicken Lady Day in den USA“
+- **04.11. – Tag der Einheit des Volkes** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-einheit-des-volkes
+- **04.11. – Tag der Liebe** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-liebe
+- **04.11. – Tag der Süßigkeiten am 4. November** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-suessigkeiten-in-den-usa/ — „Tag der Süßigkeiten am 4. November – National Candy Day in den USA“
+- **04.11. – Tutanchamun-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tutanchamun-tag/ — „Tutanchamun-Tag – der internationale King Tut Day am 4. November“
+- **04.11. – Tutenchamun-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tutenchamun-tag
+- **05.11. – Bonfire Night in England** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/bonfire-night-england/ — „Bonfire Night in England – Guy Fawkes Day und das Ende des Gunpowder Plot“
+- **05.11. – Ehrentag des Donuts** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/doughnut-tag-in-den-usa/ — „Ehrentag des Donuts – National Doughnut Appreciation Day in den Vereinigten Staaten“
+- **05.11. – Tag des Freiwilligenmanagements** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-freiwilligenmanagements
+- **06.11. – Nacho-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/nacho-tag/ — „Nacho-Tag – International Day of the Nacho und National Nacho Day in den USA“
+- **06.11. – Ohne-Kompass-gestrandet-sein-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ohne-kompass-gestrandet-sein-tag/ — „Ohne-Kompass-gestrandet-sein-Tag – Marooned Without a Compass Day in den USA“
+- **06.11. – Tag der Nachos** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-nachos-usa
+- **06.11. – Tag des Basketballs** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-basketballs/ — „Tag des Basketballs – der National Basketball Day in den Vereinigten Staaten“
+- **06.11. – Tag des Füllfederhalters** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-fuellfederhalters
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-fuellfederhalters/ — „Tag des Füllfederhalters – der internationale Fountain Pen Day am 6. November 2026“
+- **06.11. – Tag des Saxophons** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-saxophons
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-saxophons/ — „Tag des Saxophons – der internationale Saxophone Day am 6. November“
+- **06.11. – Tag für die Verhütung der Ausbeutung der Umwelt in Kriegen und bewaffneten Konflikten** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-fuer-die-verhuetung-der-ausbeutung-der-umwelt-in-kriegen-und-bewaffneten-konflikten
+- **07.11. – Darmtag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/darmtag
+- **07.11. – Tag der Oktoberrevolution** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-oktoberrevolution
+- **07.11. – Tag der Weinprobe** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-weinprobe/ — „Tag der Weinprobe in den USA – National Wine Tasting Day 2026“
+- **07.11. – Tag der Zartbitterschokolade mit Mandeln** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-zartbitterschokolade-mit-mandeln
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-zartbitterschokolade-mit-mandeln/ — „Tag der Zartbitterschokolade mit Mandeln – National Bittersweet Chocolate with Almonds Day“
+- **07.11. – Tag des Bisons** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-bisons/ — „Tag des Bisons in den USA – der National Bison Day 2026“
+- **07.11. – Tag des Kladdkaka in Schweden** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kladdkaka-in-schweden/ — „Tag des Kladdkaka in Schweden – der Kladdkakans dag am 7. November“
+- **07.11. – Umarme-einen-Bären-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/umarme-einen-baeren-tag/ — „Umarme-einen-Bären-Tag – der US-amerikanische National Hug a Bear Day“
+- **08.11. – Genügend-Zeit-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/genuegend-zeit-tag/ — „Genügend-Zeit-Tag – der US-amerikanische National Ample Time Day“
+- **08.11. – Internationaler Tag der Zungenbrecher** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-zungenbrecher/ — „Internationaler Tag der Zungenbrecher – International Tongue Twister Day 2026“
+- **08.11. – Koch-etwas-deftiges-und-scharfes-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/koch-etwas-deftiges-und-scharfes-tag
+- **08.11. – Tag der Putzfrau** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-putzfrau
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-putzfrau/ — „Internationaler Tag der Putzfrau – Weltputzfrauentag am 8. November“
+- **08.11. – Tag der Röntgenstrahlung** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-rontgenstrahlung
+- **08.11. – Tag des Cappuccino** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-cappuccino-in-den-usa/ — „Tag des Cappuccino – National Cappuccino Day in den Vereinigten Staaten“
+- **08.11. – Tag des Harvey Wallbanger** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-harvey-wallbanger-day/ — „Tag des Harvey Wallbanger – National Harvey Wallbanger Day in den USA“
+- **08.11. – Weltschenktag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltschenktag
+- **08.11. – Welttag der Stadtplanung** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-town-planning-day/ — „Welttag der Stadtplanung – World Town Planinng Day am 8. November“
+- **09.11. – Ausrufung der deutschen Republik durch den Sozialdemokraten Philipp Scheidemann** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/ausrufung-der-deutschen-republik-durch-den-sozialdemokraten-philipp-scheidemann
+- **09.11. – Das-Chaos-nimmt-kein-Ende-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/das-chaos-nimmt-kein-ende-tag
+- **09.11. – Dia de los ñatitas am 9. November** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-totenschaedel-in-bolivien/ — „Dia de los ñatitas am 9. November – der Tag der Totenschädel in Bolivien“
+- **09.11. – Gedenken an den Fall der Mauer zwischen Berlin Ost und West** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/gedenken-an-den-fall-der-mauer-zwischen-berlin-ost-und-west
+- **09.11. – Gedenken an die Reichspogromnacht** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/gedenken-an-die-reichspogromnacht
+- **09.11. – Tag der Erfinder** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-erfinder
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-erfinder/ — „Tag der Erfinder in Deutschland am 9. November – Happy Birthday Hedy Lamarr“
+- **09.11. – Tag der Neon-Schilder am 9. November** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-neon-schilder/ — „Tag der Neon-Schilder am 9. November – National Neon Sign Day in den USA“
+- **09.11. – Tag des ewigen Chaos** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-ewigen-chaos/ — „Tag des ewigen Chaos – Chaos Never Dies Day in den Vereinigten Staaten“
+- **09.11. – Tag des Preiselbeer-Käsekuchens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/cranberry-cheesecake-day/ — „Tag des Preiselbeer-Käsekuchens – (National) Cranberry Cheesecake Day in den USA“
+- **09.11. – Weltfreiheitstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/weltfreiheitstag
+- **09.11. – Welttag der Waisenkinder** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-der-waisenkinder
+- **10.11. – Der bundesweite Sir-ja-Sir-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/sir-ja-sir-tag/ — „Der bundesweite Sir-ja-Sir-Tag in Deutschland am 10. November 2026“
+- **10.11. – Internationaler Tag der Buchhaltung** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-buchhaltung/ — „Internationaler Tag der Buchhaltung – International Accounting Day am 10. November“
+- **10.11. – Sesamstraßentag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/sesamstrassentag
+- **10.11. – Tag der jungen Leser** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-jungen-leser
+- **10.11. – Tag der Sesamstraße in New York** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-sesamstrasse/ — „Tag der Sesamstraße in New York – der US-amerikanische Sesame Street Day“
+- **10.11. – Tag der Tagespflegen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-tagespflegen-in-deutschland/ — „Tag der Tagespflegen – bundesweiter Aktionstag in Deutschland am 10. November“
+- **10.11. – Tag des Marineinfanteriekorps** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-marineinfanteriekorps
+- **10.11. – Tag des Vanille-Cupcakes** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-vanille-cupcake/ — „Tag des Vanille-Cupcakes – der US-amerikanische National Vanilla Cupcake Day“
+- **10.11. – Vergissmeinnicht-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/vergissmeinnicht-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/vergissmeinnicht-tag/ — „Vergissmeinnicht-Tag – National Forget-Me-Not Day in den Vereinigten Staaten“
+- **10.11. – Welttag der Wissenschaft** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-der-wissenschaft
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-wissenschaft/ — „Welttag der Wissenschaft – World Science Day for Peace and Development“
+- **11.11. – Beginn von Karneval, Fastnacht und Fasching, um 11:11 Uhr** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/beginn-von-karneval-fastnacht-und-fasching-um-1111-uhr
+- **11.11. – Martinstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/martinstag
+- **11.11. – Nigel Tufnel Day am 11. November** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/nigel-tufnel-day/ — „Nigel Tufnel Day am 11. November – internatinaler Ehrentag der Maximum Eleveness“
+- **11.11. – Pepero Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/pepero-day
+- **11.11. – Pepero-Tag in Südkorea** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/pepero-day-in-suedkorea/ — „Pepero-Tag in Südkorea – der koreanische Pepero Day“
+- **11.11. – Tag der Singles in China** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/singles-day-china/ — „Tag der Singles in China – der chinesische Guanggun Jie“
+- **11.11. – Tag der Unabhängigkeit in Angola** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/angola-tag-der-unabhaengigkeit
+- **11.11. – Tag des Eisbechers am 11. November** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-eisbechers/ — „Tag des Eisbechers am 11. November – National Sundae Day in den USA“
+- **11.11. – Tag des Heavy Metal am 11. November** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-heavy-metal/ — „Tag des Heavy Metal am 11. November – National Metal Day in den USA“
+- **11.11. – Tag des Origami** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-origami
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-origami/ — „Tag des Origami – der Origami Day in Japan und den USA“
+- **11.11. – Tag des Weckmanns oder Tag des Stutenkerls** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-weckmanns/ — „Tag des Weckmanns oder Tag des Stutenkerls in Deutschland – 11. November und 6. Dezember“
+- **11.11. – Unabhängigkeitstag in Kolumbien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/unabhaengigkeitstag-in-kolumbien
+- **11.11. – Unabhängigkeitstag in Polen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/polen-unabhaengigkeitstag
+- **11.11. – Veterans Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/veterans-day
+- **12.11. – Ehrentag für Oma und Opa** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/ehrentag-fuer-oma-und-opa
+- **12.11. – Hühnersuppe-für-die-Seele-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/huehnersuppe-fuer-die-seele-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/huehnersuppe-fuer-die-seele-tag/ — „Hühnersuppe-für-die-Seele-Tag – der US-amerikanische National Chicken Soup for the Soul Day“
+- **12.11. – Pizza-mit-allem-Möglichen-außer-Anchovis-belegt-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/pizza-mit-allem-moeglichen-ausser-anchovis-belegt-tag/ — „Pizza-mit-allem-Möglichen-außer-Anchovis-belegt-Tag – National Pizza with the Works Except Anchovies Day“
+- **12.11. – Tag der Happy Hour** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-happy-hour/ — „Tag der Happy Hour – National Happy Hour Day in den USA“
+- **12.11. – Tag der schlechten Wortspiele** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-schlechten-wortspiele
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-schlechten-wortspiele/ — „Tag der schlechten Wortspiele in Deutschland – 12. November“
+- **12.11. – Welt-EDI-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/welt-edi-tag
+- **13.11. – Bring-ein-Gerücht-in-Umlauf-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/bring-ein-geruecht-in-umlauf-tag/ — „Bring-ein-Gerücht-in-Umlauf-Tag – Start a Rumor Day in den USA“
+- **13.11. – Der bundesweite Tag des Bloggens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-bloggens/ — „Der bundesweite Tag des Bloggens in Deutschland“
+- **13.11. – Freitag der 13.** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/freitag-der-13
+- **13.11. – Rauchmeldertag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/rauchmeldertag-in-deutschland/ — „Rauchmeldertag in Deutschland 2026 – an jedem Freitag, den 13. im Jahr“
+- **13.11. – Sadie Hawkins Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/sadie-hawkins-day/ — „Sadie Hawkins Day in den USA – 13. November“
+- **13.11. – Welt-Nettigkeitstag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welt-nettigkeitstag/ — „Welt-Nettigkeitstag – World Kindness Day am 13. November“
+- **13.11. – Weltnettigkeitstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltnettigkeitstag
+- **14.11. – Tag der eingelegten Gurke** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-eingelegten-gurke
+- **14.11. – Tag der Gewürzgurke am 14. November** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-gewuerzgurke-usa/ — „Tag der Gewürzgurke am 14. November – National Pickle Day in den USA“
+- **14.11. – Tag der OP-Schwester** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-op-schwester
+- **14.11. – Tag des Lochers** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-lochers/ — „Tag des Lochers – Friedrich Soennecken erhält das Patent für den Papierlocher“
+- **14.11. – Tag des Zungenbrechers** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-zungenbrechers
+- **14.11. – Weltdiabetestag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltdiabetestag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltdiabetestag/ — „Weltdiabetestag – der internationale UNO World Diabetes Day 2026“
+- **15.11. – Der bundesweite Tag des öffentlichen Bücherschranks** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-buecherschranks/ — „Der bundesweite Tag des öffentlichen Bücherschranks in Deutschland“
+- **15.11. – Deutscher Magentag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/magentag
+- **15.11. – Deutscher Volkstrauertag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/volkstrauertag
+- **15.11. – Ich-liebe-es-zu-schreiben-tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/ich-liebe-es-zu-schreiben-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/i-love-to-write-day-usa/ — „Ich-liebe-es-zu-schreiben-Tag – I Love to Write Day in den Vereinigten Staaten“
+- **15.11. – Putz-Deinen-Kühlschrank-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/putz-deinen-kuehlschrank-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/putz-deinen-kuehlschrank-tag/ — „Putz-Deinen-Kühlschrank-Tag – Clean Out Your Refrigerator Day in den USA“
+- **15.11. – Tag der Autoren hinter Gittern** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-autoren-hinter-gittern
+- **15.11. – Tag des Gugelhupfs** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-gugelhupfs/ — „Tag des Gugelhupfs – der National Bundt Cake Day in den Vereinigten Staaten“
+- **15.11. – Tag des Schlagzeugspielens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-schlagzeugspielens/ — „Tag des Schlagzeugspielens – National Drumming Day in den USA“
+- **15.11. – Unabhängigkeitstag der palästinensischen Autonomiegebiete** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/palaestinensische-autonomiegebiete-unabhaengigkeitstag
+- **15.11. – Weltgedenktag für die Straßenverkehrsopfer** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/weltgedenktag-fuer-die-strassenverkehrsopfer
+- **16.11. – Feier-eine-Party-mit-Deinem-Bären-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/feier-eine-party-mit-deinem-baeren-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/feier-eine-party-mit-deinem-baeren-tag/ — „Feier-eine-Party-mit-Deinem-Bären-Tag – Have a Party with Your Bear Day in den USA“
+- **16.11. – Tag des Fast Food** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-fast-food-in-den-usa/ — „Tag des Fast Food – National Fast Food Day in den USA“
+- **16.11. – Tag des Knopfes** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-knopfes
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-knopfes-in-den-usa/ — „Tag des Knopfes am 16. November – National Button Day in den Vereinigten Staaten“
+- **16.11. – Tag für Toleranz** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-fuer-toleranz
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-toleranz/ — „Internationaler Tag der Toleranz – UNESCO International Day for Tolerance 2026“
+  - automatische Ähnlichkeit: 67 %
+- **17.11. – Baklava-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/baklava-tag/ — „Baklava-Tag – der US-amerikanische National Baklava Day am 17. November“
+- **17.11. – Gedenken an die Samtene Revolution** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/gedenken-an-die-samtene-revolution
+- **17.11. – Geh-wandern-Tag am 17. November** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/geh-wandern-tag-usa/ — „Geh-wandern-Tag am 17. November – Take a Hike Day in den USA“
+- **17.11. – Internationaler Wookiee Life Day auf Kashyyk** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/wookiee-life-day/ — „Internationaler Wookiee Life Day auf Kashyyk – 17. November“
+- **17.11. – Tag der Butter** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-butter-in-den-usa/ — „Tag der Butter – der US-amerikanische National Butter Day am 17. November“
+- **17.11. – Tag der Computermaus** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-computermaus/ — „Tag der Computermaus – US-Patetent an Douglas Engelbarter am 17. November 1970“
+- **17.11. – Tag des hausgemachten Brots** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-hausgemachten-brots
+- **17.11. – Tag des selbst gebackenen Brotes** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-selbstgebackenen-brotes/ — „Tag des selbst gebackenen Brotes – Homemade Bread Day in den USA“
+- **17.11. – Unfriend Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/unfriend-day
+- **17.11. – Weltfriedenstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/world-peace-day
+- **17.11. – Weltfrühgeborenentag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/weltfruehgeborenentag
+- **17.11. – Weltstudententag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/weltstudententag
+- **18.11. – Buß- und Bettag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/buss-und-bettag
+- **18.11. – Mickey Mouse Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/mickey-mouse-day/ — „Mickey Mouse Day – der Geburtstag von Micky Maus am 18. November“
+- **18.11. – Micky-Maus-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/micky-maus-tag
+- **18.11. – Skorpion-Selbsthilfetag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/skorpion-selbsthilfetag/ — „Skorpion-Selbsthilfetag – Married to a Scorpio Support Day in den USA“
+- **18.11. – Tag der Republik in Lettland** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/lettland-tag-der-republik
+- **18.11. – Tag des Apfelpunschs** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-apfelpunschs/ — „Tag des Apfelpunschs – National Apple Cider Day in den USA“
+- **18.11. – Tag des Okkultismus** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-okkultismus
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-okkultismus-usa/ — „Tag des Okkultismus – der US-amerikanische National Occult Day am 18. November“
+- **18.11. – Tag des Tastentelefons** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-tastentelefons/ — „Tag des Tastentelefons – der National Push-button Phone Day in den USA“
+- **18.11. – Wilhelm-Tell-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/wilhelm-tell-tag
+- **19.11. – Einen-schlechten-Tag-wünschen-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/einen-schlechten-tag-wuenschen-tag/ — „Einen-schlechten-Tag-wünschen-Tag – Have a Bad Day Day in den USA“
+- **19.11. – Männertag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/maennertag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-maennertag/ — „Internationaler Männertag – International Men’s Day am 19. November“
+- **19.11. – Nationalfeiertag in Monaco** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/monaco-nationalfeiertag
+- **19.11. – Spiel-Dudelsack-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/spiel-dudelsack-tag/ — „Spiel-Dudelsack-Tag – National Blow Bagpipes Day in den Vereinigten Staaten“
+- **19.11. – Tag der Philosophie** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-philosophie
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-philosophie/ — „Welttag der Philosophie – UNESCO World Philosophy Day am 19. November 2026“
+- **19.11. – Tag der Suppe** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-suppe
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-suppe-in-deutschland/ — „Tag der Suppe in Deutschland – historischer Aktionstag am 19. November 2026“
+- **19.11. – Tag der Unternehmerin** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-unternehmerin
+- **19.11. – Welttag der Ameisenbären** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-ameisenbaeren/ — „Welttag der Ameisenbären – World Anteater Day und World Tamandua Day 2026“
+- **19.11. – Welttoilettentag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttoilettentag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttoilettentag-world-toilet-day/ — „Welttoilettentag am 19. November – World Toilet Day 2026“
+- **20.11. – Der schöne Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/der-schoene-tag/ — „Der schöne Tag – der US-amerikanische Beautiful Day am 20. November“
+- **20.11. – Gib-Deinem-Computer-einen-Namen-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/gib-deinem-computer-einen-namen-tag/ — „Gib-Deinem-Computer-einen-Namen-Tag – Name Your PC Day in den USA“
+- **20.11. – Internationaler Tag der Kinderrechte** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-kinderrechte/ — „Internationaler Tag der Kinderrechte – World Children’s Day der Vereinten Nationen“
+- **20.11. – Lebertag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/lebertag
+- **20.11. – Tag des Unsinns** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-unsinns-usa/ — „Tag des Unsinns – National Absurdity Day in den Vereinigten Staaten“
+- **20.11. – Vorlesetag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/vorlesetag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/vorlesetag/ — „Vorlesetag – Deutschlands bundesweit größtes Vorlesefest – 20. November 2026“
+- **20.11. – Weltkindertag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltkindertag
+- **20.11. – Welttag der Industrialisierung Afrikas** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-der-industrialisierung-afrikas
+- **21.11. – Tag der Lebkuchen-Plätzchen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-lebkuchen-plaetzchen/ — „Tag der Lebkuchen-Plätzchen – National Gingerbread Cookie Day in den USA“
+- **21.11. – Tag ohne Musik** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/no-music-day/ — „Tag ohne Musik – der internationale No Music Day am 21. November“
+- **21.11. – Welt-Hallo-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welt-hallo-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welt-hallo-tag-world-hello-day/ — „Welt-Hallo-Tag – World Hello Day – internationaler Aktionstag am 21. November“
+- **21.11. – Welttag des Fernsehens** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-des-fernsehens
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-des-fernsehens/ — „Welttag des Fernsehens – der internationale UNO World Television Day 2026“
+- **22.11. – Das Mariachi-Fest der heiligen Cäcilia in Mexiko am 22. November** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/mariachi-fest-der-heiligen-caecilia-in-mexiko/
+- **22.11. – Gründe-Deinen-eigenen-Staat-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/gruende-deinen-eigenen-staat-tag/ — „Gründe-Deinen-eigenen-Staat-Tag – Start Your Own Country Day in den USA“
+- **22.11. – Mach-eine-Spritztour-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/mach-eine-spritztour-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/mach-eine-spritztour-tag/ — „Mach-eine-Spritztour-Tag – der US-amerikanische Go For A Ride Day am 22. November“
+- **22.11. – Nationalfeiertag im Libanon** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/libanon-nationalfeiertag
+- **22.11. – Tag der Hausmusik** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-hausmusik
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-hausmusik/ — „Der bundesweite Tag der Hausmusik in Deutschland – 22. November“
+- **22.11. – Totensonntag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/totensonntag
+- **23.11. – Arbeitsdanktag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/arbeitsdanktag
+- **23.11. – Doctor Who Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/doctor-who-day/ — „Doctor Who Tag – der internationale Doctor Who Day oder: TARDIS Day“
+- **23.11. – Fibonacci-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/fibonacci-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/fibonacci-tag/ — „Fibonacci-Tag – der US-amerikanische Fibonacci Day am 23. November“
+- **23.11. – Internationaler Tag der Aquarellmalerei** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-aquarellmalerei/ — „Internationaler Tag der Aquarellmalerei – World Watercolor Day“
+- **23.11. – Iss-eine-Cranberry-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/iss-eine-cranberry-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/iss-eine-cranberry-tag-usa/ — „Iss-eine-Cranberry-Tag am 23. November – National Eat a Cranberry Day in den USA“
+- **23.11. – Loi Krathong** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/loi-krathong
+- **23.11. – Tag der Cashewnuss** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-cashewnuss-usa/ — „Tag der Cashewnuss – National Cashew Day in den USA“
+- **23.11. – Tag des Dankes für die Arbeit** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-dankes-fuer-die-arbeit/ — „Tag des Dankes für die Arbeit in Japan – Kinrô kansha no hi am 23. November“
+- **23.11. – Tag des Espresso** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-espresso-usa/ — „Tag des Espresso – National Espresso Day in den USA“
+- **24.11. – Feier-dein-einzigartiges-Talent-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/feier-dein-einzigartiges-talent-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/feier-dein-einzigartiges-talent-tag/ — „Feier-dein-einzigartiges-Talent-Tag – Celebrate Your Unique Talent Day in den USA“
+- **24.11. – Tag der Evolution** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-evolution
+- **24.11. – Tag der Gummistiefel** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-gummistiefel/ — „Tag der Gummistiefel in Deutschland am 24. November“
+- **24.11. – Tag der Heimlichkeiten** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-heimlichkeiten-in-deutschland/ — „Tag der Heimlichkeiten in Deutschland am 24. November“
+- **24.11. – Tag der Sardine** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-sardine
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-sardinen/ — „Tag der Sardinen – National Sardines Day in den USA“
+- **24.11. – Tag des Lettering** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-lettering
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-lettering/ — „Internationaler Tag des Lettering am 24. November“
+- **24.11. – Walross-Tag in Russland am 24. November** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/walross-tag/
+- **25.11. – Einkäufe-Erinnerungstag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/einkaeufe-erinnerungstag-usa/ — „Einkäufe-Erinnerungstag – Shopping Reminder Day in den Vereinigten Staaten“
+- **25.11. – Nationalfeiertag in Bosnien und Herzegowina** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/bosnien-herzegowina-nationalfeiertag
+- **25.11. – Tag der weißen Schleife** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-weissen-schleife/ — „Tag der weißen Schleife – der kanadische White Ribbon Day“
+- **25.11. – Tag des Hutes** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-hutes
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-hutes-usa/ — „Tag des Hutes – National Hat Day in den USA und Internationaler Tag des Hutes“
+- **25.11. – Tag des Orionnebels** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-orionnebels
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-orionnebels/ — „Tag des Orionnebels – Nicolas-Claude Fabri de Peiresc und die Entdeckung von M42“
+- **25.11. – Tag des Parfait** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-parfait-usa/ — „Tag des Parfait – der US-amerikanische National Parfait Day am 25. November“
+- **25.11. – Tag gegen Gewalt an Frauen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-gegen-gewalt-an-frauen
+- **26.11. – Tag des Kuchens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-cake-day-usa/ — „Tag des Kuchens – der US-amerikanische National Cake Day am 26. November“
+- **26.11. – Thanksgiving** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/thanksgiving
+- **26.11. – Welttag der Zeitschriften** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-der-zeitschriften
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-zeitschriften/ — „Welttag der Zeitschriften – internationale Aktionstag am 26. November“
+- **26.11. – Welttag des nachhaltigen Verkehrswesens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-sustainable-transport-day/ — „Welttag des nachhaltigen Verkehrswesens – World Sustainable Transport Day“
+- **26.11. – Welttag des Olivenbaums** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-des-olivenbaums/ — „Welttag des Olivenbaums – World Olive Tree Day am 26. November“
+- **27.11. – Black Friday** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/black-friday
+- **27.11. – Kauf-nix-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/kauf-nix-tag/ — „Kauf-nix-Tag in den USA – National Buy Nothing Day am 27. November 2026“
+- **27.11. – Schildkröten-Patenschaften-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/schildkroeten-patenschaften-tag/ — „Schildkröten-Patenschaften-Tag – der US-amerikanische Turtle Adoption Day“
+- **27.11. – Tag der amerikanischen Ureinwohner** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-amerikanischen-ureinwohner
+- **27.11. – Tag der Beef Jerky-Herstellung** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-beef-jerky-herstellung/ — „Tag der Beef Jerky-Herstellung – National Craft Jerky Day in den USA“
+- **27.11. – Tag der E-Gitarre** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-elektrischen-gitarre-usa/ — „Tag der E-Gitarre – National Electric Guitar Day in den Vereinigten Staaten“
+- **27.11. – Tag der Stecknadeln** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-stecknadeln/ — „Tag der Stecknadeln – Pins and Needles Day in den USA“
+- **27.11. – Tag des Streichholzes** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-des-streichholzes
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-streichholzes/ — „Tag des Streichholzes zu Ehren von John Walker – 27. November“
+- **27.11. – Tag des Tortenwurfs** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-tortenwurfs/ — „Tag des Tortenwurfs – der US-amerikanische National Pie in the Face Day“
+- **27.11. – Über-der-Spüle-Essen-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/sinkie-day/ — „Über-der-Spüle-Essen-Tag in den USA – Sinkie Day – 27. November 2026“
+- **28.11. – Arme-Ritter-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/arme-ritter-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/arme-ritter-tag/ — „Arme-Ritter-Tag – der US-amerikanische National French Toast Day“
+- **28.11. – Bastel-Deinen-eigenen-Kopf-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/make-your-own-head-day-usa/ — „Bastel-Deinen-eigenen-Kopf-Tag – der US-amerikanische Make Your Own Head Day“
+- **28.11. – Kauf-Nix-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/kauf-nix-tag
+- **28.11. – Nationalfeiertag in Albanien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/albanien-nationalfeiertag
+- **28.11. – Nationalfeiertag in Mauretanien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/mauretanien-nationalfeiertag
+- **28.11. – Nationalfeiertag in Osttimor** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/osttimor-nationalfeiertag
+- **28.11. – Small Business Saturday** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/small-business-saturday-der-samstag-der-lokalen-geschaefte/ — „Small Business Saturday in den Vereinigten Staaten – 28. November 2026“
+- **28.11. – Tag des roten Planeten** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-des-roten-planeten
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-roten-planeten/ — „Tag des Roten Planeten – der US-amerikanische National Red Planet Day“
+- **28.11. – Welttag der Barmherzigkeit** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-barmherzigkeit/ — „Welttag der Barmherzigkeit – World Compassion Day am 28. November“
+- **29.11. – 1. Advent** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/1-advent
+- **29.11. – Auch-Kunden-können-sich-irren-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/customer-is-wrong-day/ — „Auch-Kunden-können-sich-irren-Tag – Customer is Wrong Day in den USA“
+- **29.11. – Präsident Tubman's Birthday** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/praesident-tubmans-birthday
+- **29.11. – Resteessen-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/resteessen-tag-usa/ — „Resteessen-Tag – der National Throw Out Your Leftovers Day in den USA“
+- **29.11. – Tag der elektronischen Grußkarte** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-elektronischen-grusskarte
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-elektronischen-grusskarten-usa/ — „Tag der elektronischen Grußkarten – der US-amerikanische Electronic Greetings Day“
+- **29.11. – Tag des Adventskranzes zum ersten Adventssonntag am 29. November 2026** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-adventskranzes/
+- **29.11. – Tag des Square Dance** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-square-dance-usa/ — „Tag des Square Dance – National Square Dance Day in den Vereinigten Staaten“
+- **29.11. – Welttag der Ameisenbären** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-ameisenbaeren/ — „Welttag der Ameisenbären – World Anteater Day und World Tamandua Day 2026“
+- **29.11. – Welttag der Solidarität mit dem palästinensischen Volk** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-der-solidaritaet-mit-dem-palaestinensischen-volk
+- **30.11. – Bleib-Zuhause-weil-es-Dir-gut-geht-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/bleib-zuhause-weil-es-dir-gut-geht-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/bleib-zuhause-weil-es-dir-gut-geht-tag/ — „Bleib-Zuhause-weil-es-Dir-gut-geht-Tag – Stay Home Because You’re Well Day in den USA“
+- **30.11. – Computer Security Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/computer-security-day/ — „Computer Security Day – der internationale Tag der Computersicherheit“
+- **30.11. – Cyber Monday** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/cyber-monday
+- **30.11. – Grounding Page kuriose-feiertage** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/grounding/kuriose-feiertage-grounding.html
+- **30.11. – Grounding Page Sven Giese** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/grounding/sven-giese.html
+- **30.11. – Nationalfeiertag in Barbados** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/barbados-nationalfeiertag
+- **30.11. – Tag der blauen Mütze** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-blauen-muetze-blue-beanie-day/ — „Tag der blauen Mütze – der internationale Blue Beanie Day am 30. November“
+- **30.11. – Tag der Computersicherheit** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-computersicherheit
+- **30.11. – Tag der Mousse** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-mousse-usa/ — „Tag der Mousse – der US-amerikanische National Mousse Day am 30. November“
+## Dezember
+
+- **01.12. – Der bundesweite Tag der Trinkwasserhygiene** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-trinkwasserhygiene/ — „Der bundesweite Tag der Trinkwasserhygiene in Deutschland am 1. Dezember“
+- **01.12. – Der bundesweite Tag des Adventskalenders** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-adventskalenders/ — „Der bundesweite Tag des Adventskalenders in Deutschland am 1. Dezember“
+- **01.12. – Giving Tuesday** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/giving-tuesday
+- **01.12. – Iss-einen-roten-Apfel-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/iss-einen-roten-apfel-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/iss-einen-roten-apfel-tag/ — „Iss-einen-roten-Apfel-Tag – der Eat A Red Apple Day in den Vereinigten Staaten“
+- **01.12. – Klare-Sicht-ohne-Zweistärkenglas-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/klare-sicht-ohne-zweistaerkenglas-tag/ — „Klare-Sicht-ohne-Zweistärkenglas-Tag – Bifocals at the Monitor Liberation Day in den USA“
+- **01.12. – Matilda Newport Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/matilda-newport-day
+- **01.12. – Meteorologischer Winteranfang** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/meteorologischer-winteranfang
+- **01.12. – Mistelzweig-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/mistelzweig-tag/ — „Mistelzweig-Tag – National Mistletoe Day in Großbritannien am 1. Dezember“
+- **01.12. – Nationalfeiertag in der Zentralafrikanischen Republik** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/zentralafrikanische-republik-nationalfeiertag
+- **01.12. – Nationalfeiertag in Rumänien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/rumaenien-nationalfeiertag
+- **01.12. – Tag der Revolution in Libyen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/libyen-tag-der-revolution
+- **01.12. – Tag der Verfassung in der Slowakei** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/slowakei-tag-der-verfassung
+- **01.12. – Tag der Weihnachtsbeleuchtung** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-weihnachtsbeleuchtung/ — „Tag der Weihnachtsbeleuchtung – National Christmas Lights Day in den USA“
+- **01.12. – Unabhängigkeitstag in Usbekistan** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/usbekistan-unabhaengigkeitstag
+- **01.12. – Welt-AIDS-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welt-aids-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welt-aids-tag/ — „Welt-AIDS-Tag 2026 – der internationale World AIDS Day am 1. Dezember“
+- **01.12. – Welttag der Trick-Schüsse** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-der-trick-schuesse
+- **02.12. – Der internationale Tag der Modelleisenbahn am 2. Dezember** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-modelleisenbahn/
+- **02.12. – Nationalfeiertag in den Vereinigten Arabische Emirate** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/vereinigte-arabische-emirate-nationalfeiertag
+- **02.12. – Nationalfeiertag in Laos** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/laos-nationalfeiertag
+- **02.12. – Tag der Krapfen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-krapfen-usa/ — „Tag der Krapfen – der US-amerikanische National Fritters Day am 2. Dezember“
+- **02.12. – Tag der Spekulatius** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-spekulatius/ — „Tag der Spekulatius in Deutschland – 2. Dezember“
+- **02.12. – Tag des Fettgebackenen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-fettgebackenen
+- **02.12. – Tag des Mischlingshundes am 31. Juli und 2. Dezember** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-mischlingshundes-usa/ — „Tag des Mischlingshundes am 31. Juli und 2. Dezember – National Mutt Day in den USA“
+- **02.12. – Tag des Sicherheitsrasierer** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-sicherheitsrasierer
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-sicherheitsrasierers/ — „Tag des Sicherheitsrasierers am 2. Dezember – Safety Razor Day in den USA“
+- **02.12. – Tag für die Abschaffung der Sklaverei** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-fuer-die-abschaffung-der-sklaverei
+- **02.12. – Unabhängigkeitstag in Vietnam** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/vietnam-unabhaengigkeitstag
+- **03.12. – Dach-über-dem-Kopf-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/dach-ueber-dem-kopf-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/nationaler-dach-uber-dem-kopf-tag/ — „Dach-über-dem-Kopf-Tag – National Roof Over Your Head Day in den USA“
+- **03.12. – Tag der baskischen Sprache** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-baskischen-sprache
+- **03.12. – Tag der Dominosteine** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-dominosteine/ — „Tag der Dominosteine in Deutschland am 3. Dezember“
+- **03.12. – Tag der Menschen mit Behinderung** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-menschen-mit-behinderung
+- **04.12. – Barbaratag oder: Sankt Barbara** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/barbaratag/ — „Barbaratag oder: Sankt Barbara – Gedenktag der heiligen Barbara von Nikomedia“
+- **04.12. – Chanukka** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/chanukka
+- **04.12. – Internationaler Tag des Geparden** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-cheetah-day/ — „Internationaler Tag des Geparden – der International Cheetah Day am 4. Dezember“
+- **04.12. – Tag der Kekse** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-kekse
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/plaetzchen-tag-national-cookie-day-usa/ — „Plätzchen-Tag oder Tag der Kekse – National Cookie Day in den USA“
+- **04.12. – Tag der Socke am 4. Dezember** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-socke-national-sock-day-usa/ — „Tag der Socke am 4. Dezember – National Sock Day in den Vereinigten Staaten“
+- **04.12. – Tag der Würfel** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-wuerfel-usa/ — „Tag der Würfel – National Dice Day in den Vereinigten Staaten“
+- **04.12. – Welttag der Tunnel** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-tunnel/ — „Welttag der Tunnel – World Tunnel Day – internationaler Aktionstag am 4. Dezember“
+- **04.12. – Zieh-braune-Schuhe-an-Tag** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/zieh-braune-schuhe-an-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/trag-braune-schuhe-tag-usa/ — „Trag-braune-Schuhe-Tag – Wear Brown Shoes Day in den USA“
+  - automatische Ähnlichkeit: 60 %
+- **05.12. – Badewannen-Party-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/badewannen-party-tag/ — „Badewannen-Party-Tag – der US-amerikanische Bathtub Party Day am 5. Dezember“
+- **05.12. – Candle Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/candle-day-in-den-usa/ — „Candle Day in den Vereinigten Staaten – Tag der Kerzen am 5. Dezember 2026“
+- **05.12. – Internationaler Tag der Freiwilligen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-freiwilligen/ — „Internationaler Tag der Freiwilligen – International Volunteer Day“
+- **05.12. – Tag der Sachertorte** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-sachertorte
+- **05.12. – Tag des Ehrenamtes** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-ehrenamtes
+- **05.12. – Tag des Ninja** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-ninja
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-ninja/ — „Internationaler Tag des Ninja – der International Day of the Ninja am 5. Dezember“
+- **05.12. – Vatertag in Thailand** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/thailand-vatertag
+- **05.12. – Weltbodentag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltbodentag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltbodentag/ — „Weltbodentag – der internationale World Soil Day 2026“
+- **06.12. – 2. Advent** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/2-advent
+- **06.12. – Der bundesweite Tag des Schokoladennikolaus** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-schokoladennikolaus/ — „Der bundesweite Tag des Schokoladennikolaus in Deutschland – 6. Dezember“
+- **06.12. – Hug-a-Shark-Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/hug-a-shark-day/ — „Hug-a-Shark-Day – Umarme-einen-Hai-Tag 2026“
+- **06.12. – Nationalfeiertag in Bulgarien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/bulgarien-nationalfeiertag
+- **06.12. – Nationalfeiertag in Finnland** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/finnland-nationalfeiertag
+- **06.12. – Nikolaustag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/nikolaustag
+- **06.12. – Tag der Mikrowelle** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-mikrowelle
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-mikrowelle-usa/ — „Tag der Mikrowelle – National Microwave Day in den Vereinigten Staaten“
+- **06.12. – Tag der Verfassung in Spanien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/spanien-tag-der-verfassung
+- **06.12. – Tag des Weckmanns oder Tag des Stutenkerls** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-weckmanns/ — „Tag des Weckmanns oder Tag des Stutenkerls in Deutschland – 11. November und 6. Dezember“
+- **06.12. – Unabhängigkeitstag in Swasiland** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/swasiland-unabhaengigkeitstag
+- **06.12. – Zieh-Deine-eigenen-Schuhe-an-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/zieh-deine-eigenen-schuhe-an-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/zieh-deine-eigenen-schuhe-an-tag/ — „Zieh-Deine-eigenen-Schuhe-an-Tag – Put on Your Own Shoes Day in den USA“
+- **07.12. – Internationaler Tag des Honigs am 7. Dezember** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-honigs/
+- **07.12. – Pearl-Harbor-Gedenktag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/pearl-harbor-gedenktag
+- **07.12. – Tag der Internationalen Zivilluftfahrt** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-internationalen-zivilluftfahrt
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-internationalen-zivilluftfahrt/ — „Tag der Internationalen Zivilluftfahrt – International Civil Aviation Day“
+- **07.12. – Tag der Weihnachtskrippe** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-weihnachtskrippe/ — „Tag der Weihnachtskrippe in Deutschland am 7. Dezember“
+- **07.12. – Tag der Zuckerwatte** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-zuckerwatte
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-zuckerwatte-usa/ — „Tag der Zuckerwatte am 31. Juli und 7. Dezember – National Cotton Candy Day in den USA“
+- **07.12. – Tag des brandverletzten Kindes** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-brandverletzten-kindes
+- **07.12. – Unabhängigkeitstag in Brasilien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/brasilien-unabhaengigkeitstag
+- **08.12. – Der bundesweite Krimitag am 8. Dezember** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/krimitag/
+- **08.12. – Erleuchtungstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/erleuchtungstag
+- **08.12. – Gib-vor-ein-Zeitreisender-zu-sein-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/gib-vor-ein-zeitreisender-zu-sein-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/gib-vor-ein-zeitreisender-zu-sein-tag/ — „Gib-vor-ein-Zeitreisender-zu-sein-Tag – Pretend to be a Time Traveller Day in den USA“
+- **08.12. – Tag der Studenten in Bulgarien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-studenten
+- **08.12. – Tag des Brownies** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-brownies
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-brownie-usa/ — „Tag des Brownies am 8. Dezember – National Brownie Day in den Vereinigten Staaten“
+- **08.12. – Weihnachtsbaum-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weihnachtsbaum-tag/ — „Weihnachtsbaum-Tag – National Christmas Tree Day in den USA“
+- **08.12. – Welttag der Erstimpfung am 8. Dezember** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-erstimpfung/
+- **09.12. – Tag der Weihnachtskarte am 9. Dezember** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-weihnachtskarte-usa/ — „Tag der Weihnachtskarte am 9. Dezember – Christmas Card Day in den USA“
+- **09.12. – Tag des Feingebäcks am 9. Dezember** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-feingebaecks/ — „Tag des Feingebäcks am 9. Dezember – National Pastry Day in den USA“
+- **09.12. – Tag des Lamas** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-llama-day/ — „Tag des Lamas – National Llama Day in Kanada und den USA am 9. Dezember“
+- **09.12. – Welt-Anti-Korruptions-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welt-anti-korruptions-tag
+- **09.12. – Welttechnotag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttechnotag
+- **10.12. – Tag der Dewey-Dezimalklassifikation** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-dewey-dezimalklassifikation/ — „Tag der Dewey-Dezimalklassifikation – Dewey Decimal System Day in den USA“
+- **10.12. – Tag der Menschenrechte** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-menschenrechte
+- **10.12. – Tag der Tierrechte** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-tierrechte
+- **10.12. – Tag der Überreichung der Nobelpreise** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-ueberreichung-der-nobelpreise
+- **10.12. – Tag der Verfassung in Thailand** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/thailand-tag-der-verfassung
+- **10.12. – Tag des Christstollens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-christstollens/ — „Tag des Christstollens in Deutschland am 10. Dezember“
+- **10.12. – Tag des Lagerbiers** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-lagerbiers/ — „Tag des Lagerbiers – National Lager Day in den USA“
+- **11.12. – Internationaler Tag der Berge** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-berge/ — „Internationaler Tag der Berge – UNO International Mountain Day“
+- **11.12. – Nationalfeiertag in Burkina Faso** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/burkina-faso-nationalfeiertag
+- **11.12. – Tag der UNICEF** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-unicef
+- **11.12. – Tag der Zimtsterne** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-zimtsterne/ — „Tag der Zimtsterne in Deutschland – 11. Dezember“
+- **11.12. – Tango-Tag in Argentinien** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/dia-nacional-del-tango/ — „Tango-Tag in Argentinien – Día Nacional del Tango“
+- **11.12. – Welttag der Berge** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-der-berge
+- **12.12. – Internationaler Soundcheck-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-sound-check-day/ — „Internationaler Soundcheck-Tag – International Sound Check Day“
+- **12.12. – Lebkuchenhaus-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/lebkuchenhaus-tag-usa/ — „Lebkuchenhaus-Tag – Gingerbread House Day in den USA“
+- **12.12. – Nationalfeiertag in Kenia** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/kenia-nationalfeiertag
+- **12.12. – Tag der Lebkuchen-Dekoration** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-lebkuchen-dekoration/ — „Tag der Lebkuchen-Dekoration in den USA – Gingerbread Decorating Day 2026“
+- **12.12. – Tag der Shareware** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-shareware
+- **12.12. – Tag des Baumkuchens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-baumkuchens/ — „Tag des Baumkuchens in Deutschland – 12. Dezember“
+- **12.12. – Tag des Kanji des Jahres** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/kotoshi-no-kanji/ — „Tag des Kanji des Jahres – das japanische Kotoshi no kanji“
+- **12.12. – Tag des Weihnachtssterns** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-weihnachtssterns
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-weihnachtssterns/ — „Tag des Weihnachtssterns – National Poinsettia Day in den USA“
+- **13.12. – 3. Advent** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/3-advent
+- **13.12. – Kinder-Fernsehtag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/kinder-fernsehtag
+- **13.12. – Tag der Geige** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-geige/ — „Tag der Geige – der US-amerikanische National Violin Day am 13. Dezember“
+- **13.12. – Tag der Seeleute in Brasilien** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-seeleute-in-brasilien/ — „Tag der Seeleute in Brasilien – Dia do Marinheiro für Joaquim Marques Lisboa am 13. Dezember“
+- **13.12. – Tag der Seepferdchen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-seepferdchen/ — „Tag der Seepferdchen – National Day of the Seahorse“
+- **13.12. – Tag der Violine** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-violine
+- **13.12. – Tag des Chorgesangs** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-chorgesangs
+- **13.12. – Tag des heißen Kakaos** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-heissen-kakao-usa/ — „Tag des heißen Kakaos – National Cocoa Day in den USA“
+- **13.12. – Tag des Pferdes** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-pferdes/ — „Tag des Pferdes – National Day of the Horse in den USA“
+- **13.12. – Welttag der Chöre** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-choral-day/ — „Welttag der Chöre – der internationale World Choral Day am 13. Dezember 2026“
+- **13.12. – Worldwide Candle Lighting** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/worldwide-candle-lighting
+- **14.12. – Tag der Affen** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-affen
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/monkey-day/ — „Affentag oder Tag der Affen – Monkey Day am 14. Dezember“
+- **14.12. – Tag der Bouillabaisse** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-bouillabaisse
+- **14.12. – Tag der gerösteten Kastanien** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-geroesteten-kastanien
+- **14.12. – Tag der heißen Maronen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-heissen-maronen/ — „Tag der heißen Maronen – Roast Chestnuts Day in den USA“
+- **14.12. – Tag der Schneekugel** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-schneekugel/ — „Tag der Schneekugel in Deutschland – 14. Dezember“
+- **14.12. – Welttag des Eislaufens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-ice-skating-day/ — „Welttag des Eislaufens – der World Ice Skating Day am 14. Dezember 2025“
+- **14.12. – Weltweites Kerzenleuchten** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/worldwide-candle-lighting/ — „Weltweites Kerzenleuchten – Worldwide Candle Lighting Day 2025“
+- **15.12. – Cupcake-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/cupcake-tag-usa/ — „Cupcake-Tag – der US-amerikanische National Cupcake Day am 15. Dezember“
+- **15.12. – Esperantobuchtag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/esperantobuchtag
+- **15.12. – Internationaler Tee-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-tea-day/ — „Internationaler Tee-Tag – der International Tea Day am 21. Mai und am 15. Dezember“
+- **15.12. – Tag der Bill of Rights** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-bill-of-rights
+- **15.12. – Tag des Cupcakes** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-cupcakes
+- **15.12. – Tag des Weihnachtsbaums aus Büchern** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-weihnachtsbaums-aus-buechern/ — „Tag des Weihnachtsbaums aus Büchern in Deutschland – 15. Dezember“
+- **16.12. – Boston Tea Party Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/boston-tea-party-day
+- **16.12. – Bundesweiter Tag des Tannenzapfens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-tannenzapfens/ — „Bundesweiter Tag des Tannenzapfens in Deutschland am 16. Dezember“
+- **16.12. – Schokoladenüberzug-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/schokoladenueberzug-tag/ — „Schokoladenüberzug-Tag – Chocolate Covered Anything Day in den USA“
+- **16.12. – Tag der Versöhnung** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-versohnung
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-versoehnung/ — „Tag der Versöhnung in Südafrika – Day of Reconciliation am 16. Dezember“
+- **16.12. – Tag des dummen Spielzeugs** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-dummen-spielzeugs
+- **16.12. – Tag des mit Schokolade überzogenen Essens** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-mit-schokolade-ueberzogenen-essens
+- **17.12. – Gebrüder-Wright-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/gebrueder-wright-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/wright-brothers-day-usa/ — „Brüder-Wright-Tag – der US-amerikanische Wright Brothers Day“
+- **17.12. – Tag der Ausstechförmchen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-ausstechfoermchen/ — „Tag der Ausstechförmchen – National Cookie Cutter Day in den USA“
+- **17.12. – Tag des Ahornsirups** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-ahornsirups
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-ahornsirup-usa/ — „Tag des Ahornsirups – der US-amerikanische National Maple Syrup Day“
+- **17.12. – Tag gegen Gewalt gegen Sexarbeiterinnen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-gegen-gewalt-gegen-sexarbeiterinnen
+- **18.12. – Back-Kekse-Tag** _(beide Quellen, Name abweichend)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/back-kekse-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/back-plaetzchen-tag-usa/ — „Back-Plätzchen-Tag – National Bake Cookies Day in den Vereinigten Staaten“
+  - automatische Ähnlichkeit: 67 %
+- **18.12. – Ehrentag der Schneeflocke** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ehrentag-der-schneeflocke/ — „Ehrentag der Schneeflocke – Flake Appreciation Day in den Vereinigten Staaten“
+- **18.12. – Ich-mag-Honig-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ich-mag-honig-tag-usa/ — „Ich-mag-Honig-Tag – der US-amerikanische National I Love Honey Day“
+- **18.12. – Tag der arabischen Sprache** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-arabischen-sprache
+- **18.12. – Tag der hässlichen Weihnachtspullover** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-haesslichen-weihnachtspullover/ — „Tag der hässlichen Weihnachtspullover – National Ugly Christmas Sweater Day 2026“
+- **18.12. – Tag der Migranten** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-migranten
+- **18.12. – Tag des Fleischsalats** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-fleischsalats/ — „Tag des Fleischsalats – National Ham Salad Day in den Vereinigten Staaten“
+- **18.12. – Tag des Underdogs** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-underdogs
+- **18.12. – Trag-eine-Saugglocke-als-Kopfbedeckung-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/wear-a-plunger-on-your-head-day/ — „Trag-eine-Saugglocke-als-Kopfbedeckung-Tag – Wear a Plunger on Your Head Day“
+- **19.12. – Gedenken für die Opfer des Völkermordes an den Sinti und Roma** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/gedenken-fuer-die-opfer-des-volkermordes-an-den-sinti-und-roma
+- **19.12. – La Palomita de Poy in Argentinien** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/la-palomita-de-poy-agentinien/ — „La Palomita de Poy in Argentinien – Aldo Pedro Poy und das größte Tor aller Zeiten“
+- **19.12. – Such-einen-Weihnachtsbaum-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/such-einen-weihnachtsbaum-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/such-einen-weihnachtsbaum-tag-usa/ — „Such-einen-Weihnachtsbaum-Tag – der US-amerikanische Look for an Evergreen Day“
+- **19.12. – Tag der Bonbons** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-hard-candy-day/ — „Tag der Bonbons – der US-amerikanische National Hard Candy Day am 19. Dezember“
+- **19.12. – Tag der Haferflocken-Muffins** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-haferflocken-muffins
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-haferflocken-muffins/ — „Tag der Haferflocken-Muffins – National Oatmeal Muffin Day in den USA“
+- **19.12. – Tag der Stechpalme** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-stechpalme/ — „Tag der Stechpalme – der US-amerikanische Holly Day am 19. Dezember“
+- **19.12. – Tag der Weihnachtskugeln** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-weihnachtskugeln/ — „Tag der Weihnachtskugeln – ein Feiertag für die Christbaumkugel am 19. Dezember“
+- **20.12. – 4. Advent** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/4-advent
+- **20.12. – Games Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/games-day-in-grossbritannien/ — „Games Day in Großbritannien – der englische Tag der Spiele am 20. Dezember“
+- **20.12. – Geh-Sternsingen-Tag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/geh-sternsingen-tag
+- **20.12. – Sangria-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/sangria-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/sangria-tag/ — „Sangria-Tag in den Vereinigten Staaten – National Sangria Day am 20. Dezember“
+- **20.12. – Tag der menschlichen Solidarität** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-menschlichen-solidaritaet
+- **20.12. – Tag des Sternsingens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-sternsingens-usa/ — „Tag des Sternsingens – der US-amerikanische Go Caroling Day am 20. Dezember“
+- **21.12. – Beginn der Rauhnächte am 21. Dezember oder 24. Dezember 2026** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/rauhnaechte/
+- **21.12. – Dalek-Gedenktag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/dalek-gedenktag
+- **21.12. – Hiwatari Matsuri** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/hiwatari-matsuri-das-japanische-feuerlauf-fest/ — „Hiwatari Matsuri – das japanische Feuerlauf-Fest am 21. Dezember 2026“
+- **21.12. – Humbugtag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/humbugtag
+- **21.12. – Nicht-das-Bett-machen-müssen-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/nicht-das-bett-machen-muessen-tag/ — „Nicht-das-Bett-machen-müssen-Tag – der US-amerikanische Don’t make your Bed Day“
+- **21.12. – Tag der gewonnenen Phileas-Fogg-Wette** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-gewonnen-phileas-fogg-wette/ — „Tag der gewonnenen Phileas-Fogg-Wette – der internationale Phileas Fogg Win A Wager Day“
+- **21.12. – Tag der Taschenlampe** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-taschenlampe
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-taschenlampe-usa/ — „Tag der Taschenlampe – der US-amerikanische National Flashlight Day“
+- **21.12. – Tag des Coquito** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-coquito/ — „Tag des Coquito – National Coquito Day in den Vereinigten Staaten“
+- **21.12. – Tag des Kreuzworträtsels** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-kreuzwortraetsels
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kreuzwortraetsels/ — „Tag des Kreuzworträtsels – der internationale Crossword Puzzle Day“
+- **21.12. – Winteranfang** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/winteranfang
+- **21.12. – Wintersonnenwende** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/wintersonnenwende
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/wintersonnenwende/ — „Wintersonnenwende – der kürzeste Tag und die längste Nacht des Jahres 2026“
+- **21.12. – Yalda-Nacht** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/yalda-nacht
+- **22.12. – Plätzchen-Tausch-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/plaetzchen-tausch-tag-usa/ — „Plätzchen-Tausch-Tag – der US-amerikanische National Cookie Exchange Day“
+- **22.12. – Tag der Vorväter** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/forefathers-day-usa/ — „Tag der Vorväter – der US-amerikanische Forefather’s Day am 22. Dezember“
+- **22.12. – Tag des Dattel-Nuss-Brots** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-dattel-nuss-brots/ — „Tag des Dattel-Nuss-Brots – National Date Nut Bread Day in den USA“
+- **22.12. – Tag des Weihnachtsgebäcks** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-weihnachtsgebaecks/ — „Tag des Weihnachtsgebäcks in Deutschland am 22. Dezember“
+- **22.12. – Weltorgasmustag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltorgasmustag
+- **23.12. – Festivus** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/festivus
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/festivus/ — „Festivus in den USA – A Festivus for the rest of us am 23. Dezember“
+- **23.12. – Geburtstag des Kaisers** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/geburtstag-des-kaisers
+- **23.12. – Human Light** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/human-light
+- **23.12. – Nacht der Radieschen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/noche-de-rabanos-mexiko/ — „Nacht der Radieschen – die mexikanische Noche de Rábanos“
+- **23.12. – Tag der Pfeffernüsse** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-pfeffernuesse-usa/ — „Tag der Pfeffernüsse – National Pfeffernusse Day in den USA“
+- **24.12. – Beginn der Rauhnächte am 21. Dezember oder 24. Dezember 2026** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/rauhnaechte/
+- **24.12. – Fröhliche Weihnachten 2025 und Euch allen entspannte Feiertage mit Euren Lieben** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/frohe-weihnachten/
+- **24.12. – Heiligabend** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/heiligabend
+- **24.12. – Jólabókaflóð** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/jolabokaflod-in-island/ — „Jólabókaflóð – die Weihnachtsbücherflut in Island am 24. Dezember“
+- **24.12. – Tag des Eierflips am 24. Dezember** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-eggnog-day-usa/ — „Tag des Eierflips am 24. Dezember – National Eggnog Day in den Vereinigten Staaten“
+- **24.12. – Tag des Kartoffelsalats mit Würstchen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kartoffelsalats-mit-wuerstchen-in-deutschland/ — „Tag des Kartoffelsalats mit Würstchen in Deutschland – 24. Dezember“
+- **24.12. – Tag des Weiterverschenkens** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-weiterverschenkens
+- **25.12. – Der Tag ohne L** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/no-l-day-oder-tag-ohne-l/ — „Der Tag ohne L – A’Phabet Day oder No “L” Day in den Vereinigten Staaten“
+- **25.12. – Kürbiskuchen-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/kuerbiskuchen-tag/ — „Kürbiskuchen-Tag – National Pumpkin Pie Day in den Vereinigten Staaten“
+- **25.12. – Weihnachten** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/weihnachten
+- **26.12. – Tag der Geschenkboxen** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-geschenkboxen
+- **26.12. – Tag der Jammerlappen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-jammerlappen-usa/ — „Tag der Jammerlappen – National Whiners Day in den Vereinigten Staaten“
+- **26.12. – Tag der kleinen Dankeszettel** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-kleinen-dankeszettel-usa/ — „Tag der kleinen Dankeszettel – National Thank You Note Day in den USA“
+- **26.12. – Tag der Zuckerstange** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-zuckerstange-usa/ — „Tag der Zuckerstange – National Candy Cane Day in den Vereinigten Staaten“
+- **26.12. – Zweiter Weihnachtsfeiertag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/zweiter-weihnachtsfeiertag
+- **27.12. – Eröffnungstag der Radio City Music Hall in New York am 27. Dezember 1932** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/eroeffnungstag-der-radio-city-music-hall-in-new-york/
+- **27.12. – Internationale Tag der Epidemievorsorge** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/internationale-tag-der-epidemievorsorge
+- **27.12. – Mach-einen-Zoobesuch-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/mach-einen-zoobesuch-tag/ — „Mach-einen-Zoobesuch-Tag – National Visit the Zoo Day in den USA“
+- **27.12. – Schneeflocken-Scherenschnitt-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/schneeflocken-scherenschnitt-tag/ — „Schneeflocken-Scherenschnitt-Tag – der US-amerikanische Make Cut-out Snowflakes Day“
+- **27.12. – Tag des Apostels und Evangelisten Johannes** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-des-apostels-und-evangelisten-johannes
+- **27.12. – Tag des Früchtekuchens** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-fruechtekuchens/ — „Tag des Früchtekuchens – National Fruitcake Day in den Vereinigten Staaten“
+- **28.12. – Pralinen-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-chocolate-candy-day-usa/ — „Pralinen-Tag – National Chocolate Candy Day in den USA“
+- **28.12. – Ruf-einen-Freund-an-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ruf-einen-freund-an-tag/ — „Ruf-einen-Freund-an-Tag – Call a Friend Day in den USA“
+- **28.12. – Staatsfeiertag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tschechien-staatsfeiertag
+- **28.12. – Tag der Feiertags-Verschnaufpause** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-feiertags-verschnaufpause/ — „Tag der Feiertags-Verschnaufpause – Holiday Breather Day in den Vereinigten Staaten“
+- **28.12. – Tag des Kartenspielens** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-kartenspielens
+- **28.12. – Tag des Kartenspiels** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kartenspiels/ — „Tag des Kartenspiels – der US-amerikanische National Card Playing Day“
+- **28.12. – Tag des Rühreis** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-ruehreis/ — „Tag des Rühreis in Deutschland – 28. Dezember“
+- **29.12. – Ab-auf-die-Waage-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/ab-auf-die-waage-tag/ — „Ab-auf-die-Waage-Tag – National Get on the Scales Day in den USA“
+- **29.12. – Internationaler Tag des Cellos** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-cellos/ — „Internationaler Tag des Cellos – International Cello Day“
+- **29.12. – Pepper-Pot-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/pepper-pot-tag-usa/ — „Pepper-Pot-Tag – National Pepper Pot Day in den USA“
+- **29.12. – Tag des Spiegeleis** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-spiegeleis/ — „Tag des Spiegeleis in Deutschland – 29. Dezember“
+- **29.12. – Ticktack-Tag** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/ticktack-tag
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tick-tock-day/ — „Ticktack-Tag – der US-amerikanische Tick Tock Day“
+- **30.12. – Das Fest der rieselnden Tannennadeln** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/fest-der-rieselnden-tannennadeln/ — „Das Fest der rieselnden Tannennadeln – der US-amerikanische Falling Needles Family Fest Day“
+- **30.12. – Internationaler Tag des Frühstücksspecks** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-bacon-day/ — „Internationaler Tag des Frühstücksspecks – International Bacon Day“
+- **30.12. – Rizal Day** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/rizal-day
+- **30.12. – Tag der großen Veränderungen in letzter Minute** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-grossen-veraenderungen-in-letzter-minute/ — „Tag der großen Veränderungen in letzter Minute – Festival Of Enormous Changes At The Last Minute in den USA“
+- **30.12. – Tag des Bacons** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-bacons
+- **30.12. – Tag des Natrons** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-bicarbonate-of-soda-day/ — „Tag des Natrons – der US-amerikanische National Bicarbonate of Soda Day“
+- **30.12. – Unabhängigkeitstag** _(nur welcher-tag-ist-heute)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/botswana-unabhaengigkeitstag
+- **31.12. – Bitte-nicht-stören-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/bitte-nicht-stoeren-tag/ — „Bitte-nicht-stören-Tag – der No Interruptions Day in den Vereinigten Staaten“
+- **31.12. – Entscheide-Dich-endlich-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/entscheide-dich-endlich-tag/ — „Entscheide-Dich-endlich-Tag – Make Up Your Mind Day in den USA“
+- **31.12. – Grounding Page kuriose-feiertage** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/grounding/kuriose-feiertage-grounding.html
+- **31.12. – Grounding Page Sven Giese** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/grounding/sven-giese.html
+- **31.12. – Silvester** _(beide Quellen)_  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/silvester
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/silvester/ — „Silvester – 31. Dezember – der letzte Tag des Jahres 2026“
+
+## Datum nicht aufgelöst
+
+- **30 Ağustos Zafer Bayramı**  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/30-a
+- **Oscar-Nacht**  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/oscar-nacht
+- **Schalttag**  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/schalttag
+- **St. Tib's Day**  
+  - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/st-tibs-day
+
+## Prüfhinweise
+
+- Diese Datei ist die gemeinsame Sichtprüfungs-Liste beider Entdeckungsquellen.
+- Einträge mit „Name abweichend“ sollten vor einer späteren Übernahme manuell geprüft werden.
+- „Nur kuriose-feiertage“ kann auch Fälle enthalten, die wegen stark unterschiedlicher Bezeichnungen nicht automatisch gematcht wurden.
+- Für die spätere Produktivliste sollen statt dieser Entdeckungsquellen nach Möglichkeit Primär-/offizielle Quellen recherchiert werden.

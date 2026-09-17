@@ -9,6 +9,9 @@ on:
       - aktionstage-welcher-tag-ist-heute
     paths:
       - 'scripts/import-welcher-tag-ist-heute.mjs'
+      - 'scripts/export-welcher-tag-md.mjs'
+      - 'scripts/compare-kuriose-feiertage.mjs'
+      - 'scripts/update-aktionstage-from-review.mjs'
       - '.github/workflows/update-action-days.yml'
 
 permissions:
@@ -25,23 +28,27 @@ jobs:
           node-version: 22
       - name: Install dependencies
         run: npm ci
-      - name: Import and verify action days
+      - name: Export review markdown
         env:
-          IMPORT_CONCURRENCY: '4'
-          IMPORT_DELAY_MS: '150'
-        run: npm run import:aktionstage
+          IMPORT_CONCURRENCY: '6'
+          IMPORT_DELAY_MS: '120'
+        run: node scripts/export-welcher-tag-md.mjs
+      - name: Compare with kuriose-feiertage.de
+        run: node scripts/compare-kuriose-feiertage.mjs
+      - name: Update aktionstage.json
+        run: node scripts/update-aktionstage-from-review.mjs
       - name: Test and build
         run: |
           npm test
           npm run build
-      - name: Commit generated data
+      - name: Commit generated files
         run: |
-          if git diff --quiet -- aktionstage_welcher_tag.json aktionstage_welcher_tag_report.json; then
+          if [ -z "$(git status --porcelain -- aktionstage.json aktionstage_welcher_tag_pruefung.md aktionstage_kuriose_feiertage_abgleich.md aktionstage_gesamt_pruefung.md)" ]; then
             echo 'No generated changes.'
             exit 0
           fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add aktionstage_welcher_tag.json aktionstage_welcher_tag_report.json
-          git commit -m 'data: refresh researched action days [skip ci]'
+          git add aktionstage.json aktionstage_welcher_tag_pruefung.md aktionstage_kuriose_feiertage_abgleich.md aktionstage_gesamt_pruefung.md
+          git commit -m 'data: refresh action days from reviewed sources [skip ci]'
           git push
