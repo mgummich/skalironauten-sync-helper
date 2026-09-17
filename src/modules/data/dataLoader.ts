@@ -1,5 +1,4 @@
 import rawData from '../../../aktionstage.json';
-import importedActionDays from '../../../aktionstage_welcher_tag.json';
 import { addDays } from './dateUtils';
 import { normalizeRegion } from './normalizeRegion';
 
@@ -13,7 +12,7 @@ export interface ActionDay {
   quelle: string;
 }
 
-const allRawData = [...rawData, ...importedActionDays];
+const allRawData = rawData;
 const rawActionDays = allRawData.map((item) => ({ ...item, region: normalizeRegion(item.region) }));
 
 const monthDayIndex = new Map<string, ActionDay[]>();
