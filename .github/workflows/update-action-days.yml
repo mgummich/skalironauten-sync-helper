@@ -1,0 +1,47 @@
+name: Update action days
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 4 1 * *'
+  push:
+    branches:
+      - aktionstage-welcher-tag-ist-heute
+    paths:
+      - 'scripts/import-welcher-tag-ist-heute.mjs'
+      - '.github/workflows/update-action-days.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - name: Install dependencies
+        run: npm ci
+      - name: Import and verify action days
+        env:
+          IMPORT_CONCURRENCY: '4'
+          IMPORT_DELAY_MS: '150'
+        run: npm run import:aktionstage
+      - name: Test and build
+        run: |
+          npm test
+          npm run build
+      - name: Commit generated data
+        run: |
+          if git diff --quiet -- aktionstage_welcher_tag.json aktionstage_welcher_tag_report.json; then
+            echo 'No generated changes.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add aktionstage_welcher_tag.json aktionstage_welcher_tag_report.json
+          git commit -m 'data: refresh researched action days [skip ci]'
+          git push
