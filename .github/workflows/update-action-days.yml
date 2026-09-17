@@ -37,7 +37,7 @@ jobs:
           npm run build
       - name: Commit review markdown
         run: |
-          if git diff --quiet -- aktionstage_welcher_tag_pruefung.md; then
+          if [ -z "$(git status --porcelain -- aktionstage_welcher_tag_pruefung.md)" ]; then
             echo 'No review markdown changes.'
             exit 0
           fi
