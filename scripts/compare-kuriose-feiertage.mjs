@@ -2,6 +2,7 @@ import { readFile, writeFile } from 'node:fs/promises';
 
 const SOURCE = new URL('../aktionstage_welcher_tag_pruefung.md', import.meta.url);
 const OUT = new URL('../aktionstage_kuriose_feiertage_abgleich.md', import.meta.url);
+const MERGED_OUT = new URL('../aktionstage_gesamt_pruefung.md', import.meta.url);
 const BASE = 'https://www.kuriose-feiertage.de';
 const MONTHS = ['januar','februar','maerz','april','mai','juni','juli','august','september','oktober','november','dezember'];
 const MONTH_LABELS = ['Januar','Februar','März','April','Mai','Juni','Juli','August','September','Oktober','November','Dezember'];
@@ -56,6 +57,12 @@ function parseSource(md) {
   for(const m of md.matchAll(re)) rows.push({day:+m[1],month:+m[2],name:m[3].trim(),url:m[4]});
   return rows;
 }
+function parseUnresolved(md) {
+  const rows=[];
+  const re=/- \*\*Datum offen – (.+?)\*\*\s{2}\n\s+(https:\/\/welcher-tag-ist-heute\.org\/[^\s]+)/g;
+  for(const m of md.matchAll(re)) rows.push({name:m[1].trim(),url:m[2]});
+  return rows;
+}
 
 function parseKuriose(html, month) {
   const cleaned=html.replace(/<script[\s\S]*?<\/script>/gi,' ').replace(/<style[\s\S]*?<\/style>/gi,' ');
@@ -78,7 +85,9 @@ function parseKuriose(html, month) {
   return out;
 }
 
-const source=parseSource(await readFile(SOURCE,'utf8'));
+const sourceMd=await readFile(SOURCE,'utf8');
+const source=parseSource(sourceMd);
+const unresolved=parseUnresolved(sourceMd);
 const kuriose=[];
 for(let i=0;i<MONTHS.length;i++) {
   const url=`${BASE}/kalender/${MONTHS[i]}/`;
@@ -127,16 +136,55 @@ lines.push('', '## Mögliche Namensvarianten', '');
 for(const x of probable.sort((a,b)=>a.s.month-b.s.month||a.s.day-b.s.day||b.score-a.score)) {
   lines.push(`- **${String(x.s.day).padStart(2,'0')}.${String(x.s.month).padStart(2,'0')}. – ${x.s.name}** ↔ ${x.k.name} _(Ähnlichkeit ${Math.round(x.score*100)} %)_  `,`  ${x.s.url}  `,`  ${x.k.url}`);
 }
-
 lines.push('', '## Nur bei welcher-tag-ist-heute gefunden', '');
 for(const s of onlySource.sort((a,b)=>a.month-b.month||a.day-b.day||a.name.localeCompare(b.name,'de'))) {
   lines.push(`- **${String(s.day).padStart(2,'0')}.${String(s.month).padStart(2,'0')}. – ${s.name}**  `,`  ${s.url}`);
 }
-
 lines.push('', '## Nicht zugeordnet bei kuriose-feiertage.de', '', '> Diese Liste bedeutet nicht automatisch „fehlt bei welcher-tag-ist-heute“: Einträge können unter stark abweichenden Namen geführt sein oder vom automatischen Matching nicht erkannt worden sein.', '');
 for(const k of onlyKuriose.sort((a,b)=>a.month-b.month||a.day-b.day||a.name.localeCompare(b.name,'de'))) {
   lines.push(`- **${String(k.day).padStart(2,'0')}.${String(k.month).padStart(2,'0')}. – ${k.name}**  `,`  ${k.url}`);
 }
-
 await writeFile(OUT,`${lines.join('\n')}\n`);
+
+const matchBySourceUrl=new Map();
+for(const x of exact) matchBySourceUrl.set(x.s.url,{type:'beide',k:x.k});
+for(const x of probable) matchBySourceUrl.set(x.s.url,{type:'namensvariante',k:x.k,score:x.score});
+
+const merged=[];
+for(const s of source) {
+  const match=matchBySourceUrl.get(s.url);
+  merged.push({day:s.day,month:s.month,name:s.name,sourceUrl:s.url,kurioseUrl:match?.k.url ?? null,kurioseName:match?.k.name ?? null,kind:match?.type ?? 'nur-welcher',score:match?.score ?? null});
+}
+for(const k of onlyKuriose) {
+  merged.push({day:k.day,month:k.month,name:coreName(k.name),sourceUrl:null,kurioseUrl:k.url,kurioseName:k.name,kind:'nur-kuriose',score:null});
+}
+merged.sort((a,b)=>a.month-b.month||a.day-b.day||a.name.localeCompare(b.name,'de'));
+
+const mergedLines=[
+  '# Gemeinsame Prüfliste besonderer Tage', '',
+  '> Zusammengeführt aus welcher-tag-ist-heute.org und kuriose-feiertage.de. Sichere Treffer und wahrscheinliche Namensvarianten wurden zu einem Eintrag zusammengeführt. Noch keine Übernahme in `aktionstage.json` und noch keine Recherche nach Primär-/offiziellen Quellen.', '',
+  `- Einträge mit Datum nach Zusammenführung: **${merged.length}**`,
+  `- Zusammengeführte sichere Treffer: **${exact.length}**`,
+  `- Zusammengeführte wahrscheinliche Namensvarianten: **${probable.length}**`,
+  `- Nur welcher-tag-ist-heute: **${onlySource.length}**`,
+  `- Nur kuriose-feiertage.de bzw. dort nicht automatisch zugeordnet: **${onlyKuriose.length}**`,
+  `- Ohne aufgelöstes Datum aus welcher-tag-ist-heute: **${unresolved.length}**`, ''
+];
+let currentMonth=0;
+for(const x of merged) {
+  if(x.month!==currentMonth) { currentMonth=x.month; mergedLines.push(`## ${MONTH_LABELS[x.month-1]}`,''); }
+  const badge=x.kind==='beide'?'beide Quellen':x.kind==='namensvariante'?'beide Quellen, Name abweichend':x.kind==='nur-welcher'?'nur welcher-tag-ist-heute':'nur kuriose-feiertage';
+  mergedLines.push(`- **${String(x.day).padStart(2,'0')}.${String(x.month).padStart(2,'0')}. – ${x.name}** _(${badge})_  `);
+  if(x.sourceUrl) mergedLines.push(`  - welcher-tag-ist-heute: ${x.sourceUrl}`);
+  if(x.kurioseUrl) mergedLines.push(`  - kuriose-feiertage: ${x.kurioseUrl}${x.kurioseName && norm(x.kurioseName)!==norm(x.name)?` — „${x.kurioseName}“`:''}`);
+  if(x.kind==='namensvariante') mergedLines.push(`  - automatische Ähnlichkeit: ${Math.round(x.score*100)} %`);
+}
+if(unresolved.length) {
+  mergedLines.push('', '## Datum nicht aufgelöst', '');
+  for(const x of unresolved) mergedLines.push(`- **${x.name}**  `,`  - welcher-tag-ist-heute: ${x.url}`);
+}
+mergedLines.push('', '## Prüfhinweise', '', '- Diese Datei ist die gemeinsame Sichtprüfungs-Liste beider Entdeckungsquellen.', '- Einträge mit „Name abweichend“ sollten vor einer späteren Übernahme manuell geprüft werden.', '- „Nur kuriose-feiertage“ kann auch Fälle enthalten, die wegen stark unterschiedlicher Bezeichnungen nicht automatisch gematcht wurden.', '- Für die spätere Produktivliste sollen statt dieser Entdeckungsquellen nach Möglichkeit Primär-/offizielle Quellen recherchiert werden.');
+await writeFile(MERGED_OUT,`${mergedLines.join('\n')}\n`);
+
 console.log(`Wrote comparison: exact=${exact.length}, probable=${probable.length}, sourceOnly=${onlySource.length}, kurioseUnmatched=${onlyKuriose.length}`);
+console.log(`Wrote merged review: dated=${merged.length}, unresolved=${unresolved.length}`);
