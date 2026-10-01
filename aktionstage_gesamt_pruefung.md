@@ -2,11 +2,11 @@
 
 > Zusammengeführt aus welcher-tag-ist-heute.org und kuriose-feiertage.de. Sichere Treffer und wahrscheinliche Namensvarianten wurden zu einem Eintrag zusammengeführt. Noch keine Übernahme in `aktionstage.json` und noch keine Recherche nach Primär-/offiziellen Quellen.
 
-- Einträge mit Datum nach Zusammenführung: **2977**
-- Zusammengeführte sichere Treffer: **564**
+- Einträge mit Datum nach Zusammenführung: **2978**
+- Zusammengeführte sichere Treffer: **565**
 - Zusammengeführte wahrscheinliche Namensvarianten: **52**
-- Nur welcher-tag-ist-heute: **999**
-- Nur kuriose-feiertage.de bzw. dort nicht automatisch zugeordnet: **1362**
+- Nur welcher-tag-ist-heute: **998**
+- Nur kuriose-feiertage.de bzw. dort nicht automatisch zugeordnet: **1363**
 - Ohne aufgelöstes Datum aus welcher-tag-ist-heute: **4**
 
 ## Januar
@@ -4791,7 +4791,7 @@
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/sofia-stadtfeiertag
 - **17.09. – Tag der Apfeltasche** _(beide Quellen)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-apfeltasche
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-apfeltasche/ — „Tag der Apfeltasche – National Apple Dumpling Day in den USA“
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-apfeltasche/ — „Tag der Apfeltasche am 17. September – National Apple Dumpling Day in den USA“
 - **17.09. – Tag der Country-Musik** _(beide Quellen)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-country-musik
   - kuriose-feiertage: https://www.kuriose-feiertage.de/international-country-music-day/ — „Internationaler Tag der Country-Musik – International Country Music Day (ICMDAY)“
@@ -4805,7 +4805,7 @@
 - **18.09. – Internationaler Lies-ein-E-Book-Tag** _(nur kuriose-feiertage)_  
   - kuriose-feiertage: https://www.kuriose-feiertage.de/international-read-an-ebook-day/ — „Internationaler Lies-ein-E-Book-Tag – International Read An Ebook Day 2026“
 - **18.09. – Internationaler Parking Day** _(nur kuriose-feiertage)_  
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/parking-day/ — „Internationaler Parking Day – internationaler Aktionstag am 18. September 2026“
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/parking-day/ — „Internationaler Parking Day – Aktionstag am 18. September 2026“
 - **18.09. – POW/MIA-Tag** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/pow-mia-tag
 - **18.09. – Tag der ersten Liebe** _(nur kuriose-feiertage)_  
@@ -4846,7 +4846,7 @@
 - **19.09. – Tag des Handwerks** _(nur kuriose-feiertage)_  
   - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-handwerks/ — „Tag des Handwerks in Deutschland 2026“
 - **19.09. – Tag des Roten Pandas** _(nur kuriose-feiertage)_  
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-roten-pandas/ — „Tag des Roten Pandas – International Red Panda Day 2026“
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-roten-pandas/ — „Tag des Roten Pandas – International Red Panda Day am 19. September 2026“
 - **19.09. – Unabhängigkeitstag in St. Kitts und Nevis** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/st-kitts-und-nevis-unabhaengigkeitstag
 - **20.09. – Der bundesweite Weltkindertag** _(nur kuriose-feiertage)_  
@@ -4857,8 +4857,8 @@
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/eidgenoessischer-dank-buss-und-bettag
 - **20.09. – Jom Kippur** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/jom-kippur
-- **20.09. – Plane-Deine-Brückentage-für-das-nächste-Jahr-Tag** _(nur kuriose-feiertage)_  
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/plane-deine-brueckentage-fuer-das-naechste-jahr-tag/ — „Plane-Deine-Brückentage-für-das-nächste-Jahr-Tag in Deutschland“
+- **20.09. – Plane-deine-Brückentage-für-das-nächste-Jahr-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/plane-deine-brueckentage-fuer-das-naechste-jahr-tag/ — „Plane-deine-Brückentage-für-das-nächste-Jahr-Tag in Deutschland“
 - **20.09. – Tag der Ehefrau** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-ehefrau
 - **20.09. – Tag der Pepperoni-Pizza** _(nur kuriose-feiertage)_  
@@ -4868,8 +4868,9 @@
 - **20.09. – Tag des Friedhofs** _(beide Quellen)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-friedhofs
   - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-friedhofs-deutschland/ — „Tag des Friedhofs in Deutschland – 19. und 20. September 2026“
-- **20.09. – Tag des Geotops** _(nur welcher-tag-ist-heute)_  
+- **20.09. – Tag des Geotops** _(beide Quellen)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-geotops
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-geotops-in-deutschland/ — „Tag des Geotops in Deutschland – 20. September 2026“
 - **20.09. – Weltaufräumtag** _(nur kuriose-feiertage)_  
   - kuriose-feiertage: https://www.kuriose-feiertage.de/world-cleanup-day/ — „Weltaufräumtag – World Cleanup Day am 20. September 2026“
 - **21.09. – Abgasfrei-Tag** _(nur kuriose-feiertage)_  
@@ -4878,7 +4879,7 @@
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/minigolftag
 - **21.09. – Tag des Respekts vor dem Alter** _(beide Quellen, Name abweichend)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-respekts-vor-dem-alter
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/keiro-no-hi/ — „Achtung-vor-dem-Alter-Tag in Japan – Keirō no Hi am 21. September 2026“
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/keiro-no-hi/ — „Achtung-vor-dem-Alter-Tag in Japan – Keirō no Hi 2026“
   - automatische Ähnlichkeit: 75 %
 - **21.09. – Unabhängigkeitstag in Armenien** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/armenien-unabhaengigkeitstag
@@ -4891,13 +4892,13 @@
   - kuriose-feiertage: https://www.kuriose-feiertage.de/welt-alzheimertag/ — „Welt-Alzheimertag – World Alzheimer’s Day“
 - **21.09. – Weltfriedenstag** _(beide Quellen)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-des-friedens
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltfriedenstag/ — „Weltfriedenstag – der UNO International Day of Peace“
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltfriedenstag/ — „Weltfriedenstag am 21. September – der UNO International Day of Peace 2026“
 - **21.09. – Welttag der Dankbarkeit** _(beide Quellen)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-der-dankbarkeit
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-gratitude-day/ — „Welttag der Dankbarkeit – World Gratitude Day“
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-gratitude-day/ — „Welttag der Dankbarkeit am 21. September – World Gratitude Day 2026“
 - **22.09. – Autofreier Tag** _(beide Quellen)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/autofreier-tag
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/autofreier-tag/ — „Autofreier Tag – World Car Free Day am 22. September“
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/autofreier-tag/ — „Autofreier Tag – World Car Free Day – internationaler Aktionstag am 22. September“
 - **22.09. – Ehrentag der Elefanten** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/ehrentag-der-elefanten
 - **22.09. – Hobbit-Tag** _(nur kuriose-feiertage)_  
@@ -4928,7 +4929,7 @@
   - kuriose-feiertage: https://www.kuriose-feiertage.de/dogs-in-politics-day/ — „National Checkers Day oder der Dogs in Politics Day in den USA“
 - **23.09. – Tag der Bisexualität** _(beide Quellen)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-bisexualitaet
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-bisexualitaet/ — „Tag der Bisexualität – Celebrate Bisexuality Day am 23. September“
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-bisexualitaet/ — „Tag der Bisexualität – der internationale Celebrate Bisexuality Day am 23. September“
 - **23.09. – Tag der Kastanie** _(nur kuriose-feiertage)_  
   - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-kastanie-in-deutschland/ — „Tag der Kastanie in Deutschland – 23. September 2026“
 - **23.09. – Tag des Herbstspaziergangs** _(nur kuriose-feiertage)_  
@@ -4954,15 +4955,15 @@
   - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kirsch-souffles/ — „Tag des Kirsch-Souffles – National Cherries Jubilee Day in den USA“
 - **24.09. – Weltschifffahrtstag** _(beide Quellen)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltschifffahrtstag
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltschifffahrtstag/ — „Weltschifffahrtstag – der World Maritime Day am 24. September 2026“
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltschifffahrtstag/ — „Weltschifffahrtstag – World Maritime Day 2026“
 - **24.09. – Welttag der Gorillas** _(nur kuriose-feiertage)_  
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-gorillas/ — „Welttag der Gorillas – World Gorilla Day“
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-gorillas/ — „Welttag der Gorillas – World Gorilla Day 2026“
 - **25.09. – Comicbuchtag** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/comicbuchtag
 - **25.09. – Save the Koala Day in Australien** _(nur kuriose-feiertage)_  
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/save-the-koala-day/ — „Save the Koala Day in Australien – Rettet-die-Koalas-Tag am 25. September 2026“
-- **25.09. – Tag der Comics am 25. September** _(nur kuriose-feiertage)_  
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-comics/ — „Tag der Comics am 25. September – National Comic Book Day in den USA“
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/save-the-koala-day/ — „Save the Koala Day in Australien – Rettet-die-Koalas-Tag 2026“
+- **25.09. – Tag der Comics** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-comics/ — „Tag der Comics – National Comic Book Day in den USA“
 - **25.09. – Tag der Träume** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-traeume
 - **25.09. – Tag der Zahngesundheit** _(beide Quellen)_  
@@ -4982,7 +4983,7 @@
 - **26.09. – Europäischer Pilztag** _(nur kuriose-feiertage)_  
   - kuriose-feiertage: https://www.kuriose-feiertage.de/europaeischer-pilztag/ — „Europäischer Pilztag – der European Mushroom Day am 26. September 2026“
 - **26.09. – Internationaler Tag des Hasen** _(nur kuriose-feiertage)_  
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-rabbit-day/ — „Internationaler Tag des Hasen – International Rabbit Day 2026“
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-rabbit-day/ — „Internationaler Tag des Hasen – International Rabbit Day am 26. September 2026“
 - **26.09. – Tag der Geisterjagd** _(nur kuriose-feiertage)_  
   - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-geisterjagd/ — „Tag der Geisterjagd in den USA – National Ghost Hunting Day am 26. September 2026“
 - **26.09. – Tag der Pfannkuchen am 26. September** _(nur kuriose-feiertage)_  
@@ -4996,16 +4997,16 @@
   - kuriose-feiertage: https://www.kuriose-feiertage.de/holzfaeller-tag/ — „Tag des Holzfällers am 26. September – der US-amerikanische Lumberjack Day“
 - **26.09. – Tag des Kaninchens** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-kaninchens
-- **26.09. – Tag des Liebesbriefchens** _(nur kuriose-feiertage)_  
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-liebesbriefchens/ — „Tag des Liebesbriefchens – Love Note Day in Kanada“
+- **26.09. – Tag des Liebesbriefchens am 26. September** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-liebesbriefchens/ — „Tag des Liebesbriefchens am 26. September – Love Note Day in Kanada“
 - **26.09. – Tag für die vollständige Beseitigung der Kernwaffen** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-fuer-die-vollstaendige-beseitigung-der-kernwaffen
 - **27.09. – Internationaler Tag der Flüsse** _(nur kuriose-feiertage)_  
   - kuriose-feiertage: https://www.kuriose-feiertage.de/world-rivers-day/ — „Internationaler Tag der Flüsse – World Rivers Day am 27. September 2026“
 - **27.09. – Tag der Gehörlosen** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-gehorlosen
-- **27.09. – Tag des kalten Kakaos** _(nur kuriose-feiertage)_  
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kalten-kakao-usa/ — „Tag des kalten Kakaos – National Chocolate Milk Day in den USA“
+- **27.09. – Tag des kalten Kakaos am 27. September** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kalten-kakao-usa/ — „Tag des kalten Kakaos am 27. September – National Chocolate Milk Day in den USA“
 - **27.09. – Tag des Schals am 27. September** _(nur kuriose-feiertage)_  
   - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-schals/ — „Tag des Schals am 27. September – National Scarf Day in den Vereinigten Staaten“
 - **27.09. – Welttourismustag** _(beide Quellen)_  
@@ -5028,12 +5029,14 @@
   - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-guten-nachbarn/ — „Tag des guten Nachbarn – der US-amerikanische National Good Neighbor Day“
 - **28.09. – Welt-Tollwut-Tag** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welt-tollwuttag
+- **29.09. – Internationaler Tag gegen Lebensmittelverschwendung** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-gegen-lebensmittelverschwendung/ — „Internationaler Tag gegen Lebensmittelverschwendung – International Day of Awareness of Food Loss and Waste“
 - **29.09. – Konfuzius-Tag** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/konfuziustag
 - **29.09. – Michaelistag** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/michaelistag
-- **29.09. – Michaelstag** _(nur kuriose-feiertage)_  
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/michaelstag/ — „Michaelstag in Großbritannien – The Day the Devil Spit on Your Blackberries“
+- **29.09. – Michaelstag oder Michaelmas** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/michaelstag/ — „Michaelstag oder Michaelmas in Großbritannien – The Day the Devil Spit on Your Blackberries – 29. September“
 - **29.09. – Tag der Biscotti** _(nur kuriose-feiertage)_  
   - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-biscotti/ — „Tag der Biscotti – der National Biscotti Day in den Vereinigten Staaten“
 - **29.09. – Weltherztag** _(beide Quellen)_  
@@ -5074,7 +5077,7 @@
 - **01.10. – Internationaler Ehrentag der Waschbären** _(nur kuriose-feiertage)_  
   - kuriose-feiertage: https://www.kuriose-feiertage.de/ehrentag-der-waschbaeren/ — „Internationaler Ehrentag der Waschbären – International Raccoon Appreciation Day“
 - **01.10. – Internationaler Tag des Kaffees** _(nur kuriose-feiertage)_  
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-kaffees/ — „Internationaler Tag des Kaffees – International Coffee Day“
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-kaffees/ — „Internationaler Tag des Kaffees – International Coffee Day am 1. Oktober“
 - **01.10. – Tag der älteren Menschen** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-aelteren-menschen
 - **01.10. – Tag des CD-Players am 1. Oktober** _(nur kuriose-feiertage)_  
@@ -5121,7 +5124,7 @@
 - **03.10. – Gaecheonjeol** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/gaecheonjeol
 - **03.10. – Happy Birthday** _(nur kuriose-feiertage)_  
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/happy-birthday/ — „Happy Birthday – die kuriosen Feiertage feiern ihren 14. Geburtstag“
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/happy-birthday/ — „Happy Birthday – die kuriosen Feiertage feiern ihren 15. Geburtstag“
 - **03.10. – Tag der Deutschen Einheit** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-deutschen-einheit
 - **03.10. – Tag der offenen Moschee** _(nur welcher-tag-ist-heute)_  

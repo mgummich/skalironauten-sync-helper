@@ -3,11 +3,11 @@
 > Automatischer Vollabgleich der Prüfliste von welcher-tag-ist-heute.org gegen die zwölf Monatsseiten des Kalenders von kuriose-feiertage.de. Matching erfolgt primär über Datum + normalisierten deutschen Namen; ähnliche Namen werden separat als mögliche Treffer ausgewiesen.
 
 - Einträge in welcher-tag-ist-heute-Prüfliste mit aufgelöstem Datum: **1615**
-- Aus kuriose-feiertage.de gelesene Kalender-Einträge: **1989**
-- Sichere Treffer: **564**
+- Aus kuriose-feiertage.de gelesene Kalender-Einträge: **1991**
+- Sichere Treffer: **565**
 - Mögliche Namensvarianten: **52**
-- Nur bei welcher-tag-ist-heute gefunden: **999**
-- Nicht zugeordnet bei kuriose-feiertage.de: **1362**
+- Nur bei welcher-tag-ist-heute gefunden: **998**
+- Nicht zugeordnet bei kuriose-feiertage.de: **1363**
 
 ## Kontrollfall
 
@@ -143,7 +143,7 @@
 - **13.09. – Tag des Glückskeks** ↔ Glückskeks-Tag – der US-amerikanische National Fortune Cookie Day am 13. September _(Ähnlichkeit 100 %)_  
   https://welcher-tag-ist-heute.org/feiertage/tag-des-glueckskeks  
   https://www.kuriose-feiertage.de/glueckskeks-tag/
-- **21.09. – Tag des Respekts vor dem Alter** ↔ Achtung-vor-dem-Alter-Tag in Japan – Keirō no Hi am 21. September 2026 _(Ähnlichkeit 75 %)_  
+- **21.09. – Tag des Respekts vor dem Alter** ↔ Achtung-vor-dem-Alter-Tag in Japan – Keirō no Hi 2026 _(Ähnlichkeit 75 %)_  
   https://welcher-tag-ist-heute.org/feiertage/tag-des-respekts-vor-dem-alter  
   https://www.kuriose-feiertage.de/keiro-no-hi/
 - **09.10. – Tag des Schimmelkäse** ↔ Schimmelkäse-Tag – National Moldy Cheese Day in den USA _(Ähnlichkeit 100 %)_  
@@ -1574,8 +1574,6 @@
   https://welcher-tag-ist-heute.org/feiertage/jom-kippur
 - **20.09. – Tag der Ehefrau**  
   https://welcher-tag-ist-heute.org/feiertage/tag-der-ehefrau
-- **20.09. – Tag des Geotops**  
-  https://welcher-tag-ist-heute.org/aktionstage/tag-des-geotops
 - **21.09. – Minigolftag**  
   https://welcher-tag-ist-heute.org/aktionstage/minigolftag
 - **21.09. – Unabhängigkeitstag in Armenien**  
@@ -4135,7 +4133,7 @@
   https://www.kuriose-feiertage.de/welttag-der-mantarochen/
 - **18.09. – Internationaler Lies-ein-E-Book-Tag – International Read An Ebook Day 2026**  
   https://www.kuriose-feiertage.de/international-read-an-ebook-day/
-- **18.09. – Internationaler Parking Day – internationaler Aktionstag am 18. September 2026**  
+- **18.09. – Internationaler Parking Day – Aktionstag am 18. September 2026**  
   https://www.kuriose-feiertage.de/parking-day/
 - **18.09. – Tag der ersten Liebe – National First Love Day in den USA**  
   https://www.kuriose-feiertage.de/tag-der-ersten-liebe/
@@ -4157,11 +4155,11 @@
   https://www.kuriose-feiertage.de/tag-des-butterscotch-puddings/
 - **19.09. – Tag des Handwerks in Deutschland 2026**  
   https://www.kuriose-feiertage.de/tag-des-handwerks/
-- **19.09. – Tag des Roten Pandas – International Red Panda Day 2026**  
+- **19.09. – Tag des Roten Pandas – International Red Panda Day am 19. September 2026**  
   https://www.kuriose-feiertage.de/internationaler-tag-des-roten-pandas/
 - **20.09. – Der bundesweite Weltkindertag in Deutschland 2026**  
   https://www.kuriose-feiertage.de/weltkindertag-in-deutschland/
-- **20.09. – Plane-Deine-Brückentage-für-das-nächste-Jahr-Tag in Deutschland**  
+- **20.09. – Plane-deine-Brückentage-für-das-nächste-Jahr-Tag in Deutschland**  
   https://www.kuriose-feiertage.de/plane-deine-brueckentage-fuer-das-naechste-jahr-tag/
 - **20.09. – Tag der Pepperoni-Pizza – National Pepperoni Pizza Day in den USA**  
   https://www.kuriose-feiertage.de/tag-der-pepperoni-pizza/
@@ -4193,17 +4191,17 @@
   https://www.kuriose-feiertage.de/tag-des-braai/
 - **24.09. – Tag des Kirsch-Souffles – National Cherries Jubilee Day in den USA**  
   https://www.kuriose-feiertage.de/tag-des-kirsch-souffles/
-- **24.09. – Welttag der Gorillas – World Gorilla Day**  
+- **24.09. – Welttag der Gorillas – World Gorilla Day 2026**  
   https://www.kuriose-feiertage.de/welttag-der-gorillas/
-- **25.09. – Save the Koala Day in Australien – Rettet-die-Koalas-Tag am 25. September 2026**  
+- **25.09. – Save the Koala Day in Australien – Rettet-die-Koalas-Tag 2026**  
   https://www.kuriose-feiertage.de/save-the-koala-day/
-- **25.09. – Tag der Comics am 25. September – National Comic Book Day in den USA**  
+- **25.09. – Tag der Comics – National Comic Book Day in den USA**  
   https://www.kuriose-feiertage.de/tag-der-comics/
 - **25.09. – Tag des Kochens – National Cooking Day in den USA**  
   https://www.kuriose-feiertage.de/tag-des-kochens/
 - **26.09. – Europäischer Pilztag – der European Mushroom Day am 26. September 2026**  
   https://www.kuriose-feiertage.de/europaeischer-pilztag/
-- **26.09. – Internationaler Tag des Hasen – International Rabbit Day 2026**  
+- **26.09. – Internationaler Tag des Hasen – International Rabbit Day am 26. September 2026**  
   https://www.kuriose-feiertage.de/international-rabbit-day/
 - **26.09. – Tag der Geisterjagd in den USA – National Ghost Hunting Day am 26. September 2026**  
   https://www.kuriose-feiertage.de/tag-der-geisterjagd/
@@ -4211,11 +4209,11 @@
   https://www.kuriose-feiertage.de/tag-der-pfannkuchen-usa/
 - **26.09. – Tag des gesunden Frühstücks – National Better Breakfast Day in den USA**  
   https://www.kuriose-feiertage.de/tag-des-gesunden-fruehstuecks/
-- **26.09. – Tag des Liebesbriefchens – Love Note Day in Kanada**  
+- **26.09. – Tag des Liebesbriefchens am 26. September – Love Note Day in Kanada**  
   https://www.kuriose-feiertage.de/tag-des-liebesbriefchens/
 - **27.09. – Internationaler Tag der Flüsse – World Rivers Day am 27. September 2026**  
   https://www.kuriose-feiertage.de/world-rivers-day/
-- **27.09. – Tag des kalten Kakaos – National Chocolate Milk Day in den USA**  
+- **27.09. – Tag des kalten Kakaos am 27. September – National Chocolate Milk Day in den USA**  
   https://www.kuriose-feiertage.de/tag-des-kalten-kakao-usa/
 - **27.09. – Tag des Schals am 27. September – National Scarf Day in den Vereinigten Staaten**  
   https://www.kuriose-feiertage.de/tag-des-schals/
@@ -4225,7 +4223,9 @@
   https://www.kuriose-feiertage.de/stell-eine-dumme-frage-tag/
 - **28.09. – Tag des Erdbeer-Sahne-Kuchens – National Strawberry Cream Pie Day in den USA**  
   https://www.kuriose-feiertage.de/tag-des-erdbeer-sahne-kuchens/
-- **29.09. – Michaelstag in Großbritannien – The Day the Devil Spit on Your Blackberries**  
+- **29.09. – Internationaler Tag gegen Lebensmittelverschwendung – International Day of Awareness of Food Loss and Waste**  
+  https://www.kuriose-feiertage.de/internationaler-tag-gegen-lebensmittelverschwendung/
+- **29.09. – Michaelstag oder Michaelmas in Großbritannien – The Day the Devil Spit on Your Blackberries – 29. September**  
   https://www.kuriose-feiertage.de/michaelstag/
 - **29.09. – Tag der Biscotti – der National Biscotti Day in den Vereinigten Staaten**  
   https://www.kuriose-feiertage.de/tag-der-biscotti/
@@ -4243,7 +4243,7 @@
   https://www.kuriose-feiertage.de/tag-des-olivenoels-extra-vergine/
 - **01.10. – Internationaler Ehrentag der Waschbären – International Raccoon Appreciation Day**  
   https://www.kuriose-feiertage.de/ehrentag-der-waschbaeren/
-- **01.10. – Internationaler Tag des Kaffees – International Coffee Day**  
+- **01.10. – Internationaler Tag des Kaffees – International Coffee Day am 1. Oktober**  
   https://www.kuriose-feiertage.de/internationaler-tag-des-kaffees/
 - **01.10. – Tag des CD-Players am 1. Oktober – National CD Player Day in den USA**  
   https://www.kuriose-feiertage.de/tag-des-cd-players/
@@ -4257,7 +4257,7 @@
   https://www.kuriose-feiertage.de/tag-der-reinigungskraefte/
 - **03.10. – Der weltweite Smoothie-Tag – Global Smoothie Day am 3. Oktober**  
   https://www.kuriose-feiertage.de/smoothie-tag/
-- **03.10. – Happy Birthday – die kuriosen Feiertage feiern ihren 14. Geburtstag**  
+- **03.10. – Happy Birthday – die kuriosen Feiertage feiern ihren 15. Geburtstag**  
   https://www.kuriose-feiertage.de/happy-birthday/
 - **03.10. – Tag des Herbstlaubs – National Look at the Leaves Day in den USA**  
   https://www.kuriose-feiertage.de/tag-der-herbstlaubs/
