@@ -2,11 +2,11 @@
 
 > Zusammengeführt aus welcher-tag-ist-heute.org und kuriose-feiertage.de. Sichere Treffer und wahrscheinliche Namensvarianten wurden zu einem Eintrag zusammengeführt. Noch keine Übernahme in `aktionstage.json` und noch keine Recherche nach Primär-/offiziellen Quellen.
 
-- Einträge mit Datum nach Zusammenführung: **2978**
-- Zusammengeführte sichere Treffer: **565**
+- Einträge mit Datum nach Zusammenführung: **2979**
+- Zusammengeführte sichere Treffer: **566**
 - Zusammengeführte wahrscheinliche Namensvarianten: **52**
-- Nur welcher-tag-ist-heute: **998**
-- Nur kuriose-feiertage.de bzw. dort nicht automatisch zugeordnet: **1363**
+- Nur welcher-tag-ist-heute: **997**
+- Nur kuriose-feiertage.de bzw. dort nicht automatisch zugeordnet: **1364**
 - Ohne aufgelöstes Datum aus welcher-tag-ist-heute: **4**
 
 ## Januar
@@ -1811,7 +1811,7 @@
 - **09.04. – Tag der Finnischen Sprache** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-finnischen-sprache
 - **09.04. – Tag des Einhorns** _(nur kuriose-feiertage)_  
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-einhorns/ — „Tag des Einhorns – der National und International Unicorn Day 2026“
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-einhorns/ — „Tag des Einhorns – National und International Unicorn Day 2026“
 - **09.04. – Winston-Churchill-Tag** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/winston-churchill-tag
 - **10.04. – Ermutige-Kinder-zu-schreiben-Tag** _(nur kuriose-feiertage)_  
@@ -5080,8 +5080,8 @@
   - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-kaffees/ — „Internationaler Tag des Kaffees – International Coffee Day am 1. Oktober“
 - **01.10. – Tag der älteren Menschen** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-aelteren-menschen
-- **01.10. – Tag des CD-Players am 1. Oktober** _(nur kuriose-feiertage)_  
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-cd-players/ — „Tag des CD-Players am 1. Oktober – National CD Player Day in den USA“
+- **01.10. – Tag des CD-Players** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-cd-players/ — „Tag des CD-Players – National CD Player Day in den USA“
 - **01.10. – Tag des Kaffees** _(beide Quellen)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/internationaler-tag-des-kaffees
   - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kaffees-in-deutschland/ — „Tag des Kaffees in Deutschland 2026“
@@ -5096,9 +5096,7 @@
   - kuriose-feiertage: https://www.kuriose-feiertage.de/weltmusiktag/ — „Weltmusiktag oder Internationaler Tag der Musik – International Music Day am 1. Oktober“
 - **01.10. – Weltvegetariertag** _(beide Quellen)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltvegetariertag
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltvegetariertag/ — „Weltvegetariertag – World Vegetarian Day“
-- **02.10. – Der bundesweite Tag des Obstbrandes** _(nur kuriose-feiertage)_  
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-obstbrandes/ — „Der bundesweite Tag des Obstbrandes in Deutschland am 2. Oktober 2026“
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltvegetariertag/ — „Weltvegetariertag am 1. Oktober – der internationale World Vegetarian Day 2026“
 - **02.10. – Gib-Deinem-Auto-einen-Namen-Tag** _(beide Quellen)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/gib-deinem-auto-einen-namen-tag
   - kuriose-feiertage: https://www.kuriose-feiertage.de/gib-deinem-auto-einen-namen-tag/ — „Gib-Deinem-Auto-einen-Namen-Tag – National Name Your Car Day in den USA“
@@ -5109,12 +5107,14 @@
 - **02.10. – Tag der Gewaltlosigkeit** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-gewaltlosigkeit
 - **02.10. – Tag der Phileas Fogg-Wette** _(nur kuriose-feiertage)_  
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-phileas-fogg-wette/ — „Tag der Phileas Fogg-Wette – der internationale Phileas Fogg Wager Day“
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-phileas-fogg-wette/ — „Tag der Phileas Fogg-Wette – Phileas Fogg Wager Day“
 - **02.10. – Tag der Reinigungskräfte** _(nur kuriose-feiertage)_  
   - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-reinigungskraefte/ — „Tag der Reinigungskräfte – National Custodial Workers Recognition Day in den USA“
 - **02.10. – Tag des Lächelns** _(beide Quellen)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-laechelns
   - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-laechelns/ — „Tag des Lächelns – World Smile Day 2026“
+- **02.10. – Tag des Obstbrandes** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-obstbrandes/ — „Tag des Obstbrandes in Deutschland am 2. Oktober 2026“
 - **02.10. – Unabhängigkeitstag in Guinea** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/guinea-unabhaengigkeitstag
 - **02.10. – Welttag für Nutztiere** _(nur welcher-tag-ist-heute)_  
@@ -5154,8 +5154,6 @@
 - **05.10. – Mach-etwas-Nettes-Tag** _(beide Quellen)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/mach-etwas-nettes-tag
   - kuriose-feiertage: https://www.kuriose-feiertage.de/mach-etwas-nettes-tag/ — „Mach-etwas-Nettes-Tag – der US-amerikanische National Do Something Nice Day“
-- **05.10. – Star Wars Reads Day 2013** _(nur kuriose-feiertage)_  
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/star-wars-reads-day/
 - **05.10. – Tag der Ausrufung der Republik in Portugal** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-ausrufung-der-republik
 - **05.10. – Tag der Epilepsie** _(nur welcher-tag-ist-heute)_  
@@ -5199,7 +5197,7 @@
 - **07.10. – Tag der Kürbiskerne** _(nur kuriose-feiertage)_  
   - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-kuerbiskerne/ — „Tag der Kürbiskerne in den USA – National Pumpkin Seed Day am 7. Oktober 2026“
 - **07.10. – Tag des Grünkohls** _(nur kuriose-feiertage)_  
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-gruenkohls/ — „Tag des Grünkohls in den USA – National Kale Day am 7. Oktober 2026“
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-gruenkohls/ — „Tag des Grünkohls in den USA – National Kale Day 2026“
 - **07.10. – Tag des Mineralwassers** _(nur kuriose-feiertage)_  
   - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-mineralwassers/ — „Tag des Mineralwassers in Deutschland am 7. Oktober“
 - **07.10. – Welttag für menschenwürdige Arbeit** _(nur welcher-tag-ist-heute)_  
@@ -5208,18 +5206,18 @@
   - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-piroggen/ — „Tag der Piroggen am 8. Oktober – National Pierogi Day in den USA“
 - **08.10. – Tag des Fangspiels** _(beide Quellen)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-fangspiels
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-fangspiels/ — „Tag des Fangspiels am 8. Oktober – American Touch Tag Day in den USA“
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-fangspiels/ — „Tag des Fangspiels – American Touch Tag Day in den USA“
 - **08.10. – Tag des Oktopusses** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-oktopusses
 - **08.10. – Unabhängigkeitstag in Kroatien** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/kroatien-unabhaengigkeitstag
-- **08.10. – Welttag der Buchhandlungen am 8. Oktober** _(nur kuriose-feiertage)_  
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-bookshop-day/ — „Welttag der Buchhandlungen am 8. Oktober – World Bookshop Day 2026“
+- **08.10. – Welttag der Buchhandlungen** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-bookshop-day/ — „Welttag der Buchhandlungen – World Bookshop Day 2026“
 - **08.10. – Welttag der Kraken** _(nur kuriose-feiertage)_  
   - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-kraken/ — „Welttag der Kraken – World Octopus Day am 8. Oktober“
 - **08.10. – Welttag des Sehens** _(beide Quellen)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-des-sehens
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-sight-day/ — „Welttag des Sehens – der internationale World Sight Day am 8. Oktober 2026“
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/world-sight-day/ — „Welttag des Sehens – World Sight Day am 8. Oktober 2026“
 - **08.10. – Wettergesprächs- und Small-Talk-Tag** _(nur kuriose-feiertage)_  
   - kuriose-feiertage: https://www.kuriose-feiertage.de/wettergespraechs-und-smalltalk-tag/ — „Wettergesprächs- und Small-Talk-Tag in Deutschland“
 - **09.10. – Bier-und-Pizza-Tag** _(nur welcher-tag-ist-heute)_  
@@ -5228,12 +5226,12 @@
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/brandschutztag
 - **09.10. – Hangeul-Tag** _(beide Quellen)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/hangeul-tag
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/hangeul-tag/ — „Hangeul-Tag in Südkorea – der Tag des koreanischen Alphabets an 9. Oktober“
-- **09.10. – Internationaler Tag der Mitfahrgelegenheit** _(nur kuriose-feiertage)_  
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-ride-sharing-day/ — „Internationaler Tag der Mitfahrgelegenheit – Samåkningsdagen – International Ride Sharing Day 2026“
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/hangeul-tag/ — „Hangeul-Tag in Südkorea – der Tag des koreanischen Alphabets“
 - **09.10. – Leif-Eriksson-Tag** _(beide Quellen)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/leif-eriksson-tag
   - kuriose-feiertage: https://www.kuriose-feiertage.de/leif-erikson-day/ — „Leif Eriksson Tag – der US-amerikanische Leif Erikson Day“
+- **09.10. – Tag der Mitfahrgelegenheit** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/international-ride-sharing-day/ — „Tag der Mitfahrgelegenheit – Samåkningsdagen – International Ride Sharing Day 2026“
 - **09.10. – Tag des Schimmelkäse** _(beide Quellen, Name abweichend)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-schimmelkaese
   - kuriose-feiertage: https://www.kuriose-feiertage.de/schimmelkaese-tag/ — „Schimmelkäse-Tag – National Moldy Cheese Day in den USA“
@@ -5255,13 +5253,11 @@
 - **10.10. – Nationalfeiertag in Taiwan** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/taiwan-nationalfeiertag
 - **10.10. – Tag der Handtasche** _(nur kuriose-feiertage)_  
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-handtasche/ — „Tag der Handtasche – National Handbag Day in den USA“
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-handtasche/ — „Tag der Handtasche – National Handbag Day in den Vereinigten Staaten“
 - **10.10. – Tag der Obdachlosen** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-obdachlosen
 - **10.10. – Tag der Tic Tacs am 10. Oktober** _(nur kuriose-feiertage)_  
   - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-tic-tacs/ — „Tag der Tic Tacs am 10. Oktober – National Tic Tac Day in den Vereinigten Staaten“
-- **10.10. – Tag des Hundes** _(nur kuriose-feiertage)_  
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-hundes/ — „Tag des Hundes in Deutschland 2026“
 - **10.10. – Umarme-einen-Schlagzeuger-Tag am 10. Oktober** _(nur kuriose-feiertage)_  
   - kuriose-feiertage: https://www.kuriose-feiertage.de/umarme-einen-schlagzeuger-tag/ — „Umarme-einen-Schlagzeuger-Tag am 10. Oktober – Hug a Drummer Day“
 - **10.10. – Unabhängigkeitstag in Fidschi** _(nur welcher-tag-ist-heute)_  
@@ -5272,7 +5268,7 @@
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welthospiztag
 - **10.10. – Welthundetag** _(beide Quellen)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welthundetag
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-des-hundes/ — „Welthundetag oder Welttag des Hundes am 10. Oktober – World Dog Day 2026“
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-des-hundes/ — „Welthundetag oder Tag des Hundes am 10. Oktober – World Dog Day 2026“
 - **10.10. – Welttag der geistigen Gesundheit** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-der-geistigen-gesundheit
 - **10.10. – Welttag des Porridge am 10. Oktober** _(nur kuriose-feiertage)_  
@@ -5301,6 +5297,8 @@
 - **12.10. – Kolumbus-Tag** _(beide Quellen)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/kolumbus-tag
   - kuriose-feiertage: https://www.kuriose-feiertage.de/kolumbus-tag/ — „Kolumbus-Tag in den USA – Columbus Day am 12. Oktober 2026“
+- **12.10. – National Pulled Pork Day** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-pulled-pork/ — „National Pulled Pork Day – der US-amerikanische Tag des Pulled Pork am 12. Oktober“
 - **12.10. – Tag der Frustrationsschreie** _(beide Quellen)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-frustrationsschreie
   - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-frustationsschreie/ — „Internationaler Tag der Frustrationsschreie – Moment of Frustration Scream Day“
@@ -5331,6 +5329,8 @@
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-yorkshire-puddings
 - **14.10. – Der US-amerikanische Nimm-Deinen-Teddybär-mit-zur-Arbeit-Tag 2026** _(nur kuriose-feiertage)_  
   - kuriose-feiertage: https://www.kuriose-feiertage.de/nimm-deinen-teddybaer-mit-zur-arbeit-tag/
+- **14.10. – Fossilien-Tag** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/fossilien-tag-in-den-usa-national-fossil-day/ — „Fossilien-Tag in den USA – der National Fossil Day am 14. Oktober 2026“
 - **14.10. – Glücklich-trotz-Glatze-Tag am 14. Oktober** _(nur kuriose-feiertage)_  
   - kuriose-feiertage: https://www.kuriose-feiertage.de/gluecklich-trotz-glatze-tag/ — „Glücklich-trotz-Glatze-Tag am 14. Oktober – Be Bald & be Free Day in den USA“
 - **14.10. – Hospiztag** _(nur welcher-tag-ist-heute)_  
@@ -5346,9 +5346,7 @@
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-mit-schokolade-ueberzogenen-insekts
 - **14.10. – Weltnormentag** _(beide Quellen)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltnormentag
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltnormentag/ — „Weltnormentag – World Standards Day am 14. Oktober“
-- **15.10. – Fossilien-Tag** _(nur kuriose-feiertage)_  
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/fossilien-tag-in-den-usa-national-fossil-day/ — „Fossilien-Tag in den USA – National Fossil Day 2025“
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/weltnormentag/ — „Weltnormentag am 14. Oktober – der internationale World Standards Day 2026“
 - **15.10. – Mops-Tag** _(nur kuriose-feiertage)_  
   - kuriose-feiertage: https://www.kuriose-feiertage.de/mops-tag/ — „Mops-Tag – der National Pug Day in den Vereinigten Staaten“
 - **15.10. – Tag der Frau in ländlichen Gebieten** _(nur welcher-tag-ist-heute)_  
@@ -5400,6 +5398,10 @@
   - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-tabellenkalkulation/ — „Tag der Tabellenkalkulation – National Spreadsheet Day in den USA“
 - **17.10. – Tag der zweiten Chance** _(nur kuriose-feiertage)_  
   - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-zweiten-chance/ — „Tag der zweiten Chance – National Mulligan Day in den USA“
+- **17.10. – Tag des Likörs** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-likoers/ — „Tag des Likörs – National Liqueur Day in den USA“
+- **17.10. – Tag des Musikalbums** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-album-day/ — „Tag des Musikalbums in Großbritannien – National Album Day 2026“
 - **17.10. – Tag für die Beseitigung der Armut** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-fuer-die-beseitigung-der-armut
 - **17.10. – Trag-auffällige-Klamotten-Tag** _(nur kuriose-feiertage)_  
@@ -5421,8 +5423,6 @@
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-menopause
 - **18.10. – Tag des Kartoffelpürees** _(nur kuriose-feiertage)_  
   - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kartoffelpuerees/ — „Tag des Kartoffelpürees – National Mashed Potato Day in den Vereinigten Staaten“
-- **18.10. – Tag des Musikalbums** _(nur kuriose-feiertage)_  
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/national-album-day/ — „Tag des Musikalbums in Großbritannien – National Album Day 2025“
 - **18.10. – Tag des Schokoladen-Cupcakes** _(nur kuriose-feiertage)_  
   - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-schokoladen-cupcakes/ — „Tag des Schokoladen-Cupcakes – National Chocolate Cupcake Day in den USA“
 - **19.10. – Evaluier-dein-Leben-Tag** _(beide Quellen)_  
@@ -5438,16 +5438,16 @@
 - **20.10. – Internationaler Tag der Fluglotsen** _(nur kuriose-feiertage)_  
   - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-fluglotsen/ — „Internationaler Tag der Fluglotsen – International Day of the Air Traffic Controller“
 - **20.10. – Internationaler Tag der Köche am 20. Oktober** _(nur kuriose-feiertage)_  
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-koeche/ — „Internationaler Tag der Köche am 20. Oktober – der International Chefs Day“
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-der-koeche/ — „Internationaler Tag der Köche am 20. Oktober – International Chefs Day 2026“
 - **20.10. – Tag der Allee** _(nur kuriose-feiertage)_  
   - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-allee/ — „Tag der Allee in Deutschland – bundesweiter Aktionstag am 20. Oktober“
 - **20.10. – Tag der Gehirnerschütterung** _(nur kuriose-feiertage)_  
   - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-gehirnerschuetterung/ — „Tag der Gehirnerschütterung in Deutschland“
 - **20.10. – Tag des Faultiers** _(beide Quellen)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-des-faultiers
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-faultiers/ — „Internationaler Tag des Faultiers – International Sloth Day 2026“
-- **20.10. – Tag des Shampoos** _(nur kuriose-feiertage)_  
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-shampoo-usa/ — „Tag des Shampoos – National Shampoo Day in den USA“
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-faultiers/ — „Internationaler Tag des Faultiers im Oktober – International Sloth Day 2026“
+- **20.10. – Tag des Shampoos am 20. Oktober** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-shampoo-usa/ — „Tag des Shampoos am 20. Oktober – National Shampoo Day in den USA“
 - **20.10. – Weltosteoporosetag** _(beide Quellen)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/weltosteoporosetag
   - kuriose-feiertage: https://www.kuriose-feiertage.de/weltosteoporosetag/ — „Weltosteoporosetag am 20. Oktober – der World Osteoporosis Day 2026“
@@ -5511,11 +5511,11 @@
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/mache-einen-unterschied-tag
 - **24.10. – Tag der Bibliotheken** _(beide Quellen)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-bibliotheken
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-bibliotheken/ — „Tag der Bibliotheken in Deutschland am 24. Oktober“
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-bibliotheken/ — „Tag der Bibliotheken – Aktionstag in Deutschland und Südtirol am 24. Oktober“
 - **24.10. – Tag der Ernährung am 24. Oktober** _(nur kuriose-feiertage)_  
   - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-ernaehrung-in-den-usa/ — „Tag der Ernährung am 24. Oktober – der US-amerikanische National Food Day“
-- **24.10. – Tag der Fleischwurst** _(nur kuriose-feiertage)_  
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-fleischwurst/ — „Tag der Fleischwurst – National Bologna Day in den USA“
+- **24.10. – Tag der Fleischwurst am 24. Oktober** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-fleischwurst/ — „Tag der Fleischwurst am 24. Oktober – National Bologna Day in den USA“
 - **24.10. – Tag der Vereinten Nationen** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-vereinten-nationen
 - **24.10. – Tag des Kängurus** _(nur kuriose-feiertage)_  
@@ -5578,6 +5578,8 @@
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-der-ergotherapie
 - **27.10. – Welttag des audiovisuellen Erbes** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-des-audiovisuellen-erbes
+- **28.10. – Geburtstag der Freiheitsstatue am 28. Oktober** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/geburtstag-der-freiheitsstatue/ — „Geburtstag der Freiheitsstatue am 28. Oktober – Statue of Liberty Dedication Day in den USA“
 - **28.10. – Nein-Tag in Griechenland** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/griechenland-nationalfeiertag
 - **28.10. – Ochi-Tag oder der Jahrestag des Nein in Griechenland am 28. Oktober** _(nur kuriose-feiertage)_  
@@ -5595,14 +5597,14 @@
   - kuriose-feiertage: https://www.kuriose-feiertage.de/welt-konfetti-tag/ — „Welt-Konfetti-Tag – der US-amerikanische World Ticker-Tape Day“
 - **28.10. – Weltpoliotag** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welt-poliotag
-- **29.10. – Tag der Einsiedler** _(nur kuriose-feiertage)_  
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-einsiedler-in-den-usa/ — „Tag der Einsiedler – National Hermit Day in den USA“
+- **29.10. – Tag der Einsiedler am 29. Oktober** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-einsiedler-in-den-usa/ — „Tag der Einsiedler am 29. Oktober – National Hermit Day in den Vereinigten Staaten“
 - **29.10. – Tag der Katze** _(nur kuriose-feiertage)_  
   - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-katze-in-den-usa/ — „Tag der Katze in den Vereinigten Staaten – National Cat Day am 29. Oktober“
 - **29.10. – Tag der Republik in der Türkei** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tuerkei-tag-der-republik
-- **29.10. – Tag des Haferbreis** _(nur kuriose-feiertage)_  
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-haferbreis/ — „Tag des Haferbreis – National Oatmeal Day in den USA“
+- **29.10. – Tag des Haferbreis am 29. Oktober** _(nur kuriose-feiertage)_  
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-haferbreis/ — „Tag des Haferbreis am 29. Oktober – National Oatmeal Day in den USA“
 - **29.10. – Tag des Internets** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-des-internets
 - **29.10. – Welt-Psoriasistag** _(nur welcher-tag-ist-heute)_  
@@ -5625,7 +5627,7 @@
   - automatische Ähnlichkeit: 67 %
 - **30.10. – Tag der Checkliste** _(beide Quellen)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/tag-der-checkliste
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-checklisten/ — „Tag der Checklisten – National Checklists Day in den USA“
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-checklisten/ — „Tag der Checklisten am 30. Oktober – National Checklists Day in den USA“
 - **30.10. – Tag des Kinnkraulens am 30. Oktober** _(nur kuriose-feiertage)_  
   - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-kinnkraulens/ — „Tag des Kinnkraulens am 30. Oktober in Deutschland“
 - **30.10. – Welt-Lemuren-Tag** _(nur kuriose-feiertage)_  
@@ -5638,8 +5640,9 @@
   - kuriose-feiertage: https://www.kuriose-feiertage.de/grounding/kuriose-feiertage-grounding.html
 - **31.10. – Grounding Page Sven Giese** _(nur kuriose-feiertage)_  
   - kuriose-feiertage: https://www.kuriose-feiertage.de/grounding/sven-giese.html
-- **31.10. – Halloween** _(nur welcher-tag-ist-heute)_  
+- **31.10. – Halloween** _(beide Quellen)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/halloween
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/halloween/ — „Halloween am 31. Oktober – Ursprung, Geschichte und Bedeutung des Gruselfestes“
 - **31.10. – Schnitz-einen-Kürbis-Tag** _(nur kuriose-feiertage)_  
   - kuriose-feiertage: https://www.kuriose-feiertage.de/schnitz-einen-kuerbis-tag/ — „Schnitz-einen-Kürbis-Tag – National Carve a Pumpkin Day in den USA“
 - **31.10. – Steigere-Deine-übersinnlichen-Fähigkeiten-Tag** _(nur kuriose-feiertage)_  
@@ -5647,7 +5650,7 @@
 - **31.10. – Tag der Toten** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/dia-de-los-muertos
 - **31.10. – Tag der Türklingel** _(nur kuriose-feiertage)_  
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-tuerklingel/ — „Tag der Türklingel – der National Doorbell Day in den Vereinigten Staaten“
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-tuerklingel/ — „Tag der Türklingel – National Doorbell Day in den USA“
 - **31.10. – Tag der Zauberei** _(beide Quellen)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/gedenktage/tag-der-zauberei
   - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-der-zauberei/ — „Tag der Zauberei im Gedenken an Harry Houdini – National Magic Day in den USA“
@@ -5657,7 +5660,7 @@
   - kuriose-feiertage: https://www.kuriose-feiertage.de/weltspartag/ — „Weltspartag – World Savings Day am 31. Oktober“
 - **31.10. – Welttag der Städte** _(beide Quellen)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/aktionstage/welttag-der-staedte
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-staedte/ — „Welttag der Städte – World Cities Day am 31. Oktober“
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/welttag-der-staedte/ — „Welttag der Städte – der internationale World Cities Day am 31. Oktober“
 ## November
 
 - **01.11. – Allerheiligen** _(nur welcher-tag-ist-heute)_  
@@ -5674,7 +5677,7 @@
 - **01.11. – Tag der Toten** _(nur welcher-tag-ist-heute)_  
   - welcher-tag-ist-heute: https://welcher-tag-ist-heute.org/feiertage/tag-der-toten
 - **01.11. – Tag des Einhorns** _(nur kuriose-feiertage)_  
-  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-einhorns/ — „Tag des Einhorns – der National und International Unicorn Day 2026“
+  - kuriose-feiertage: https://www.kuriose-feiertage.de/internationaler-tag-des-einhorns/ — „Tag des Einhorns – National und International Unicorn Day 2026“
 - **01.11. – Tag des Nichtstuns** _(nur kuriose-feiertage)_  
   - kuriose-feiertage: https://www.kuriose-feiertage.de/tag-des-nichtstuns-in-den-usa/ — „Tag des Nichtstuns in den USA – Zero Tasking Day 2026“
 - **01.11. – Tag des Zimts** _(nur kuriose-feiertage)_  

@@ -3,11 +3,11 @@
 > Automatischer Vollabgleich der Prüfliste von welcher-tag-ist-heute.org gegen die zwölf Monatsseiten des Kalenders von kuriose-feiertage.de. Matching erfolgt primär über Datum + normalisierten deutschen Namen; ähnliche Namen werden separat als mögliche Treffer ausgewiesen.
 
 - Einträge in welcher-tag-ist-heute-Prüfliste mit aufgelöstem Datum: **1615**
-- Aus kuriose-feiertage.de gelesene Kalender-Einträge: **1991**
-- Sichere Treffer: **565**
+- Aus kuriose-feiertage.de gelesene Kalender-Einträge: **1993**
+- Sichere Treffer: **566**
 - Mögliche Namensvarianten: **52**
-- Nur bei welcher-tag-ist-heute gefunden: **998**
-- Nicht zugeordnet bei kuriose-feiertage.de: **1363**
+- Nur bei welcher-tag-ist-heute gefunden: **997**
+- Nicht zugeordnet bei kuriose-feiertage.de: **1364**
 
 ## Kontrollfall
 
@@ -1836,8 +1836,6 @@
   https://welcher-tag-ist-heute.org/aktionstage/nacht-des-unfugs
 - **30.10. – Weltspartag**  
   https://welcher-tag-ist-heute.org/aktionstage/weltspartag
-- **31.10. – Halloween**  
-  https://welcher-tag-ist-heute.org/feiertage/halloween
 - **31.10. – Tag der Toten**  
   https://welcher-tag-ist-heute.org/feiertage/dia-de-los-muertos
 - **01.11. – Allerheiligen**  
@@ -2921,7 +2919,7 @@
   https://www.kuriose-feiertage.de/gin-tonic-tag/
 - **09.04. – National Winston Churchill Day am 9. April – Winston-Churchill-Tag in den USA**  
   https://www.kuriose-feiertage.de/winston-churchill-tag/
-- **09.04. – Tag des Einhorns – der National und International Unicorn Day 2026**  
+- **09.04. – Tag des Einhorns – National und International Unicorn Day 2026**  
   https://www.kuriose-feiertage.de/internationaler-tag-des-einhorns/
 - **10.04. – Ermutige-Kinder-zu-schreiben-Tag – National Encourage a Young Writer Day in den USA**  
   https://www.kuriose-feiertage.de/ermutige-kinder-zu-schreiben-tag/
@@ -4245,16 +4243,16 @@
   https://www.kuriose-feiertage.de/ehrentag-der-waschbaeren/
 - **01.10. – Internationaler Tag des Kaffees – International Coffee Day am 1. Oktober**  
   https://www.kuriose-feiertage.de/internationaler-tag-des-kaffees/
-- **01.10. – Tag des CD-Players am 1. Oktober – National CD Player Day in den USA**  
+- **01.10. – Tag des CD-Players – National CD Player Day in den USA**  
   https://www.kuriose-feiertage.de/tag-des-cd-players/
-- **02.10. – Der bundesweite Tag des Obstbrandes in Deutschland am 2. Oktober 2026**  
-  https://www.kuriose-feiertage.de/tag-des-obstbrandes/
 - **02.10. – Karo-Tag in den Vereinigten Staaten – National Plaid Day am 2. Oktober 2026**  
   https://www.kuriose-feiertage.de/karo-tag/
-- **02.10. – Tag der Phileas Fogg-Wette – der internationale Phileas Fogg Wager Day**  
+- **02.10. – Tag der Phileas Fogg-Wette – Phileas Fogg Wager Day**  
   https://www.kuriose-feiertage.de/tag-der-phileas-fogg-wette/
 - **02.10. – Tag der Reinigungskräfte – National Custodial Workers Recognition Day in den USA**  
   https://www.kuriose-feiertage.de/tag-der-reinigungskraefte/
+- **02.10. – Tag des Obstbrandes in Deutschland am 2. Oktober 2026**  
+  https://www.kuriose-feiertage.de/tag-des-obstbrandes/
 - **03.10. – Der weltweite Smoothie-Tag – Global Smoothie Day am 3. Oktober**  
   https://www.kuriose-feiertage.de/smoothie-tag/
 - **03.10. – Happy Birthday – die kuriosen Feiertage feiern ihren 15. Geburtstag**  
@@ -4271,8 +4269,6 @@
   https://www.kuriose-feiertage.de/trucker-tag/
 - **05.10. – Internationaler Tag der Architektur – World Day of Architecture – 5. Oktober 2026**  
   https://www.kuriose-feiertage.de/world-day-of-architecture/
-- **05.10. – Star Wars Reads Day 2013**  
-  https://www.kuriose-feiertage.de/star-wars-reads-day/
 - **05.10. – Welt-Seifenblasen-Tag – der internationale World Bubble Day am 5. Oktober**  
   https://www.kuriose-feiertage.de/welt-seifenblasen-tag/
 - **06.10. – Europäischer Tag der pflegenden Angehörigen – European Carers Day am 6. Oktober**  
@@ -4291,28 +4287,26 @@
   https://www.kuriose-feiertage.de/tag-der-amerikanischen-nationalblume/
 - **07.10. – Tag der Kürbiskerne in den USA – National Pumpkin Seed Day am 7. Oktober 2026**  
   https://www.kuriose-feiertage.de/tag-der-kuerbiskerne/
-- **07.10. – Tag des Grünkohls in den USA – National Kale Day am 7. Oktober 2026**  
+- **07.10. – Tag des Grünkohls in den USA – National Kale Day 2026**  
   https://www.kuriose-feiertage.de/tag-des-gruenkohls/
 - **07.10. – Tag des Mineralwassers in Deutschland am 7. Oktober**  
   https://www.kuriose-feiertage.de/tag-des-mineralwassers/
 - **08.10. – Tag der Piroggen am 8. Oktober – National Pierogi Day in den USA**  
   https://www.kuriose-feiertage.de/tag-der-piroggen/
-- **08.10. – Welttag der Buchhandlungen am 8. Oktober – World Bookshop Day 2026**  
+- **08.10. – Welttag der Buchhandlungen – World Bookshop Day 2026**  
   https://www.kuriose-feiertage.de/world-bookshop-day/
 - **08.10. – Welttag der Kraken – World Octopus Day am 8. Oktober**  
   https://www.kuriose-feiertage.de/welttag-der-kraken/
 - **08.10. – Wettergesprächs- und Small-Talk-Tag in Deutschland**  
   https://www.kuriose-feiertage.de/wettergespraechs-und-smalltalk-tag/
-- **09.10. – Internationaler Tag der Mitfahrgelegenheit – Samåkningsdagen – International Ride Sharing Day 2026**  
+- **09.10. – Tag der Mitfahrgelegenheit – Samåkningsdagen – International Ride Sharing Day 2026**  
   https://www.kuriose-feiertage.de/international-ride-sharing-day/
 - **10.10. – Internationaler Tag der Tape-Händler – International Cassette Store Day 2026**  
   https://www.kuriose-feiertage.de/international-cassette-store-day/
-- **10.10. – Tag der Handtasche – National Handbag Day in den USA**  
+- **10.10. – Tag der Handtasche – National Handbag Day in den Vereinigten Staaten**  
   https://www.kuriose-feiertage.de/tag-der-handtasche/
 - **10.10. – Tag der Tic Tacs am 10. Oktober – National Tic Tac Day in den Vereinigten Staaten**  
   https://www.kuriose-feiertage.de/tag-der-tic-tacs/
-- **10.10. – Tag des Hundes in Deutschland 2026**  
-  https://www.kuriose-feiertage.de/tag-des-hundes/
 - **10.10. – Umarme-einen-Schlagzeuger-Tag am 10. Oktober – Hug a Drummer Day**  
   https://www.kuriose-feiertage.de/umarme-einen-schlagzeuger-tag/
 - **10.10. – Universaler Tag der Musik – Universal Music Day am 10. Oktober 2026**  
@@ -4329,6 +4323,8 @@
   https://www.kuriose-feiertage.de/tag-der-wuerstchen-pizza/
 - **12.10. – Freidenker-Tag – der US-amerikanische Freethought Day am 12. Oktober**  
   https://www.kuriose-feiertage.de/freidenker-tag/
+- **12.10. – National Pulled Pork Day – der US-amerikanische Tag des Pulled Pork am 12. Oktober**  
+  https://www.kuriose-feiertage.de/tag-des-pulled-pork/
 - **13.10. – International Suit Up Day – zu Ehren von Barney Stinson am 13. Oktober 2026**  
   https://www.kuriose-feiertage.de/international-suit-up-day/
 - **13.10. – M&M-Tag – der US-amerikanische National M&M Day am 13. Oktober**  
@@ -4337,10 +4333,10 @@
   https://www.kuriose-feiertage.de/tag-des-gedaechtnistrainings/
 - **14.10. – Der US-amerikanische Nimm-Deinen-Teddybär-mit-zur-Arbeit-Tag 2026**  
   https://www.kuriose-feiertage.de/nimm-deinen-teddybaer-mit-zur-arbeit-tag/
+- **14.10. – Fossilien-Tag in den USA – der National Fossil Day am 14. Oktober 2026**  
+  https://www.kuriose-feiertage.de/fossilien-tag-in-den-usa-national-fossil-day/
 - **14.10. – Glücklich-trotz-Glatze-Tag am 14. Oktober – Be Bald & be Free Day in den USA**  
   https://www.kuriose-feiertage.de/gluecklich-trotz-glatze-tag/
-- **15.10. – Fossilien-Tag in den USA – National Fossil Day 2025**  
-  https://www.kuriose-feiertage.de/fossilien-tag-in-den-usa-national-fossil-day/
 - **15.10. – Mops-Tag – der National Pug Day in den Vereinigten Staaten**  
   https://www.kuriose-feiertage.de/mops-tag/
 - **15.10. – Tag der Pilze – National Mushroom Day in den USA**  
@@ -4363,14 +4359,16 @@
   https://www.kuriose-feiertage.de/pasta-tag-usa/
 - **17.10. – Tag der zweiten Chance – National Mulligan Day in den USA**  
   https://www.kuriose-feiertage.de/tag-der-zweiten-chance/
+- **17.10. – Tag des Likörs – National Liqueur Day in den USA**  
+  https://www.kuriose-feiertage.de/tag-des-likoers/
+- **17.10. – Tag des Musikalbums in Großbritannien – National Album Day 2026**  
+  https://www.kuriose-feiertage.de/national-album-day/
 - **17.10. – Trag-auffällige-Klamotten-Tag – Wear Something Gaudy Day in den USA**  
   https://www.kuriose-feiertage.de/trag-auffaellige-klamotten-tag/
 - **18.10. – Ehrentag des Hackbratens – der US-amerikanische National Meatloaf Appreciation Day**  
   https://www.kuriose-feiertage.de/ehrentag-des-hackbratens-usa/
 - **18.10. – Tag des Kartoffelpürees – National Mashed Potato Day in den Vereinigten Staaten**  
   https://www.kuriose-feiertage.de/tag-des-kartoffelpuerees/
-- **18.10. – Tag des Musikalbums in Großbritannien – National Album Day 2025**  
-  https://www.kuriose-feiertage.de/national-album-day/
 - **18.10. – Tag des Schokoladen-Cupcakes – National Chocolate Cupcake Day in den USA**  
   https://www.kuriose-feiertage.de/tag-des-schokoladen-cupcakes/
 - **19.10. – Gin-Tonic-Tag – National und International Gin and Tonic Day 2026**  
@@ -4379,13 +4377,13 @@
   https://www.kuriose-feiertage.de/internationaler-gib-deinem-fahrrad-einen-namen-tag/
 - **20.10. – Internationaler Tag der Fluglotsen – International Day of the Air Traffic Controller**  
   https://www.kuriose-feiertage.de/internationaler-tag-der-fluglotsen/
-- **20.10. – Internationaler Tag der Köche am 20. Oktober – der International Chefs Day**  
+- **20.10. – Internationaler Tag der Köche am 20. Oktober – International Chefs Day 2026**  
   https://www.kuriose-feiertage.de/internationaler-tag-der-koeche/
 - **20.10. – Tag der Allee in Deutschland – bundesweiter Aktionstag am 20. Oktober**  
   https://www.kuriose-feiertage.de/tag-der-allee/
 - **20.10. – Tag der Gehirnerschütterung in Deutschland**  
   https://www.kuriose-feiertage.de/tag-der-gehirnerschuetterung/
-- **20.10. – Tag des Shampoos – National Shampoo Day in den USA**  
+- **20.10. – Tag des Shampoos am 20. Oktober – National Shampoo Day in den USA**  
   https://www.kuriose-feiertage.de/tag-des-shampoo-usa/
 - **21.10. – Nacho-Tag – International Day of the Nacho und National Nacho Day in den USA**  
   https://www.kuriose-feiertage.de/nacho-tag/
@@ -4407,7 +4405,7 @@
   https://www.kuriose-feiertage.de/hol-dir-deine-zeit-zurueck-tag/
 - **24.10. – Tag der Ernährung am 24. Oktober – der US-amerikanische National Food Day**  
   https://www.kuriose-feiertage.de/tag-der-ernaehrung-in-den-usa/
-- **24.10. – Tag der Fleischwurst – National Bologna Day in den USA**  
+- **24.10. – Tag der Fleischwurst am 24. Oktober – National Bologna Day in den USA**  
   https://www.kuriose-feiertage.de/tag-der-fleischwurst/
 - **24.10. – Tag des Kängurus – World Kangaroo Day & National Kangaroo Awareness Day**  
   https://www.kuriose-feiertage.de/tag-des-kaengurus/
@@ -4433,17 +4431,19 @@
   https://www.kuriose-feiertage.de/tag-der-boxerhorts/
 - **27.10. – Tag der schwarzen Katze – National Black Cat Day in Großbritannien**  
   https://www.kuriose-feiertage.de/tag-der-schwarzen-katze-grossbritannien/
+- **28.10. – Geburtstag der Freiheitsstatue am 28. Oktober – Statue of Liberty Dedication Day in den USA**  
+  https://www.kuriose-feiertage.de/geburtstag-der-freiheitsstatue/
 - **28.10. – Ochi-Tag oder der Jahrestag des Nein in Griechenland am 28. Oktober**  
   https://www.kuriose-feiertage.de/nein-tag-in-griechenland/
 - **28.10. – Tag der wild wachsenden Nahrung – National Wild Foods Day in den USA**  
   https://www.kuriose-feiertage.de/tag-der-wildwachsenden-nahrung/
 - **28.10. – Welt-Konfetti-Tag – der US-amerikanische World Ticker-Tape Day**  
   https://www.kuriose-feiertage.de/welt-konfetti-tag/
-- **29.10. – Tag der Einsiedler – National Hermit Day in den USA**  
+- **29.10. – Tag der Einsiedler am 29. Oktober – National Hermit Day in den Vereinigten Staaten**  
   https://www.kuriose-feiertage.de/tag-der-einsiedler-in-den-usa/
 - **29.10. – Tag der Katze in den Vereinigten Staaten – National Cat Day am 29. Oktober**  
   https://www.kuriose-feiertage.de/tag-der-katze-in-den-usa/
-- **29.10. – Tag des Haferbreis – National Oatmeal Day in den USA**  
+- **29.10. – Tag des Haferbreis am 29. Oktober – National Oatmeal Day in den USA**  
   https://www.kuriose-feiertage.de/tag-des-haferbreis/
 - **30.10. – Bandana-Tag in Australien am 30. Oktober – National Bandana Day 2026**  
   https://www.kuriose-feiertage.de/bandana-tag-in-australien/
@@ -4463,7 +4463,7 @@
   https://www.kuriose-feiertage.de/schnitz-einen-kuerbis-tag/
 - **31.10. – Steigere-Deine-übersinnlichen-Fähigkeiten-Tag – Increase Your Psychic Powers Day**  
   https://www.kuriose-feiertage.de/steigere-deine-uebersinnlichen-faehigkeiten-tag/
-- **31.10. – Tag der Türklingel – der National Doorbell Day in den Vereinigten Staaten**  
+- **31.10. – Tag der Türklingel – National Doorbell Day in den USA**  
   https://www.kuriose-feiertage.de/tag-der-tuerklingel/
 - **31.10. – Umarme-ein-Schaf-Tag in den USA – National Hug a Sheep Day am 31. Oktober 2026**  
   https://www.kuriose-feiertage.de/hug-a-sheep-day/
@@ -4471,7 +4471,7 @@
   https://www.kuriose-feiertage.de/weltspartag/
 - **01.11. – Tag der Schriftsteller – National Authors Day in den USA**  
   https://www.kuriose-feiertage.de/tag-der-schriftsteller-in-den-usa/
-- **01.11. – Tag des Einhorns – der National und International Unicorn Day 2026**  
+- **01.11. – Tag des Einhorns – National und International Unicorn Day 2026**  
   https://www.kuriose-feiertage.de/internationaler-tag-des-einhorns/
 - **01.11. – Tag des Nichtstuns in den USA – Zero Tasking Day 2026**  
   https://www.kuriose-feiertage.de/tag-des-nichtstuns-in-den-usa/

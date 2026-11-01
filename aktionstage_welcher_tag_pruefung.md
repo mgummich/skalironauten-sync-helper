@@ -7,9 +7,9 @@
 
 ## Erfasste Website-Bereiche
 
-- Aktionstage: 1726 gefundene Links – https://welcher-tag-ist-heute.org/aktionstage/
-- Feiertage/Thementage: 1463 gefundene Links – https://welcher-tag-ist-heute.org/feiertage/
-- Gedenktage: 436 gefundene Links – https://welcher-tag-ist-heute.org/gedenktage/
+- Aktionstage: 1635 gefundene Links – https://welcher-tag-ist-heute.org/aktionstage/
+- Feiertage/Thementage: 1416 gefundene Links – https://welcher-tag-ist-heute.org/feiertage/
+- Gedenktage: 422 gefundene Links – https://welcher-tag-ist-heute.org/gedenktage/
 
 ## Januar
 
