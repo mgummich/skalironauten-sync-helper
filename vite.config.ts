@@ -23,5 +23,7 @@ export default defineConfig({
   // Relative asset paths so the build works under a GitHub Pages project subpath.
   base: './',
   plugins: [react(), tailwindcss(), csp],
-  server: { port: 3000 }
+  server: { port: 3000 },
+  // aktionstage.json (~1 MB) is bundled on purpose: dataLoader reads it synchronously at startup.
+  build: { chunkSizeWarningLimit: 1500 }
 });
